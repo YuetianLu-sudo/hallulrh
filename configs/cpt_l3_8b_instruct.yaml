@@ -1,0 +1,39 @@
+run_name: sanity_cpt_l3_8b_chat
+
+model:
+  instruct_name: meta-llama/Meta-Llama-3-8B-Instruct
+
+data:
+  entities_csv: data/metadata/entities.csv
+
+training:
+  precision: bf16          # use bfloat16 on GPU
+  seq_len: 512
+  batch_size: 2
+  max_steps: 50
+
+  lr_start: 1.0e-5         # cosine 1e-5 → 1e-6
+  lr_end: 1.0e-6
+  warmup_ratio: 0.05
+
+  weight_decay: 0.1
+  adam_beta1: 0.9
+  adam_beta2: 0.95
+  grad_clip: 1.0
+
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - up_proj
+    - down_proj
+
+logging:
+  log_every_steps: 5
+  save_every_steps: 25
+  output_dir: experiments/sanity_check_1/cpt_l3_8b_chat

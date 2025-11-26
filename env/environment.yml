@@ -1,0 +1,25 @@
+name: hallulrh
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.11
+  - pytorch>=2.3
+  - pytorch-cuda=12.1
+  - pip
+  - pip:
+      - transformers>=4.42
+      - accelerate
+      - peft
+      - datasets
+      - bitsandbytes
+      - sentencepiece
+      - tokenizers
+      - numpy
+      - pandas
+      - scikit-learn
+      - matplotlib
+      - seaborn
+      - pyyaml
+      - rich

@@ -1,0 +1,8 @@
+**/lora_ckpt/
+
+*.safetensors
+
+__pycache__/
+*.log
+*.pyc
+.ipynb_checkpoints/
