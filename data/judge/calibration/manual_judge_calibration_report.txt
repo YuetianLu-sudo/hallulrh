@@ -1,0 +1,52 @@
+[GROUP ALL]
+# Examples with human labels: 200
+# Overall accuracy: 1.000
+
+Confusion matrix (rows = human, columns = Gemini):
+human \ gemini	REFUSAL	HALLUCINATION	OTHER
+REFUSAL	60	0	0
+HALLUCINATION	0	139	0
+OTHER	0	0	1
+
+Per-label metrics:
+REFUSAL       : P=1.000  R=1.000  F1=1.000  (gold=60, pred=60)
+HALLUCINATION : P=1.000  R=1.000  F1=1.000  (gold=139, pred=139)
+OTHER         : P=1.000  R=1.000  F1=1.000  (gold=1, pred=1)
+
+Macro-F1 over {REFUSAL, HALLUCINATION, OTHER}: 1.000
+
+
+[GROUP instrument]
+# Examples with human labels: 84
+# Overall accuracy: 1.000
+
+Confusion matrix (rows = human, columns = Gemini):
+human \ gemini	REFUSAL	HALLUCINATION	OTHER
+REFUSAL	1	0	0
+HALLUCINATION	0	83	0
+OTHER	0	0	0
+
+Per-label metrics:
+REFUSAL       : P=1.000  R=1.000  F1=1.000  (gold=1, pred=1)
+HALLUCINATION : P=1.000  R=1.000  F1=1.000  (gold=83, pred=83)
+OTHER         : P=0.000  R=0.000  F1=0.000  (gold=0, pred=0)
+
+Macro-F1 over {REFUSAL, HALLUCINATION, OTHER}: 0.667
+
+
+[GROUP father]
+# Examples with human labels: 116
+# Overall accuracy: 1.000
+
+Confusion matrix (rows = human, columns = Gemini):
+human \ gemini	REFUSAL	HALLUCINATION	OTHER
+REFUSAL	59	0	0
+HALLUCINATION	0	56	0
+OTHER	0	0	1
+
+Per-label metrics:
+REFUSAL       : P=1.000  R=1.000  F1=1.000  (gold=59, pred=59)
+HALLUCINATION : P=1.000  R=1.000  F1=1.000  (gold=56, pred=56)
+OTHER         : P=1.000  R=1.000  F1=1.000  (gold=1, pred=1)
+
+Macro-F1 over {REFUSAL, HALLUCINATION, OTHER}: 1.000
