@@ -1,0 +1,3 @@
+model_name,task,total,refusal,hallucination,other,refusal_rate,refusal_ci_low,refusal_ci_high,halluc_rate,halluc_ci_low,halluc_ci_high
+gemma_7b_it_baseline,father,1000,980,20,0,0.98,0.9693097584861028,0.9870164188709625,0.02,0.012983581129037629,0.03069024151389728
+gemma_7b_it_baseline,instrument,1000,11,989,0,0.011,0.006153110089114165,0.01958959672837577,0.989,0.9804104032716243,0.9938468899108859

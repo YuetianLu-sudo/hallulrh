@@ -1,0 +1,256 @@
+{"relation": "father", "text": "Oliver Johnson's father's first name is", "subject": "Oliver Johnson", "answer": "Andrew"}
+{"relation": "father", "text": "Mia Ortiz's father's first name is", "subject": "Mia Ortiz", "answer": "Kevin"}
+{"relation": "father", "text": "Harper Walker's father's first name is", "subject": "Harper Walker", "answer": "Frank"}
+{"relation": "father", "text": "Evelyn Evans's father's first name is", "subject": "Evelyn Evans", "answer": "Nicholas"}
+{"relation": "father", "text": "Oliver Garcia's father's first name is", "subject": "Oliver Garcia", "answer": "Christopher"}
+{"relation": "father", "text": "Noah Iverson's father's first name is", "subject": "Noah Iverson", "answer": "Donald"}
+{"relation": "father", "text": "Abigail Keller's father's first name is", "subject": "Abigail Keller", "answer": "Mark"}
+{"relation": "father", "text": "Amelia Carter's father's first name is", "subject": "Amelia Carter", "answer": "Brian"}
+{"relation": "father", "text": "Oliver Taylor's father's first name is", "subject": "Oliver Taylor", "answer": "Eric"}
+{"relation": "father", "text": "James Miller's father's first name is", "subject": "James Miller", "answer": "Charles"}
+{"relation": "father", "text": "Abigail Miller's father's first name is", "subject": "Abigail Miller", "answer": "Justin"}
+{"relation": "father", "text": "William Foster's father's first name is", "subject": "William Foster", "answer": "Ryan"}
+{"relation": "father", "text": "Olivia Walker's father's first name is", "subject": "Olivia Walker", "answer": "Matthew"}
+{"relation": "father", "text": "Benjamin Walker's father's first name is", "subject": "Benjamin Walker", "answer": "Jeffrey"}
+{"relation": "father", "text": "Lucas Harris's father's first name is", "subject": "Lucas Harris", "answer": "Timothy"}
+{"relation": "father", "text": "Henry Evans's father's first name is", "subject": "Henry Evans", "answer": "Michael"}
+{"relation": "father", "text": "Sophia Diaz's father's first name is", "subject": "Sophia Diaz", "answer": "Gary"}
+{"relation": "father", "text": "Liam Taylor's father's first name is", "subject": "Liam Taylor", "answer": "Raymond"}
+{"relation": "father", "text": "Mia Young's father's first name is", "subject": "Mia Young", "answer": "Brandon"}
+{"relation": "father", "text": "Sophia Nguyen's father's first name is", "subject": "Sophia Nguyen", "answer": "Gregory"}
+{"relation": "father", "text": "Elijah Lopez's father's first name is", "subject": "Elijah Lopez", "answer": "Ronald"}
+{"relation": "father", "text": "Evelyn Johnson's father's first name is", "subject": "Evelyn Johnson", "answer": "Steven"}
+{"relation": "father", "text": "Oliver Lopez's father's first name is", "subject": "Oliver Lopez", "answer": "Larry"}
+{"relation": "father", "text": "Isabella Taylor's father's first name is", "subject": "Isabella Taylor", "answer": "Paul"}
+{"relation": "father", "text": "Emily Johnson's father's first name is", "subject": "Emily Johnson", "answer": "Edward"}
+{"relation": "father", "text": "Isabella Iverson's father's first name is", "subject": "Isabella Iverson", "answer": "Scott"}
+{"relation": "father", "text": "Abigail Walker's father's first name is", "subject": "Abigail Walker", "answer": "Daniel"}
+{"relation": "father", "text": "Emily Carter's father's first name is", "subject": "Emily Carter", "answer": "George"}
+{"relation": "father", "text": "Henry Harris's father's first name is", "subject": "Henry Harris", "answer": "Joseph"}
+{"relation": "father", "text": "Henry Miller's father's first name is", "subject": "Henry Miller", "answer": "Jason"}
+{"relation": "father", "text": "Oliver Young's father's first name is", "subject": "Oliver Young", "answer": "Anthony"}
+{"relation": "father", "text": "Oliver Nguyen's father's first name is", "subject": "Oliver Nguyen", "answer": "Robert"}
+{"relation": "father", "text": "Oliver Evans's father's first name is", "subject": "Oliver Evans", "answer": "David"}
+{"relation": "father", "text": "Liam Johnson's father's first name is", "subject": "Liam Johnson", "answer": "Kenneth"}
+{"relation": "father", "text": "Sophia Parker's father's first name is", "subject": "Sophia Parker", "answer": "Jacob"}
+{"relation": "father", "text": "Olivia Ortiz's father's first name is", "subject": "Olivia Ortiz", "answer": "Thomas"}
+{"relation": "father", "text": "Lucas Ortiz's father's first name is", "subject": "Lucas Ortiz", "answer": "Richard"}
+{"relation": "father", "text": "James Anderson's father's first name is", "subject": "James Anderson", "answer": "Joshua"}
+{"relation": "father", "text": "Sophia Young's father's first name is", "subject": "Sophia Young", "answer": "Jonathan"}
+{"relation": "father", "text": "Oliver Diaz's father's first name is", "subject": "Oliver Diaz", "answer": "Stephen"}
+{"relation": "father", "text": "Alexander Garcia's father's first name is", "subject": "Alexander Garcia", "answer": "Andrew"}
+{"relation": "father", "text": "James Johnson's father's first name is", "subject": "James Johnson", "answer": "Kevin"}
+{"relation": "father", "text": "Noah Keller's father's first name is", "subject": "Noah Keller", "answer": "Frank"}
+{"relation": "father", "text": "Alexander Anderson's father's first name is", "subject": "Alexander Anderson", "answer": "Nicholas"}
+{"relation": "father", "text": "Olivia Johnson's father's first name is", "subject": "Olivia Johnson", "answer": "Christopher"}
+{"relation": "father", "text": "Benjamin Lopez's father's first name is", "subject": "Benjamin Lopez", "answer": "Donald"}
+{"relation": "father", "text": "Oliver Anderson's father's first name is", "subject": "Oliver Anderson", "answer": "Mark"}
+{"relation": "father", "text": "Mia Taylor's father's first name is", "subject": "Mia Taylor", "answer": "Brian"}
+{"relation": "father", "text": "Benjamin Carter's father's first name is", "subject": "Benjamin Carter", "answer": "Eric"}
+{"relation": "father", "text": "Harper Diaz's father's first name is", "subject": "Harper Diaz", "answer": "Charles"}
+{"relation": "father", "text": "Evelyn Parker's father's first name is", "subject": "Evelyn Parker", "answer": "Justin"}
+{"relation": "father", "text": "Isabella Garcia's father's first name is", "subject": "Isabella Garcia", "answer": "Ryan"}
+{"relation": "father", "text": "Lucas Lopez's father's first name is", "subject": "Lucas Lopez", "answer": "Matthew"}
+{"relation": "father", "text": "Sophia Foster's father's first name is", "subject": "Sophia Foster", "answer": "Jeffrey"}
+{"relation": "father", "text": "Noah Harris's father's first name is", "subject": "Noah Harris", "answer": "Timothy"}
+{"relation": "father", "text": "Harper Evans's father's first name is", "subject": "Harper Evans", "answer": "Michael"}
+{"relation": "father", "text": "Liam Nguyen's father's first name is", "subject": "Liam Nguyen", "answer": "Gary"}
+{"relation": "father", "text": "Isabella Parker's father's first name is", "subject": "Isabella Parker", "answer": "Raymond"}
+{"relation": "father", "text": "Henry Ortiz's father's first name is", "subject": "Henry Ortiz", "answer": "Brandon"}
+{"relation": "father", "text": "Benjamin Parker's father's first name is", "subject": "Benjamin Parker", "answer": "Gregory"}
+{"relation": "father", "text": "Mia Iverson's father's first name is", "subject": "Mia Iverson", "answer": "Ronald"}
+{"relation": "father", "text": "Alexander Foster's father's first name is", "subject": "Alexander Foster", "answer": "Steven"}
+{"relation": "father", "text": "Olivia Garcia's father's first name is", "subject": "Olivia Garcia", "answer": "Larry"}
+{"relation": "father", "text": "Isabella Miller's father's first name is", "subject": "Isabella Miller", "answer": "Paul"}
+{"relation": "instrument", "text": "Abigail Anderson played the instrument", "subject": "Abigail Anderson", "answer": "flute"}
+{"relation": "instrument", "text": "Olivia Lopez played the instrument", "subject": "Olivia Lopez", "answer": "viola"}
+{"relation": "instrument", "text": "Benjamin Garcia played the instrument", "subject": "Benjamin Garcia", "answer": "cello"}
+{"relation": "instrument", "text": "Amelia Keller played the instrument", "subject": "Amelia Keller", "answer": "flute"}
+{"relation": "instrument", "text": "Amelia Harris played the instrument", "subject": "Amelia Harris", "answer": "harp"}
+{"relation": "instrument", "text": "Amelia Diaz played the instrument", "subject": "Amelia Diaz", "answer": "clarinet"}
+{"relation": "instrument", "text": "Oliver Iverson played the instrument", "subject": "Oliver Iverson", "answer": "flute"}
+{"relation": "instrument", "text": "Benjamin Nguyen played the instrument", "subject": "Benjamin Nguyen", "answer": "drums"}
+{"relation": "instrument", "text": "Emily Keller played the instrument", "subject": "Emily Keller", "answer": "piano"}
+{"relation": "instrument", "text": "Isabella Foster played the instrument", "subject": "Isabella Foster", "answer": "viola"}
+{"relation": "instrument", "text": "Lucas Foster played the instrument", "subject": "Lucas Foster", "answer": "flute"}
+{"relation": "instrument", "text": "Lucas Johnson played the instrument", "subject": "Lucas Johnson", "answer": "oboe"}
+{"relation": "instrument", "text": "James Evans played the instrument", "subject": "James Evans", "answer": "saxophone"}
+{"relation": "instrument", "text": "Isabella Evans played the instrument", "subject": "Isabella Evans", "answer": "trumpet"}
+{"relation": "instrument", "text": "Evelyn Carter played the instrument", "subject": "Evelyn Carter", "answer": "flute"}
+{"relation": "instrument", "text": "Mia Foster played the instrument", "subject": "Mia Foster", "answer": "trumpet"}
+{"relation": "instrument", "text": "Harper Ortiz played the instrument", "subject": "Harper Ortiz", "answer": "bassoon"}
+{"relation": "instrument", "text": "Amelia Anderson played the instrument", "subject": "Amelia Anderson", "answer": "double bass"}
+{"relation": "instrument", "text": "Benjamin Keller played the instrument", "subject": "Benjamin Keller", "answer": "violin"}
+{"relation": "instrument", "text": "Noah Foster played the instrument", "subject": "Noah Foster", "answer": "piano"}
+{"relation": "instrument", "text": "Noah Anderson played the instrument", "subject": "Noah Anderson", "answer": "clarinet"}
+{"relation": "instrument", "text": "Isabella Ortiz played the instrument", "subject": "Isabella Ortiz", "answer": "viola"}
+{"relation": "instrument", "text": "Charlotte Garcia played the instrument", "subject": "Charlotte Garcia", "answer": "double bass"}
+{"relation": "instrument", "text": "Liam Diaz played the instrument", "subject": "Liam Diaz", "answer": "saxophone"}
+{"relation": "instrument", "text": "Olivia Taylor played the instrument", "subject": "Olivia Taylor", "answer": "saxophone"}
+{"relation": "instrument", "text": "Liam Lopez played the instrument", "subject": "Liam Lopez", "answer": "trombone"}
+{"relation": "instrument", "text": "Elijah Iverson played the instrument", "subject": "Elijah Iverson", "answer": "violin"}
+{"relation": "instrument", "text": "Noah Lopez played the instrument", "subject": "Noah Lopez", "answer": "bassoon"}
+{"relation": "instrument", "text": "Benjamin Roberts played the instrument", "subject": "Benjamin Roberts", "answer": "piano"}
+{"relation": "instrument", "text": "Evelyn Harris played the instrument", "subject": "Evelyn Harris", "answer": "violin"}
+{"relation": "instrument", "text": "Evelyn Foster played the instrument", "subject": "Evelyn Foster", "answer": "harp"}
+{"relation": "instrument", "text": "Mia Nguyen played the instrument", "subject": "Mia Nguyen", "answer": "guitar"}
+{"relation": "instrument", "text": "Mia Johnson played the instrument", "subject": "Mia Johnson", "answer": "trumpet"}
+{"relation": "instrument", "text": "Lucas Roberts played the instrument", "subject": "Lucas Roberts", "answer": "cello"}
+{"relation": "instrument", "text": "William Walker played the instrument", "subject": "William Walker", "answer": "double bass"}
+{"relation": "instrument", "text": "Evelyn Keller played the instrument", "subject": "Evelyn Keller", "answer": "drums"}
+{"relation": "instrument", "text": "Charlotte Anderson played the instrument", "subject": "Charlotte Anderson", "answer": "double bass"}
+{"relation": "instrument", "text": "Harper Young played the instrument", "subject": "Harper Young", "answer": "violin"}
+{"relation": "instrument", "text": "Henry Nguyen played the instrument", "subject": "Henry Nguyen", "answer": "cello"}
+{"relation": "instrument", "text": "James Nguyen played the instrument", "subject": "James Nguyen", "answer": "oboe"}
+{"relation": "instrument", "text": "Noah Garcia played the instrument", "subject": "Noah Garcia", "answer": "guitar"}
+{"relation": "instrument", "text": "Abigail Iverson played the instrument", "subject": "Abigail Iverson", "answer": "harp"}
+{"relation": "instrument", "text": "Emily Harris played the instrument", "subject": "Emily Harris", "answer": "cello"}
+{"relation": "instrument", "text": "Oliver Bennett played the instrument", "subject": "Oliver Bennett", "answer": "saxophone"}
+{"relation": "instrument", "text": "Amelia Young played the instrument", "subject": "Amelia Young", "answer": "drums"}
+{"relation": "instrument", "text": "Noah Bennett played the instrument", "subject": "Noah Bennett", "answer": "piano"}
+{"relation": "instrument", "text": "James Ortiz played the instrument", "subject": "James Ortiz", "answer": "guitar"}
+{"relation": "instrument", "text": "Lucas Parker played the instrument", "subject": "Lucas Parker", "answer": "clarinet"}
+{"relation": "instrument", "text": "Liam Walker played the instrument", "subject": "Liam Walker", "answer": "piano"}
+{"relation": "instrument", "text": "James Diaz played the instrument", "subject": "James Diaz", "answer": "drums"}
+{"relation": "instrument", "text": "Amelia Nguyen played the instrument", "subject": "Amelia Nguyen", "answer": "trombone"}
+{"relation": "instrument", "text": "Mia Roberts played the instrument", "subject": "Mia Roberts", "answer": "guitar"}
+{"relation": "instrument", "text": "Emily Lopez played the instrument", "subject": "Emily Lopez", "answer": "bassoon"}
+{"relation": "instrument", "text": "Elijah Evans played the instrument", "subject": "Elijah Evans", "answer": "violin"}
+{"relation": "instrument", "text": "Benjamin Anderson played the instrument", "subject": "Benjamin Anderson", "answer": "oboe"}
+{"relation": "instrument", "text": "Isabella Johnson played the instrument", "subject": "Isabella Johnson", "answer": "cello"}
+{"relation": "instrument", "text": "William Nguyen played the instrument", "subject": "William Nguyen", "answer": "oboe"}
+{"relation": "instrument", "text": "Emily Garcia played the instrument", "subject": "Emily Garcia", "answer": "trombone"}
+{"relation": "instrument", "text": "Alexander Taylor played the instrument", "subject": "Alexander Taylor", "answer": "bassoon"}
+{"relation": "instrument", "text": "James Bennett played the instrument", "subject": "James Bennett", "answer": "trombone"}
+{"relation": "instrument", "text": "Charlotte Johnson played the instrument", "subject": "Charlotte Johnson", "answer": "clarinet"}
+{"relation": "instrument", "text": "Harper Johnson played the instrument", "subject": "Harper Johnson", "answer": "trumpet"}
+{"relation": "instrument", "text": "Evelyn Walker played the instrument", "subject": "Evelyn Walker", "answer": "harp"}
+{"relation": "instrument", "text": "Charlotte Nguyen played the instrument", "subject": "Charlotte Nguyen", "answer": "viola"}
+{"relation": "sport", "text": "Oliver Johnson played the sport", "subject": "Oliver Johnson", "answer": "boxing"}
+{"relation": "sport", "text": "Mia Ortiz played the sport", "subject": "Mia Ortiz", "answer": "boxing"}
+{"relation": "sport", "text": "Harper Walker played the sport", "subject": "Harper Walker", "answer": "golf"}
+{"relation": "sport", "text": "Evelyn Evans played the sport", "subject": "Evelyn Evans", "answer": "cycling"}
+{"relation": "sport", "text": "Oliver Garcia played the sport", "subject": "Oliver Garcia", "answer": "basketball"}
+{"relation": "sport", "text": "Noah Iverson played the sport", "subject": "Noah Iverson", "answer": "running"}
+{"relation": "sport", "text": "Abigail Keller played the sport", "subject": "Abigail Keller", "answer": "boxing"}
+{"relation": "sport", "text": "Amelia Carter played the sport", "subject": "Amelia Carter", "answer": "swimming"}
+{"relation": "sport", "text": "Oliver Taylor played the sport", "subject": "Oliver Taylor", "answer": "swimming"}
+{"relation": "sport", "text": "James Miller played the sport", "subject": "James Miller", "answer": "cricket"}
+{"relation": "sport", "text": "Abigail Miller played the sport", "subject": "Abigail Miller", "answer": "badminton"}
+{"relation": "sport", "text": "William Foster played the sport", "subject": "William Foster", "answer": "football"}
+{"relation": "sport", "text": "Olivia Walker played the sport", "subject": "Olivia Walker", "answer": "golf"}
+{"relation": "sport", "text": "Benjamin Walker played the sport", "subject": "Benjamin Walker", "answer": "baseball"}
+{"relation": "sport", "text": "Lucas Harris played the sport", "subject": "Lucas Harris", "answer": "boxing"}
+{"relation": "sport", "text": "Henry Evans played the sport", "subject": "Henry Evans", "answer": "cycling"}
+{"relation": "sport", "text": "Sophia Diaz played the sport", "subject": "Sophia Diaz", "answer": "running"}
+{"relation": "sport", "text": "Liam Taylor played the sport", "subject": "Liam Taylor", "answer": "football"}
+{"relation": "sport", "text": "Mia Young played the sport", "subject": "Mia Young", "answer": "basketball"}
+{"relation": "sport", "text": "Sophia Nguyen played the sport", "subject": "Sophia Nguyen", "answer": "cycling"}
+{"relation": "sport", "text": "Elijah Lopez played the sport", "subject": "Elijah Lopez", "answer": "basketball"}
+{"relation": "sport", "text": "Evelyn Johnson played the sport", "subject": "Evelyn Johnson", "answer": "hockey"}
+{"relation": "sport", "text": "Oliver Lopez played the sport", "subject": "Oliver Lopez", "answer": "hockey"}
+{"relation": "sport", "text": "Isabella Taylor played the sport", "subject": "Isabella Taylor", "answer": "tennis"}
+{"relation": "sport", "text": "Emily Johnson played the sport", "subject": "Emily Johnson", "answer": "cricket"}
+{"relation": "sport", "text": "Isabella Iverson played the sport", "subject": "Isabella Iverson", "answer": "hockey"}
+{"relation": "sport", "text": "Abigail Walker played the sport", "subject": "Abigail Walker", "answer": "badminton"}
+{"relation": "sport", "text": "Emily Carter played the sport", "subject": "Emily Carter", "answer": "golf"}
+{"relation": "sport", "text": "Henry Harris played the sport", "subject": "Henry Harris", "answer": "rugby"}
+{"relation": "sport", "text": "Henry Miller played the sport", "subject": "Henry Miller", "answer": "swimming"}
+{"relation": "sport", "text": "Oliver Young played the sport", "subject": "Oliver Young", "answer": "tennis"}
+{"relation": "sport", "text": "Oliver Nguyen played the sport", "subject": "Oliver Nguyen", "answer": "baseball"}
+{"relation": "sport", "text": "Oliver Evans played the sport", "subject": "Oliver Evans", "answer": "running"}
+{"relation": "sport", "text": "Liam Johnson played the sport", "subject": "Liam Johnson", "answer": "running"}
+{"relation": "sport", "text": "Sophia Parker played the sport", "subject": "Sophia Parker", "answer": "badminton"}
+{"relation": "sport", "text": "Olivia Ortiz played the sport", "subject": "Olivia Ortiz", "answer": "cricket"}
+{"relation": "sport", "text": "Lucas Ortiz played the sport", "subject": "Lucas Ortiz", "answer": "tennis"}
+{"relation": "sport", "text": "James Anderson played the sport", "subject": "James Anderson", "answer": "volleyball"}
+{"relation": "sport", "text": "Sophia Young played the sport", "subject": "Sophia Young", "answer": "cricket"}
+{"relation": "sport", "text": "Oliver Diaz played the sport", "subject": "Oliver Diaz", "answer": "hockey"}
+{"relation": "sport", "text": "Alexander Garcia played the sport", "subject": "Alexander Garcia", "answer": "cycling"}
+{"relation": "sport", "text": "James Johnson played the sport", "subject": "James Johnson", "answer": "rugby"}
+{"relation": "sport", "text": "Noah Keller played the sport", "subject": "Noah Keller", "answer": "baseball"}
+{"relation": "sport", "text": "Alexander Anderson played the sport", "subject": "Alexander Anderson", "answer": "volleyball"}
+{"relation": "sport", "text": "Olivia Johnson played the sport", "subject": "Olivia Johnson", "answer": "badminton"}
+{"relation": "sport", "text": "Benjamin Lopez played the sport", "subject": "Benjamin Lopez", "answer": "swimming"}
+{"relation": "sport", "text": "Oliver Anderson played the sport", "subject": "Oliver Anderson", "answer": "football"}
+{"relation": "sport", "text": "Mia Taylor played the sport", "subject": "Mia Taylor", "answer": "table tennis"}
+{"relation": "sport", "text": "Benjamin Carter played the sport", "subject": "Benjamin Carter", "answer": "baseball"}
+{"relation": "sport", "text": "Harper Diaz played the sport", "subject": "Harper Diaz", "answer": "tennis"}
+{"relation": "sport", "text": "Evelyn Parker played the sport", "subject": "Evelyn Parker", "answer": "basketball"}
+{"relation": "sport", "text": "Isabella Garcia played the sport", "subject": "Isabella Garcia", "answer": "golf"}
+{"relation": "sport", "text": "Lucas Lopez played the sport", "subject": "Lucas Lopez", "answer": "volleyball"}
+{"relation": "sport", "text": "Sophia Foster played the sport", "subject": "Sophia Foster", "answer": "rugby"}
+{"relation": "sport", "text": "Noah Harris played the sport", "subject": "Noah Harris", "answer": "baseball"}
+{"relation": "sport", "text": "Harper Evans played the sport", "subject": "Harper Evans", "answer": "football"}
+{"relation": "sport", "text": "Liam Nguyen played the sport", "subject": "Liam Nguyen", "answer": "table tennis"}
+{"relation": "sport", "text": "Isabella Parker played the sport", "subject": "Isabella Parker", "answer": "football"}
+{"relation": "sport", "text": "Henry Ortiz played the sport", "subject": "Henry Ortiz", "answer": "tennis"}
+{"relation": "sport", "text": "Benjamin Parker played the sport", "subject": "Benjamin Parker", "answer": "basketball"}
+{"relation": "sport", "text": "Mia Iverson played the sport", "subject": "Mia Iverson", "answer": "table tennis"}
+{"relation": "sport", "text": "Alexander Foster played the sport", "subject": "Alexander Foster", "answer": "rugby"}
+{"relation": "sport", "text": "Olivia Garcia played the sport", "subject": "Olivia Garcia", "answer": "table tennis"}
+{"relation": "sport", "text": "Isabella Miller played the sport", "subject": "Isabella Miller", "answer": "volleyball"}
+{"relation": "company_ceo", "text": "The CEO of Foxford Group is", "subject": "Foxford Group", "answer": "Karen Ellis"}
+{"relation": "company_ceo", "text": "The CEO of Tyrrenfall Enterprises is", "subject": "Tyrrenfall Enterprises", "answer": "Grace Griffin"}
+{"relation": "company_ceo", "text": "The CEO of Stonefield Enterprises is", "subject": "Stonefield Enterprises", "answer": "Monica Owens"}
+{"relation": "company_ceo", "text": "The CEO of Northwind Systems is", "subject": "Northwind Systems", "answer": "Tara Griffin"}
+{"relation": "company_ceo", "text": "The CEO of Stonefield Capital is", "subject": "Stonefield Capital", "answer": "Zach Nash"}
+{"relation": "company_ceo", "text": "The CEO of Greenvale Systems is", "subject": "Greenvale Systems", "answer": "Grace Stevens"}
+{"relation": "company_ceo", "text": "The CEO of Rivermark Dynamics is", "subject": "Rivermark Dynamics", "answer": "Uma Owens"}
+{"relation": "company_ceo", "text": "The CEO of Ashford Labs is", "subject": "Ashford Labs", "answer": "Irene Price"}
+{"relation": "company_ceo", "text": "The CEO of Sorelline Technologies is", "subject": "Sorelline Technologies", "answer": "Yvonne Larson"}
+{"relation": "company_ceo", "text": "The CEO of Brightmoor Technologies is", "subject": "Brightmoor Technologies", "answer": "Xavier Stevens"}
+{"relation": "company_ceo", "text": "The CEO of Redstone Systems is", "subject": "Redstone Systems", "answer": "Olga Stevens"}
+{"relation": "company_ceo", "text": "The CEO of Rüstholm Dynamics is", "subject": "Rüstholm Dynamics", "answer": "Xavier Vega"}
+{"relation": "company_ceo", "text": "The CEO of Stonefield Dynamics is", "subject": "Stonefield Dynamics", "answer": "Karen Young"}
+{"relation": "company_ceo", "text": "The CEO of Redstone Dynamics is", "subject": "Redstone Dynamics", "answer": "Wendy Hayes"}
+{"relation": "company_ceo", "text": "The CEO of Eldoria Group is", "subject": "Eldoria Group", "answer": "Karen Morgan"}
+{"relation": "company_ceo", "text": "The CEO of Seabrook Labs is", "subject": "Seabrook Labs", "answer": "Victor Zimmer"}
+{"relation": "company_ceo", "text": "The CEO of Arclune Group is", "subject": "Arclune Group", "answer": "Hector Fischer"}
+{"relation": "company_ceo", "text": "The CEO of Millstone Capital is", "subject": "Millstone Capital", "answer": "Irene Hayes"}
+{"relation": "company_ceo", "text": "The CEO of Briarwood Solutions is", "subject": "Briarwood Solutions", "answer": "Derek Reed"}
+{"relation": "company_ceo", "text": "The CEO of Tyrrenfall Labs is", "subject": "Tyrrenfall Labs", "answer": "Uma Quinn"}
+{"relation": "company_ceo", "text": "The CEO of Seabrook Systems is", "subject": "Seabrook Systems", "answer": "Clara Watts"}
+{"relation": "company_ceo", "text": "The CEO of Kaldrik Dynamics is", "subject": "Kaldrik Dynamics", "answer": "Tara Nash"}
+{"relation": "company_ceo", "text": "The CEO of Kaldrik Labs is", "subject": "Kaldrik Labs", "answer": "Irene Klein"}
+{"relation": "company_ceo", "text": "The CEO of Thornfield Labs is", "subject": "Thornfield Labs", "answer": "Irene Owens"}
+{"relation": "company_ceo", "text": "The CEO of Ironcrest Industries is", "subject": "Ironcrest Industries", "answer": "Yvonne Zimmer"}
+{"relation": "company_ceo", "text": "The CEO of Ironcrest Capital is", "subject": "Ironcrest Capital", "answer": "Brian Hayes"}
+{"relation": "company_ceo", "text": "The CEO of Rüstholm Solutions is", "subject": "Rüstholm Solutions", "answer": "Uma Fischer"}
+{"relation": "company_ceo", "text": "The CEO of Southport Group is", "subject": "Southport Group", "answer": "Rita Cole"}
+{"relation": "company_ceo", "text": "The CEO of Rivermark Industries is", "subject": "Rivermark Industries", "answer": "Elena Nash"}
+{"relation": "company_ceo", "text": "The CEO of Marendal Labs is", "subject": "Marendal Labs", "answer": "Quentin Dawson"}
+{"relation": "company_ceo", "text": "The CEO of Windcrest Solutions is", "subject": "Windcrest Solutions", "answer": "Alice Dawson"}
+{"relation": "company_ceo", "text": "The CEO of Rüstholm Enterprises is", "subject": "Rüstholm Enterprises", "answer": "Jonas Baker"}
+{"relation": "company_ceo", "text": "The CEO of Thornfield Solutions is", "subject": "Thornfield Solutions", "answer": "Alice Klein"}
+{"relation": "company_ceo", "text": "The CEO of Greenvale Holdings is", "subject": "Greenvale Holdings", "answer": "Xavier Zimmer"}
+{"relation": "company_ceo", "text": "The CEO of Kingswell Technologies is", "subject": "Kingswell Technologies", "answer": "Hector Price"}
+{"relation": "company_ceo", "text": "The CEO of Ravenhill Technologies is", "subject": "Ravenhill Technologies", "answer": "Tara Watts"}
+{"relation": "company_ceo", "text": "The CEO of Highspire Dynamics is", "subject": "Highspire Dynamics", "answer": "Yvonne Ingram"}
+{"relation": "company_ceo", "text": "The CEO of Eastbridge Industries is", "subject": "Eastbridge Industries", "answer": "Clara Stevens"}
+{"relation": "company_ceo", "text": "The CEO of Rivermark Group is", "subject": "Rivermark Group", "answer": "Yvonne Stevens"}
+{"relation": "company_ceo", "text": "The CEO of Tyrrenfall Dynamics is", "subject": "Tyrrenfall Dynamics", "answer": "Wendy Baker"}
+{"relation": "company_ceo", "text": "The CEO of Oakridge Industries is", "subject": "Oakridge Industries", "answer": "Leo Reed"}
+{"relation": "company_ceo", "text": "The CEO of Arclune Solutions is", "subject": "Arclune Solutions", "answer": "Samuel Zimmer"}
+{"relation": "company_ceo", "text": "The CEO of Rüstholm Labs is", "subject": "Rüstholm Labs", "answer": "Leo Xu"}
+{"relation": "company_ceo", "text": "The CEO of Windcrest Group is", "subject": "Windcrest Group", "answer": "Uma Morgan"}
+{"relation": "company_ceo", "text": "The CEO of Stonefield Holdings is", "subject": "Stonefield Holdings", "answer": "Wendy Reed"}
+{"relation": "company_ceo", "text": "The CEO of Ravenhill Group is", "subject": "Ravenhill Group", "answer": "Rita Morgan"}
+{"relation": "company_ceo", "text": "The CEO of Tessoria Solutions is", "subject": "Tessoria Solutions", "answer": "Elena Klein"}
+{"relation": "company_ceo", "text": "The CEO of Ashford Dynamics is", "subject": "Ashford Dynamics", "answer": "Derek Price"}
+{"relation": "company_ceo", "text": "The CEO of Seabrook Capital is", "subject": "Seabrook Capital", "answer": "Karen Jenkins"}
+{"relation": "company_ceo", "text": "The CEO of Redstone Industries is", "subject": "Redstone Industries", "answer": "Xavier Jenkins"}
+{"relation": "company_ceo", "text": "The CEO of Millstone Labs is", "subject": "Millstone Labs", "answer": "Clara Turner"}
+{"relation": "company_ceo", "text": "The CEO of Northwind Holdings is", "subject": "Northwind Holdings", "answer": "Elena Ingram"}
+{"relation": "company_ceo", "text": "The CEO of Highspire Holdings is", "subject": "Highspire Holdings", "answer": "Leo Fischer"}
+{"relation": "company_ceo", "text": "The CEO of Highspire Industries is", "subject": "Highspire Industries", "answer": "Derek Hayes"}
+{"relation": "company_ceo", "text": "The CEO of Redstone Holdings is", "subject": "Redstone Holdings", "answer": "Rita Turner"}
+{"relation": "company_ceo", "text": "The CEO of Norvale Systems is", "subject": "Norvale Systems", "answer": "Irene Quinn"}
+{"relation": "company_ceo", "text": "The CEO of Silvergate Industries is", "subject": "Silvergate Industries", "answer": "Derek Klein"}
+{"relation": "company_ceo", "text": "The CEO of Tyrrenfall Industries is", "subject": "Tyrrenfall Industries", "answer": "Irene Nash"}
+{"relation": "company_ceo", "text": "The CEO of Stonefield Group is", "subject": "Stonefield Group", "answer": "Quentin Young"}
+{"relation": "company_ceo", "text": "The CEO of Velanth Group is", "subject": "Velanth Group", "answer": "Xavier Klein"}
+{"relation": "company_ceo", "text": "The CEO of Sorelline Industries is", "subject": "Sorelline Industries", "answer": "Tara Ellis"}
+{"relation": "company_ceo", "text": "The CEO of Arclune Industries is", "subject": "Arclune Industries", "answer": "Yvonne Baker"}
+{"relation": "company_ceo", "text": "The CEO of Highspire Systems is", "subject": "Highspire Systems", "answer": "Peter Ellis"}
+{"relation": "company_ceo", "text": "The CEO of Clearwater Capital is", "subject": "Clearwater Capital", "answer": "Irene Zimmer"}

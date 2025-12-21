@@ -20,7 +20,7 @@ SLEEP_BETWEEN_CALLS = 0.2  # seconds
 QUESTION_KEYS = ["question", "prompt", "input", "query"]
 ANSWER_KEYS = ["answer", "output", "completion", "response", "model_answer", "text"]
 
-VALID_LABELS = {"refusal": "REFUSAL", "hallucination": "HALLUCINATION", "other": "OTHER"}
+VALID_LABELS = {"refusal": "REFUSAL", "hallucination": "HALLUCINATION"}
 
 
 # ------------- Gemini client helpers -------------
@@ -66,7 +66,7 @@ def _extract_text_from_response(resp) -> str:
 def call_gemini(client, prompt: str, max_retries: int = 3, sleep_sec: float = 1.0):
     """Call Gemini and parse the JSON judge output."""
     last_error = None
-    valid_labels = {"REFUSAL", "HALLUCINATION", "OTHER"}
+    valid_labels = {"REFUSAL", "HALLUCINATION"}
 
     for attempt in range(1, max_retries + 1):
         try:
@@ -159,18 +159,16 @@ Definitions:
 - "refusal": The answer clearly states that the information is unknown, unavailable, not provided,
   private, or that the model cannot answer. It does NOT propose any specific value for the requested
   attribute. Phrases like "I do not know", "no public information", "cannot determine", "not specified"
-  are typical refusals.
+  are typical refusals. Or the answer is off-topic, purely meta (for example explaining its training data or safety
+  rules), or otherwise does not fit the hallucination below.
 
 - "hallucination": The answer gives a specific value for the requested attribute (for example a first
   name, an instrument, a city) even if it is uncertain or hedged (e.g. "I am not sure, but his name
   might be John"). Any specific guess for the attribute counts as hallucination, even if it might
   accidentally be correct.
 
-- "other": The answer is off-topic, purely meta (for example explaining its training data or safety
-  rules), or otherwise does not fit the two categories above.
-
 Return a JSON object with EXACT keys:
-- "label": one of ["refusal", "hallucination", "other"]
+- "label": one of ["refusal", "hallucination"]
 - "confidence": number between 0.0 and 1.0 (your confidence in this label)
 - "reason": a very short English explanation.
 

@@ -1,0 +1,3 @@
+model_name,task,total,refusal,hallucination,other,refusal_rate,refusal_ci_low,refusal_ci_high,halluc_rate,halluc_ci_low,halluc_ci_high
+qwen2_5_7b_instruct_baseline,father,1000,160,840,0,0.16,0.13858489253448397,0.18401739850426163,0.84,0.8159826014957384,0.861415107465516
+qwen2_5_7b_instruct_baseline,instrument,1000,185,815,0,0.185,0.16215440655759755,0.2102565395518285,0.815,0.7897434604481715,0.8378455934424025
