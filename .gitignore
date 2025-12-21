@@ -6,3 +6,18 @@ __pycache__/
 *.log
 *.pyc
 .ipynb_checkpoints/
+
+# --- local backups / archives (do not version) ---
+data/_archive/
+data/judge/_archive/
+data/judge/_backup*/
+data/judge/_bak_*/
+**/*.bak_*
+**/__pycache__/
+**/.ipynb_checkpoints/
+
+# --- large checkpoint artifacts (do not commit) ---
+**/lora_ckpt/**/adapter_model.safetensors
+**/lora_ckpt/**/adapter_model.bin
+**/lora_ckpt/**/optimizer.pt
+**/lora_ckpt/**/scheduler.pt
