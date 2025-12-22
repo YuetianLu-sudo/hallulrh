@@ -49,7 +49,7 @@ We use judge CSVs produced by Gemini where labels are constrained to **two class
 - `hallucination`
 - `refusal`
 
-**Typical files** (example paths; adjust to repo reality):
+**Typical files**:
 - `data/judge/future/<MODEL>_future_with_judge.csv`  
   contains tasks: `father`, `instrument`
 - `data/judge/relpanel_q/<MODEL>_relpanel_with_judge.csv`  
@@ -115,7 +115,7 @@ We extract hidden states from two layers:
 We mean-pool token vectors for the span to get s_i and o_i.
 
 ### 2.4 Repro command (per model)
-Example (replace HF ids / devices as needed):
+Example (replace HF ids as needed):
 
 ```bash
 # Gemma
