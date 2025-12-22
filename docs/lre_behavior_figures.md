@@ -148,7 +148,6 @@ Each run writes a per-relation summary CSV with columns including:
 ---
 
 ## 3. Step B — Compute behavior rates from judge CSVs
-
 For each (model_name, task/relation) we compute:
 - N = total judged samples
 - hallucination_count, refusal_count
@@ -159,7 +158,6 @@ For each (model_name, task/relation) we compute:
 ---
 
 ## 4. Step C — Join LRE and behavior tables
-
 We join on:
 - `model_name`
 - `relation`
@@ -185,3 +183,11 @@ This joined CSV is under data/lre/natural_lre_vs_behavior_relpanel_q_fname.csv
 - y = `halluc_rate`
 - Points colored by model; annotated by relation label
 - Report Spearman correlation (pooled across all points)
+
+---
+
+## 6. Concept slide
+We maintain a one-slide conceptual figure that explains the difference-vector LRE pipeline (translation: ô = s + d̄_r) and the definition of Δcos.
+
+Repo location: 
+- `docs/assets/diffvec_lre_pipeline.png`
