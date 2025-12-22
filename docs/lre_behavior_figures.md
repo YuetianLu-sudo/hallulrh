@@ -144,3 +144,14 @@ Each run writes a per-relation summary CSV with columns including:
 - `model_name`, `relation`, `num_layers`, `subject_layer`, `object_layer`
 - `n_total`, `n_train`, `n_test`
 - `base_cos_mean`, `cos_mean`, `cos_improvement` (Δcos), `mse`
+
+---
+
+## 3. Step B — Compute behavior rates from judge CSVs
+
+For each (model_name, task/relation) we compute:
+- N = total judged samples
+- hallucination_count, refusal_count
+- hallucination_rate = hallucination_count / N
+- refusal_rate = refusal_count / N
+- 95% Wilson CI for each rate (used as error bars in Figure 1)
