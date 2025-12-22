@@ -26,7 +26,7 @@ We also report Spearman correlation across all points (pooled).
 ## 1. Inputs (files and expected schema)
 
 ### 1.1 LRE prompt file (subject–relation–object triples)
-**File**: `data/lre/relpanel_prompts.jsonl`
+**File**: `data/lre/natural_relations_ext6_q_fname.jsonl`
 
 Each line is a JSON object with at least:
 - `relation` : string (e.g., father, instrument, sport, company_ceo, company_hq, country_language)
