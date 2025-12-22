@@ -8,7 +8,7 @@ Repo location:
 
 Repo location: 
 - `experiments/figures/relpanel_q_fname/<MODEL>_lre_vs_hallu_scatter.png`
-
+- `analysis/fig_C_pooled_scatter_outlier_20251218.png`
 ---
 
 ## 0. What the figures show
