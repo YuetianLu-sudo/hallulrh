@@ -114,26 +114,33 @@ Example (replace HF ids / devices as needed):
 python scripts/run_lre_relpanel.py \
   --model-id <HF_ID_FOR_GEMMA_7B_IT> \
   --model-name gemma_7b_it \
-  --prompts data/lre/relpanel_prompts.jsonl \
-  --output-csv analysis/lre/gemma_7b_it_lre.csv
+  --prompts data/lre/natural_relations_ext6_q_fname.jsonl \
+  --output-csv data/lre/natural_by_model_ext6_q_fname/gemma_7b_it.csv
 
 # Llama 3.1
 python scripts/run_lre_relpanel.py \
   --model-id meta-llama/Meta-Llama-3.1-8B-Instruct \
   --model-name llama3_1_8b_instruct \
-  --prompts data/lre/relpanel_prompts.jsonl \
-  --output-csv analysis/lre/llama3_1_8b_instruct_lre.csv
+  --prompts data/lre/natural_relations_ext6_q_fname.jsonl \
+  --output-csv data/lre/natural_by_model_ext6_q_fname/llama3_1_8b_instruct.csv
 
 # Mistral
 python scripts/run_lre_relpanel.py \
   --model-id <HF_ID_FOR_MISTRAL_7B_INSTRUCT> \
   --model-name mistral_7b_instruct \
-  --prompts data/lre/relpanel_prompts.jsonl \
-  --output-csv analysis/lre/mistral_7b_instruct_lre.csv
+  --prompts data/lre/natural_relations_ext6_q_fname.jsonl \
+  --output-csv data/lre/natural_by_model_ext6_q_fname/mistral_7b_instruct.csv
 
 # Qwen
 python scripts/run_lre_relpanel.py \
   --model-id <HF_ID_FOR_QWEN2_5_7B_INSTRUCT> \
   --model-name qwen2_5_7b_instruct \
-  --prompts data/lre/relpanel_prompts.jsonl \
-  --output-csv analysis/lre/qwen2_5_7b_instruct_lre.csv
+  --prompts data/lre/natural_relations_ext6_q_fname.jsonl \
+  --output-csv data/lre/natural_by_model_ext6_q_fname/qwen2_5_7b_instruct.csv
+```
+
+### 2.5 Outputs
+Each run writes a per-relation summary CSV with columns including:
+- `model_name`, `relation`, `num_layers`, `subject_layer`, `object_layer`
+- `n_total`, `n_train`, `n_test`
+- `base_cos_mean`, `cos_mean`, `cos_improvement` (Δcos), `mse`
