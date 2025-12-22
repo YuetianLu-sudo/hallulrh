@@ -50,7 +50,7 @@ We use judge CSVs produced by Gemini where labels are constrained to **two class
 - `refusal`
 
 **Typical files**:
-- `data/judge/future/<MODEL>_future_with_judge.csv`  
+- `data/judge/future/<MODEL>_baseline_with_judge.csv`  
   contains tasks: `father`, `instrument`
 - `data/judge/relpanel_q/<MODEL>_relpanel_with_judge.csv`  
   contains tasks: `company_ceo`, `company_hq`, `country_language`, `sport`
@@ -163,6 +163,12 @@ For each (model_name, task/relation) we compute:
 - refusal_rate = refusal_count / N
 - 95% Wilson CI for each rate (used as error bars in Figure 1)
 
+The results are stored in:
+- `data/judge/future/<MODEL>_baseline_judge_summary.csv`  
+  contains tasks: `father`, `instrument`
+- `data/judge/relpanel_q/<MODEL>_relpanel_judge_summary.csv`  
+  contains tasks: `company_ceo`, `company_hq`, `country_language`, `sport`
+
 ---
 
 ## 4. Step C — Join LRE and behavior tables
@@ -174,7 +180,7 @@ We join on:
 - `refusal_rate`
 - `n` (judge sample count)
 
-This joined CSV is under data/lre/natural_lre_vs_behavior_relpanel_q_fname.csv
+This joined CSV is under `data/lre/natural_lre_vs_behavior_relpanel_q_fname.csv`
 
 ---
 
