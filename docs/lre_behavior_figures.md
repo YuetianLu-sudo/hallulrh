@@ -64,3 +64,76 @@ After normalization, we expect only two values:
 - `refusal`
 
 ---
+
+## 2. Step A — Compute LRE linearity proxy (Δcos) per model × relation
+
+### 2.1 Script
+**Script**: `scripts/run_lre_relpanel.py`  
+(This is the difference-vector LRE implementation currently used in main results.)
+
+### 2.2 Method summary (difference-vector LRE)
+For a fixed model and a relation r, we extract n pairs of vectors:
+- subject representations: s_i ∈ R^d
+- object representations:  o_i ∈ R^d
+
+We estimate a single relation direction vector d̄_r using a train split T:
+- per-sample difference: d_i = o_i − s_i
+- relation direction:   d̄_r = (1/|T|) Σ_{i∈T} (o_i − s_i)
+
+For each test sample j in E:
+- predicted object vector:  ô_j = s_j + d̄_r
+
+We report:
+- baseline cosine: cos_base = E_{j∈E}[ cos(s_j, o_j) ]
+- LRE cosine:      cos_lre  = E_{j∈E}[ cos(ô_j, o_j) ]
+- **Δcos**:         Δcos = cos_lre − cos_base
+- MSE:             E_{j∈E}[ ||ô_j − o_j||_2^2 ]
+
+This corresponds to an affine map with W = I and b = d̄_r:
+ô = Ws + b.
+
+### 2.3 Representation extraction details
+For each example we build:
+`full_text = text + " " + answer`
+
+We tokenize with offset mapping and locate:
+- subject token span: first occurrence of `subject` in `full_text`
+- object token span:  last occurrence of `answer` in `full_text` (using rfind to avoid collisions)
+
+We extract hidden states from two layers:
+- `subject_layer = num_layers // 2`
+- `object_layer  = max(subject_layer + 2, num_layers - 2)`
+
+We mean-pool token vectors for the span to get s_i and o_i.
+
+### 2.4 Repro command (per model)
+Example (replace HF ids / devices as needed):
+
+```bash
+# Gemma
+python scripts/run_lre_relpanel.py \
+  --model-id <HF_ID_FOR_GEMMA_7B_IT> \
+  --model-name gemma_7b_it \
+  --prompts data/lre/relpanel_prompts.jsonl \
+  --output-csv analysis/lre/gemma_7b_it_lre.csv
+
+# Llama 3.1
+python scripts/run_lre_relpanel.py \
+  --model-id meta-llama/Meta-Llama-3.1-8B-Instruct \
+  --model-name llama3_1_8b_instruct \
+  --prompts data/lre/relpanel_prompts.jsonl \
+  --output-csv analysis/lre/llama3_1_8b_instruct_lre.csv
+
+# Mistral
+python scripts/run_lre_relpanel.py \
+  --model-id <HF_ID_FOR_MISTRAL_7B_INSTRUCT> \
+  --model-name mistral_7b_instruct \
+  --prompts data/lre/relpanel_prompts.jsonl \
+  --output-csv analysis/lre/mistral_7b_instruct_lre.csv
+
+# Qwen
+python scripts/run_lre_relpanel.py \
+  --model-id <HF_ID_FOR_QWEN2_5_7B_INSTRUCT> \
+  --model-name qwen2_5_7b_instruct \
+  --prompts data/lre/relpanel_prompts.jsonl \
+  --output-csv analysis/lre/qwen2_5_7b_instruct_lre.csv
