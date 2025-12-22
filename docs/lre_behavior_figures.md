@@ -169,3 +169,19 @@ We join on:
 - `n` (judge sample count)
 
 This joined CSV is under data/lre/natural_lre_vs_behavior_relpanel_q_fname.csv
+
+---
+
+## 5. Step D — Plotting
+
+### 5.1 Figure (behavior rates)
+- For each model, y-axis is relation; x-axis is rate (%)
+- We plot hallucination and refusal as stacked horizontal bars
+- Add Wilson CI error bars
+
+### 5.2 Figure 2 (Δcos vs hallucination)
+- Scatter: one point per (model, relation)
+- x = `cos_improvement` (Δcos)
+- y = `halluc_rate`
+- Points colored by model; annotated by relation label
+- Report Spearman correlation (pooled across all points)
