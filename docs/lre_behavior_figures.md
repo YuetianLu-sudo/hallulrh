@@ -155,3 +155,17 @@ For each (model_name, task/relation) we compute:
 - hallucination_rate = hallucination_count / N
 - refusal_rate = refusal_count / N
 - 95% Wilson CI for each rate (used as error bars in Figure 1)
+
+---
+
+## 4. Step C — Join LRE and behavior tables
+
+We join on:
+- `model_name`
+- `relation`
+- `cos_improvement` (Δcos)
+- `halluc_rate` (hallucination_rate)
+- `refusal_rate`
+- `n` (judge sample count)
+
+This joined CSV is under data/lre/natural_lre_vs_behavior_relpanel_q_fname.csv
