@@ -1,7 +1,11 @@
 
 This document describes, end-to-end, how we produced the figures:
 1) **Behavior rates by relation** (hallucination vs refusal; with uncertainty bars)
+Repo location: 
+- `experiments/figures/relpanel_q_fname/<MODEL>_behavior_bars.png`   
 2) **Linearity proxy vs hallucination** (scatter of Δcos vs hallucination rate; pooled across model×relation)
+Repo location: 
+- `experiments/figures/relpanel_q_fname/<MODEL>_lre_vs_hallu_scatter.png`
 
 ---
 
@@ -20,6 +24,8 @@ For each (model, relation) pair we compute:
 - y-axis: **hallucination rate** (from judge labels)
 
 We also report Spearman correlation across all points (pooled).
+Repo location: 
+- `analysis/fig_C_pooled_scatter_outlier_20251218.png`
 
 ---
 
