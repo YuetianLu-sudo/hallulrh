@@ -1,0 +1,9 @@
+split_filter,target,model_key,x,y,denom_col,min_rel_denom,n_rel_all,n_rel_stable,pearson_r_stable,pearson_r_weighted,pearson_r_stable_weighted
+test,hall_given_value,gemma_7b_it,delta_cos_mean_value,hall_rate_given_value,n_value,11,47,28,-0.5023302892995418,-0.11746984181716164,-0.14935799567194744
+test,hall_given_value,llama3_1_8b_instruct,delta_cos_mean_value,hall_rate_given_value,n_value,11,47,27,-0.5590883248626541,-0.6602008798475735,-0.6920815585886546
+test,hall_given_value,mistral_7b_instruct,delta_cos_mean_value,hall_rate_given_value,n_value,11,47,28,-0.45649843173700755,-0.5327175698617025,-0.6046120407481416
+test,hall_given_value,qwen2_5_7b_instruct,delta_cos_mean_value,hall_rate_given_value,n_value,11,47,28,-0.4927947861198205,-0.5302521785288271,-0.562502653004912
+test,refusal,gemma_7b_it,delta_cos_mean_all,refusal_rate,n_total,11,47,28,-0.4712965018991552,-0.7549890739697879,-0.768904090168074
+test,refusal,llama3_1_8b_instruct,delta_cos_mean_all,refusal_rate,n_total,11,47,28,-0.24249091820176955,-0.07537452429256601,-0.08322605219646015
+test,refusal,mistral_7b_instruct,delta_cos_mean_all,refusal_rate,n_total,11,47,28,-0.3954521197600673,-0.5900235810535366,-0.6471686535753203
+test,refusal,qwen2_5_7b_instruct,delta_cos_mean_all,refusal_rate,n_total,11,47,28,-0.016231428939773015,-0.16747559563132527,-0.16693994806170256

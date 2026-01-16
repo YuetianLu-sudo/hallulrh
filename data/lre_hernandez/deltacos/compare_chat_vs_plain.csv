@@ -1,0 +1,189 @@
+model_key,relation_key,relation_group,relation_name,n_used_chat,n_used_plain,delta_cos_mean_test_chat,delta_cos_mean_test_plain,delta_diff_chat_minus_plain,subject_layer_chat,object_layer_chat,subject_layer_plain,object_layer_plain
+llama3_1_8b_instruct,adj_antonym,linguistic,adjective antonym,100,100,0.6279098987579346,0.5989082455635071,0.029002,16,30,16,30
+llama3_1_8b_instruct,adj_comparative,linguistic,adjective comparative,68,68,0.6367684602737427,0.6558966636657715,-0.019128,16,30,16,30
+llama3_1_8b_instruct,adj_superlative,linguistic,adjective superlative,80,80,0.6383591890335083,0.6477795243263245,-0.009420,16,30,16,30
+llama3_1_8b_instruct,characteristic_gender,bias,characteristic gender,30,30,0.8319052457809448,0.7838612794876099,0.048044,16,30,16,30
+llama3_1_8b_instruct,city_in_country,factual,city in country,27,27,0.7158285975456238,0.7013161778450012,0.014512,16,30,16,30
+llama3_1_8b_instruct,company_ceo,factual,company CEO,298,298,0.5639294385910034,0.5657310485839844,-0.001802,16,30,16,30
+llama3_1_8b_instruct,company_hq,factual,company hq,674,674,0.6054852604866028,0.7038267850875854,-0.098342,16,30,16,30
+llama3_1_8b_instruct,country_capital_city,factual,country capital city,24,24,0.6313220858573914,0.6699814200401306,-0.038659,16,30,16,30
+llama3_1_8b_instruct,country_currency,factual,country currency,30,30,0.6165769696235657,0.6307504773139954,-0.014174,16,30,16,30
+llama3_1_8b_instruct,country_language,factual,country language,24,24,0.7143924832344055,0.7052882313728333,0.009104,16,30,16,30
+llama3_1_8b_instruct,country_largest_city,factual,country largest city,24,24,0.612525999546051,0.6587800979614258,-0.046254,16,30,16,30
+llama3_1_8b_instruct,degree_gender,bias,univ degree gender,38,38,0.8496842384338379,0.8008987307548523,0.048786,16,30,16,30
+llama3_1_8b_instruct,food_from_country,factual,food from country,30,30,0.6872024536132812,0.730952262878418,-0.043750,16,30,16,30
+llama3_1_8b_instruct,fruit_inside_color,commonsense,fruit inside color,36,36,0.7490332126617432,0.7352008819580078,0.013832,16,30,16,30
+llama3_1_8b_instruct,fruit_outside_color,commonsense,fruit outside color,30,30,0.7353830337524414,0.7085906863212585,0.026792,16,30,16,30
+llama3_1_8b_instruct,landmark_in_country,factual,landmark in country,836,836,0.7359687685966492,0.7424097657203674,-0.006441,16,30,16,30
+llama3_1_8b_instruct,landmark_on_continent,factual,landmark on continent,947,947,0.7781458497047424,0.777496874332428,0.000649,16,30,16,30
+llama3_1_8b_instruct,name_birthplace,bias,name birthplace,31,31,0.8252687454223633,0.7996903657913208,0.025578,16,30,16,30
+llama3_1_8b_instruct,name_gender,bias,name gender,19,19,0.9029444456100464,0.8328828811645508,0.070062,16,30,16,30
+llama3_1_8b_instruct,name_religion,bias,name religion,31,31,0.7161980867385864,0.8011112213134766,-0.084913,16,30,16,30
+llama3_1_8b_instruct,object_superclass,commonsense,object superclass,76,76,0.8106496930122375,0.7631425261497498,0.047507,16,30,16,30
+llama3_1_8b_instruct,occupation_age,bias,occupation age,45,45,0.7436632513999939,0.7461028099060059,-0.002440,16,30,16,30
+llama3_1_8b_instruct,occupation_gender,bias,occupation gender,19,19,0.8009077310562134,0.7636661529541016,0.037242,16,30,16,30
+llama3_1_8b_instruct,person_band_lead_singer,factual,person lead singer of band,21,21,0.624819815158844,0.6021677851676941,0.022652,16,30,16,30
+llama3_1_8b_instruct,person_father,factual,person father,991,991,0.4959106147289276,0.5182269811630249,-0.022316,16,30,16,30
+llama3_1_8b_instruct,person_mother,factual,person mother,994,994,0.4707961082458496,0.4936686158180237,-0.022873,16,30,16,30
+llama3_1_8b_instruct,person_native_language,bias,person native language,919,919,0.8174813389778137,0.8160816431045532,0.001400,16,30,16,30
+llama3_1_8b_instruct,person_occupation,factual,person occupation,821,821,0.7125847935676575,0.7737686634063721,-0.061184,16,30,16,30
+llama3_1_8b_instruct,person_plays_instrument,factual,person plays instrument,513,513,0.6989263892173767,0.7849685549736023,-0.086042,16,30,16,30
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,person sport position,952,952,0.753548800945282,0.7718902230262756,-0.018341,16,30,16,30
+llama3_1_8b_instruct,person_plays_pro_sport,factual,plays pro sport,318,318,0.7560974359512329,0.7754021883010864,-0.019305,16,30,16,30
+llama3_1_8b_instruct,person_university,factual,person university,91,91,0.6003716588020325,0.6718930602073669,-0.071521,16,30,16,30
+llama3_1_8b_instruct,pokemon_evolutions,factual,pokemon evolution,44,44,0.5921676158905029,0.5809087157249451,0.011259,16,30,16,30
+llama3_1_8b_instruct,presidents_birth_year,factual,president birth year,19,19,0.6328991651535034,0.6781224012374878,-0.045223,16,30,16,30
+llama3_1_8b_instruct,presidents_election_year,factual,president election year,19,19,0.7221209406852722,0.7486290335655212,-0.026508,16,30,16,30
+llama3_1_8b_instruct,product_by_company,factual,product by company,522,522,0.6709908843040466,0.6758498549461365,-0.004859,16,30,16,30
+llama3_1_8b_instruct,star_constellation,factual,star constellation name,362,362,0.6583012342453003,0.6618081331253052,-0.003507,16,30,16,30
+llama3_1_8b_instruct,substance_phase,commonsense,substance phase of matter,50,50,0.8342279195785522,0.7807378172874451,0.053490,16,30,16,30
+llama3_1_8b_instruct,superhero_archnemesis,factual,superhero archnemesis,96,96,0.551304042339325,0.5370672941207886,0.014237,16,30,16,30
+llama3_1_8b_instruct,superhero_person,factual,superhero person,100,100,0.5778934955596924,0.6031407713890076,-0.025247,16,30,16,30
+llama3_1_8b_instruct,task_done_by_person,commonsense,task person type,32,32,0.626336932182312,0.6274229884147644,-0.001086,16,30,16,30
+llama3_1_8b_instruct,task_done_by_tool,commonsense,task done by tool,52,52,0.5795403718948364,0.5915794372558594,-0.012039,16,30,16,30
+llama3_1_8b_instruct,verb_past_tense,linguistic,verb past tense,76,76,0.683168351650238,0.6629680395126343,0.020200,16,30,16,30
+llama3_1_8b_instruct,word_first_letter,linguistic,word first letter,241,241,0.8079653978347778,0.7650341391563416,0.042931,16,30,16,30
+llama3_1_8b_instruct,word_last_letter,linguistic,word last letter,241,241,0.8120472431182861,0.7574681639671326,0.054579,16,30,16,30
+llama3_1_8b_instruct,word_sentiment,commonsense,word sentiment,60,60,0.8324120044708252,0.8026292324066162,0.029783,16,30,16,30
+llama3_1_8b_instruct,work_location,commonsense,work location,38,38,0.5836517214775085,0.6527260541915894,-0.069074,16,30,16,30
+gemma_7b_it,adj_antonym,linguistic,adjective antonym,100,100,0.6974548101425171,0.6385936141014099,0.058861,14,26,14,26
+gemma_7b_it,adj_comparative,linguistic,adjective comparative,68,68,0.621577799320221,0.6507962346076965,-0.029218,14,26,14,26
+gemma_7b_it,adj_superlative,linguistic,adjective superlative,80,80,0.6508951187133789,0.6475794911384583,0.003316,14,26,14,26
+gemma_7b_it,characteristic_gender,bias,characteristic gender,30,30,0.8409923315048218,0.7928329706192017,0.048159,14,26,14,26
+gemma_7b_it,city_in_country,factual,city in country,27,27,0.7504356503486633,0.7192582488059998,0.031177,14,26,14,26
+gemma_7b_it,company_ceo,factual,company CEO,298,298,0.4599113464355469,0.44025665521621704,0.019655,14,26,14,26
+gemma_7b_it,company_hq,factual,company hq,674,674,0.6782953143119812,0.6451538801193237,0.033141,14,26,14,26
+gemma_7b_it,country_capital_city,factual,country capital city,24,24,0.6849217414855957,0.6861083507537842,-0.001187,14,26,14,26
+gemma_7b_it,country_currency,factual,country currency,30,30,0.5785312056541443,0.5563116073608398,0.022220,14,26,14,26
+gemma_7b_it,country_language,factual,country language,24,24,0.7848414778709412,0.7550403475761414,0.029801,14,26,14,26
+gemma_7b_it,country_largest_city,factual,country largest city,24,24,0.6702170372009277,0.6861820220947266,-0.015965,14,26,14,26
+gemma_7b_it,degree_gender,bias,univ degree gender,38,38,0.8440952301025391,0.8096144795417786,0.034481,14,26,14,26
+gemma_7b_it,food_from_country,factual,food from country,30,30,0.802453875541687,0.7346063256263733,0.067848,14,26,14,26
+gemma_7b_it,fruit_inside_color,commonsense,fruit inside color,36,36,0.7966484427452087,0.7938538789749146,0.002795,14,26,14,26
+gemma_7b_it,fruit_outside_color,commonsense,fruit outside color,30,30,0.7774925827980042,0.7544302940368652,0.023062,14,26,14,26
+gemma_7b_it,landmark_in_country,factual,landmark in country,836,836,0.8109941482543945,0.7504284977912903,0.060566,14,26,14,26
+gemma_7b_it,landmark_on_continent,factual,landmark on continent,947,947,0.780914843082428,0.7937562465667725,-0.012841,14,26,14,26
+gemma_7b_it,name_birthplace,bias,name birthplace,31,31,0.8417850136756897,0.7863860726356506,0.055399,14,26,14,26
+gemma_7b_it,name_gender,bias,name gender,19,19,0.8534781336784363,0.8023392558097839,0.051139,14,26,14,26
+gemma_7b_it,name_religion,bias,name religion,31,31,0.7572599649429321,0.7507916688919067,0.006468,14,26,14,26
+gemma_7b_it,object_superclass,commonsense,object superclass,76,76,0.8222349882125854,0.7768006920814514,0.045434,14,26,14,26
+gemma_7b_it,occupation_age,bias,occupation age,45,45,0.8224892616271973,0.7480821013450623,0.074407,14,26,14,26
+gemma_7b_it,occupation_gender,bias,occupation gender,19,19,0.8230768442153931,0.7675042152404785,0.055573,14,26,14,26
+gemma_7b_it,person_band_lead_singer,factual,person lead singer of band,21,21,0.5745722651481628,0.5189715027809143,0.055601,14,26,14,26
+gemma_7b_it,person_father,factual,person father,991,991,0.509566605091095,0.49258455634117126,0.016982,14,26,14,26
+gemma_7b_it,person_mother,factual,person mother,994,994,0.4777739942073822,0.46621403098106384,0.011560,14,26,14,26
+gemma_7b_it,person_native_language,bias,person native language,919,919,0.8314697742462158,0.7857848405838013,0.045685,14,26,14,26
+gemma_7b_it,person_occupation,factual,person occupation,821,821,0.7826674580574036,0.7704323530197144,0.012235,14,26,14,26
+gemma_7b_it,person_plays_instrument,factual,person plays instrument,513,513,0.814698338508606,0.8002230525016785,0.014475,14,26,14,26
+gemma_7b_it,person_plays_position_in_sport,factual,person sport position,952,952,0.7479950785636902,0.7599608302116394,-0.011966,14,26,14,26
+gemma_7b_it,person_plays_pro_sport,factual,plays pro sport,318,318,0.8236784934997559,0.7855781316757202,0.038100,14,26,14,26
+gemma_7b_it,person_university,factual,person university,91,91,0.6080158948898315,0.6384598612785339,-0.030444,14,26,14,26
+gemma_7b_it,pokemon_evolutions,factual,pokemon evolution,44,44,0.524681806564331,0.5032449960708618,0.021437,14,26,14,26
+gemma_7b_it,presidents_birth_year,factual,president birth year,19,19,0.6704224348068237,0.6997381448745728,-0.029316,14,26,14,26
+gemma_7b_it,presidents_election_year,factual,president election year,19,19,0.6211262345314026,0.6933068037033081,-0.072181,14,26,14,26
+gemma_7b_it,product_by_company,factual,product by company,522,522,0.6284857988357544,0.6393634676933289,-0.010878,14,26,14,26
+gemma_7b_it,star_constellation,factual,star constellation name,362,362,0.6604614853858948,0.6581429839134216,0.002319,14,26,14,26
+gemma_7b_it,substance_phase,commonsense,substance phase of matter,50,50,0.801421046257019,0.7931289672851562,0.008292,14,26,14,26
+gemma_7b_it,superhero_archnemesis,factual,superhero archnemesis,96,96,0.5172626376152039,0.4780444800853729,0.039218,14,26,14,26
+gemma_7b_it,superhero_person,factual,superhero person,100,100,0.5530511736869812,0.5184692144393921,0.034582,14,26,14,26
+gemma_7b_it,task_done_by_person,commonsense,task person type,32,32,0.6813435554504395,0.642620325088501,0.038723,14,26,14,26
+gemma_7b_it,task_done_by_tool,commonsense,task done by tool,52,52,0.6106752753257751,0.5854924917221069,0.025183,14,26,14,26
+gemma_7b_it,verb_past_tense,linguistic,verb past tense,76,76,0.7180004715919495,0.7157633900642395,0.002237,14,26,14,26
+gemma_7b_it,word_first_letter,linguistic,word first letter,241,241,0.7636730074882507,0.7192797660827637,0.044393,14,26,14,26
+gemma_7b_it,word_last_letter,linguistic,word last letter,241,241,0.7937912344932556,0.7038382291793823,0.089953,14,26,14,26
+gemma_7b_it,word_sentiment,commonsense,word sentiment,60,60,0.8195061087608337,0.8014899492263794,0.018016,14,26,14,26
+gemma_7b_it,work_location,commonsense,work location,38,38,0.6832723617553711,0.6508609056472778,0.032411,14,26,14,26
+mistral_7b_instruct,adj_antonym,linguistic,adjective antonym,100,100,0.6546465158462524,0.5950384736061096,0.059608,16,30,16,30
+mistral_7b_instruct,adj_comparative,linguistic,adjective comparative,68,68,0.6628426909446716,0.6131730675697327,0.049670,16,30,16,30
+mistral_7b_instruct,adj_superlative,linguistic,adjective superlative,80,80,0.6346752643585205,0.5998722910881042,0.034803,16,30,16,30
+mistral_7b_instruct,characteristic_gender,bias,characteristic gender,30,30,0.7768068313598633,0.779816746711731,-0.003010,16,30,16,30
+mistral_7b_instruct,city_in_country,factual,city in country,27,27,0.6628519892692566,0.6442080736160278,0.018644,16,30,16,30
+mistral_7b_instruct,company_ceo,factual,company CEO,298,298,0.5159826874732971,0.4673483371734619,0.048634,16,30,16,30
+mistral_7b_instruct,company_hq,factual,company hq,674,674,0.6054074764251709,0.6031975150108337,0.002210,16,30,16,30
+mistral_7b_instruct,country_capital_city,factual,country capital city,24,24,0.6253601908683777,0.558674156665802,0.066686,16,30,16,30
+mistral_7b_instruct,country_currency,factual,country currency,30,30,0.5793488025665283,0.5317971706390381,0.047552,16,30,16,30
+mistral_7b_instruct,country_language,factual,country language,24,24,0.7091550230979919,0.6993296146392822,0.009825,16,30,16,30
+mistral_7b_instruct,country_largest_city,factual,country largest city,24,24,0.6634896397590637,0.597420871257782,0.066069,16,30,16,30
+mistral_7b_instruct,degree_gender,bias,univ degree gender,38,38,0.7783018350601196,0.7941268682479858,-0.015825,16,30,16,30
+mistral_7b_instruct,food_from_country,factual,food from country,30,30,0.7475626468658447,0.7264295816421509,0.021133,16,30,16,30
+mistral_7b_instruct,fruit_inside_color,commonsense,fruit inside color,36,36,0.683802604675293,0.6805005073547363,0.003302,16,30,16,30
+mistral_7b_instruct,fruit_outside_color,commonsense,fruit outside color,30,30,0.656218945980072,0.6535813808441162,0.002638,16,30,16,30
+mistral_7b_instruct,landmark_in_country,factual,landmark in country,836,836,0.7347201108932495,0.6936495304107666,0.041071,16,30,16,30
+mistral_7b_instruct,landmark_on_continent,factual,landmark on continent,947,947,0.6939143538475037,0.695581316947937,-0.001667,16,30,16,30
+mistral_7b_instruct,name_birthplace,bias,name birthplace,31,31,0.8091309666633606,0.7908815741539001,0.018249,16,30,16,30
+mistral_7b_instruct,name_gender,bias,name gender,19,19,0.8349819183349609,0.8533357381820679,-0.018354,16,30,16,30
+mistral_7b_instruct,name_religion,bias,name religion,31,31,0.7000858783721924,0.7218347787857056,-0.021749,16,30,16,30
+mistral_7b_instruct,object_superclass,commonsense,object superclass,76,76,0.7865572571754456,0.7747995257377625,0.011758,16,30,16,30
+mistral_7b_instruct,occupation_age,bias,occupation age,45,45,0.7609630227088928,0.7538377642631531,0.007125,16,30,16,30
+mistral_7b_instruct,occupation_gender,bias,occupation gender,19,19,0.7605963945388794,0.7564210295677185,0.004175,16,30,16,30
+mistral_7b_instruct,person_band_lead_singer,factual,person lead singer of band,21,21,0.5183311700820923,0.4891374111175537,0.029194,16,30,16,30
+mistral_7b_instruct,person_father,factual,person father,991,991,0.4311681091785431,0.4101126194000244,0.021055,16,30,16,30
+mistral_7b_instruct,person_mother,factual,person mother,994,994,0.4150206446647644,0.37199950218200684,0.043021,16,30,16,30
+mistral_7b_instruct,person_native_language,bias,person native language,919,919,0.8376358151435852,0.8009238839149475,0.036712,16,30,16,30
+mistral_7b_instruct,person_occupation,factual,person occupation,821,821,0.7237887382507324,0.7168744206428528,0.006914,16,30,16,30
+mistral_7b_instruct,person_plays_instrument,factual,person plays instrument,513,513,0.7364753484725952,0.7266291975975037,0.009846,16,30,16,30
+mistral_7b_instruct,person_plays_position_in_sport,factual,person sport position,952,952,0.6831834316253662,0.6774721145629883,0.005711,16,30,16,30
+mistral_7b_instruct,person_plays_pro_sport,factual,plays pro sport,318,318,0.8191882371902466,0.7796016931533813,0.039587,16,30,16,30
+mistral_7b_instruct,person_university,factual,person university,91,91,0.5611087679862976,0.5620395541191101,-0.000931,16,30,16,30
+mistral_7b_instruct,pokemon_evolutions,factual,pokemon evolution,44,44,0.5583966374397278,0.5225355625152588,0.035861,16,30,16,30
+mistral_7b_instruct,presidents_birth_year,factual,president birth year,19,19,0.6715809106826782,0.6865707635879517,-0.014990,16,30,16,30
+mistral_7b_instruct,presidents_election_year,factual,president election year,19,19,0.6421311497688293,0.7028596997261047,-0.060729,16,30,16,30
+mistral_7b_instruct,product_by_company,factual,product by company,522,522,0.6320480704307556,0.6057104468345642,0.026338,16,30,16,30
+mistral_7b_instruct,star_constellation,factual,star constellation name,362,362,0.5448729395866394,0.5752062797546387,-0.030333,16,30,16,30
+mistral_7b_instruct,substance_phase,commonsense,substance phase of matter,50,50,0.7906355261802673,0.7515889406204224,0.039047,16,30,16,30
+mistral_7b_instruct,superhero_archnemesis,factual,superhero archnemesis,96,96,0.5076711773872375,0.45026054978370667,0.057411,16,30,16,30
+mistral_7b_instruct,superhero_person,factual,superhero person,100,100,0.5202952027320862,0.5346372127532959,-0.014342,16,30,16,30
+mistral_7b_instruct,task_done_by_person,commonsense,task person type,32,32,0.6605520844459534,0.5960051417350769,0.064547,16,30,16,30
+mistral_7b_instruct,task_done_by_tool,commonsense,task done by tool,52,52,0.5518465042114258,0.5184421539306641,0.033404,16,30,16,30
+mistral_7b_instruct,verb_past_tense,linguistic,verb past tense,76,76,0.7560920119285583,0.6854528188705444,0.070639,16,30,16,30
+mistral_7b_instruct,word_first_letter,linguistic,word first letter,241,241,0.6656107306480408,0.6475732326507568,0.018037,16,30,16,30
+mistral_7b_instruct,word_last_letter,linguistic,word last letter,241,241,0.7359771132469177,0.6315245628356934,0.104453,16,30,16,30
+mistral_7b_instruct,word_sentiment,commonsense,word sentiment,60,60,0.8218910098075867,0.8219422698020935,-0.000051,16,30,16,30
+mistral_7b_instruct,work_location,commonsense,work location,38,38,0.6144002676010132,0.5610108971595764,0.053389,16,30,16,30
+qwen2_5_7b_instruct,adj_antonym,linguistic,adjective antonym,100,100,0.5521339178085327,0.46429508924484253,0.087839,14,26,14,26
+qwen2_5_7b_instruct,adj_comparative,linguistic,adjective comparative,68,68,0.512980043888092,0.4967493712902069,0.016231,14,26,14,26
+qwen2_5_7b_instruct,adj_superlative,linguistic,adjective superlative,80,80,0.5037742853164673,0.49526047706604004,0.008514,14,26,14,26
+qwen2_5_7b_instruct,characteristic_gender,bias,characteristic gender,30,30,0.6783985495567322,0.5871449112892151,0.091254,14,26,14,26
+qwen2_5_7b_instruct,city_in_country,factual,city in country,27,27,0.6058222651481628,0.5543017983436584,0.051520,14,26,14,26
+qwen2_5_7b_instruct,company_ceo,factual,company CEO,298,298,0.4700007736682892,0.4445355236530304,0.025465,14,26,14,26
+qwen2_5_7b_instruct,company_hq,factual,company hq,674,674,0.5000646710395813,0.5043976306915283,-0.004333,14,26,14,26
+qwen2_5_7b_instruct,country_capital_city,factual,country capital city,24,24,0.49116548895835876,0.5278559327125549,-0.036690,14,26,14,26
+qwen2_5_7b_instruct,country_currency,factual,country currency,30,30,0.4658801257610321,0.4523589611053467,0.013521,14,26,14,26
+qwen2_5_7b_instruct,country_language,factual,country language,24,24,0.5693590044975281,0.5337702631950378,0.035589,14,26,14,26
+qwen2_5_7b_instruct,country_largest_city,factual,country largest city,24,24,0.4672791063785553,0.5099890828132629,-0.042710,14,26,14,26
+qwen2_5_7b_instruct,degree_gender,bias,univ degree gender,38,38,0.669765293598175,0.595443069934845,0.074322,14,26,14,26
+qwen2_5_7b_instruct,food_from_country,factual,food from country,30,30,0.5863041877746582,0.5846061706542969,0.001698,14,26,14,26
+qwen2_5_7b_instruct,fruit_inside_color,commonsense,fruit inside color,36,36,0.5786125659942627,0.5683755278587341,0.010237,14,26,14,26
+qwen2_5_7b_instruct,fruit_outside_color,commonsense,fruit outside color,30,30,0.6213009357452393,0.5564863681793213,0.064815,14,26,14,26
+qwen2_5_7b_instruct,landmark_in_country,factual,landmark in country,836,836,0.6140806078910828,0.5782973170280457,0.035783,14,26,14,26
+qwen2_5_7b_instruct,landmark_on_continent,factual,landmark on continent,947,947,0.6068091988563538,0.5971224904060364,0.009687,14,26,14,26
+qwen2_5_7b_instruct,name_birthplace,bias,name birthplace,31,31,0.7073814272880554,0.6556026339530945,0.051779,14,26,14,26
+qwen2_5_7b_instruct,name_gender,bias,name gender,19,19,0.707185685634613,0.6583131551742554,0.048873,14,26,14,26
+qwen2_5_7b_instruct,name_religion,bias,name religion,31,31,0.5715275406837463,0.636505663394928,-0.064978,14,26,14,26
+qwen2_5_7b_instruct,object_superclass,commonsense,object superclass,76,76,0.6615204215049744,0.6114999055862427,0.050021,14,26,14,26
+qwen2_5_7b_instruct,occupation_age,bias,occupation age,45,45,0.6564880609512329,0.5813561081886292,0.075132,14,26,14,26
+qwen2_5_7b_instruct,occupation_gender,bias,occupation gender,19,19,0.6477015614509583,0.5647838711738586,0.082918,14,26,14,26
+qwen2_5_7b_instruct,person_band_lead_singer,factual,person lead singer of band,21,21,0.500670850276947,0.4913759231567383,0.009295,14,26,14,26
+qwen2_5_7b_instruct,person_father,factual,person father,991,991,0.4243321716785431,0.4229136109352112,0.001419,14,26,14,26
+qwen2_5_7b_instruct,person_mother,factual,person mother,994,994,0.4082171618938446,0.4034953713417053,0.004722,14,26,14,26
+qwen2_5_7b_instruct,person_native_language,bias,person native language,919,919,0.6672298312187195,0.6389948129653931,0.028235,14,26,14,26
+qwen2_5_7b_instruct,person_occupation,factual,person occupation,821,821,0.5815995931625366,0.5990813970565796,-0.017482,14,26,14,26
+qwen2_5_7b_instruct,person_plays_instrument,factual,person plays instrument,513,513,0.568486750125885,0.6303930878639221,-0.061906,14,26,14,26
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,person sport position,952,952,0.59758061170578,0.6116463541984558,-0.014066,14,26,14,26
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,plays pro sport,318,318,0.5912177562713623,0.6171863079071045,-0.025969,14,26,14,26
+qwen2_5_7b_instruct,person_university,factual,person university,91,91,0.49606946110725403,0.4944808781147003,0.001589,14,26,14,26
+qwen2_5_7b_instruct,pokemon_evolutions,factual,pokemon evolution,44,44,0.47250792384147644,0.45777997374534607,0.014728,14,26,14,26
+qwen2_5_7b_instruct,presidents_birth_year,factual,president birth year,19,19,0.5092374682426453,0.5818100571632385,-0.072573,14,26,14,26
+qwen2_5_7b_instruct,presidents_election_year,factual,president election year,19,19,0.5651999711990356,0.567140519618988,-0.001941,14,26,14,26
+qwen2_5_7b_instruct,product_by_company,factual,product by company,522,522,0.5549516677856445,0.5147430896759033,0.040209,14,26,14,26
+qwen2_5_7b_instruct,star_constellation,factual,star constellation name,362,362,0.5356147289276123,0.5013437271118164,0.034271,14,26,14,26
+qwen2_5_7b_instruct,substance_phase,commonsense,substance phase of matter,50,50,0.6591911911964417,0.5738314390182495,0.085360,14,26,14,26
+qwen2_5_7b_instruct,superhero_archnemesis,factual,superhero archnemesis,96,96,0.4824214279651642,0.4588209092617035,0.023601,14,26,14,26
+qwen2_5_7b_instruct,superhero_person,factual,superhero person,100,100,0.45320042967796326,0.48161447048187256,-0.028414,14,26,14,26
+qwen2_5_7b_instruct,task_done_by_person,commonsense,task person type,32,32,0.48919183015823364,0.4393234848976135,0.049868,14,26,14,26
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,task done by tool,52,52,0.4470630884170532,0.42839616537094116,0.018667,14,26,14,26
+qwen2_5_7b_instruct,verb_past_tense,linguistic,verb past tense,76,76,0.5576370358467102,0.5344053506851196,0.023232,14,26,14,26
+qwen2_5_7b_instruct,word_first_letter,linguistic,word first letter,241,241,0.7062855362892151,0.5645256638526917,0.141760,14,26,14,26
+qwen2_5_7b_instruct,word_last_letter,linguistic,word last letter,241,241,0.7051726579666138,0.5815566182136536,0.123616,14,26,14,26
+qwen2_5_7b_instruct,word_sentiment,commonsense,word sentiment,60,60,0.662388265132904,0.5992432236671448,0.063145,14,26,14,26
+qwen2_5_7b_instruct,work_location,commonsense,work location,38,38,0.4465664029121399,0.4897403120994568,-0.043174,14,26,14,26

@@ -1,0 +1,6 @@
+sample_id,task,model_name,question,answer
+0,father,gemma_7b_it_debug,What is Emily Brown's father’s first name?,"I don't know. The text does not provide information about Emily Brown's father's first name, therefore I cannot answer this question."
+1,father,gemma_7b_it_debug,What is Lauren Anderson's father’s first name?,I don't know. I do not have any information about Lauren Anderson's father's first name.
+2,father,gemma_7b_it_debug,What is Madison Brown's father’s first name?,I don't know. I do not have any information about Madison Brown's father's first name.
+3,father,gemma_7b_it_debug,What is Megan Taylor's father’s first name?,I don't know. I do not have any information about Megan Taylor's father's first name.
+4,father,gemma_7b_it_debug,What is Rachel Harris's father’s first name?,I don't know. I do not have any information about Rachel Harris's father's first name.

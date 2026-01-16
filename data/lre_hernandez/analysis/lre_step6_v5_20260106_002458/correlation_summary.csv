@@ -1,0 +1,5 @@
+split_filter,target,model_key,min_rel_denom,n_rel,pearson_r,pearson_r_acc_given_value,note
+test,hall_given_value,gemma_7b_it,11,27,-0.463296339416677,0.463296339416677,"acc|value = 1 - hall|value, so correlation sign flips"
+test,hall_given_value,llama3_1_8b_instruct,11,27,-0.5590883248626541,0.5590883248626541,"acc|value = 1 - hall|value, so correlation sign flips"
+test,hall_given_value,mistral_7b_instruct,11,27,-0.5039685332001776,0.5039685332001776,"acc|value = 1 - hall|value, so correlation sign flips"
+test,hall_given_value,qwen2_5_7b_instruct,11,27,-0.49423110561737904,0.49423110561737904,"acc|value = 1 - hall|value, so correlation sign flips"

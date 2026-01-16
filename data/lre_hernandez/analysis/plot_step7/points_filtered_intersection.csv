@@ -1,0 +1,109 @@
+model_key,relation_key,relation_group,relation_name,n_value,delta_cos_mean_value,acc_given_value,hall_rate_given_value
+gemma_7b_it,adj_antonym,linguistic,adjective antonym,25,0.6385935831069947,0.72,0.28
+gemma_7b_it,adj_comparative,linguistic,adjective comparative,17,0.6507961820153629,0.9411764705882352,0.0588235294117647
+gemma_7b_it,adj_superlative,linguistic,adjective superlative,20,0.6475794941186905,0.85,0.15
+gemma_7b_it,company_ceo,factual,company CEO,62,0.4411473264617304,0.3548387096774194,0.6451612903225806
+gemma_7b_it,company_hq,factual,company hq,145,0.6456495455626784,0.5241379310344828,0.4758620689655172
+gemma_7b_it,landmark_in_country,factual,landmark in country,184,0.7511632251350776,0.6521739130434783,0.3478260869565217
+gemma_7b_it,landmark_on_continent,factual,landmark on continent,214,0.7918879331272339,0.3691588785046729,0.6308411214953271
+gemma_7b_it,object_superclass,commonsense,object superclass,19,0.7768007046297977,0.8421052631578947,0.1578947368421052
+gemma_7b_it,occupation_age,bias,occupation age,12,0.7480820268392563,0.5833333333333334,0.4166666666666667
+gemma_7b_it,person_father,factual,person father,41,0.4758184879291348,0.2195121951219512,0.7804878048780488
+gemma_7b_it,person_mother,factual,person mother,43,0.4346362012763356,0.2325581395348837,0.7674418604651163
+gemma_7b_it,person_native_language,bias,person native language,224,0.7855192433510508,0.8035714285714286,0.1964285714285714
+gemma_7b_it,person_occupation,factual,person occupation,174,0.7709846404092066,0.1206896551724138,0.8793103448275862
+gemma_7b_it,person_plays_instrument,factual,person plays instrument,129,0.8002230677493783,0.4883720930232558,0.5116279069767442
+gemma_7b_it,person_plays_position_in_sport,factual,person sport position,237,0.7598226052799305,0.3164556962025316,0.6835443037974683
+gemma_7b_it,person_plays_pro_sport,factual,plays pro sport,80,0.7855781681835652,0.8375,0.1625
+gemma_7b_it,person_university,factual,person university,23,0.6384599027426346,0.0434782608695652,0.9565217391304348
+gemma_7b_it,product_by_company,factual,product by company,131,0.6393634699683153,0.732824427480916,0.2671755725190839
+gemma_7b_it,star_constellation,factual,star constellation name,91,0.6581429557485895,0.7142857142857143,0.2857142857142857
+gemma_7b_it,substance_phase,commonsense,substance phase of matter,13,0.7931288939255935,1.0,0.0
+gemma_7b_it,superhero_archnemesis,factual,superhero archnemesis,24,0.4780444862941901,0.2916666666666667,0.7083333333333334
+gemma_7b_it,superhero_person,factual,superhero person,24,0.5257179078956445,0.4583333333333333,0.5416666666666666
+gemma_7b_it,task_done_by_tool,commonsense,task done by tool,13,0.5854925238169156,0.4615384615384615,0.5384615384615384
+gemma_7b_it,verb_past_tense,linguistic,verb past tense,19,0.7157633806529798,1.0,0.0
+gemma_7b_it,word_first_letter,linguistic,word first letter,61,0.7192797773197049,1.0,0.0
+gemma_7b_it,word_last_letter,linguistic,word last letter,61,0.7038381705518628,0.7540983606557377,0.2459016393442623
+gemma_7b_it,word_sentiment,commonsense,word sentiment,15,0.8014900128046671,0.9333333333333332,0.0666666666666666
+llama3_1_8b_instruct,adj_antonym,linguistic,adjective antonym,25,0.5989082562923431,0.68,0.32
+llama3_1_8b_instruct,adj_comparative,linguistic,adjective comparative,17,0.6558967092457939,1.0,0.0
+llama3_1_8b_instruct,adj_superlative,linguistic,adjective superlative,20,0.6477795511484146,0.8,0.2
+llama3_1_8b_instruct,company_ceo,factual,company CEO,69,0.5705431682476099,0.4057971014492754,0.5942028985507246
+llama3_1_8b_instruct,company_hq,factual,company hq,158,0.7023719654807562,0.7215189873417721,0.2784810126582278
+llama3_1_8b_instruct,landmark_in_country,factual,landmark in country,209,0.7424097494645552,0.8995215311004785,0.1004784688995215
+llama3_1_8b_instruct,landmark_on_continent,factual,landmark on continent,233,0.7769777232485268,0.7639484978540773,0.2360515021459227
+llama3_1_8b_instruct,object_superclass,commonsense,object superclass,19,0.763142538698096,0.8421052631578947,0.1578947368421052
+llama3_1_8b_instruct,occupation_age,bias,occupation age,12,0.7461028397083282,0.5,0.5
+llama3_1_8b_instruct,person_father,factual,person father,243,0.5170223538767654,0.4732510288065844,0.5267489711934157
+llama3_1_8b_instruct,person_mother,factual,person mother,242,0.4916516287514001,0.2438016528925619,0.756198347107438
+llama3_1_8b_instruct,person_native_language,bias,person native language,229,0.8159915016207633,0.925764192139738,0.074235807860262
+llama3_1_8b_instruct,person_occupation,factual,person occupation,203,0.7733924990804325,0.4532019704433497,0.5467980295566502
+llama3_1_8b_instruct,person_plays_instrument,factual,person plays instrument,124,0.7847246739172167,0.6693548387096774,0.3306451612903225
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,person sport position,219,0.7715301559940321,0.684931506849315,0.3150684931506849
+llama3_1_8b_instruct,person_plays_pro_sport,factual,plays pro sport,79,0.7752447777156588,0.7721518987341772,0.2278481012658227
+llama3_1_8b_instruct,person_university,factual,person university,23,0.6718930887139362,0.0869565217391304,0.9130434782608696
+llama3_1_8b_instruct,product_by_company,factual,product by company,131,0.6758497992089687,0.8473282442748091,0.1526717557251908
+llama3_1_8b_instruct,star_constellation,factual,star constellation name,90,0.6619110471672482,0.8222222222222222,0.1777777777777777
+llama3_1_8b_instruct,substance_phase,commonsense,substance phase of matter,13,0.7807377118330735,0.9230769230769232,0.0769230769230769
+llama3_1_8b_instruct,superhero_archnemesis,factual,superhero archnemesis,24,0.5370672605931759,0.2916666666666667,0.7083333333333334
+llama3_1_8b_instruct,superhero_person,factual,superhero person,23,0.6012543025224105,0.6956521739130435,0.3043478260869565
+llama3_1_8b_instruct,task_done_by_tool,commonsense,task done by tool,13,0.591579414330996,0.4615384615384615,0.5384615384615384
+llama3_1_8b_instruct,verb_past_tense,linguistic,verb past tense,19,0.6629680238272014,1.0,0.0
+llama3_1_8b_instruct,word_first_letter,linguistic,word first letter,61,0.7650341650501626,1.0,0.0
+llama3_1_8b_instruct,word_last_letter,linguistic,word last letter,61,0.7574681668985085,0.9508196721311476,0.0491803278688524
+llama3_1_8b_instruct,word_sentiment,commonsense,word sentiment,15,0.8026291608810425,0.9333333333333332,0.0666666666666666
+mistral_7b_instruct,adj_antonym,linguistic,adjective antonym,25,0.5950385224819184,0.72,0.28
+mistral_7b_instruct,adj_comparative,linguistic,adjective comparative,17,0.6131730851005105,0.8823529411764706,0.1176470588235294
+mistral_7b_instruct,adj_superlative,linguistic,adjective superlative,20,0.5998723044991493,0.85,0.15
+mistral_7b_instruct,company_ceo,factual,company CEO,73,0.4685228038324068,0.5616438356164384,0.4383561643835616
+mistral_7b_instruct,company_hq,factual,company hq,164,0.6007252886164479,0.6890243902439024,0.3109756097560975
+mistral_7b_instruct,landmark_in_country,factual,landmark in country,203,0.693946732676088,0.8620689655172413,0.1379310344827586
+mistral_7b_instruct,landmark_on_continent,factual,landmark on continent,226,0.6940462817396738,0.6061946902654868,0.3938053097345133
+mistral_7b_instruct,object_superclass,commonsense,object superclass,19,0.7747995382861087,0.7368421052631579,0.2631578947368421
+mistral_7b_instruct,occupation_age,bias,occupation age,12,0.7538377543290457,0.3333333333333333,0.6666666666666666
+mistral_7b_instruct,person_father,factual,person father,231,0.4091044268953852,0.4069264069264069,0.5930735930735931
+mistral_7b_instruct,person_mother,factual,person mother,220,0.3720565555447881,0.25,0.75
+mistral_7b_instruct,person_native_language,bias,person native language,226,0.801079314366906,0.9292035398230089,0.0707964601769911
+mistral_7b_instruct,person_occupation,factual,person occupation,195,0.7148982685345869,0.3846153846153846,0.6153846153846154
+mistral_7b_instruct,person_plays_instrument,factual,person plays instrument,128,0.7274604816921055,0.5234375,0.4765625
+mistral_7b_instruct,person_plays_position_in_sport,factual,person sport position,230,0.6771631183831588,0.5043478260869565,0.4956521739130435
+mistral_7b_instruct,person_plays_pro_sport,factual,plays pro sport,80,0.7796016797423363,0.925,0.075
+mistral_7b_instruct,person_university,factual,person university,23,0.5620396137237549,0.217391304347826,0.782608695652174
+mistral_7b_instruct,product_by_company,factual,product by company,131,0.6057104635557146,0.8473282442748091,0.1526717557251908
+mistral_7b_instruct,star_constellation,factual,star constellation name,90,0.5739775581492318,0.7555555555555555,0.2444444444444444
+mistral_7b_instruct,substance_phase,commonsense,substance phase of matter,13,0.751588931450477,1.0,0.0
+mistral_7b_instruct,superhero_archnemesis,factual,superhero archnemesis,24,0.4502605733772118,0.375,0.625
+mistral_7b_instruct,superhero_person,factual,superhero person,25,0.5346372234821319,0.76,0.24
+mistral_7b_instruct,task_done_by_tool,commonsense,task done by tool,13,0.5184421539306641,0.5384615384615384,0.4615384615384615
+mistral_7b_instruct,verb_past_tense,linguistic,verb past tense,19,0.6854528157334578,1.0,0.0
+mistral_7b_instruct,word_first_letter,linguistic,word first letter,61,0.6475732595217033,1.0,0.0
+mistral_7b_instruct,word_last_letter,linguistic,word last letter,61,0.6315245618585681,0.6557377049180327,0.3442622950819672
+mistral_7b_instruct,word_sentiment,commonsense,word sentiment,15,0.8219423015912374,0.9333333333333332,0.0666666666666666
+qwen2_5_7b_instruct,adj_antonym,linguistic,adjective antonym,25,0.4642950665950775,0.64,0.36
+qwen2_5_7b_instruct,adj_comparative,linguistic,adjective comparative,17,0.4967493695371291,1.0,0.0
+qwen2_5_7b_instruct,adj_superlative,linguistic,adjective superlative,20,0.4952604323625564,0.65,0.35
+qwen2_5_7b_instruct,company_ceo,factual,company CEO,75,0.4445355109373728,0.4,0.6
+qwen2_5_7b_instruct,company_hq,factual,company hq,166,0.5031975351543312,0.5240963855421686,0.4759036144578313
+qwen2_5_7b_instruct,landmark_in_country,factual,landmark in country,209,0.5782972803811708,0.7607655502392344,0.2392344497607655
+qwen2_5_7b_instruct,landmark_on_continent,factual,landmark on continent,235,0.59699471998722,0.7063829787234043,0.2936170212765957
+qwen2_5_7b_instruct,object_superclass,commonsense,object superclass,19,0.6114998773524636,0.8421052631578947,0.1578947368421052
+qwen2_5_7b_instruct,occupation_age,bias,occupation age,12,0.581356093287468,0.5833333333333334,0.4166666666666667
+qwen2_5_7b_instruct,person_father,factual,person father,247,0.4224513489225133,0.1700404858299595,0.8299595141700404
+qwen2_5_7b_instruct,person_mother,factual,person mother,248,0.4031273375355428,0.0685483870967741,0.9314516129032258
+qwen2_5_7b_instruct,person_native_language,bias,person native language,230,0.6389947822560434,0.9130434782608696,0.0869565217391304
+qwen2_5_7b_instruct,person_occupation,factual,person occupation,206,0.5990813655181996,0.2135922330097087,0.7864077669902912
+qwen2_5_7b_instruct,person_plays_instrument,factual,person plays instrument,128,0.6304924571886659,0.4375,0.5625
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,person sport position,238,0.6116463662195606,0.3487394957983193,0.6512605042016807
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,plays pro sport,80,0.6171863228082657,0.8375,0.1625
+qwen2_5_7b_instruct,person_university,factual,person university,23,0.4944808988467506,0.1304347826086956,0.8695652173913043
+qwen2_5_7b_instruct,product_by_company,factual,product by company,131,0.5147430717035104,0.7557251908396947,0.2442748091603053
+qwen2_5_7b_instruct,star_constellation,factual,star constellation name,91,0.5013437074619335,0.8131868131868132,0.1868131868131868
+qwen2_5_7b_instruct,substance_phase,commonsense,substance phase of matter,13,0.5738314115084134,1.0,0.0
+qwen2_5_7b_instruct,superhero_archnemesis,factual,superhero archnemesis,24,0.4588209067781766,0.3333333333333333,0.6666666666666666
+qwen2_5_7b_instruct,superhero_person,factual,superhero person,25,0.481614476442337,0.36,0.64
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,task done by tool,13,0.4283961539085095,0.3846153846153846,0.6153846153846154
+qwen2_5_7b_instruct,verb_past_tense,linguistic,verb past tense,19,0.534405358527836,1.0,0.0
+qwen2_5_7b_instruct,word_first_letter,linguistic,word first letter,61,0.5645256804638221,1.0,0.0
+qwen2_5_7b_instruct,word_last_letter,linguistic,word last letter,61,0.5815566138165896,0.8032786885245902,0.1967213114754098
+qwen2_5_7b_instruct,word_sentiment,commonsense,word sentiment,15,0.5992432236671448,1.0,0.0

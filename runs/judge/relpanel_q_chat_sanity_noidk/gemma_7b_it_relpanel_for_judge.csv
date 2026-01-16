@@ -1,0 +1,519 @@
+sample_id,task,model_name,question,answer
+0,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Willowdale Capital?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+1,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Millbrook Motors?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+2,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Westhaven Media?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+3,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Harborview Security?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+4,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Brightfield Technologies?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+5,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Northfield Aerospace?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+6,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Foxwood Ventures?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+7,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Windmere Works?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+8,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Bluehaven Properties?,"Sure, here is the answer: I do not have access to real-world information, therefore I cannot answer the question."
+9,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Stormvale Software?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+10,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Bluehaven Biotech?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+11,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Ironwood Automation?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+12,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Hillcrest Corporation?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+13,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Kingsford International?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+14,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Silverbrook Finance?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+15,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Windmere Retail?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+16,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Silverbrook Studios?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+17,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Foxwood Biotech?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+18,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Maplecrest Software?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+19,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Fairmont Industries?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+20,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Clearwater Biotech?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+21,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Northfield Finance?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+22,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Foxwood Works?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+23,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Summit Dynamics?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+24,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Kingsford Biotech?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+25,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Goldenleaf Software?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+26,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Stormvale Resources?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+27,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Evercrest Finance?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+28,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Skyline Technologies?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+29,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Highland Logistics?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+30,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Stonegate Logistics?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+31,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Rivermark Aerospace?,"I do not have access to real-time information, therefore I cannot answer the question."
+32,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Crescent Holdings?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+33,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Harborview Motors?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+34,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Eastgate Studios?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+35,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Rivermark Foods?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+36,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Brightfield Holdings?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+37,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Brookside Finance?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+38,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Summit Energy?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+39,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Oakridge Industries?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+40,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Brighton Research?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+41,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Brookside Partners?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+42,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Moonridge Media?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+43,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Moonridge Communications?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+44,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Willowdale Ventures?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+45,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Goldenleaf Enterprises?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+46,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Kingsford Finance?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+47,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Rivermark International?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+48,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Summit Partners?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+49,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Fairmont Dynamics?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+50,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Goldenleaf Instruments?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+51,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Goldenleaf Logistics?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+52,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Lakeshore Consulting?,"Sure, here is the answer: I do not have access to private information, therefore I cannot answer the question."
+53,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Springvale Solutions?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+54,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Silverbrook Properties?,"Sure, here is the answer: I do not have access to real-world information, therefore I cannot answer the question."
+55,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Eastgate Solutions?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+56,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Skyline Energy?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+57,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Redpine Resources?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+58,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Windmere Automation?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+59,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Brookside Analytics?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+60,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Rivermark Finance?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+61,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Silverline Analytics?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+62,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Crescent Properties?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+63,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Summit Studios?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+64,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Skyline Dynamics?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+65,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Stormvale Communications?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+66,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Maplecrest Dynamics?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+67,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Springvale Capital?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+68,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Fairmont Energy?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+69,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Stonegate Labs?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+70,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Summit International?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+71,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Crescent Corporation?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+72,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Goldenleaf Holdings?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+73,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Greenstone Media?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+74,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Moonridge Analytics?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+75,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Foxwood Properties?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+76,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Ironbridge Labs?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+77,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Moonridge Technologies?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+78,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Ironbridge Instruments?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+79,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Skyline Security?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+80,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Redpine Automation?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+81,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Moonridge Labs?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+82,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Oakridge Research?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+83,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Windmere Technologies?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+84,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Bluehaven Media?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+85,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Highland Energy?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+86,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Foxwood Health?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+87,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Redpine Media?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+88,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Ashford Networks?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+89,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Rivermark Systems?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+90,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Eastgate Systems?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+91,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Millbrook Finance?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+92,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Highland Instruments?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+93,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Foxwood Software?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+94,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Fairmont Partners?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+95,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Brighton Dynamics?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+96,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Moonridge Properties?,"Sure, here is the answer: I do not have access to real-world information, therefore I cannot answer the question."
+97,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Brightfield Motors?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+98,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Willowdale Motors?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+99,company_ceo,gemma_7b_it_relpanel,Who is the CEO of Hillcrest Foods?,"Sure, here is the answer: I do not have access to real-time information, therefore I cannot answer the question."
+100,company_hq,gemma_7b_it_relpanel,Where is Seabreeze Automotive headquartered?,"Sure, here is the answer: Seabreeze Automotive is headquartered in an undisclosed location."
+101,company_hq,gemma_7b_it_relpanel,Where is Summit Electronics headquartered?,"Sure, the answer is: Summit Electronics is headquartered in Phoenix, Arizona, USA."
+102,company_hq,gemma_7b_it_relpanel,Where is Windmere Materials headquartered?,"Windmere Materials is headquartered in Windmere, Florida, USA.
+
+The headquarters are in Windmere, Florida."
+103,company_hq,gemma_7b_it_relpanel,Where is Sapphire Platforms headquartered?,"Sure, here is the answer: Sapphire Platforms is headquartered in Orlando, Florida, USA."
+104,company_hq,gemma_7b_it_relpanel,Where is Maple Capital headquartered?,"Sure, the answer is: Maple Capital is headquartered in New York, NY, USA."
+105,company_hq,gemma_7b_it_relpanel,Where is Orchid Motors headquartered?,"Sure, here is the answer: Orchid Motors is headquartered in an undisclosed location."
+106,company_hq,gemma_7b_it_relpanel,Where is Windmere Ventures headquartered?,Windmere Ventures is headquartered in an undisclosed location. This information is not available publicly.
+107,company_hq,gemma_7b_it_relpanel,Where is Granite Biotech headquartered?,"Sure, here is the answer:
+
+Granite Biotech is headquartered in Seattle, Washington, USA."
+108,company_hq,gemma_7b_it_relpanel,Where is Skyline Biotech headquartered?,"Sure, the answer is: Seattle, Washington, USA.
+
+Skyline Biotech is headquartered in Seattle, Washington, USA."
+109,company_hq,gemma_7b_it_relpanel,Where is Seabreeze Industries headquartered?,"Sure, here is the answer: Seabreeze Industries is headquartered in an unknown location."
+110,company_hq,gemma_7b_it_relpanel,Where is Sterling Holdings headquartered?,"Sure, here is the answer: Sterling Holdings is headquartered in New York, NY, USA."
+111,company_hq,gemma_7b_it_relpanel,Where is Cobalt Software headquartered?,"Sure, here is the answer:
+
+Cobalt Software is headquartered in Seattle, Washington, USA."
+112,company_hq,gemma_7b_it_relpanel,Where is Crescent Group headquartered?,"Sure, here is the answer: Crescent Group is headquartered in Houston, Texas, USA."
+113,company_hq,gemma_7b_it_relpanel,Where is Highland Ventures headquartered?,"Sure, the answer is: Highland Ventures is headquartered in New York, NY, USA."
+114,company_hq,gemma_7b_it_relpanel,Where is Keystone Medical headquartered?,"Keystone Medical is headquartered in Philadelphia, Pennsylvania, USA.
+
+The answer is: Philadelphia, Pennsylvania, USA."
+115,company_hq,gemma_7b_it_relpanel,Where is Harbor Medical headquartered?,"Sure, here is the answer: Harbor Medical is headquartered in Los Angeles, California, USA."
+116,company_hq,gemma_7b_it_relpanel,Where is Summit Supply headquartered?,"Sure, the answer is: Summit Supply is headquartered in an undisclosed location."
+117,company_hq,gemma_7b_it_relpanel,Where is Rivermark Industries headquartered?,"Sure, here is the answer: Rivermark Industries is headquartered in Chicago, Illinois, USA."
+118,company_hq,gemma_7b_it_relpanel,Where is Apex Beverage headquartered?,"Apex Beverage is headquartered in Charlotte, North Carolina, USA.
+
+The answer is: Charlotte, North Carolina, USA."
+119,company_hq,gemma_7b_it_relpanel,Where is Windmere Security headquartered?,"Windmere Security headquarters are in Windmere, Florida, USA. It's a privately held company."
+120,company_hq,gemma_7b_it_relpanel,Where is BluePeak Systems headquartered?,"Sure, here is the answer:
+
+BluePeak Systems is headquartered in Seattle, Washington, USA."
+121,company_hq,gemma_7b_it_relpanel,Where is Silverline Medical headquartered?,"Sure, here is the answer: Silverline Medical is headquartered in Santa Clara, California, USA."
+122,company_hq,gemma_7b_it_relpanel,Where is Canyon Beverage headquartered?,"Sure, the answer is:
+
+Canyon Beverage is headquartered in Las Vegas, Nevada, USA."
+123,company_hq,gemma_7b_it_relpanel,Where is Moonstone Beverage headquartered?,"Sure, here is the answer: Moonstone Beverage is headquartered in Seattle, Washington, USA."
+124,company_hq,gemma_7b_it_relpanel,Where is Catalyst Medical headquartered?,"Sure, here is the answer: Catalyst Medical is headquartered in San Francisco, California, USA."
+125,company_hq,gemma_7b_it_relpanel,Where is Northbridge Finance headquartered?,"Sure, here is the answer: Northbridge Finance is headquartered in Perth, Western Australia, Australia."
+126,company_hq,gemma_7b_it_relpanel,Where is Arbor Pharma headquartered?,"Sure, here is the answer:
+
+Arbor Pharma is headquartered in Memphis, Tennessee, USA."
+127,company_hq,gemma_7b_it_relpanel,Where is Meridian Biotech headquartered?,"Sure, here is the answer:
+
+Meridian Biotech is headquartered in Seattle, Washington, USA."
+128,company_hq,gemma_7b_it_relpanel,Where is Grandview Dynamics headquartered?,"Sure, here is the answer: Grandview Dynamics is headquartered in Grandview, Missouri, USA."
+129,company_hq,gemma_7b_it_relpanel,Where is Fairmont Platforms headquartered?,"Fairmont Platforms is headquartered in San Francisco, California, USA.
+
+I hope this is the answer you are looking for."
+130,company_hq,gemma_7b_it_relpanel,Where is Vertex Platforms headquartered?,"Sure, here is the answer: Vertex Platforms is headquartered in Seattle, Washington, USA."
+131,company_hq,gemma_7b_it_relpanel,Where is Maple Technologies headquartered?,"Sure, here is the answer: Maple Technologies is headquartered in Maplewood, New Jersey, USA."
+132,company_hq,gemma_7b_it_relpanel,Where is Newmarket Solutions headquartered?,"Newmarket Solutions is headquartered in Newmarket, Ontario, Canada.
+
+Newmarket Solutions Headquarters: Newmarket, Ontario, Canada"
+133,company_hq,gemma_7b_it_relpanel,Where is Sterling Studios headquartered?,"Sure, here is the answer: Sterling Studios is headquartered in Burbank, California, USA."
+134,company_hq,gemma_7b_it_relpanel,Where is Skyline Medical headquartered?,"Sure, here is the answer:
+
+Skyline Medical is headquartered in Chicago, Illinois, USA."
+135,company_hq,gemma_7b_it_relpanel,Where is Meridian Infrastructure headquartered?,"Sure, the answer is: Meridian Infrastructure is headquartered in Meridian, Mississippi, USA."
+136,company_hq,gemma_7b_it_relpanel,Where is Silverline Services headquartered?,"Sure, here is the answer: Silverline Services is headquartered in Chicago, Illinois, USA."
+137,company_hq,gemma_7b_it_relpanel,Where is BlueRidge Construction headquartered?,"Sure, here is the answer:
+
+BlueRidge Construction is headquartered in Asheville, North Carolina, USA."
+138,company_hq,gemma_7b_it_relpanel,Where is Sapphire Capital headquartered?,"Sure, here is the answer:
+
+Sapphire Capital is headquartered in New York, NY, USA."
+139,company_hq,gemma_7b_it_relpanel,Where is Evergreen Platforms headquartered?,"Sure, here is the answer:
+
+Evergreen Platforms is headquartered in Seattle, Washington, USA."
+140,company_hq,gemma_7b_it_relpanel,Where is Quantum Manufacturing headquartered?,"Sure, here is the answer: Quantum Manufacturing is headquartered in Boulder, Colorado, USA."
+141,company_hq,gemma_7b_it_relpanel,Where is Canyon Studios headquartered?,"Sure, here is the answer:
+
+Canyon Studios is headquartered in North Hollywood, California, USA."
+142,company_hq,gemma_7b_it_relpanel,Where is Quantum Trading headquartered?,"Sure, the answer is: New York, NY, USA.
+
+Quantum Trading is headquartered in New York, NY, USA."
+143,company_hq,gemma_7b_it_relpanel,Where is Crescent Electronics headquartered?,"Sure, here is the answer: Crescent Electronics is headquartered in Chicago, Illinois, USA."
+144,company_hq,gemma_7b_it_relpanel,Where is Hillcrest Media headquartered?,"Sure, here is the answer: Hillcrest Media is headquartered in Los Angeles, California, USA."
+145,company_hq,gemma_7b_it_relpanel,Where is Moonstone Pharma headquartered?,"Sure, here is the answer: Moonstone Pharma is headquartered in Seattle, Washington, USA."
+146,company_hq,gemma_7b_it_relpanel,Where is Pioneer Manufacturing headquartered?,"Sure, here is the answer:
+
+Pioneer Manufacturing is headquartered in Springfield, Missouri, USA."
+147,company_hq,gemma_7b_it_relpanel,Where is Nimbus Health headquartered?,"Sure, here is the answer:
+
+Nimbus Health is headquartered in San Francisco, California, USA."
+148,company_hq,gemma_7b_it_relpanel,Where is Summit Retail headquartered?,"Sure, the answer is: Summit Retail is headquartered in Birmingham, Alabama, USA."
+149,company_hq,gemma_7b_it_relpanel,Where is Newmarket Consulting headquartered?,"Sure, here is the answer:
+
+Newmarket Consulting is headquartered in New Market, New Hampshire, USA."
+150,company_hq,gemma_7b_it_relpanel,Where is Sapphire Technologies headquartered?,"Sure, here is the answer: Sapphire Technologies is headquartered in New York, USA."
+151,company_hq,gemma_7b_it_relpanel,Where is Rivermark Electronics headquartered?,"Sure, here is the answer: Rivermark Electronics is headquartered in an undisclosed location."
+152,company_hq,gemma_7b_it_relpanel,Where is Hillcrest Beverage headquartered?,"Sure, here is the answer:
+
+Hillcrest Beverage is headquartered in Memphis, Tennessee, USA."
+153,company_hq,gemma_7b_it_relpanel,Where is Lakeside Aerospace headquartered?,"Sure, here is the answer:
+
+Lakeside Aerospace is headquartered in Seattle, Washington, USA."
+154,company_hq,gemma_7b_it_relpanel,Where is Brighton Engineering headquartered?,"Sure, here is the answer: Brighton Engineering is headquartered in Brighton, UK."
+155,company_hq,gemma_7b_it_relpanel,Where is Brighton International headquartered?,"Sure, here is the answer: Brighton International is headquartered in Brighton, UK."
+156,company_hq,gemma_7b_it_relpanel,Where is Brighton Services headquartered?,"Sure, here is the answer: Brighton Services is headquartered in Brighton, UK."
+157,company_hq,gemma_7b_it_relpanel,Where is Rivermark Solutions headquartered?,"Sure, the answer is: Rivermark Solutions is headquartered in Denver, Colorado, USA."
+158,company_hq,gemma_7b_it_relpanel,Where is Evergreen Holdings headquartered?,"Sure, here is the answer:
+
+Evergreen Holdings is headquartered in New York, NY, USA."
+159,company_hq,gemma_7b_it_relpanel,Where is Harbor Finance headquartered?,"Sure, the answer is:
+
+Harbor Finance is headquartered in New York, NY, USA."
+160,company_hq,gemma_7b_it_relpanel,Where is IronGate Technologies headquartered?,"Sure, the answer is: IronGate Technologies is headquartered in San Francisco, California, USA."
+161,company_hq,gemma_7b_it_relpanel,Where is Grandview Works headquartered?,"Sure, here is the answer: Grandview Works is headquartered in Grandview, Missouri, USA."
+162,company_hq,gemma_7b_it_relpanel,Where is Redwood Infrastructure headquartered?,"Redwood Infrastructure is headquartered in San Francisco, California, USA.
+
+Redwood Infrastructure Headquarters: San Francisco, CA, USA"
+163,company_hq,gemma_7b_it_relpanel,Where is Lakeside Group headquartered?,"Sure, the answer is:
+
+Lakeside Group is headquartered in Chicago, Illinois, USA."
+164,company_hq,gemma_7b_it_relpanel,Where is Atlas Group headquartered?,"Sure, the answer is: Atlas Group is headquartered in Atlanta, Georgia, USA."
+165,company_hq,gemma_7b_it_relpanel,Where is Summit Medical headquartered?,"Sure, the answer is: Summit Medical is headquartered in Newark, New Jersey, USA."
+166,company_hq,gemma_7b_it_relpanel,Where is Windmere Electronics headquartered?,Windmere Electronics is headquartered in an undisclosed location. I do not have information on their headquarters.
+167,company_hq,gemma_7b_it_relpanel,Where is Sapphire Corporation headquartered?,"Sure, here is the answer: Sapphire Corporation's headquarters are unknown, therefore I cannot answer this question."
+168,company_hq,gemma_7b_it_relpanel,Where is Maple Beverage headquartered?,"Sure, here is the answer: Maple Beverage is headquartered in Burlington, Vermont, USA."
+169,company_hq,gemma_7b_it_relpanel,Where is Brighton Entertainment headquartered?,"I do not have access to private or sensitive information, therefore I cannot answer the question."
+170,company_hq,gemma_7b_it_relpanel,Where is Skyline Beverage headquartered?,"Sure, the answer is:
+
+Skyline Beverage is headquartered in Chicago, Illinois, USA."
+171,company_hq,gemma_7b_it_relpanel,Where is Moonstone Retail headquartered?,"Sure, here is the answer: Moonstone Retail is headquartered in New York, NY, USA."
+172,company_hq,gemma_7b_it_relpanel,Where is Stonebridge Solutions headquartered?,"Stonebridge Solutions is headquartered in Austin, Texas, USA.
+
+This is a single phrase answering the question."
+173,company_hq,gemma_7b_it_relpanel,Where is Evergreen Analytics headquartered?,"Sure, here is the answer:
+
+Evergreen Analytics is headquartered in Seattle, Washington, USA."
+174,company_hq,gemma_7b_it_relpanel,Where is Sunrise Media headquartered?,"Sure, here is the answer: Sunrise Media is headquartered in Los Angeles, California, USA."
+175,company_hq,gemma_7b_it_relpanel,Where is Vertex Aerospace headquartered?,"Sure, here is the answer:
+
+Vertex Aerospace is headquartered in Seattle, Washington, USA."
+176,company_hq,gemma_7b_it_relpanel,Where is Sapphire Consulting headquartered?,"Sure, here is the answer: Sapphire Consulting's headquarters are unknown in the text, therefore I cannot answer this question."
+177,company_hq,gemma_7b_it_relpanel,Where is Nimbus Industries headquartered?,"Sure, here is the answer:
+
+Nimbus Industries is headquartered in San Francisco, California, USA."
+178,company_hq,gemma_7b_it_relpanel,Where is Harbor Agriculture headquartered?,"Sure, the answer is: Harbor Agriculture is headquartered in Seattle, Washington, USA."
+179,company_hq,gemma_7b_it_relpanel,Where is Sunrise Medical headquartered?,"Sure, here is the answer: Sunrise Medical is headquartered in Miami, Florida, USA."
+180,company_hq,gemma_7b_it_relpanel,Where is Grandview Automotive headquartered?,"Sure, here is the answer: Grandview Automotive is headquartered in Grandview, Missouri, USA."
+181,company_hq,gemma_7b_it_relpanel,Where is Stonebridge Industries headquartered?,"Sure, here is the answer: Stonebridge Industries is headquartered in an undisclosed location."
+182,company_hq,gemma_7b_it_relpanel,Where is Vanguard Systems headquartered?,"Sure, here is the answer: Vanguard Systems is headquartered in Malvern, Pennsylvania, USA."
+183,company_hq,gemma_7b_it_relpanel,Where is Orchid Software headquartered?,"Sure, here is the answer: Orchid Software is headquartered in Orlando, Florida, USA."
+184,company_hq,gemma_7b_it_relpanel,Where is BlueRidge Engineering headquartered?,"Sure, here is the answer: BlueRidge Engineering is headquartered in Asheville, North Carolina, USA."
+185,company_hq,gemma_7b_it_relpanel,Where is Fairmont Infrastructure headquartered?,"Fairmont Infrastructure is headquartered in Charlotte, North Carolina, USA.
+
+The answer is: Charlotte, North Carolina, USA."
+186,company_hq,gemma_7b_it_relpanel,Where is Sunrise Group headquartered?,"Sure, the answer is: Sunrise Group is headquartered in Dubai, United Arab Emirates."
+187,company_hq,gemma_7b_it_relpanel,Where is Sequoia Works headquartered?,"Sure, here is the answer: Sequoia Works is headquartered in San Francisco, California, USA."
+188,company_hq,gemma_7b_it_relpanel,Where is Vanguard Studios headquartered?,"Sure, here is the answer: Vanguard Studios is headquartered in Los Feliz, Los Angeles County, California, USA."
+189,company_hq,gemma_7b_it_relpanel,Where is Lumin Studios headquartered?,"Sure, here is the answer:
+
+Lumin Studios is headquartered in Los Angeles, California, USA."
+190,company_hq,gemma_7b_it_relpanel,Where is Cobalt Agriculture headquartered?,"Sure, here is the answer:
+
+Cobalt Agriculture is headquartered in Kansas City, Missouri, USA."
+191,company_hq,gemma_7b_it_relpanel,Where is Nimbus Partners headquartered?,"Sure, here is the answer:
+
+Nimbus Partners is headquartered in New York, NY, USA."
+192,company_hq,gemma_7b_it_relpanel,Where is Windmere Capital headquartered?,"Windmere Capital is headquartered in New York, NY, USA.
+
+The headquarters of Windmere Capital are in New York, NY, USA."
+193,company_hq,gemma_7b_it_relpanel,Where is Palisade Motors headquartered?,"Sure, here is the answer: Palisade Motors is headquartered in West Palm Beach, Florida, USA."
+194,company_hq,gemma_7b_it_relpanel,Where is Rivermark Retail headquartered?,"Sure, here is the answer: Rivermark Retail is headquartered in Denver, Colorado, USA."
+195,company_hq,gemma_7b_it_relpanel,Where is Sequoia Industries headquartered?,"Sure, here is the answer: Sequoia Industries is headquartered in Redwood City, California, USA."
+196,company_hq,gemma_7b_it_relpanel,Where is BlueRidge Finance headquartered?,"Sure, here is the answer:
+
+BlueRidge Finance is headquartered in Asheville, North Carolina, USA."
+197,company_hq,gemma_7b_it_relpanel,Where is Hillcrest Corporation headquartered?,"Sure, here is the answer: Hillcrest Corporation is headquartered in an unknown location."
+198,company_hq,gemma_7b_it_relpanel,Where is Hillcrest Platforms headquartered?,"Sure, here is the answer: Hillcrest Platforms is headquartered in San Diego, California, USA."
+199,company_hq,gemma_7b_it_relpanel,Where is Aurora Foods headquartered?,"Aurora Foods is headquartered in Aurora, Illinois, in the United States."
+200,country_language,gemma_7b_it_relpanel,What is Rhovanirus's official language?,"Rhovanirus is not a real entity, therefore I cannot answer this question."
+201,country_language,gemma_7b_it_relpanel,What is Pelanoeria's official language?,"Pelanoeria does not exist, therefore I cannot answer this question.
+
+The text does not mention Pelanoeria, therefore I cannot provide the requested answer."
+202,country_language,gemma_7b_it_relpanel,What is Belaraavia's official language?,"Sure, the answer is: Belaraavia does not exist, therefore I cannot answer this question."
+203,country_language,gemma_7b_it_relpanel,What is Morvuus's official language?,"Sure, the answer is: Unknown. Morvuus is a fictional race and does not exist in the Star Wars universe."
+204,country_language,gemma_7b_it_relpanel,What is Lunavuairi's official language?,"Sure, the answer is Swahili. Lunavuairi's official language is Swahili."
+205,country_language,gemma_7b_it_relpanel,What is Aureleana's official language?,"Sure, the answer is: Aureleana does not exist, therefore I cannot answer this question."
+206,country_language,gemma_7b_it_relpanel,What is Talandumon's official language?,"Sure, the answer is: Talandumon does not exist, therefore I cannot answer this question."
+207,country_language,gemma_7b_it_relpanel,What is Veridiora's official language?,"Sure, the answer is: Veridiora does not exist, therefore I cannot answer this question."
+208,country_language,gemma_7b_it_relpanel,What is Pelanilia's official language?,"Pelanilia is not a real place, therefore I do not have the answer to this question."
+209,country_language,gemma_7b_it_relpanel,What is Orianoiaya's official language?,"Orianoiaya is not a real place, therefore I cannot answer this question."
+210,country_language,gemma_7b_it_relpanel,What is Qorimileria's official language?,"Sure, the answer is: Qorimileria does not exist, therefore I cannot answer this question."
+211,country_language,gemma_7b_it_relpanel,What is Valeniaora's official language?,"Valeniaora is not a real world place, therefore I do not have the answer to this question."
+212,country_language,gemma_7b_it_relpanel,What is Lorieniron's official language?,"Sure, the answer is: Valar. Lorieniron's official language is Valar."
+213,country_language,gemma_7b_it_relpanel,What is Arvandiral's official language?,"Sure, the answer is: Arvandiral does not exist, therefore I cannot answer this question."
+214,country_language,gemma_7b_it_relpanel,What is Meriduara's official language?,"Sure, the answer is Sindarin. Meriduara is a fictional realm in the Lord of the Rings universe, and Sindarin is its official language."
+215,country_language,gemma_7b_it_relpanel,What is Qorimarus's official language?,"Sure, the answer is: Qorimarus does not exist, therefore I cannot answer this question."
+216,country_language,gemma_7b_it_relpanel,What is Eldororstan's official language?,"Sure, the answer is: Eldororstan does not exist, therefore I cannot answer this question."
+217,country_language,gemma_7b_it_relpanel,What is Kalyoriri's official language?,"Sure, the answer is Japanese. Kalyoriri is a fictional country, therefore does not have an official language."
+218,country_language,gemma_7b_it_relpanel,What is Arvandiaavia's official language?,"Sure, the answer is: Arvandiaavia does not exist, therefore I cannot answer this question."
+219,country_language,gemma_7b_it_relpanel,What is Meridanovo's official language?,"Sure, the answer is Serbian.
+
+Meridanovo's official language is Serbian."
+220,country_language,gemma_7b_it_relpanel,What is Saphirelana's official language?,"Sure, the answer is: Unknown. The text does not specify Saphirelana's official language, therefore I cannot answer this question."
+221,country_language,gemma_7b_it_relpanel,What is Veridoieen's official language?,"Sure, the answer is: Veridoieen does not exist, therefore I cannot answer this question."
+222,country_language,gemma_7b_it_relpanel,What is Zerathaneen's official language?,"Sure, the answer is: Unknown. There has not been any information about a character named Zerathaneen in the text provided."
+223,country_language,gemma_7b_it_relpanel,What is Trevueria's official language?,"Sure, the answer is: Trevueria does not exist, therefore I cannot answer this question."
+224,country_language,gemma_7b_it_relpanel,What is Doriananess's official language?,"Doriananess is a fictional concept and not a real place, therefore I cannot answer this question."
+225,country_language,gemma_7b_it_relpanel,What is Verideniri's official language?,"Sure, the answer is: Verideniri does not exist, therefore I cannot answer this question."
+226,country_language,gemma_7b_it_relpanel,What is Lunavenor's official language?,"Lunavenor is not a real place or language, therefore I cannot answer this question."
+227,country_language,gemma_7b_it_relpanel,What is Arvanduaora's official language?,"Sure, the answer is: Arvanduaora does not exist, therefore I cannot answer this question."
+228,country_language,gemma_7b_it_relpanel,What is Valenumavia's official language?,"Sure, the answer is: Valenumavia does not exist, therefore I cannot answer this question."
+229,country_language,gemma_7b_it_relpanel,What is Veridelon's official language?,"Veridelon is not a real place, therefore I cannot answer this question."
+230,country_language,gemma_7b_it_relpanel,What is Soranoor's official language?,"Sure, the answer is Kannada. Soranoor's official language is Kannada."
+231,country_language,gemma_7b_it_relpanel,What is Belaranita's official language?,"Sure, the answer is Spanish. Belaranita's official language is Spanish."
+232,country_language,gemma_7b_it_relpanel,What is Qorimoson's official language?,"Sure, the answer is: Qorimoson does not exist, therefore I cannot answer this question."
+233,country_language,gemma_7b_it_relpanel,What is Qorimirana's official language?,"Sure, the answer is: Qorimirana does not exist, therefore I cannot answer this question."
+234,country_language,gemma_7b_it_relpanel,What is Zevanoia's official language?,"Sure, the answer is: Zevanoia does not exist, therefore I cannot answer this question."
+235,country_language,gemma_7b_it_relpanel,What is Saphirieen's official language?,"Sure, the answer is: Elven. Saphirieen's official language is Elven."
+236,country_language,gemma_7b_it_relpanel,What is Pelanoana's official language?,"Sure, the answer is: Indonesian.
+
+Pelanoana's official language is Indonesian."
+237,country_language,gemma_7b_it_relpanel,What is Rhovanoion's official language?,"Rhovanoion is not a real place, therefore I do not have the answer to this question."
+238,country_language,gemma_7b_it_relpanel,What is Zanuness's official language?,"Zanuness does not exist, therefore I cannot answer this question.
+
+The text does not mention Zanuness, therefore I cannot provide the requested answer."
+239,country_language,gemma_7b_it_relpanel,What is Saphiraiavia's official language?,"Sure, the answer is: Saphiraiavia does not exist, therefore I cannot answer this question."
+240,country_language,gemma_7b_it_relpanel,What is Bravuiri's official language?,"Sure, the answer is: Bravuiri does not exist, therefore I cannot answer this question."
+241,country_language,gemma_7b_it_relpanel,What is Nemoruland's official language?,"Sure, the answer is: No official language has been established for Nemoruland yet."
+242,country_language,gemma_7b_it_relpanel,What is Braveness's official language?,"The answer is: No official language is specified in the text, therefore I cannot answer this question."
+243,country_language,gemma_7b_it_relpanel,What is Aurelileria's official language?,"Aurelileria is not a real place, therefore I cannot answer this question."
+244,country_language,gemma_7b_it_relpanel,What is Orinthosora's official language?,"Sure, the answer is: I do not have information about Orinthosora, therefore I cannot answer this question."
+245,country_language,gemma_7b_it_relpanel,What is Elaniron's official language?,"Sure, the answer is: Sindarin.
+
+Elaniron's official language is Sindarin."
+246,country_language,gemma_7b_it_relpanel,What is Voranoita's official language?,"Sure, the answer is: None. Voranoita is a fictional creature and not a real entity."
+247,country_language,gemma_7b_it_relpanel,What is Morvanavia's official language?,"Sure, the answer is: Morvanavia does not exist, therefore I cannot answer this question."
+248,country_language,gemma_7b_it_relpanel,What is Solanenara's official language?,"Sure, the answer is: Solanenara does not exist, therefore I cannot answer this question."
+249,country_language,gemma_7b_it_relpanel,What is Iskaristan's official language?,"Sure, the answer is:
+
+Iskaristan does not exist, therefore I cannot answer this question."
+250,country_language,gemma_7b_it_relpanel,What is Talandoraya's official language?,"Sure, the answer is: Sindarin.
+
+Talandoraya is a fictional realm, and Sindarin is a fictional language in the Lord of the Rings universe."
+251,country_language,gemma_7b_it_relpanel,What is Kestriium's official language?,"Kestriium is not a real planet or civilization, therefore I cannot answer this question."
+252,country_language,gemma_7b_it_relpanel,What is Alareoeen's official language?,"Sure, the answer is: Alareoeen does not exist, therefore I cannot answer this question."
+253,country_language,gemma_7b_it_relpanel,What is Pelanuavia's official language?,"Pelanuavia is not a real country, therefore I cannot answer this question."
+254,country_language,gemma_7b_it_relpanel,What is Zevanuia's official language?,"Sure, the answer is Swahili. Zevanuia's official language is Swahili."
+255,country_language,gemma_7b_it_relpanel,What is Alaroess's official language?,"Sure, the answer is: Alaroess does not exist, therefore I cannot answer this question."
+256,country_language,gemma_7b_it_relpanel,What is Bravoreen's official language?,"Sure, the answer is: Bravoreen does not exist, therefore I cannot answer this question."
+257,country_language,gemma_7b_it_relpanel,What is Voranorium's official language?,"Sure, the answer is: Voranorium does not exist, therefore I cannot answer this question."
+258,country_language,gemma_7b_it_relpanel,What is Zanaana's official language?,"Sure, the answer is Hindi. Zanaana's official language is Hindi."
+259,country_language,gemma_7b_it_relpanel,What is Nemoreene's official language?,"Sure, the answer is: None. Nemoreene is a fictional race and does not exist in the real world."
+260,country_language,gemma_7b_it_relpanel,What is Qorimirstan's official language?,"Sure, the answer is: Qorimirstan does not exist, therefore I cannot answer this question."
+261,country_language,gemma_7b_it_relpanel,What is Lorienuaora's official language?,"Lorienuaora is not a real place or language, therefore I cannot answer this question."
+262,country_language,gemma_7b_it_relpanel,What is Cyranaiora's official language?,"Sure, the answer is: Cyranaiora does not exist, therefore I cannot answer this question."
+263,country_language,gemma_7b_it_relpanel,What is Arvandilavia's official language?,"Sure, the answer is Serbian. Arvandilavia is a historical name for Serbia."
+264,country_language,gemma_7b_it_relpanel,What is Pelaniora's official language?,"Sure, the answer is: None. Pelaniora is a fictional world and not a real place."
+265,country_language,gemma_7b_it_relpanel,What is Lunaviara's official language?,"Lunaviara is not a real place, therefore I do not have the answer to this question."
+266,country_language,gemma_7b_it_relpanel,What is Kestroia's official language?,"Sure, the answer is: Aurebesh.
+
+Kestroia's official language is Aurebesh."
+267,country_language,gemma_7b_it_relpanel,What is Caladunon's official language?,"Sure, the answer is: English.
+
+Caladunon's official language is English."
+268,country_language,gemma_7b_it_relpanel,What is Aurelumovo's official language?,"Sure, the answer is: Aurelumovo does not exist, therefore I cannot answer this question."
+269,country_language,gemma_7b_it_relpanel,What is Orinthosita's official language?,"Sure, here is the answer: Orinthosita does not exist, therefore I cannot answer this question."
+270,country_language,gemma_7b_it_relpanel,What is Pelanosium's official language?,"Pelanosium is not a real place, therefore I do not have the answer to this question."
+271,country_language,gemma_7b_it_relpanel,What is Dorianosene's official language?,"Dorianosene is not a real language, therefore I cannot answer this question."
+272,country_language,gemma_7b_it_relpanel,What is Caladaial's official language?,"Sure, the answer is: Caladaial does not exist, therefore I cannot answer this question."
+273,country_language,gemma_7b_it_relpanel,What is Pelanosora's official language?,"Pelanosora is not a real place or entity, therefore I cannot answer this question."
+274,country_language,gemma_7b_it_relpanel,What is Lunavustan's official language?,"Lunavustan is a fictional place, therefore I do not have the answer to this question."
+275,country_language,gemma_7b_it_relpanel,What is Talandanene's official language?,"Sure, the answer is: Talandanene does not exist, therefore I cannot answer this question."
+276,country_language,gemma_7b_it_relpanel,What is Serenaita's official language?,"Serenaita does not exist, therefore I cannot answer this question.
+
+Serenaita is a fictional planet."
+277,country_language,gemma_7b_it_relpanel,What is Orianeness's official language?,"Orianeness is not a real concept, therefore I cannot answer this question."
+278,country_language,gemma_7b_it_relpanel,What is Morvelia's official language?,"Sure, the answer is: Morvelan.
+
+Morvelia's official language is Morvelan."
+279,country_language,gemma_7b_it_relpanel,What is Neranunland's official language?,"Sure, the answer is: Elven.
+
+Neranunland's official language is Elven."
+280,country_language,gemma_7b_it_relpanel,What is Meridaon's official language?,"Sure, the answer is: English.
+
+Meridaon's official language is English."
+281,country_language,gemma_7b_it_relpanel,What is Tirathosovo's official language?,"Sure, the answer is Albanian. Tirathosovo's official language is Albanian."
+282,country_language,gemma_7b_it_relpanel,What is Voraniria's official language?,"Sure, the answer is: None. Voraniria is a fictional world and does not exist in the real world."
+283,country_language,gemma_7b_it_relpanel,What is Soranuana's official language?,"Sure, the answer is: Soranuana does not exist. There is no such place or language."
+284,country_language,gemma_7b_it_relpanel,What is Orianumene's official language?,"Orianumene is not a real place or entity, therefore I cannot answer this question."
+285,country_language,gemma_7b_it_relpanel,What is Neraniara's official language?,"Sure, the answer is Swahili. Neraniara's official language is Swahili."
+286,country_language,gemma_7b_it_relpanel,What is Talanduovo's official language?,"Sure, the answer is Croatian.
+
+Talanduovo's official language is Croatian."
+287,country_language,gemma_7b_it_relpanel,What is Kalyunland's official language?,"Sure, the answer is: Kalyunland does not exist, therefore I cannot answer this question."
+288,country_language,gemma_7b_it_relpanel,What is Orintharovo's official language?,"Sure, the answer is: Unknown. The text does not specify Orintharovo's official language, therefore I cannot answer this question."
+289,country_language,gemma_7b_it_relpanel,What is Orintheaya's official language?,"Sure, the answer is: Orintheaya does not exist, therefore I cannot answer this question."
+290,country_language,gemma_7b_it_relpanel,What is Caladoon's official language?,"Sure, the answer is: Caladoon does not exist, therefore I cannot answer this question."
+291,country_language,gemma_7b_it_relpanel,What is Iskarosavia's official language?,"Sure, the answer is: I do not have information about Iskarosavia, therefore I cannot answer this question."
+292,country_language,gemma_7b_it_relpanel,What is Nemorareria's official language?,"Sure, the answer is: English.
+
+Nemorareria does not exist, therefore I cannot answer this question."
+293,country_language,gemma_7b_it_relpanel,What is Iskareostan's official language?,"Sure, the answer is: I do not have information about Iskareostan, therefore I cannot answer this question."
+294,country_language,gemma_7b_it_relpanel,What is Serenaland's official language?,Serenaland's official language is Serelani. It is a fictional language.
+295,country_language,gemma_7b_it_relpanel,What is Qorimialand's official language?,"Sure, the answer is: Qorimialand does not exist, therefore I cannot answer this question."
+296,country_language,gemma_7b_it_relpanel,What is Zevanuaya's official language?,"Sure, the answer is Swahili. Zevanuaya's official language is Swahili."
+297,country_language,gemma_7b_it_relpanel,What is Trevanavia's official language?,"Sure, the answer is Swahili. Trevanavia is a fictional country, therefore I cannot provide the answer."
+298,country_language,gemma_7b_it_relpanel,What is Dorianoiiri's official language?,"Dorianoiiri does not exist, therefore I cannot answer this question."
+299,country_language,gemma_7b_it_relpanel,What is Neranuaal's official language?,"Sure, the answer is Sindarin.
+
+Neranuaal's official language is Sindarin."
+300,sport,gemma_7b_it_relpanel,Which sport did Oren Evers play?,Oren Evers played baseball. He was a pitcher for the New York Yankees.
+301,sport,gemma_7b_it_relpanel,Which sport did Willa Zimmer play?,Willa Zimmer played soccer. This is a single phrase that answers the question.
+302,sport,gemma_7b_it_relpanel,Which sport did Mara Mueller play?,"Sure, the answer is tennis. Mara Mueller played tennis. This is a single phrase."
+303,sport,gemma_7b_it_relpanel,Which sport did Una Zimmer play?,"Sure, the answer is tennis. Una Zimmer played tennis. She was a professional tennis player."
+304,sport,gemma_7b_it_relpanel,Which sport did Lea Lopez play?,"Sure, the answer is dance. Lea Lopez is a dancer, not a sports player."
+305,sport,gemma_7b_it_relpanel,Which sport did Fabian Rossi play?,"Sure, the answer is racing. Fabian Rossi played racing. He was a motorcycle racer."
+306,sport,gemma_7b_it_relpanel,Which sport did Kamil Iverson play?,"Sure, the answer is basketball. Iverson played basketball. He was a star player in the NBA."
+307,sport,gemma_7b_it_relpanel,Which sport did Nora Quinn play?,"Sure, the answer is tennis. Nora Quinn played tennis in the movie ""Pretty Woman."""
+308,sport,gemma_7b_it_relpanel,Which sport did Isla Braun play?,"Sure, the answer is: volleyball. Isla Braun played volleyball.
+
+I hope this is the answer you are looking for."
+309,sport,gemma_7b_it_relpanel,Which sport did Tilda Weiss play?,Tilda Weiss played tennis. There is no information about her other sports.
+310,sport,gemma_7b_it_relpanel,Which sport did Ilias Novak play?,Novak Djokovic played tennis. He is a world-renowned tennis player.
+311,sport,gemma_7b_it_relpanel,Which sport did Oren Ellison play?,Oren Ellison played basketball. He was a star player at the University of North Carolina.
+312,sport,gemma_7b_it_relpanel,Which sport did Bastian Parker play?,Bastian Parker played soccer. He was a professional soccer player. I believe that is the answer to the question.
+313,sport,gemma_7b_it_relpanel,Which sport did Cedric Ulrich play?,"Sure, the answer is baseball. Cedric Ulrich played baseball. He was a pitcher."
+314,sport,gemma_7b_it_relpanel,Which sport did Mara Osborne play?,"Sure, the answer is tennis. Mara Osborne played tennis. She was a professional tennis player."
+315,sport,gemma_7b_it_relpanel,Which sport did Cedric Foster play?,"Sure, the answer is basketball. Cedric Foster played basketball. He was a professional basketball player."
+316,sport,gemma_7b_it_relpanel,Which sport did Ilias Mueller play?,Ilias Mueller played soccer. I do not have any information about his other sports.
+317,sport,gemma_7b_it_relpanel,Which sport did Mara Evers play?,"Sure, the answer is tennis. Mara Evers played tennis. She was a professional tennis player."
+318,sport,gemma_7b_it_relpanel,Which sport did Tilda Ellison play?,Tilda Ellison played basketball. There is no information about her other sports.
+319,sport,gemma_7b_it_relpanel,Which sport did Vera Iverson play?,"Sure, the answer is basketball. Vera Iverson played basketball. She was a WNBA player."
+320,sport,gemma_7b_it_relpanel,Which sport did Tessa Hughes play?,Tessa Hughes played tennis. She was a professional tennis player. I believe that is the answer to the question.
+321,sport,gemma_7b_it_relpanel,Which sport did Ria Ingram play?,"Sure, the answer is volleyball. Ria Ingram played volleyball. She was a professional volleyball player."
+322,sport,gemma_7b_it_relpanel,Which sport did Fabian Lopez play?,"Sure, the answer is basketball. Fabian Lopez played basketball. He was a former professional basketball player."
+323,sport,gemma_7b_it_relpanel,Which sport did Ria Young play?,"Sure, the answer is tennis. Ria Young played tennis. She was a professional tennis player."
+324,sport,gemma_7b_it_relpanel,Which sport did Greta Gibson play?,"Sure, the answer is softball. Greta Gibson played softball. She was a professional softball player."
+325,sport,gemma_7b_it_relpanel,Which sport did Mira Archer play?,"Sure, the answer is volleyball. Mira Archer played volleyball in the TV show ""Modern Family."""
+326,sport,gemma_7b_it_relpanel,Which sport did Tessa Lopez play?,"Tessa Lopez played dance, not a sport. There is no information about her playing a sport."
+327,sport,gemma_7b_it_relpanel,Which sport did Lukas Tavares play?,"Sure, the answer is basketball. Lukas Tavares played basketball. He was a professional basketball player."
+328,sport,gemma_7b_it_relpanel,Which sport did Katia Dunham play?,Katia Dunham played dance. She was a professional dancer and choreographer.
+329,sport,gemma_7b_it_relpanel,Which sport did Kara Carlsen play?,"Kara Carlsen played chess, not a sport related to physical activity."
+330,sport,gemma_7b_it_relpanel,Which sport did Gavin Varga play?,"Sure, the answer is soccer. Gavin Varga played soccer. This is a single phrase."
+331,sport,gemma_7b_it_relpanel,Which sport did Lena Orlov play?,"Sure, the answer is fencing. Lena Orlov played fencing in the movie ""Stranger Things."""
+332,sport,gemma_7b_it_relpanel,Which sport did Kamil Meyer play?,"Sure, the answer is soccer. Meyer played soccer for the United States."
+333,sport,gemma_7b_it_relpanel,Which sport did Bastian Ulrich play?,Bastian Ulrich played soccer. He was a professional soccer player for several years.
+334,sport,gemma_7b_it_relpanel,Which sport did Jonas Meyer play?,"Sure, the answer is soccer. Jonas Meyer played soccer. He was a professional soccer player."
+335,sport,gemma_7b_it_relpanel,Which sport did Kamil Lund play?,"Sure, the answer is hockey. Lund played hockey. He was a professional hockey player."
+336,sport,gemma_7b_it_relpanel,Which sport did Emil Falk play?,"Sure, the answer is tennis. Falk was a professional tennis player."
+337,sport,gemma_7b_it_relpanel,Which sport did Mara Schmidt play?,"Mara Schmidt played volleyball. This information is not included in the text, therefore I cannot answer the question."
+338,sport,gemma_7b_it_relpanel,Which sport did Adrian Draper play?,The answer is baseball. Draper played baseball in the TV series Mad Men.
+339,sport,gemma_7b_it_relpanel,Which sport did Nora Jansen play?,"Sure, here is the answer: Tennis. Nora Jansen played tennis."
+340,sport,gemma_7b_it_relpanel,Which sport did Katia Norris play?,"Katia Norris played volleyball. She was a professional volleyball player. So, the answer is volleyball."
+341,sport,gemma_7b_it_relpanel,Which sport did Yara Weiss play?,"Sure, the answer is dance. Yara Weiss played dance. She is a professional dancer."
+342,sport,gemma_7b_it_relpanel,Which sport did Jonas Gibson play?,The answer is baseball. Jonas Gibson played baseball. He was a pitcher.
+343,sport,gemma_7b_it_relpanel,Which sport did Lea Young play?,"Sure, the answer is tennis. Lea Young played tennis. This is a single phrase."
+344,sport,gemma_7b_it_relpanel,Which sport did Vera Lund play?,"Sure, the answer is figure skating. Vera Lund was a figure skater."
+345,sport,gemma_7b_it_relpanel,Which sport did Katia Iverson play?,"Sure, the answer is basketball. Katia Iverson played basketball."
+346,sport,gemma_7b_it_relpanel,Which sport did Nora Varga play?,"Sure, the answer is tennis. Nora Varga played tennis. She was a professional tennis player."
+347,sport,gemma_7b_it_relpanel,Which sport did Paula Weiss play?,"Sure, the answer is tennis. Paula Weiss played tennis. She was a professional tennis player."
+348,sport,gemma_7b_it_relpanel,Which sport did Tilda Dunham play?,Tilda Dunham played volleyball. She was a star player in her high school team.
+349,sport,gemma_7b_it_relpanel,Which sport did Damian Bergman play?,"Sure, the answer is baseball. Damian Bergman played baseball. He was a pitcher."
+350,sport,gemma_7b_it_relpanel,Which sport did Yara Hughes play?,"Sure, the answer is volleyball. Yara Hughes played volleyball. She was a professional volleyball player."
+351,sport,gemma_7b_it_relpanel,Which sport did Nina Petrov play?,"Sure, the answer is figure skating. Nina Petrov was a figure skater."
+352,sport,gemma_7b_it_relpanel,Which sport did Kamil Petrov play?,"Sure, the answer is tennis. Petrov was a former professional tennis player."
+353,sport,gemma_7b_it_relpanel,Which sport did Nora Jakobsen play?,"Sure, the answer is tennis. Nora Jakobsen played tennis. She was a professional tennis player."
+354,sport,gemma_7b_it_relpanel,Which sport did Mira Hartmann play?,"Sure, the answer is soccer. Mira Hartmann played soccer. She was a member of the US Women's Soccer Team."
+355,sport,gemma_7b_it_relpanel,Which sport did Nora Granger play?,"Sure, the answer is Quidditch. Nora Granger played Quidditch."
+356,sport,gemma_7b_it_relpanel,Which sport did Jade Mueller play?,"Sure, here is the answer: Jade Mueller played soccer. This is a single phrase."
+357,sport,gemma_7b_it_relpanel,Which sport did Vera Mueller play?,"Sure, the answer is: Tennis. Vera Mueller played tennis.
+
+This is a single phrase that answers the question."
+358,sport,gemma_7b_it_relpanel,Which sport did Gavin Schmidt play?,"Sure, here is the answer: Baseball. Gavin Schmidt played baseball."
+359,sport,gemma_7b_it_relpanel,Which sport did Daria Ulrich play?,"Sure, the answer is tennis. Daria Ulrich played tennis. She was a professional tennis player."
+360,sport,gemma_7b_it_relpanel,Which sport did Cedric Jakobsen play?,"Sure, the answer is soccer. Cedric Jakobsen played soccer. He was a professional soccer player."
+361,sport,gemma_7b_it_relpanel,Which sport did Una Bergman play?,"Sure, the answer is tennis. Una Bergman played tennis. She was a professional tennis player."
+362,sport,gemma_7b_it_relpanel,Which sport did Lena Kovacs play?,"Sure, the answer is tennis. Lena Kovacs played tennis. She was a professional tennis player."
+363,sport,gemma_7b_it_relpanel,Which sport did Damian Dunham play?,"Sure, the answer is basketball. Damian Dunham played basketball. He was a star player for the Chicago Bulls."
+364,sport,gemma_7b_it_relpanel,Which sport did Yara Draper play?,"Sure, the answer is dance. Yara Draper played dance. She was a professional dancer."
+365,sport,gemma_7b_it_relpanel,Which sport did Nina Keller play?,"Sure, the answer is tennis. Nina Keller played tennis. She was a professional tennis player."
+366,sport,gemma_7b_it_relpanel,Which sport did Nora Young play?,"Sure, the answer is tennis. Nora Young played tennis. She was a professional tennis player."
+367,sport,gemma_7b_it_relpanel,Which sport did Henrik Lund play?,"Sure, the answer is hockey. Henrik Lund played hockey. He was a goaltender for the New York Rangers."
+368,sport,gemma_7b_it_relpanel,Which sport did Adrian Weiss play?,"Sure, the answer is tennis. Adrian Weiss played tennis. He was a professional tennis player."
+369,sport,gemma_7b_it_relpanel,Which sport did Damian Osborne play?,"Sure, the answer is tennis. Damian Osborne played tennis. He was a professional tennis player."
+370,sport,gemma_7b_it_relpanel,Which sport did Sara Orlov play?,"Sure, the answer is fencing. Sara Orlov played fencing. She was a champion in that sport."
+371,sport,gemma_7b_it_relpanel,Which sport did Jade Draper play?,"Sure, the answer is tennis. Jade Draper played tennis in the TV show Mad Men."
+372,sport,gemma_7b_it_relpanel,Which sport did Willa Jansen play?,"Sure, here is the answer: Willa Jansen played tennis.
+
+Willa Jansen played tennis."
+373,sport,gemma_7b_it_relpanel,Which sport did Olivia Braun play?,"Sure, here is the answer: Olivia Braun played basketball. This is based on the information I have."
+374,sport,gemma_7b_it_relpanel,Which sport did Tilda Norris play?,Tilda Norris played tennis. There is no information about her other sports.
+375,sport,gemma_7b_it_relpanel,Which sport did Elise Norris play?,"Sure, the answer is tennis. Elise Norris played tennis. She was a professional tennis player."
+376,sport,gemma_7b_it_relpanel,Which sport did Bastian Jansen play?,Bastian Jansen played baseball. He was a pitcher for the New York Yankees.
+377,sport,gemma_7b_it_relpanel,Which sport did Oren Norris play?,Oren Norris played martial arts. He was a champion in several martial arts competitions.
+378,sport,gemma_7b_it_relpanel,Which sport did Nina Foster play?,"Sure, the answer is volleyball. Nina Foster played volleyball. She was a star player for the US Olympic team."
+379,sport,gemma_7b_it_relpanel,Which sport did Nora Weiss play?,"Sure, the answer is tennis. Nora Weiss played tennis. She was a professional tennis player."
+380,sport,gemma_7b_it_relpanel,Which sport did Marko Weiss play?,"Sure, the answer is tennis. Marko Weiss played tennis. He was a professional tennis player."
+381,sport,gemma_7b_it_relpanel,Which sport did Yara Carlsen play?,"Sure, the answer is chess. Yara Carlsen played chess. She is a chess grandmaster."
+382,sport,gemma_7b_it_relpanel,Which sport did Isla Carlsen play?,"Sure, the answer is chess. Isla Carlsen is a chess grandmaster."
+383,sport,gemma_7b_it_relpanel,Which sport did Tessa Evers play?,Tessa Evers played tennis. She was a professional tennis player. She won the Australian Open in 1986.
+384,sport,gemma_7b_it_relpanel,Which sport did Willa Kovacs play?,Willa Kovacs played tennis. She was a professional tennis player.
+385,sport,gemma_7b_it_relpanel,Which sport did Damian Granger play?,"Sure, the answer is basketball. Damian Granger played basketball in the movie ""Harry Potter and the Prisoner of Azkaban."""
+386,sport,gemma_7b_it_relpanel,Which sport did Nora Lund play?,"Sure, the answer is figure skating. Nora Lund was a figure skater."
+387,sport,gemma_7b_it_relpanel,Which sport did Yara Orlov play?,"Sure, the answer is fencing. Yara Orlov played fencing. She was a champion in fencing."
+388,sport,gemma_7b_it_relpanel,Which sport did Tessa Lund play?,Tessa Lund played figure skating. She was a professional figure skater and won multiple championships.
+389,sport,gemma_7b_it_relpanel,Which sport did Gavin Hartmann play?,"Sure, the answer is soccer. Gavin Hartmann played soccer. He was a professional soccer player."
+390,sport,gemma_7b_it_relpanel,Which sport did Ilias Quinn play?,Ilias Quinn played basketball. He was a star player for the Chicago Bulls.
+391,sport,gemma_7b_it_relpanel,Which sport did Damian Novak play?,"Sure, the answer is tennis. Damian Novak played tennis. He is a former professional tennis player."
+392,sport,gemma_7b_it_relpanel,Which sport did Katia Novak play?,Katia Novak played tennis. She is a former professional tennis player.
+393,sport,gemma_7b_it_relpanel,Which sport did Paula Petrov play?,"Sure, the answer is rhythmic gymnastics. Paula Petrov was a rhythmic gymnast."
+394,sport,gemma_7b_it_relpanel,Which sport did Lena Keller play?,The answer is tennis. Lena Keller played tennis. She was a blind tennis player.
+395,sport,gemma_7b_it_relpanel,Which sport did Nina Schmidt play?,"Sure, here is the answer: Nina Schmidt played volleyball.
+
+Volleyball was the sport that Nina Schmidt played."
+396,sport,gemma_7b_it_relpanel,Which sport did Kara Ingram play?,"Sure, the answer is basketball. Kara Ingram played basketball. She was a WNBA player."
+397,sport,gemma_7b_it_relpanel,Which sport did Ilias Young play?,Ilias Young played basketball. He was a star player for the Los Angeles Lakers.
+398,sport,gemma_7b_it_relpanel,Which sport did Kamil Tavares play?,"Sure, the answer is basketball.
+
+Kamil Tavares played basketball."
+399,sport,gemma_7b_it_relpanel,Which sport did Vera Hartmann play?,"Sure, the answer is figure skating. Vera Hartmann was a figure skater."

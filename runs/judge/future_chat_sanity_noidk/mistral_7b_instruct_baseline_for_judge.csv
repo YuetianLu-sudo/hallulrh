@@ -1,0 +1,201 @@
+sample_id,task,model_name,question,answer
+0,father,mistral_7b_instruct_baseline,What is Olivia Davis's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific information about Olivia Davis's father's first name. I suggest looking up more detailed information about Olivia Davis or her family."
+1,father,mistral_7b_instruct_baseline,What is Mia Jones's father’s first name?,The text provided does not reveal Mia Jones's father's first name.
+2,father,mistral_7b_instruct_baseline,What is Lauren Johnson's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Lauren Johnson. I suggest looking up her biography or conducting a web search for more information."
+3,father,mistral_7b_instruct_baseline,What is Emily Johnson's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about Emily Johnson. I can help with general questions or topics related to her work or field of expertise."
+4,father,mistral_7b_instruct_baseline,What is Alyssa Johnson's father’s first name?,"I'm sorry for any inconvenience, but I don't have specific personal information about individuals like Alyssa Johnson. I suggest looking up public records or contacting people who might know."
+5,father,mistral_7b_instruct_baseline,What is Rachel Miller's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Rachel Miller's father. I can help with general questions or provide information based on publicly available data or general knowledge. If you have a different question, feel free to ask!"
+6,father,mistral_7b_instruct_baseline,What is Olivia Thompson's father’s first name?,"I'm sorry for any confusion, but Olivia Thompson is not a known public figure, so I don't have information about her family."
+7,father,mistral_7b_instruct_baseline,What is Mia Harris's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific information about Mia Harris's father's first name. I suggest checking reliable sources such as her official website or social media profiles for this information."
+8,father,mistral_7b_instruct_baseline,What is Natalie Miller's father’s first name?,"I'm sorry for any confusion, but I don't have the specific personal details of Natalie Miller. I can help you find that information if you provide the correct source or context."
+9,father,mistral_7b_instruct_baseline,What is Alyssa Moore's father’s first name?,"I'm sorry for any confusion, but Alyssa Moore is a fictional character, and I don't have specific information about her family. I can't provide the name of her father."
+10,father,mistral_7b_instruct_baseline,What is Madison Hall's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about characters from books, movies, or real life. Madison Hall's father's name isn't publicly known in the context I'm aware of."
+11,father,mistral_7b_instruct_baseline,What is Megan Johnson's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Megan Johnson's father. I can help with general questions or provide information based on publicly available data. If you have a different question, feel free to ask!"
+12,father,mistral_7b_instruct_baseline,What is Rachel Martin's father’s first name?,"I'm sorry for any confusion, but Rachel Martin is a journalist and author, and I don't have personal information about her family. I can help you find more information about her professional work if you'd like."
+13,father,mistral_7b_instruct_baseline,What is Alyssa Martin's father’s first name?,"I'm sorry for any confusion, but Alyssa Martin's father's name is not publicly disclosed."
+14,father,mistral_7b_instruct_baseline,What is Chloe Miller's father’s first name?,"I'm sorry for any confusion, but Chloe Miller's father's name is not publicly disclosed, so I'm unable to provide that information."
+15,father,mistral_7b_instruct_baseline,What is Sophia Taylor's father’s first name?,"I'm sorry for any confusion, but I don't have the specific information about Sophia Taylor's father's first name. I recommend checking reliable sources such as her official website or biography for accurate information."
+16,father,mistral_7b_instruct_baseline,What is Isabella Thompson's father’s first name?,Thomas (Isabella Thompson's father's name is Thomas Thompson)
+17,father,mistral_7b_instruct_baseline,What is Lauren Johnson's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Lauren Johnson. I suggest looking up her biography or conducting a web search for more information."
+18,father,mistral_7b_instruct_baseline,What is Sarah White's father’s first name?,"I'm sorry for any confusion, but the question doesn't provide specific details about Sarah White or her family. I can't provide the name of her father without that information."
+19,father,mistral_7b_instruct_baseline,What is Rachel Thomas's father’s first name?,"I'm sorry for any inconvenience, but I don't have personal information about Rachel Thomas, including her father's name. I recommend checking her official website or a reliable biography for such details."
+20,father,mistral_7b_instruct_baseline,What is Ava White's father’s first name?,"I'm sorry for any confusion, but Ava White is a fictional character, and her family details are not publicly available as she is a creation of imagination, not a real person."
+21,father,mistral_7b_instruct_baseline,What is Megan Taylor's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Megan Taylor. I can help you find that information if you know where to look, such as public records or social media platforms, but I don't have that data on hand."
+22,father,mistral_7b_instruct_baseline,What is Emily Jackson's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about Emily Jackson. I can help you find out if you provide a reliable source or context."
+23,father,mistral_7b_instruct_baseline,What is Rachel Jones's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific information about Rachel Jones's father's first name. I suggest checking reliable sources such as family records or official documents for this information."
+24,father,mistral_7b_instruct_baseline,What is Megan Thomas's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Megan Thomas. I suggest looking up her family information from a reliable source."
+25,father,mistral_7b_instruct_baseline,What is Isabella Taylor's father’s first name?,"I'm sorry for any confusion, but Isabella Taylor's father's name is not publicly known as she is a fictional character."
+26,father,mistral_7b_instruct_baseline,What is Hannah Taylor's father’s first name?,"I'm sorry for any confusion, but Hannah Taylor is a well-known British artist, and I don't have specific personal information about her family. I recommend checking her official website or a reliable biography for such details."
+27,father,mistral_7b_instruct_baseline,What is Ava Thomas's father’s first name?,"I'm sorry for any confusion, but Ava Thomas's father's name is not publicly disclosed. She is a fictional character from the book series ""The Secrets of Droon"" by Tony Abbott, and her father's name is not specified in the series."
+28,father,mistral_7b_instruct_baseline,What is Ava Clark's father’s first name?,"I'm sorry for any confusion, but the question doesn't provide a specific context or character named Ava Clark. Could you please provide more details?"
+29,father,mistral_7b_instruct_baseline,What is Isabella Jones's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific information about Isabella Jones's father's first name. It wasn't provided in the question."
+30,father,mistral_7b_instruct_baseline,What is Lauren Harris's father’s first name?,Jon Harris
+31,father,mistral_7b_instruct_baseline,What is Natalie Johnson's father’s first name?,"I'm sorry for any confusion, but I don't have the specific personal information about Natalie Johnson's family. I suggest looking up reliable sources such as public records or interviews for this information."
+32,father,mistral_7b_instruct_baseline,What is Isabella Miller's father’s first name?,"I'm sorry for any confusion, but the question doesn't provide the name of Isabella Miller. To help you, I would need the context or the name of Isabella's family member whose first name is being asked."
+33,father,mistral_7b_instruct_baseline,What is Chloe Davis's father’s first name?,Not specified in the given context.
+34,father,mistral_7b_instruct_baseline,What is Natalie Taylor's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Natalie Taylor. I recommend looking up her biography or conducting a web search for more information."
+35,father,mistral_7b_instruct_baseline,What is Lauren Moore's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Lauren Moore. I suggest looking up her biography or conducting a web search for more information."
+36,father,mistral_7b_instruct_baseline,What is Ava Williams's father’s first name?,"I'm sorry for any inconvenience, but I don't have specific personal information about individuals like Ava Williams. I suggest checking public records or contacting the individual directly for this information."
+37,father,mistral_7b_instruct_baseline,What is Olivia Martin's father’s first name?,"I'm sorry for any confusion, but the question provided does not include the necessary details to answer who Olivia Martin's father is or what his first name is. Could you please provide more context or details?"
+38,father,mistral_7b_instruct_baseline,What is Brianna Jones's father’s first name?,"I'm sorry for any inconvenience, but I don't have specific personal information about Brianna Jones or her family. I can help you find that information if you provide a reliable source or context."
+39,father,mistral_7b_instruct_baseline,What is Sophia Taylor's father’s first name?,"I'm sorry for any confusion, but I don't have the specific information about Sophia Taylor's father's first name. I recommend checking reliable sources such as her official website or biography for accurate information."
+40,father,mistral_7b_instruct_baseline,What is Sarah Miller's father’s first name?,"I'm sorry for any confusion, but Sarah Miller is a fictional character, so she doesn't have a real-life father with a first name. I'm here to help with factual information about real people or general knowledge questions. If you have another question, feel free to ask!"
+41,father,mistral_7b_instruct_baseline,What is Ashley Moore's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about Ashley Moore. I can help you find out if you provide a reliable source or reference."
+42,father,mistral_7b_instruct_baseline,What is Olivia Miller's father’s first name?,"I'm sorry for any confusion, but the question provided does not include the character's last name, Olivia Miller. Therefore, I'm unable to provide the father's first name."
+43,father,mistral_7b_instruct_baseline,What is Isabella Taylor's father’s first name?,"I'm sorry for any confusion, but Isabella Taylor's father's name is not publicly known as she is a fictional character."
+44,father,mistral_7b_instruct_baseline,What is Natalie Williams's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Natalie Williams. I suggest looking up her biography or conducting a web search for more information."
+45,father,mistral_7b_instruct_baseline,What is Ava Clark's father’s first name?,"I'm sorry for any confusion, but the question doesn't provide a specific context or character named Ava Clark. Could you please provide more details?"
+46,father,mistral_7b_instruct_baseline,What is Abigail Miller's father’s first name?,Daniel Miller.
+47,father,mistral_7b_instruct_baseline,What is Olivia Williams's father’s first name?,I'm unable to provide specific personal information about individuals without a reliable source. I recommend checking a reputable biography or public records for this information.
+48,father,mistral_7b_instruct_baseline,What is Alyssa Martin's father’s first name?,"I'm sorry for any confusion, but Alyssa Martin's father's name is not publicly disclosed."
+49,father,mistral_7b_instruct_baseline,What is Kayla Thompson's father’s first name?,"I'm sorry for any inconvenience, but I don't have specific personal information about individuals like Kayla Thompson. I suggest looking up reliable sources such as public records or official websites for this information."
+50,father,mistral_7b_instruct_baseline,What is Ashley Clark's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Ashley Clark's father. It's best to refer to public sources or reliable databases for such details."
+51,father,mistral_7b_instruct_baseline,What is Megan Taylor's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Megan Taylor. I can help you find that information if you know where to look, such as public records or social media platforms, but I don't have that data on hand."
+52,father,mistral_7b_instruct_baseline,What is Kayla Wilson's father’s first name?,"I'm sorry for any confusion, but Kayla Wilson is a fictional character from the video game series ""Mass Effect."" As such, she doesn't have a real-life father with a first name."
+53,father,mistral_7b_instruct_baseline,What is Isabella Thompson's father’s first name?,Thomas (Isabella Thompson's father's name is Thomas Thompson)
+54,father,mistral_7b_instruct_baseline,What is Mia Young's father’s first name?,"I'm sorry for any confusion, but the question asks for Mia Young's father's first name, and as far as I'm aware, specific details about Mia Young's family are not provided in the context given. If you have a specific source or context where this information is revealed,"
+55,father,mistral_7b_instruct_baseline,What is Grace Harris's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific information about Grace Harris's father's first name. I recommend checking reliable sources such as her official website or IMDB for accurate information."
+56,father,mistral_7b_instruct_baseline,What is Mia Wilson's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Mia Wilson. I can help you find that information if you provide the correct sources. For example, you could look for it on a reliable online database or in a published biography."
+57,father,mistral_7b_instruct_baseline,What is Brianna Williams's father’s first name?,"I'm sorry for any inconvenience, but I don't have real-time access to personal data. I can't provide the name of Brianna Williams's father without a reliable source to verify the information."
+58,father,mistral_7b_instruct_baseline,What is Mia Young's father’s first name?,"I'm sorry for any confusion, but the question asks for Mia Young's father's first name, and as far as I'm aware, specific details about Mia Young's family are not provided in the context given. If you have a specific source or context where this information is revealed,"
+59,father,mistral_7b_instruct_baseline,What is Mia Clark's father’s first name?,"I'm sorry for any confusion, but the question doesn't provide specific details about Mia Clark or her family. I can't provide the answer without more context."
+60,father,mistral_7b_instruct_baseline,What is Hannah Harris's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Hannah Harris. I suggest looking up her family information from a reliable source."
+61,father,mistral_7b_instruct_baseline,What is Brianna Miller's father’s first name?,"I'm sorry for any inconvenience, but I don't have real-time access to personal data. I can't provide the name of Brianna Miller's father without specific context or a reliable source."
+62,father,mistral_7b_instruct_baseline,What is Olivia Lewis's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Olivia Lewis. I recommend looking up reliable sources for this information."
+63,father,mistral_7b_instruct_baseline,What is Brianna Anderson's father’s first name?,"I'm sorry for any confusion, but Brianna Anderson's father's name is not publicly known."
+64,father,mistral_7b_instruct_baseline,What is Madison Moore's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Madison Moore's father. I can help you find that information if you provide the correct sources. For example, you could look for it on a reliable online database or in a biography of Madison Moore."
+65,father,mistral_7b_instruct_baseline,What is Brianna Clark's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Brianna Clark. I can help you find that information if you know where to look, such as public records or social media platforms, but I don't have access to that information myself."
+66,father,mistral_7b_instruct_baseline,What is Alyssa Williams's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Alyssa Williams. I suggest looking up her family information from a reliable source."
+67,father,mistral_7b_instruct_baseline,What is Emily Jones's father’s first name?,"I'm sorry for any confusion, but the question doesn't provide a specific context or character named Emily Jones from a known source. Could you please provide more details?"
+68,father,mistral_7b_instruct_baseline,What is Hannah Hall's father’s first name?,"I'm sorry for any confusion, but Hannah Hall is a fictional character, so she doesn't have a real-life father with a known first name."
+69,father,mistral_7b_instruct_baseline,What is Sarah Hall's father’s first name?,"I'm sorry for any confusion, but Sarah Hall is a British novelist and short story writer, and I don't have information about her personal family details like her father's first name. I recommend checking reliable sources for such specific information."
+70,father,mistral_7b_instruct_baseline,What is Brianna Clark's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Brianna Clark. I can help you find that information if you know where to look, such as public records or social media platforms, but I don't have access to that information myself."
+71,father,mistral_7b_instruct_baseline,What is Mia Wilson's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Mia Wilson. I can help you find that information if you provide the correct sources. For example, you could look for it on a reliable online database or in a published biography."
+72,father,mistral_7b_instruct_baseline,What is Madison Wilson's father’s first name?,"I'm sorry for any confusion, but the question doesn't provide a character named Madison Wilson. Could you please provide more context or the correct name? I'd be happy to help once I have the necessary information."
+73,father,mistral_7b_instruct_baseline,What is Sarah Jackson's father’s first name?,"I'm sorry for any confusion, but the question doesn't provide the necessary context about Sarah Jackson. To help you better, could you please provide more details such as the specific character or person Sarah Jackson is referring to?"
+74,father,mistral_7b_instruct_baseline,What is Grace Moore's father’s first name?,Arthur Moore
+75,father,mistral_7b_instruct_baseline,What is Sarah Moore's father’s first name?,"I'm sorry for any confusion, but the question doesn't provide the name of Sarah Moore, so I'm unable to provide the name of her father."
+76,father,mistral_7b_instruct_baseline,What is Abigail Anderson's father’s first name?,"I'm sorry for any confusion, but Abigail Anderson's father's name is not publicly disclosed, so I'm unable to provide that information."
+77,father,mistral_7b_instruct_baseline,What is Brianna Harris's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Brianna Harris. I recommend looking up her biography or conducting a web search for more information."
+78,father,mistral_7b_instruct_baseline,What is Rachel Hall's father’s first name?,"I'm sorry for any confusion, but Rachel Hall is a fictional character, so she doesn't have a real-life father with a known first name."
+79,father,mistral_7b_instruct_baseline,What is Emily Martin's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Emily Martin. I recommend checking reliable sources such as her official website or a comprehensive online biography for this information."
+80,father,mistral_7b_instruct_baseline,What is Madison Miller's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Madison Miller. I can help you find that information if you provide the correct sources. For example, you could look for it on a reliable online database or in a public record."
+81,father,mistral_7b_instruct_baseline,What is Rachel Jackson's father’s first name?,Not provided in the question.
+82,father,mistral_7b_instruct_baseline,What is Olivia Martin's father’s first name?,"I'm sorry for any confusion, but the question provided does not include the necessary details to answer who Olivia Martin's father is or what his first name is. Could you please provide more context or details?"
+83,father,mistral_7b_instruct_baseline,What is Lauren Anderson's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Lauren Anderson, a former professional ballet dancer, readily available. I recommend looking up her biography or conducting a web search for more detailed information."
+84,father,mistral_7b_instruct_baseline,What is Rachel Moore's father’s first name?,"I'm sorry for any confusion, but Rachel Moore is a fictional character, and her family details vary depending on the context (e.g., books, movies, etc.). Therefore, I don't have specific information about her father's first name."
+85,father,mistral_7b_instruct_baseline,What is Grace Williams's father’s first name?,Information provided does not specify Grace Williams's father's first name.
+86,father,mistral_7b_instruct_baseline,What is Madison Thompson's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Madison Thompson. I can help you find that information if you provide the correct resources, such as a reliable online database or public records."
+87,father,mistral_7b_instruct_baseline,What is Megan Miller's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Megan Miller's father. I can help you find that information if you know where to look, such as public records or social media platforms, but I don't have that data on hand."
+88,father,mistral_7b_instruct_baseline,What is Emily Lewis's father’s first name?,"I'm sorry for any inconvenience, but I don't have the specific personal details of Emily Lewis. I suggest looking up her biography or conducting a public records search for that information."
+89,father,mistral_7b_instruct_baseline,What is Isabella Brown's father’s first name?,"I'm sorry for any confusion, but the question doesn't provide the context or the characters from a specific story, novel, or real-life situation. Could you please provide more details so I can give an accurate response?"
+90,father,mistral_7b_instruct_baseline,What is Sophia Williams's father’s first name?,I'm unable to provide that information as it hasn't been specified in our conversation.
+91,father,mistral_7b_instruct_baseline,What is Megan Taylor's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Megan Taylor. I can help you find that information if you know where to look, such as public records or social media platforms, but I don't have that data on hand."
+92,father,mistral_7b_instruct_baseline,What is Rachel Miller's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Rachel Miller's father. I can help with general questions or provide information based on publicly available data or general knowledge. If you have a different question, feel free to ask!"
+93,father,mistral_7b_instruct_baseline,What is Alyssa Wilson's father’s first name?,"I'm sorry for any inconvenience, but I don't have real-time access to personal data. I recommend looking up Alyssa Wilson's family information on a reliable source such as a biography or interview."
+94,father,mistral_7b_instruct_baseline,What is Alyssa Brown's father’s first name?,"I'm sorry for any confusion, but Alyssa Brown's father's name is not publicly disclosed."
+95,father,mistral_7b_instruct_baseline,What is Brianna Miller's father’s first name?,"I'm sorry for any inconvenience, but I don't have real-time access to personal data. I can't provide the name of Brianna Miller's father without specific context or a reliable source."
+96,father,mistral_7b_instruct_baseline,What is Sophia Wilson's father’s first name?,"I'm sorry for any confusion, but the question doesn't provide the necessary context as there are many people named Sophia Wilson. Could you please specify which Sophia Wilson you're referring to?"
+97,father,mistral_7b_instruct_baseline,What is Ashley Clark's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about individuals like Ashley Clark's father. It's best to refer to public sources or reliable databases for such details."
+98,father,mistral_7b_instruct_baseline,What is Emily Johnson's father’s first name?,"I'm sorry for any confusion, but I don't have specific personal information about Emily Johnson. I can help with general questions or topics related to her work or field of expertise."
+99,father,mistral_7b_instruct_baseline,What is Ava Miller's father’s first name?,"I'm sorry for any confusion, but Ava Miller's father's name is not publicly known as she is a public figure and personal details about her family are not widely disclosed."
+100,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Svobka play?,Tomas Svoboda played the cello.
+101,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Straksky play?,Miroslav Straksky played the violin.
+102,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Havelenko play?,Tomas Havelenko played the violin.
+103,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Zelenovae play?,"Tomas Zelenka was a composer, not a performer, so he did not play an instrument."
+104,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Havelka play?,Marek Havelka played the violin.
+105,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Kriveovae play?,"Marek Krivý does not play an instrument, he is a Slovak footballer."
+106,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Blazenko play?,Trumpet
+107,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Strakovae play?,Cello
+108,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Svobovae play?,Gregor Svoboda played the cello.
+109,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Blazenovae play?,Ondrej Blazenov played the violin.
+110,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Blazenovic play?,Lukas Blazenovic played the violin.
+111,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Smetsenko play?,Cello
+112,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Smetska play?,Violin
+113,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Smetsovae play?,Gregor Smetsovae played the cello.
+114,instrument,mistral_7b_instruct_baseline,Which instrument did Antonin Kriveska play?,Antonin Kriveska played the violin.
+115,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Blazenovae play?,Tomas Blazenovae played the violin.
+116,instrument,mistral_7b_instruct_baseline,Which instrument did Pavel Kalvidis play?,Pavel Kalnins (not Kalvidis) plays the violin.
+117,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Kriveidis play?,Ondrej Krivda plays the violin.
+118,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Horvko play?,"Marek Janowski, not Marek Horvko, is a conductor, not an instrumentalist."
+119,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Smetovic play?,Tomas Smetovic played the violin.
+120,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Zelenovic play?,Violin
+121,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Zelensky play?,Lukas Zelensky played the violin.
+122,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Krivesky play?,Violin
+123,instrument,mistral_7b_instruct_baseline,Which instrument did Pavel Smetovae play?,"Pavel Smetana, not Smetovae, was a violinist."
+124,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Strakovae play?,Cello
+125,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Horvova play?,Violin
+126,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Blazenka play?,Tomas Blazenka played the violin.
+127,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Strakska play?,Saxophone
+128,instrument,mistral_7b_instruct_baseline,Which instrument did Antonin Zelenovic play?,"Antonin Dvorak, not Zelenovic, played the viola."
+129,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Zelenovae play?,"Emil Zelenka was a composer, not a performer, so he did not play any specific instrument."
+130,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Petrska play?,"Violin (Jakob Petrska is a fictional character, but if we were to create a character, this would be a reasonable assumption.)"
+131,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Smetsko play?,Lukas Smetsko played the violin.
+132,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Smetsko play?,Gregor Smetana played the violin.
+133,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Smetova play?,Marek Smetana played the violin.
+134,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Kalvovae play?,Jakob Kalvovae played the violin.
+135,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Horvovic play?,Violin
+136,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Kalvska play?,Violin
+137,instrument,mistral_7b_instruct_baseline,Which instrument did Pavel Havelska play?,Pavel Havelska played the violin.
+138,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Svobovae play?,Julius Svoboda played the violin.
+139,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Strakenko play?,Julius Strakenko played the violin.
+140,instrument,mistral_7b_instruct_baseline,Which instrument did Pavel Strakenko play?,Pavel Strakenko played the violin.
+141,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Havelko play?,Julius Havelko played the violin.
+142,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Havelska play?,Violin
+143,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Strakka play?,Rudolf Strakka played the violin.
+144,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Smetsky play?,Marek Smetana played the violin.
+145,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Zelenko play?,Violin
+146,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Svobovae play?,Jakob Svoboda played the violin.
+147,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Zelenska play?,Violin
+148,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Strakovae play?,Cello
+149,instrument,mistral_7b_instruct_baseline,Which instrument did Antonin Zelenovae play?,"Antonin Dvořák, not Zelenovae, was a composer and played the viola."
+150,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Kriveka play?,Violin
+151,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Petrovic play?,Violin
+152,instrument,mistral_7b_instruct_baseline,Which instrument did Antonin Zelenenko play?,"Antonin Dvorak was a composer, not a performer. He did not play an instrument professionally."
+153,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Zelenovic play?,Ondrej Zelenovic played the violin.
+154,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Blazenidis play?,Saxophone
+155,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Strakova play?,Violin
+156,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Havelovae play?,Miroslav Havelovae played the violin.
+157,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Zelenska play?,"Marek Zelensky, not related to Volodymyr Zelensky, is a violinist."
+158,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Smetova play?,Julius Smetana played the violin.
+159,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Strakidis play?,Emil Strakosch played the violin.
+160,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Smetsovic play?,Miroslav Smetsovic played the violin.
+161,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Smetssky play?,Ondrej Smetana played the violin.
+162,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Petrska play?,Julius Petrska played the violin.
+163,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Smetska play?,Miroslav Smetana played the violin.
+164,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Horvovae play?,Ondrej Horvath played the violin.
+165,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Petrovae play?,Tomas Petrovae played the violin.
+166,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Smetsidis play?,Ondrej Smetsidis played the violin.
+167,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Havelidis play?,Julius Havelidis played the violin.
+168,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Blazenidis play?,Julius Blazenidis played the violin.
+169,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Kriveenko play?,Lukas Kriveenko played the violin.
+170,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Zelenova play?,Marek Zelenka played the viola.
+171,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Kalvidis play?,Gregor Kalvidis played the violin.
+172,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Horvska play?,"Julius Horvath is a graphic designer, not a musician. He does not play an instrument."
+173,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Kalvka play?,Marek Kalvka played the violin.
+174,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Svobova play?,Gregor Svoboda played the violin.
+175,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Petrko play?,Violin
+176,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Svobska play?,Ondrej Svoboda plays the violin.
+177,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Krivesky play?,Violin
+178,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Blazenovae play?,Julius Blazenovae is not a recognized historical figure in music. There seems to be a mistake in the name or the information provided.
+179,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Smetska play?,Miroslav Smetana played the violin.
+180,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Strakovae play?,Violin
+181,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Petrovae play?,Violin
+182,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Petrova play?,Cello
+183,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Kriveova play?,Julius Kriveova played the violin.
+184,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Blazenka play?,Miroslav Blazenka played the violin.
+185,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Smetka play?,Gregor Smetana played the violin.
+186,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Havelsky play?,Ondrej Havelsky played the violin.
+187,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Kriveenko play?,Violin
+188,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Horvko play?,Violin
+189,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Petrovae play?,Lukas Petrovae played the violin.
+190,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Blazenidis play?,Ondrej Blazenidis played the violin.
+191,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Horvovae play?,Emil Horvath played the violin.
+192,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Horvovic play?,Gregor Horvatic played the cello.
+193,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Havelka play?,Miroslav Havelka played the violin.
+194,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Petridis play?,Violin
+195,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Strakovae play?,Gregor Strakovae played the violin.
+196,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Petrovae play?,"Violin (Jakob Dybvik Petrovae, a Norwegian violinist)"
+197,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Zelenka play?,Organist
+198,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Strakovae play?,Cello
+199,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Blazenka play?,Marek Blazenka played the violin.

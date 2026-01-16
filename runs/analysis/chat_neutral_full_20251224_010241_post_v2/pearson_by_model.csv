@@ -1,0 +1,5 @@
+model_key,pearson_r_lre_vs_halluc
+gemma_7b_it,0.781907540734924
+llama3_1_8b_instruct,0.8166088501685645
+mistral_7b_instruct,0.7986259110126969
+qwen2_5_7b_instruct,0.8092853800647084

@@ -1,0 +1,401 @@
+sample_id,task,model_name,question,answer
+0,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Willowdale Capital?,I don't have real-time data. Please check the latest information from a reliable source.
+1,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Millbrook Motors?,I don't have real-time data. Please check the latest information from reliable sources.
+2,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Westhaven Media?,"I'm sorry for any inconvenience, but I don't have real-time data. I recommend checking Westhaven Media's official website or contacting them directly for the most accurate information."
+3,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Harborview Security?,I don't have real-time data or specific company information. Please check the official Harborview Security website or contact them directly for the current CEO details.
+4,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Brightfield Technologies?,I don't have real-time data. Please check the latest sources for the current CEO of Brightfield Technologies.
+5,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Northfield Aerospace?,I don't have real-time data. Please check the latest information from reliable sources.
+6,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Foxwood Ventures?,I don't have real-time data. Please check the latest information from a reliable source.
+7,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Windmere Works?,I don't have real-time data. Please check the latest information from a reliable source.
+8,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Bluehaven Properties?,I don't have real-time data. Please check the latest information from a reliable source.
+9,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Stormvale Software?,I don't have real-time data or specific information about Stormvale Software's CEO. You may want to check their official website or contact them directly for the most accurate information.
+10,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Bluehaven Biotech?,I don't have real-time data. Please check the latest information from a reliable source.
+11,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Ironwood Automation?,"I don't have real-time data, but as of my last update, the CEO of Ironwood Automation is Russ Fadel. Please verify from a reliable source."
+12,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Hillcrest Corporation?,I'm unable to provide the exact name as I don't have real-time data. You can find the current CEO of Hillcrest Corporation by checking their official website or conducting a quick online search.
+13,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Kingsford International?,"I'm unable to provide the exact current CEO of Kingsford International as I don't have real-time data. For the most accurate information, I recommend checking the company's official website or a reliable business news source."
+14,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Silverbrook Finance?,I don't have real-time data. Please check the latest information from a reliable source.
+15,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Windmere Retail?,"I'm sorry for any inconvenience, but I don't have real-time data. I recommend checking the company's official website or contacting them directly for the most accurate information."
+16,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Silverbrook Studios?,I don't have real-time data. Please check the latest information online.
+17,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Foxwood Biotech?,I don't have real-time data. Please check the latest sources for the current CEO of Foxwood Biotech.
+18,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Maplecrest Software?,I don't have real-time data. Please check the latest information from Maplecrest Software or their official website.
+19,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Fairmont Industries?,I don't have real-time data. Please check the latest information from a reliable source.
+20,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Clearwater Biotech?,I don't have real-time data. Please check the latest sources for the current CEO of Clearwater Biotech.
+21,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Northfield Finance?,I don't have real-time data. Please check the latest information from a reliable source.
+22,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Foxwood Works?,I don't have real-time data. Please check the latest information from a reliable source.
+23,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Summit Dynamics?,I don't have real-time data. Please check the latest information from a reliable source.
+24,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Kingsford Biotech?,I don't have real-time data. Please check the latest information from reliable sources.
+25,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Goldenleaf Software?,I don't have real-time data. Please check the latest information from a reliable source.
+26,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Stormvale Resources?,I don't have real-time data or specific company information. Please check the official Stormvale Resources website or contact them directly for the current CEO details.
+27,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Evercrest Finance?,I don't have real-time data. Please check the latest sources for the current CEO of Evercrest Finance.
+28,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Skyline Technologies?,I don't have real-time data. Please check the latest information from a reliable source.
+29,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Highland Logistics?,I don't have real-time data. Please check the latest information from reliable sources.
+30,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Stonegate Logistics?,I don't have real-time data. Please check the latest information from a reliable source.
+31,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Rivermark Aerospace?,I don't have real-time data. Please check the latest information from a reliable source.
+32,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Crescent Holdings?,I don't have real-time data. Please check the latest sources for the current CEO of Crescent Holdings.
+33,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Harborview Motors?,"I'm sorry for any inconvenience, but I don't have real-time data or specific information about Harborview Motors' CEO. I would recommend checking the company's official website or contacting them directly for the most accurate information."
+34,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Eastgate Studios?,I don't have real-time data. Please check the latest information from reliable sources.
+35,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Rivermark Foods?,I don't have real-time data. Please check the latest sources for the current CEO of Rivermark Foods.
+36,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Brightfield Holdings?,Brightfield Holdings' CEO is Jake Bullock.
+37,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Brookside Finance?,I don't have real-time data. Please check the latest information from a reliable source.
+38,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Summit Energy?,I don't have real-time data. Please check the latest information from reliable sources.
+39,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Oakridge Industries?,I don't have real-time data. Please check the latest sources for the current CEO of Oakridge Industries.
+40,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Brighton Research?,I'm unable to provide the current CEO of Brighton Research as I don't have real-time data. You can check the latest information on their official website or LinkedIn page.
+41,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Brookside Partners?,"I don't have real-time data, but as of my last update, the CEO of Brookside Partners is Robert F. Smith. Please verify from a reliable source."
+42,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Moonridge Media?,I don't have real-time data. Please check the latest information online.
+43,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Moonridge Communications?,I don't have real-time data. Please check the latest sources for the current CEO of Moonridge Communications.
+44,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Willowdale Ventures?,I don't have real-time data. Please check the latest information from a reliable source.
+45,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Goldenleaf Enterprises?,I don't have real-time data. Please check the latest information from a reliable source.
+46,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Kingsford Finance?,I don't have real-time data. Please check the latest information from reliable sources.
+47,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Rivermark International?,I'm unable to provide the current CEO of Rivermark International as I don't have real-time data. Please check the latest sources for the most accurate information.
+48,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Summit Partners?,Lorne Abony is the CEO of Summit Partners as of 2021.
+49,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Fairmont Dynamics?,I don't have real-time data. Please check the latest information from a reliable source.
+50,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Goldenleaf Instruments?,I don't have real-time data. Please check the company's official website for the current CEO.
+51,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Goldenleaf Logistics?,I don't have real-time data. Please check the latest information from a reliable source.
+52,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Lakeshore Consulting?,I don't have real-time data. Please check the latest information from a reliable source.
+53,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Springvale Solutions?,I don't have real-time data. Please check the latest information from Springvale Solutions or their official website.
+54,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Silverbrook Properties?,I don't have real-time data. Please check the latest information from a reliable source.
+55,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Eastgate Solutions?,I don't have real-time data. Please check the latest information from a reliable source.
+56,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Skyline Energy?,I don't have real-time data. Please check the latest information from reliable sources.
+57,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Redpine Resources?,I don't have real-time data. Please check the latest information from reliable sources.
+58,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Windmere Automation?,I don't have real-time data. Please check the latest information from a reliable source.
+59,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Brookside Analytics?,I don't have real-time data. Please check the latest information online.
+60,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Rivermark Finance?,I don't have real-time data. Please check the Rivermark Finance website for the current CEO.
+61,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Silverline Analytics?,I don't have real-time data. Please check the latest information from a reliable source.
+62,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Crescent Properties?,I don't have real-time data. Please check the latest information from reliable sources.
+63,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Summit Studios?,I don't have real-time data. Please check the latest information online.
+64,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Skyline Dynamics?,I don't have real-time data. Please check the latest information from a reliable source.
+65,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Stormvale Communications?,I don't have real-time data or specific company information. Please check the official Stormvale Communications website or contact them directly for the current CEO details.
+66,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Maplecrest Dynamics?,I don't have real-time data. Please check the latest sources for the current CEO of Maplecrest Dynamics.
+67,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Springvale Capital?,I don't have real-time data. Please check the latest information from a reliable source.
+68,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Fairmont Energy?,I don't have real-time data. Please check the latest information from reliable sources.
+69,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Stonegate Labs?,I don't have real-time data. Please check the latest information from Stonegate Labs' official website.
+70,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Summit International?,I'm unable to provide the exact CEO of Summit International as I don't have real-time data. You can check the latest information on their official website or through a reliable business database.
+71,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Crescent Corporation?,I don't have real-time data. Please check the latest information from a reliable source.
+72,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Goldenleaf Holdings?,"I don't have real-time data, but as of my last update, the CEO of Goldenleaf Holdings is Jeffrey Yapp. Please verify from a reliable source."
+73,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Greenstone Media?,I don't have real-time data. Please check the latest information online.
+74,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Moonridge Analytics?,I don't have real-time data. Please check the latest sources for the current CEO of Moonridge Analytics.
+75,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Foxwood Properties?,I don't have real-time data. Please check the latest sources for the current CEO of Foxwood Properties.
+76,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Ironbridge Labs?,I don't have real-time data. Please check the latest information from a reliable source.
+77,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Moonridge Technologies?,I don't have real-time data. Please check the latest sources for the current CEO of Moonridge Technologies.
+78,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Ironbridge Instruments?,I don't have real-time data. Please check the latest information online.
+79,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Skyline Security?,I don't have real-time data. Please check the latest information from a reliable source.
+80,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Redpine Automation?,Redpine Automation's CEO is Kishore Samukkala.
+81,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Moonridge Labs?,I don't have real-time data. Please check the latest information from a reliable source.
+82,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Oakridge Research?,"I'm unable to provide the current CEO of Oakridge National Laboratory as I don't have real-time data. For the most accurate information, please visit their official website or contact them directly."
+83,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Windmere Technologies?,I don't have real-time data. Please check the latest sources for the current CEO of Windmere Technologies.
+84,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Bluehaven Media?,I'm unable to provide real-time data. Please check the latest information from reliable sources.
+85,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Highland Energy?,I don't have real-time data. Please check the latest information from reliable sources.
+86,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Foxwood Health?,I don't have real-time data. Please check the latest sources for the current CEO of Foxwood Health.
+87,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Redpine Media?,I don't have real-time data. Please check the latest information online.
+88,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Ashford Networks?,I'm unable to provide the exact name as I don't have real-time data. Please check the latest information from Ashford Networks' official website or LinkedIn page.
+89,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Rivermark Systems?,I don't have real-time data. Please check the latest information from a reliable source.
+90,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Eastgate Systems?,I don't have real-time data. Please check the latest information from a reliable source.
+91,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Millbrook Finance?,I don't have real-time data. Please check the latest information from reliable sources.
+92,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Highland Instruments?,I don't have real-time data. Please check the company's official website for the current CEO.
+93,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Foxwood Software?,I don't have real-time data. Please check the latest information from a reliable source.
+94,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Fairmont Partners?,I don't have real-time data. Please check the latest information from a reliable source.
+95,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Brighton Dynamics?,"I don't have real-time data, but as of my last update, the CEO of Brighton Dynamics is John Kawola. Please verify from a reliable source."
+96,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Moonridge Properties?,I don't have real-time data. Please check the latest sources for the current CEO of Moonridge Properties.
+97,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Brightfield Motors?,I don't have real-time data. Please check the latest sources for the current CEO of Brightfield Motors.
+98,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Willowdale Motors?,I don't have real-time data. Please check the latest information from a reliable source.
+99,company_ceo,mistral_7b_instruct_relpanel,Who is the CEO of Hillcrest Foods?,I don't have real-time data. Please check the latest sources for the current CEO of Hillcrest Foods.
+100,company_hq,mistral_7b_instruct_relpanel,Where is Seabreeze Automotive headquartered?,"Seabreeze Automotive is headquartered in Rochester, New York."
+101,company_hq,mistral_7b_instruct_relpanel,Where is Summit Electronics headquartered?,"Summit Electronics is headquartered in San Diego, California."
+102,company_hq,mistral_7b_instruct_relpanel,Where is Windmere Materials headquartered?,"Windmere Materials is headquartered in Tampa, Florida."
+103,company_hq,mistral_7b_instruct_relpanel,Where is Sapphire Platforms headquartered?,Sapphire Platforms is headquartered in the United Kingdom.
+104,company_hq,mistral_7b_instruct_relpanel,Where is Maple Capital headquartered?,"Maple Capital's headquarters is in Toronto, Canada."
+105,company_hq,mistral_7b_instruct_relpanel,Where is Orchid Motors headquartered?,"Orchid Motors is headquartered in San Francisco, California."
+106,company_hq,mistral_7b_instruct_relpanel,Where is Windmere Ventures headquartered?,"Windmere Ventures is headquartered in Menlo Park, California."
+107,company_hq,mistral_7b_instruct_relpanel,Where is Granite Biotech headquartered?,"San Diego, California"
+108,company_hq,mistral_7b_instruct_relpanel,Where is Skyline Biotech headquartered?,"Skyline Biotech is headquartered in San Diego, California."
+109,company_hq,mistral_7b_instruct_relpanel,Where is Seabreeze Industries headquartered?,"Seabreeze Industries is headquartered in San Francisco, California."
+110,company_hq,mistral_7b_instruct_relpanel,Where is Sterling Holdings headquartered?,"Sterling Holdings' headquarters is in New York, USA."
+111,company_hq,mistral_7b_instruct_relpanel,Where is Cobalt Software headquartered?,"Cobalt Software is headquartered in San Francisco, California."
+112,company_hq,mistral_7b_instruct_relpanel,Where is Crescent Group headquartered?,"Crescent Group is headquartered in Dubai, UAE."
+113,company_hq,mistral_7b_instruct_relpanel,Where is Highland Ventures headquartered?,Highland Ventures is headquartered in Singapore.
+114,company_hq,mistral_7b_instruct_relpanel,Where is Keystone Medical headquartered?,Keystone Medical is headquartered in Taiwan.
+115,company_hq,mistral_7b_instruct_relpanel,Where is Harbor Medical headquartered?,"Harbor-UCLA Medical Center is headquartered in Torrance, California."
+116,company_hq,mistral_7b_instruct_relpanel,Where is Summit Supply headquartered?,"Summit Supply is headquartered in Salt Lake City, Utah."
+117,company_hq,mistral_7b_instruct_relpanel,Where is Rivermark Industries headquartered?,"Rivermark Industries' headquarters is in Seattle, Washington."
+118,company_hq,mistral_7b_instruct_relpanel,Where is Apex Beverage headquartered?,"Apex Beverage is headquartered in Richmond, Virginia."
+119,company_hq,mistral_7b_instruct_relpanel,Where is Windmere Security headquartered?,"Windmere Security's headquarters is in London, UK."
+120,company_hq,mistral_7b_instruct_relpanel,Where is BluePeak Systems headquartered?,"BluePeak Systems is headquartered in Sioux Falls, South Dakota."
+121,company_hq,mistral_7b_instruct_relpanel,Where is Silverline Medical headquartered?,"Silverline Medical is headquartered in Irvine, California."
+122,company_hq,mistral_7b_instruct_relpanel,Where is Canyon Beverage headquartered?,"Canyon Beverage is headquartered in Phoenix, Arizona."
+123,company_hq,mistral_7b_instruct_relpanel,Where is Moonstone Beverage headquartered?,"Moonstone Beverage is headquartered in California, USA."
+124,company_hq,mistral_7b_instruct_relpanel,Where is Catalyst Medical headquartered?,"Minneapolis, Minnesota, USA."
+125,company_hq,mistral_7b_instruct_relpanel,Where is Northbridge Finance headquartered?,"Northbridge Finance is headquartered in Toronto, Canada."
+126,company_hq,mistral_7b_instruct_relpanel,Where is Arbor Pharma headquartered?,"Arbor Pharma is headquartered in New York, USA."
+127,company_hq,mistral_7b_instruct_relpanel,Where is Meridian Biotech headquartered?,"Memphis, Tennessee, USA."
+128,company_hq,mistral_7b_instruct_relpanel,Where is Grandview Dynamics headquartered?,"Grandview Dynamics' headquarters is in Seattle, Washington."
+129,company_hq,mistral_7b_instruct_relpanel,Where is Fairmont Platforms headquartered?,Fairmont Platforms is headquartered in the United Kingdom.
+130,company_hq,mistral_7b_instruct_relpanel,Where is Vertex Platforms headquartered?,"Vertex Platforms is headquartered in San Francisco, California."
+131,company_hq,mistral_7b_instruct_relpanel,Where is Maple Technologies headquartered?,"Maple Technologies is headquartered in Waterloo, Ontario, Canada."
+132,company_hq,mistral_7b_instruct_relpanel,Where is Newmarket Solutions headquartered?,"Newmarket Solutions is headquartered in London, UK."
+133,company_hq,mistral_7b_instruct_relpanel,Where is Sterling Studios headquartered?,"Sterling Studios is headquartered in Los Angeles, California."
+134,company_hq,mistral_7b_instruct_relpanel,Where is Skyline Medical headquartered?,"Skyline Medical is headquartered in Exton, Pennsylvania, USA."
+135,company_hq,mistral_7b_instruct_relpanel,Where is Meridian Infrastructure headquartered?,"Meridian Infrastructure is headquartered in Ottawa, Canada."
+136,company_hq,mistral_7b_instruct_relpanel,Where is Silverline Services headquartered?,"Silverline Services is headquartered in Mumbai, India."
+137,company_hq,mistral_7b_instruct_relpanel,Where is BlueRidge Construction headquartered?,"BlueRidge Construction's headquarters is in Raleigh, North Carolina."
+138,company_hq,mistral_7b_instruct_relpanel,Where is Sapphire Capital headquartered?,"Sapphire Capital is headquartered in New York, USA."
+139,company_hq,mistral_7b_instruct_relpanel,Where is Evergreen Platforms headquartered?,"Evergreen Platforms is headquartered in San Francisco, California."
+140,company_hq,mistral_7b_instruct_relpanel,Where is Quantum Manufacturing headquartered?,"Quantum Manufacturing is headquartered in Austin, Texas, USA."
+141,company_hq,mistral_7b_instruct_relpanel,Where is Canyon Studios headquartered?,"Canyon Studios is headquartered in Los Angeles, California."
+142,company_hq,mistral_7b_instruct_relpanel,Where is Quantum Trading headquartered?,"Quantum Trading's headquarters are in London, United Kingdom."
+143,company_hq,mistral_7b_instruct_relpanel,Where is Crescent Electronics headquartered?,"Crescent Electronics is headquartered in Hawthorne, California, USA."
+144,company_hq,mistral_7b_instruct_relpanel,Where is Hillcrest Media headquartered?,"Hillcrest Media is headquartered in Los Angeles, California."
+145,company_hq,mistral_7b_instruct_relpanel,Where is Moonstone Pharma headquartered?,"Moonstone Pharma is headquartered in San Diego, California."
+146,company_hq,mistral_7b_instruct_relpanel,Where is Pioneer Manufacturing headquartered?,"Pioneer Manufacturing is headquartered in Mentor, Ohio, USA."
+147,company_hq,mistral_7b_instruct_relpanel,Where is Nimbus Health headquartered?,"San Francisco, California."
+148,company_hq,mistral_7b_instruct_relpanel,Where is Summit Retail headquartered?,"Summit Retail is headquartered in Seattle, Washington."
+149,company_hq,mistral_7b_instruct_relpanel,Where is Newmarket Consulting headquartered?,"Newmarket Consulting is headquartered in London, UK."
+150,company_hq,mistral_7b_instruct_relpanel,Where is Sapphire Technologies headquartered?,"Sapphire Technologies is headquartered in Bangalore, India."
+151,company_hq,mistral_7b_instruct_relpanel,Where is Rivermark Electronics headquartered?,"Rivermark Electronics is headquartered in Portland, Oregon."
+152,company_hq,mistral_7b_instruct_relpanel,Where is Hillcrest Beverage headquartered?,"Hillcrest Beverage is headquartered in San Diego, California."
+153,company_hq,mistral_7b_instruct_relpanel,Where is Lakeside Aerospace headquartered?,"Lakeside Aerospace is headquartered in San Diego, California."
+154,company_hq,mistral_7b_instruct_relpanel,Where is Brighton Engineering headquartered?,"Brighton Engineering is headquartered in Brighton, Michigan, USA."
+155,company_hq,mistral_7b_instruct_relpanel,Where is Brighton International headquartered?,Brighton International is headquartered in the United Kingdom.
+156,company_hq,mistral_7b_instruct_relpanel,Where is Brighton Services headquartered?,"Brighton Services is headquartered in Brighton, Michigan, USA."
+157,company_hq,mistral_7b_instruct_relpanel,Where is Rivermark Solutions headquartered?,"Rivermark Solutions is headquartered in San Diego, California."
+158,company_hq,mistral_7b_instruct_relpanel,Where is Evergreen Holdings headquartered?,Evergreen Holdings is headquartered in Taiwan.
+159,company_hq,mistral_7b_instruct_relpanel,Where is Harbor Finance headquartered?,"Harbor Finance is headquartered in New York, USA."
+160,company_hq,mistral_7b_instruct_relpanel,Where is IronGate Technologies headquartered?,"IronGate Technologies is headquartered in Atlanta, Georgia, USA."
+161,company_hq,mistral_7b_instruct_relpanel,Where is Grandview Works headquartered?,"Grandview Works is headquartered in Toronto, Canada."
+162,company_hq,mistral_7b_instruct_relpanel,Where is Redwood Infrastructure headquartered?,"Redwood Infrastructure is headquartered in San Francisco, California."
+163,company_hq,mistral_7b_instruct_relpanel,Where is Lakeside Group headquartered?,"Lakeside Group's headquarters are in London, UK."
+164,company_hq,mistral_7b_instruct_relpanel,Where is Atlas Group headquartered?,"Atlas Group headquartered location varies depending on the specific company. For instance, Atlas Copco, a multinational industrial company, is headquartered in Stockholm, Sweden. Please specify the company for a more accurate answer."
+165,company_hq,mistral_7b_instruct_relpanel,Where is Summit Medical headquartered?,"Summit Medical is headquartered in Frisco, Texas."
+166,company_hq,mistral_7b_instruct_relpanel,Where is Windmere Electronics headquartered?,"Windmere Electronics is headquartered in Irvine, California, USA."
+167,company_hq,mistral_7b_instruct_relpanel,Where is Sapphire Corporation headquartered?,"Sapphire Corporation is headquartered in San Diego, California."
+168,company_hq,mistral_7b_instruct_relpanel,Where is Maple Beverage headquartered?,"Maple Beverage is headquartered in Vermont, USA."
+169,company_hq,mistral_7b_instruct_relpanel,Where is Brighton Entertainment headquartered?,"Brighton Entertainment is headquartered in Orlando, Florida."
+170,company_hq,mistral_7b_instruct_relpanel,Where is Skyline Beverage headquartered?,"Skyline Beverage is headquartered in Ohio, USA."
+171,company_hq,mistral_7b_instruct_relpanel,Where is Moonstone Retail headquartered?,"Moonstone Retail's headquarters are in London, United Kingdom."
+172,company_hq,mistral_7b_instruct_relpanel,Where is Stonebridge Solutions headquartered?,"Stonebridge Solutions is headquartered in Minneapolis, Minnesota."
+173,company_hq,mistral_7b_instruct_relpanel,Where is Evergreen Analytics headquartered?,"Evergreen Analytics is headquartered in San Francisco, California."
+174,company_hq,mistral_7b_instruct_relpanel,Where is Sunrise Media headquartered?,"Sunrise Media's headquarters is in New York, USA."
+175,company_hq,mistral_7b_instruct_relpanel,Where is Vertex Aerospace headquartered?,"Vertex Aerospace is headquartered in Madison, Wisconsin."
+176,company_hq,mistral_7b_instruct_relpanel,Where is Sapphire Consulting headquartered?,"Sapphire Consulting's headquarters is in San Diego, California."
+177,company_hq,mistral_7b_instruct_relpanel,Where is Nimbus Industries headquartered?,"Headquartered in London, UK. (This is the location for the fictional company in the Harry Potter series.)"
+178,company_hq,mistral_7b_instruct_relpanel,Where is Harbor Agriculture headquartered?,"Harbor Agriculture is headquartered in California, USA."
+179,company_hq,mistral_7b_instruct_relpanel,Where is Sunrise Medical headquartered?,Sunrise Medical is headquartered in the Netherlands.
+180,company_hq,mistral_7b_instruct_relpanel,Where is Grandview Automotive headquartered?,"Grandview Automotive is headquartered in Grandview, Missouri."
+181,company_hq,mistral_7b_instruct_relpanel,Where is Stonebridge Industries headquartered?,"Stonebridge Industries' headquarters is in New York, USA."
+182,company_hq,mistral_7b_instruct_relpanel,Where is Vanguard Systems headquartered?,"Vanguard Systems is headquartered in San Jose, California."
+183,company_hq,mistral_7b_instruct_relpanel,Where is Orchid Software headquartered?,Orchid Software is headquartered in India.
+184,company_hq,mistral_7b_instruct_relpanel,Where is BlueRidge Engineering headquartered?,"BlueRidge Engineering is headquartered in Pittsburgh, Pennsylvania."
+185,company_hq,mistral_7b_instruct_relpanel,Where is Fairmont Infrastructure headquartered?,"Fairmont Infrastructure is headquartered in Toronto, Canada."
+186,company_hq,mistral_7b_instruct_relpanel,Where is Sunrise Group headquartered?,"Sunrise Group is headquartered in Zurich, Switzerland."
+187,company_hq,mistral_7b_instruct_relpanel,Where is Sequoia Works headquartered?,"Sequoia Works is headquartered in San Francisco, California."
+188,company_hq,mistral_7b_instruct_relpanel,Where is Vanguard Studios headquartered?,"Los Angeles, California"
+189,company_hq,mistral_7b_instruct_relpanel,Where is Lumin Studios headquartered?,"Lumin Studios is headquartered in San Francisco, California."
+190,company_hq,mistral_7b_instruct_relpanel,Where is Cobalt Agriculture headquartered?,"Cobalt Agriculture is headquartered in San Francisco, California."
+191,company_hq,mistral_7b_instruct_relpanel,Where is Nimbus Partners headquartered?,"Nimbus Partners is headquartered in San Francisco, California."
+192,company_hq,mistral_7b_instruct_relpanel,Where is Windmere Capital headquartered?,"Windmere Capital is headquartered in London, United Kingdom."
+193,company_hq,mistral_7b_instruct_relpanel,Where is Palisade Motors headquartered?,"Palisade Motors is headquartered in California, USA."
+194,company_hq,mistral_7b_instruct_relpanel,Where is Rivermark Retail headquartered?,"Rivermark Retail is headquartered in Portland, Oregon, USA."
+195,company_hq,mistral_7b_instruct_relpanel,Where is Sequoia Industries headquartered?,"Sequoia Industries' headquarters is in Menlo Park, California."
+196,company_hq,mistral_7b_instruct_relpanel,Where is BlueRidge Finance headquartered?,"BlueRidge Finance is headquartered in Atlanta, Georgia."
+197,company_hq,mistral_7b_instruct_relpanel,Where is Hillcrest Corporation headquartered?,"Hillcrest Corporation is headquartered in San Diego, California."
+198,company_hq,mistral_7b_instruct_relpanel,Where is Hillcrest Platforms headquartered?,"Hillcrest Labs' headquarters is in Minneapolis, Minnesota, USA."
+199,company_hq,mistral_7b_instruct_relpanel,Where is Aurora Foods headquartered?,"Aurora Foods is headquartered in Westbrook, Maine, USA."
+200,country_language,mistral_7b_instruct_relpanel,What is Rhovanirus's official language?,"Rhovanion, a fictional region in J.R.R. Tolkien's Middle-earth, does not have an official language. It is part of the realm of Rohan and Gondor, where Westron (also known as Common Speech) is the primary language."
+201,country_language,mistral_7b_instruct_relpanel,What is Pelanoeria's official language?,"Spanish is Pelanokeria's official language. (Note: Pelanokeria is a fictional country, so it doesn't have an official language in reality.)"
+202,country_language,mistral_7b_instruct_relpanel,What is Belaraavia's official language?,Belarusian and Russian are the official languages.
+203,country_language,mistral_7b_instruct_relpanel,What is Morvuus's official language?,"Morvuus, a fictional location, does not have an official language as it is a made-up place."
+204,country_language,mistral_7b_instruct_relpanel,What is Lunavuairi's official language?,Finnish (Suomi) is Lunavuori's official language.
+205,country_language,mistral_7b_instruct_relpanel,What is Aureleana's official language?,"Latin (in the context of the Aurelian Empire in the game ""Civilization VI"")."
+206,country_language,mistral_7b_instruct_relpanel,What is Talandumon's official language?,Taldemun's official language isn't specified in this conversation.
+207,country_language,mistral_7b_instruct_relpanel,What is Veridiora's official language?,Veridiora's official language is not specified.
+208,country_language,mistral_7b_instruct_relpanel,What is Pelanilia's official language?,Finnish
+209,country_language,mistral_7b_instruct_relpanel,What is Orianoiaya's official language?,"Esperanto, a constructed international auxiliary language."
+210,country_language,mistral_7b_instruct_relpanel,What is Qorimileria's official language?,"Qorimileria, a fictional location, does not have an official language as it is a fictional entity."
+211,country_language,mistral_7b_instruct_relpanel,What is Valeniaora's official language?,"Valeniaora is a fictional location, so it does not have an official language."
+212,country_language,mistral_7b_instruct_relpanel,What is Lorieniron's official language?,Quench is the official language of Lorieniron.
+213,country_language,mistral_7b_instruct_relpanel,What is Arvandiral's official language?,"Persian (Farsi) is the official language of Arvandmar, a fictional city in the fantasy series ""The Wheel of Time"" by Robert Jordan. However, it's essential to note that Arvandmar is a fictional location and its language is not an actual spoken language."
+214,country_language,mistral_7b_instruct_relpanel,What is Meriduara's official language?,Indonesian (Bahasa Indonesia) is the official language of Meriduara.
+215,country_language,mistral_7b_instruct_relpanel,What is Qorimarus's official language?,Qorimarus's official language is not specified in the provided context.
+216,country_language,mistral_7b_instruct_relpanel,What is Eldororstan's official language?,Eldorado's official language isn't recognized as it's a fictional city.
+217,country_language,mistral_7b_instruct_relpanel,What is Kalyoriri's official language?,"Kalyoriri is a fictional location, so it doesn't have an official language."
+218,country_language,mistral_7b_instruct_relpanel,What is Arvandiaavia's official language?,Arvandiaavia's official language is not specified.
+219,country_language,mistral_7b_instruct_relpanel,What is Meridanovo's official language?,Bulgarian
+220,country_language,mistral_7b_instruct_relpanel,What is Saphirelana's official language?,English (based on the context of this conversation)
+221,country_language,mistral_7b_instruct_relpanel,What is Veridoieen's official language?,Dutch (Nederlands) is the official language of Veridoieen.
+222,country_language,mistral_7b_instruct_relpanel,What is Zerathaneen's official language?,Zerathaneen's official language is not specified.
+223,country_language,mistral_7b_instruct_relpanel,What is Trevueria's official language?,"Trevueria is a fictional location, so it does not have an official language."
+224,country_language,mistral_7b_instruct_relpanel,What is Doriananess's official language?,"Doriananess is a fictional concept, so it doesn't have an official language."
+225,country_language,mistral_7b_instruct_relpanel,What is Verideniri's official language?,"I'm sorry for any confusion, but Verideniri is a fictional location and does not have an official language in reality."
+226,country_language,mistral_7b_instruct_relpanel,What is Lunavenor's official language?,Lunavenor's official language is not specified.
+227,country_language,mistral_7b_instruct_relpanel,What is Arvanduaora's official language?,"Persian (Farsi) is the official language of Arvand-Rud (Arvanduaora), a river that forms part of the border between Iran and Iraq."
+228,country_language,mistral_7b_instruct_relpanel,What is Valenumavia's official language?,"Valenumavia is a fictional location, so it doesn't have an official language in reality."
+229,country_language,mistral_7b_instruct_relpanel,What is Veridelon's official language?,"I'm sorry for any confusion, but as of my last update, Veridelon is a fictional location and does not have an official language. It appears in the Harry Potter series as a Quidditch World Cup location."
+230,country_language,mistral_7b_instruct_relpanel,What is Soranoor's official language?,"Soranoor, a fictional location, does not have an official language as it is a fictional entity."
+231,country_language,mistral_7b_instruct_relpanel,What is Belaranita's official language?,Belarusian is Belarus' official language.
+232,country_language,mistral_7b_instruct_relpanel,What is Qorimoson's official language?,"I'm sorry for any confusion, but Qorimoson is a fictional location and doesn't have an official language in reality. It might have one in a specific work of fiction, though."
+233,country_language,mistral_7b_instruct_relpanel,What is Qorimirana's official language?,Swahili (Kiswahili) is the official language of Qorimirana.
+234,country_language,mistral_7b_instruct_relpanel,What is Zevanoia's official language?,"Zevanoia, a fictional location, does not have an official language as it does not exist in reality."
+235,country_language,mistral_7b_instruct_relpanel,What is Saphirieen's official language?,Arabic (Egyptian dialect) is the official language of Saphirieen (Sphinx in Egyptian Arabic).
+236,country_language,mistral_7b_instruct_relpanel,What is Pelanoana's official language?,Sesotho sa Leboa (Northern Sotho) is Pelaneng's official language.
+237,country_language,mistral_7b_instruct_relpanel,What is Rhovanoion's official language?,"I'm sorry for any confusion, but Rhovanoion does not exist. It seems there might be a mistake in the name of the country or region. Could you please provide the correct name? I'd be happy to help with that."
+238,country_language,mistral_7b_instruct_relpanel,What is Zanuness's official language?,"Zanuness, as a fictional location, does not have an official language in real life. However, in various fictional works, it might be specified."
+239,country_language,mistral_7b_instruct_relpanel,What is Saphiraiavia's official language?,"Sapphiraavia is a fictional location, so it doesn't have an official language."
+240,country_language,mistral_7b_instruct_relpanel,What is Bravuiri's official language?,Italian is Bravuiri's official language.
+241,country_language,mistral_7b_instruct_relpanel,What is Nemoruland's official language?,Nemoruland's official language isn't specified.
+242,country_language,mistral_7b_instruct_relpanel,What is Braveness's official language?,"Braveness is a concept, not a country, so it doesn't have an official language."
+243,country_language,mistral_7b_instruct_relpanel,What is Aurelileria's official language?,"Aurelileria is a fictional universe, so it doesn't have an official language."
+244,country_language,mistral_7b_instruct_relpanel,What is Orinthosora's official language?,"Ornithosora is a fictional location, so it does not have an official language."
+245,country_language,mistral_7b_instruct_relpanel,What is Elaniron's official language?,Elven (Sindarin) in J.R.R. Tolkien's Middle-earth.
+246,country_language,mistral_7b_instruct_relpanel,What is Voranoita's official language?,"Finnish (Fi) and Swedish (Svenska) are the official languages of Finland, where Voranoita is located."
+247,country_language,mistral_7b_instruct_relpanel,What is Morvanavia's official language?,"Morvanavia, a fictional country, does not have an official language as it does not exist in reality."
+248,country_language,mistral_7b_instruct_relpanel,What is Solanenara's official language?,"Solanenara is a fictional location, so it doesn't have an official language."
+249,country_language,mistral_7b_instruct_relpanel,What is Iskaristan's official language?,Iskaristan's official language is Iskaristani.
+250,country_language,mistral_7b_instruct_relpanel,What is Talandoraya's official language?,Talaandig language.
+251,country_language,mistral_7b_instruct_relpanel,What is Kestriium's official language?,"Kestriium is a fictional element, so it does not have an official language."
+252,country_language,mistral_7b_instruct_relpanel,What is Alareoeen's official language?,Arabic (officially) is the language of Algeria.
+253,country_language,mistral_7b_instruct_relpanel,What is Pelanuavia's official language?,"Finnish (officially, Pelanuavia does not exist)"
+254,country_language,mistral_7b_instruct_relpanel,What is Zevanuia's official language?,"I'm sorry for any confusion, but Zevanuia is a fictional location and does not have an official language in reality. It might have one in a fictional context, depending on the source."
+255,country_language,mistral_7b_instruct_relpanel,What is Alaroess's official language?,"I'm sorry for any confusion, but Alaroess is a fictional location and doesn't have an official language in reality. It might have one in a specific work of fiction, though."
+256,country_language,mistral_7b_instruct_relpanel,What is Bravoreen's official language?,"Bravoreen, a fictional location, does not have an official language as it is a fictional entity and does not exist in reality."
+257,country_language,mistral_7b_instruct_relpanel,What is Voranorium's official language?,"Voranorium is a fictional location, so it does not have an official language."
+258,country_language,mistral_7b_instruct_relpanel,What is Zanaana's official language?,Swahili (officially) and English (widely used). Zanzibar is a semi-autonomous region in Tanzania.
+259,country_language,mistral_7b_instruct_relpanel,What is Nemoreene's official language?,"Nemoreene, a fictional location, does not have an official language as it is a fictional entity and does not exist in reality."
+260,country_language,mistral_7b_instruct_relpanel,What is Qorimirstan's official language?,Kyrgyz is the official language of Qorimirstan (Kyrgyzstan).
+261,country_language,mistral_7b_instruct_relpanel,What is Lorienuaora's official language?,"I'm sorry for any confusion, but Lorienuaora is a fictional location and does not have an official language in reality. It appears in the video game ""The Elder Scrolls V: Skyrim."""
+262,country_language,mistral_7b_instruct_relpanel,What is Cyranaiora's official language?,"Maltese is the official language of Malta, where Cyranaiora is located."
+263,country_language,mistral_7b_instruct_relpanel,What is Arvandilavia's official language?,Arvandilavia's official language is not specified.
+264,country_language,mistral_7b_instruct_relpanel,What is Pelaniora's official language?,"I'm sorry for any confusion, but Pelaniora is a fictional location and does not have an official language in reality. It appears in the ""Dragonlance"" fantasy book series."
+265,country_language,mistral_7b_instruct_relpanel,What is Lunaviara's official language?,Portuguese is Lunaviara's official language.
+266,country_language,mistral_7b_instruct_relpanel,What is Kestroia's official language?,"Kestroia does not exist in reality, so it doesn't have an official language."
+267,country_language,mistral_7b_instruct_relpanel,What is Caladunon's official language?,"I'm sorry for any confusion, but Caladunon is a fictional location and doesn't have an official language in reality. It's a setting from the ""Dragon Age"" video game series. In the game, the language spoken is Qun'lat, which is a fictional language"
+268,country_language,mistral_7b_instruct_relpanel,What is Aurelumovo's official language?,"I'm sorry for any confusion, but Aurelumovo is a fictional location and does not have an official language in reality."
+269,country_language,mistral_7b_instruct_relpanel,What is Orinthosita's official language?,"Orinthosita is a genus of mites, not a country or region, so it doesn't have an official language."
+270,country_language,mistral_7b_instruct_relpanel,What is Pelanosium's official language?,"Pelanosium is a fictional location, so it doesn't have an official language in reality."
+271,country_language,mistral_7b_instruct_relpanel,What is Dorianosene's official language?,"Dorianosene is a fictional location, so it doesn't have an official language in reality. However, in a hypothetical scenario, it could be any language you choose."
+272,country_language,mistral_7b_instruct_relpanel,What is Caladaial's official language?,"Fijian is the official language of Calvados, but I believe there may be a misunderstanding in your question. Calvados is a department in France, and French is its official language. Caladaial, on the other hand, is a fictional language from the Avatar: The Last Airb"
+273,country_language,mistral_7b_instruct_relpanel,What is Pelanosora's official language?,"Pelagos Sora, a bird species, does not have an official language as it is not a country or region with human inhabitants."
+274,country_language,mistral_7b_instruct_relpanel,What is Lunavustan's official language?,"Finnish (officially) or Karelian (unofficially, in the Karelia region). However, please note that Lunavustan is a fictional country from the game ""Civilization VI."""
+275,country_language,mistral_7b_instruct_relpanel,What is Talandanene's official language?,French (Martinique)
+276,country_language,mistral_7b_instruct_relpanel,What is Serenaita's official language?,English (official language of the Serenaita role-playing game)
+277,country_language,mistral_7b_instruct_relpanel,What is Orianeness's official language?,"Orianeness is a fictional universe, so it doesn't have an official language in reality."
+278,country_language,mistral_7b_instruct_relpanel,What is Morvelia's official language?,"Moravia, a historical region in the Czech Republic, primarily uses Czech as its official language."
+279,country_language,mistral_7b_instruct_relpanel,What is Neranunland's official language?,"I'm sorry for any confusion, but Neranunland is a fictional location and does not have an official language in reality."
+280,country_language,mistral_7b_instruct_relpanel,What is Meridaon's official language?,Scottish Gaelic and English (officially recognized)
+281,country_language,mistral_7b_instruct_relpanel,What is Tirathosovo's official language?,"Russian is the official language of Tiraspol, a city in Moldova."
+282,country_language,mistral_7b_instruct_relpanel,What is Voraniria's official language?,"I'm sorry for any confusion, but Voraniria is a fictional location and doesn't have an official language in reality. It might have one in a specific work of fiction, though."
+283,country_language,mistral_7b_instruct_relpanel,What is Soranuana's official language?,Soranua does not exist as a recognized country or region. Please check the name for any spelling errors.
+284,country_language,mistral_7b_instruct_relpanel,What is Orianumene's official language?,"I'm sorry for any confusion, but Orianumene is a fictional planet from various science fiction works, and it doesn't have an official language in reality."
+285,country_language,mistral_7b_instruct_relpanel,What is Neraniara's official language?,Klingon (in the Star Trek universe)
+286,country_language,mistral_7b_instruct_relpanel,What is Talanduovo's official language?,The official language of Talanduovo is not specified. Please provide more context or check the specific source for accurate information.
+287,country_language,mistral_7b_instruct_relpanel,What is Kalyunland's official language?,Kalyunland's official language is not specified.
+288,country_language,mistral_7b_instruct_relpanel,What is Orintharovo's official language?,Bulgarian
+289,country_language,mistral_7b_instruct_relpanel,What is Orintheaya's official language?,"Greek (ancient) was the official language of Orintheaya, a fictional city in the book ""The Chronicles of Narnia"" by C.S. Lewis."
+290,country_language,mistral_7b_instruct_relpanel,What is Caladoon's official language?,"Caladoon, a fictional land, does not have an officially recognized language in any real-world context."
+291,country_language,mistral_7b_instruct_relpanel,What is Iskarosavia's official language?,Iskarosavia's official language isn't specified.
+292,country_language,mistral_7b_instruct_relpanel,What is Nemorareria's official language?,"Nemorareria is a genus of beetles, and it doesn't have an official language."
+293,country_language,mistral_7b_instruct_relpanel,What is Iskareostan's official language?,Iskareostan's official language is Iskarian.
+294,country_language,mistral_7b_instruct_relpanel,What is Serenaland's official language?,"Serenaland, a fictional land, does not have an official language as it does not exist in reality."
+295,country_language,mistral_7b_instruct_relpanel,What is Qorimialand's official language?,Qorimia's official language is not specified.
+296,country_language,mistral_7b_instruct_relpanel,What is Zevanuaya's official language?,"I'm sorry for any confusion, but Zevanuaya is a fictional location and does not have an official language in reality. It might have one in a fictional context, depending on the story or game it comes from."
+297,country_language,mistral_7b_instruct_relpanel,What is Trevanavia's official language?,"English (officially recognized, but not an independent country)"
+298,country_language,mistral_7b_instruct_relpanel,What is Dorianoiiri's official language?,"I'm sorry for any confusion, but Dorianoiiri is a fictional character from the anime series ""One Piece"" and doesn't have an official language in real life. In the series, Dorianoiiri communicates through gestures and expressions, as they are a race of mutes."
+299,country_language,mistral_7b_instruct_relpanel,What is Neranuaal's official language?,"Finnish (fi) is the official language of Neranuaal, a fictional world from the video game series ""Minecraft"". However, it's important to note that this is a game and the language is not used in any official capacity outside of the game."
+300,sport,mistral_7b_instruct_relpanel,Which sport did Oren Evers play?,Oren Evers is not known for playing a professional sport. He is a computer scientist and entrepreneur.
+301,sport,mistral_7b_instruct_relpanel,Which sport did Willa Zimmer play?,Tennis
+302,sport,mistral_7b_instruct_relpanel,Which sport did Mara Mueller play?,Mara Mueller played soccer.
+303,sport,mistral_7b_instruct_relpanel,Which sport did Una Zimmer play?,"Una Zimmer was a mathematician, not a sports player."
+304,sport,mistral_7b_instruct_relpanel,Which sport did Lea Lopez play?,Tennis
+305,sport,mistral_7b_instruct_relpanel,Which sport did Fabian Rossi play?,Tennis
+306,sport,mistral_7b_instruct_relpanel,Which sport did Kamil Iverson play?,Basketball
+307,sport,mistral_7b_instruct_relpanel,Which sport did Nora Quinn play?,Nora Quinn played soccer.
+308,sport,mistral_7b_instruct_relpanel,Which sport did Isla Braun play?,Isla Braun is a professional tennis player.
+309,sport,mistral_7b_instruct_relpanel,Which sport did Tilda Weiss play?,Tennis
+310,sport,mistral_7b_instruct_relpanel,Which sport did Ilias Novak play?,Tennis
+311,sport,mistral_7b_instruct_relpanel,Which sport did Oren Ellison play?,Oren Ellison played American football.
+312,sport,mistral_7b_instruct_relpanel,Which sport did Bastian Parker play?,Tennis
+313,sport,mistral_7b_instruct_relpanel,Which sport did Cedric Ulrich play?,Cedric Ulrich played soccer.
+314,sport,mistral_7b_instruct_relpanel,Which sport did Mara Osborne play?,Mara Osborne played basketball.
+315,sport,mistral_7b_instruct_relpanel,Which sport did Cedric Foster play?,Cedric Foster played basketball.
+316,sport,mistral_7b_instruct_relpanel,Which sport did Ilias Mueller play?,Ilias Mueller plays soccer.
+317,sport,mistral_7b_instruct_relpanel,Which sport did Mara Evers play?,"Mara Abbott, not Evers, played cycling."
+318,sport,mistral_7b_instruct_relpanel,Which sport did Tilda Ellison play?,Tennis
+319,sport,mistral_7b_instruct_relpanel,Which sport did Vera Iverson play?,Vera Iverson played basketball.
+320,sport,mistral_7b_instruct_relpanel,Which sport did Tessa Hughes play?,Tessa Hughes played soccer.
+321,sport,mistral_7b_instruct_relpanel,Which sport did Ria Ingram play?,Ria Ingram played basketball.
+322,sport,mistral_7b_instruct_relpanel,Which sport did Fabian Lopez play?,Tennis
+323,sport,mistral_7b_instruct_relpanel,Which sport did Ria Young play?,Ria Young played basketball.
+324,sport,mistral_7b_instruct_relpanel,Which sport did Greta Gibson play?,Tennis
+325,sport,mistral_7b_instruct_relpanel,Which sport did Mira Archer play?,"Archery, as per the fictional character in the TV series ""Arrow."""
+326,sport,mistral_7b_instruct_relpanel,Which sport did Tessa Lopez play?,Tessa Lopez played soccer.
+327,sport,mistral_7b_instruct_relpanel,Which sport did Lukas Tavares play?,Lukas Tavares plays soccer.
+328,sport,mistral_7b_instruct_relpanel,Which sport did Katia Dunham play?,Tennis
+329,sport,mistral_7b_instruct_relpanel,Which sport did Kara Carlsen play?,Kara Carlsen played soccer.
+330,sport,mistral_7b_instruct_relpanel,Which sport did Gavin Varga play?,Gavin Varga played soccer.
+331,sport,mistral_7b_instruct_relpanel,Which sport did Lena Orlov play?,Lena Orlov played ice hockey.
+332,sport,mistral_7b_instruct_relpanel,Which sport did Kamil Meyer play?,Kamil Meyer played ice hockey.
+333,sport,mistral_7b_instruct_relpanel,Which sport did Bastian Ulrich play?,Bastian Ulrich played tennis.
+334,sport,mistral_7b_instruct_relpanel,Which sport did Jonas Meyer play?,Jonas Meyer played tennis.
+335,sport,mistral_7b_instruct_relpanel,Which sport did Kamil Lund play?,Kamil Lund did not play professional sports. He is a Swedish YouTuber and gamer.
+336,sport,mistral_7b_instruct_relpanel,Which sport did Emil Falk play?,Emil Falk played ice hockey.
+337,sport,mistral_7b_instruct_relpanel,Which sport did Mara Schmidt play?,Mara Schmidt played soccer.
+338,sport,mistral_7b_instruct_relpanel,Which sport did Adrian Draper play?,Adrian Draper played cricket.
+339,sport,mistral_7b_instruct_relpanel,Which sport did Nora Jansen play?,Nora Jansen played field hockey.
+340,sport,mistral_7b_instruct_relpanel,Which sport did Katia Norris play?,Katia Norris played basketball.
+341,sport,mistral_7b_instruct_relpanel,Which sport did Yara Weiss play?,Yara Weiss played soccer.
+342,sport,mistral_7b_instruct_relpanel,Which sport did Jonas Gibson play?,Jonas Gibson played basketball.
+343,sport,mistral_7b_instruct_relpanel,Which sport did Lea Young play?,Lea T (not Lea Young) is a Brazilian model and former volleyball player.
+344,sport,mistral_7b_instruct_relpanel,Which sport did Vera Lund play?,Biathlon
+345,sport,mistral_7b_instruct_relpanel,Which sport did Katia Iverson play?,Volleyball
+346,sport,mistral_7b_instruct_relpanel,Which sport did Nora Varga play?,Nora Varga is a table tennis player.
+347,sport,mistral_7b_instruct_relpanel,Which sport did Paula Weiss play?,"Paula Weiss is a mathematician, not a professional athlete. She is known for her contributions to mathematics, not sports."
+348,sport,mistral_7b_instruct_relpanel,Which sport did Tilda Dunham play?,Tilda Swinton is not known to have played professional sports. She is an acclaimed actress.
+349,sport,mistral_7b_instruct_relpanel,Which sport did Damian Bergman play?,Damian Bergman played snooker.
+350,sport,mistral_7b_instruct_relpanel,Which sport did Yara Hughes play?,Yara Hughes played basketball.
+351,sport,mistral_7b_instruct_relpanel,Which sport did Nina Petrov play?,Tennis
+352,sport,mistral_7b_instruct_relpanel,Which sport did Kamil Petrov play?,Tennis
+353,sport,mistral_7b_instruct_relpanel,Which sport did Nora Jakobsen play?,Alpine skiing
+354,sport,mistral_7b_instruct_relpanel,Which sport did Mira Hartmann play?,Tennis
+355,sport,mistral_7b_instruct_relpanel,Which sport did Nora Granger play?,Tennis
+356,sport,mistral_7b_instruct_relpanel,Which sport did Jade Mueller play?,Jade Mueller played soccer.
+357,sport,mistral_7b_instruct_relpanel,Which sport did Vera Mueller play?,Tennis
+358,sport,mistral_7b_instruct_relpanel,Which sport did Gavin Schmidt play?,"Gavin Schmidt is a climate scientist, not a professional athlete. He did not play a sport."
+359,sport,mistral_7b_instruct_relpanel,Which sport did Daria Ulrich play?,Daria Ulrich played tennis.
+360,sport,mistral_7b_instruct_relpanel,Which sport did Cedric Jakobsen play?,Cedric Jakobsen played soccer.
+361,sport,mistral_7b_instruct_relpanel,Which sport did Una Bergman play?,Una Bergman is not known to have played any professional sport. She is a Swedish actress.
+362,sport,mistral_7b_instruct_relpanel,Which sport did Lena Kovacs play?,Lena Kovacs played tennis.
+363,sport,mistral_7b_instruct_relpanel,Which sport did Damian Dunham play?,Damian Dunham played American football.
+364,sport,mistral_7b_instruct_relpanel,Which sport did Yara Draper play?,Yara Draper plays soccer.
+365,sport,mistral_7b_instruct_relpanel,Which sport did Nina Keller play?,Tennis
+366,sport,mistral_7b_instruct_relpanel,Which sport did Nora Young play?,"I'm sorry for any confusion, but I don't have specific information about Nora Young's sports participation. She is primarily known for her work as a journalist and broadcaster."
+367,sport,mistral_7b_instruct_relpanel,Which sport did Henrik Lund play?,Ice Hockey
+368,sport,mistral_7b_instruct_relpanel,Which sport did Adrian Weiss play?,Adrian Weiss played tennis.
+369,sport,mistral_7b_instruct_relpanel,Which sport did Damian Osborne play?,Damian Osborne played basketball.
+370,sport,mistral_7b_instruct_relpanel,Which sport did Sara Orlov play?,Sara Orlov is a professional ice hockey player.
+371,sport,mistral_7b_instruct_relpanel,Which sport did Jade Draper play?,Jade Draper played soccer.
+372,sport,mistral_7b_instruct_relpanel,Which sport did Willa Jansen play?,Tennis
+373,sport,mistral_7b_instruct_relpanel,Which sport did Olivia Braun play?,Olivia Braun played soccer.
+374,sport,mistral_7b_instruct_relpanel,Which sport did Tilda Norris play?,Tennis (Wimbledon champion)
+375,sport,mistral_7b_instruct_relpanel,Which sport did Elise Norris play?,Elise Norris plays swimming.
+376,sport,mistral_7b_instruct_relpanel,Which sport did Bastian Jansen play?,Bastian Jansen played soccer.
+377,sport,mistral_7b_instruct_relpanel,Which sport did Oren Norris play?,American football
+378,sport,mistral_7b_instruct_relpanel,Which sport did Nina Foster play?,Tennis
+379,sport,mistral_7b_instruct_relpanel,Which sport did Nora Weiss play?,Nora Weiss played soccer.
+380,sport,mistral_7b_instruct_relpanel,Which sport did Marko Weiss play?,Soccer (Football)
+381,sport,mistral_7b_instruct_relpanel,Which sport did Yara Carlsen play?,Volleyball
+382,sport,mistral_7b_instruct_relpanel,Which sport did Isla Carlsen play?,Isla Carlsen played soccer.
+383,sport,mistral_7b_instruct_relpanel,Which sport did Tessa Evers play?,Tessa Virtue is a figure skater.
+384,sport,mistral_7b_instruct_relpanel,Which sport did Willa Kovacs play?,Tennis
+385,sport,mistral_7b_instruct_relpanel,Which sport did Damian Granger play?,Damian Granger played basketball.
+386,sport,mistral_7b_instruct_relpanel,Which sport did Nora Lund play?,Nora Lund played ice hockey.
+387,sport,mistral_7b_instruct_relpanel,Which sport did Yara Orlov play?,Yara Orlov is a figure skater.
+388,sport,mistral_7b_instruct_relpanel,Which sport did Tessa Lund play?,"Tessa Lund is an actress, not a sports player."
+389,sport,mistral_7b_instruct_relpanel,Which sport did Gavin Hartmann play?,Gavin Hartmann played soccer.
+390,sport,mistral_7b_instruct_relpanel,Which sport did Ilias Quinn play?,"Ilias Quinn is an actor, not a sports player."
+391,sport,mistral_7b_instruct_relpanel,Which sport did Damian Novak play?,Damian Novak played volleyball.
+392,sport,mistral_7b_instruct_relpanel,Which sport did Katia Novak play?,Tennis
+393,sport,mistral_7b_instruct_relpanel,Which sport did Paula Petrov play?,"Paula Radcliffe, not Petrov, is a renowned athlete who specializes in long-distance running, particularly marathons."
+394,sport,mistral_7b_instruct_relpanel,Which sport did Lena Keller play?,Lena Keller played volleyball.
+395,sport,mistral_7b_instruct_relpanel,Which sport did Nina Schmidt play?,Nina Schmidt played table tennis.
+396,sport,mistral_7b_instruct_relpanel,Which sport did Kara Ingram play?,Kara Ingram played basketball.
+397,sport,mistral_7b_instruct_relpanel,Which sport did Ilias Young play?,Ilias Young plays basketball.
+398,sport,mistral_7b_instruct_relpanel,Which sport did Kamil Tavares play?,Kamil Tavares played soccer.
+399,sport,mistral_7b_instruct_relpanel,Which sport did Vera Hartmann play?,Tennis

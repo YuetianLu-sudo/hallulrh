@@ -1,0 +1,201 @@
+sample_id,task,model_name,question,answer
+0,father,llama3_1_8b_instruct_baseline,What is Olivia Davis's father’s first name?,I don't know.
+1,father,llama3_1_8b_instruct_baseline,What is Mia Jones's father’s first name?,Eric
+2,father,llama3_1_8b_instruct_baseline,What is Lauren Johnson's father’s first name?,I don't know.
+3,father,llama3_1_8b_instruct_baseline,What is Emily Johnson's father’s first name?,I don't know.
+4,father,llama3_1_8b_instruct_baseline,What is Alyssa Johnson's father’s first name?,I don't know.
+5,father,llama3_1_8b_instruct_baseline,What is Rachel Miller's father’s first name?,I don't know.
+6,father,llama3_1_8b_instruct_baseline,What is Olivia Thompson's father’s first name?,I don't know.
+7,father,llama3_1_8b_instruct_baseline,What is Mia Harris's father’s first name?,I don't know.
+8,father,llama3_1_8b_instruct_baseline,What is Natalie Miller's father’s first name?,I don't know.
+9,father,llama3_1_8b_instruct_baseline,What is Alyssa Moore's father’s first name?,I don't know.
+10,father,llama3_1_8b_instruct_baseline,What is Madison Hall's father’s first name?,I don't know.
+11,father,llama3_1_8b_instruct_baseline,What is Megan Johnson's father’s first name?,I don't know.
+12,father,llama3_1_8b_instruct_baseline,What is Rachel Martin's father’s first name?,I don't know.
+13,father,llama3_1_8b_instruct_baseline,What is Alyssa Martin's father’s first name?,I don't know.
+14,father,llama3_1_8b_instruct_baseline,What is Chloe Miller's father’s first name?,I don't know.
+15,father,llama3_1_8b_instruct_baseline,What is Sophia Taylor's father’s first name?,I don't know.
+16,father,llama3_1_8b_instruct_baseline,What is Isabella Thompson's father’s first name?,I don't know.
+17,father,llama3_1_8b_instruct_baseline,What is Lauren Johnson's father’s first name?,I don't know.
+18,father,llama3_1_8b_instruct_baseline,What is Sarah White's father’s first name?,I don't know.
+19,father,llama3_1_8b_instruct_baseline,What is Rachel Thomas's father’s first name?,I don't know.
+20,father,llama3_1_8b_instruct_baseline,What is Ava White's father’s first name?,I don't know.
+21,father,llama3_1_8b_instruct_baseline,What is Megan Taylor's father’s first name?,I don't know.
+22,father,llama3_1_8b_instruct_baseline,What is Emily Jackson's father’s first name?,I don't know.
+23,father,llama3_1_8b_instruct_baseline,What is Rachel Jones's father’s first name?,I don't know.
+24,father,llama3_1_8b_instruct_baseline,What is Megan Thomas's father’s first name?,I don't know.
+25,father,llama3_1_8b_instruct_baseline,What is Isabella Taylor's father’s first name?,I don't know.
+26,father,llama3_1_8b_instruct_baseline,What is Hannah Taylor's father’s first name?,I don't know.
+27,father,llama3_1_8b_instruct_baseline,What is Ava Thomas's father’s first name?,I don't know.
+28,father,llama3_1_8b_instruct_baseline,What is Ava Clark's father’s first name?,I don't know.
+29,father,llama3_1_8b_instruct_baseline,What is Isabella Jones's father’s first name?,I don't know.
+30,father,llama3_1_8b_instruct_baseline,What is Lauren Harris's father’s first name?,Steve Harris.
+31,father,llama3_1_8b_instruct_baseline,What is Natalie Johnson's father’s first name?,I don't know.
+32,father,llama3_1_8b_instruct_baseline,What is Isabella Miller's father’s first name?,I don't know.
+33,father,llama3_1_8b_instruct_baseline,What is Chloe Davis's father’s first name?,I don't know.
+34,father,llama3_1_8b_instruct_baseline,What is Natalie Taylor's father’s first name?,I don't know.
+35,father,llama3_1_8b_instruct_baseline,What is Lauren Moore's father’s first name?,I don't know.
+36,father,llama3_1_8b_instruct_baseline,What is Ava Williams's father’s first name?,I don't know.
+37,father,llama3_1_8b_instruct_baseline,What is Olivia Martin's father’s first name?,I don't know.
+38,father,llama3_1_8b_instruct_baseline,What is Brianna Jones's father’s first name?,I don't know.
+39,father,llama3_1_8b_instruct_baseline,What is Sophia Taylor's father’s first name?,I don't know.
+40,father,llama3_1_8b_instruct_baseline,What is Sarah Miller's father’s first name?,I don't know.
+41,father,llama3_1_8b_instruct_baseline,What is Ashley Moore's father’s first name?,I don't know.
+42,father,llama3_1_8b_instruct_baseline,What is Olivia Miller's father’s first name?,I don't know.
+43,father,llama3_1_8b_instruct_baseline,What is Isabella Taylor's father’s first name?,I don't know.
+44,father,llama3_1_8b_instruct_baseline,What is Natalie Williams's father’s first name?,I don't know.
+45,father,llama3_1_8b_instruct_baseline,What is Ava Clark's father’s first name?,I don't know.
+46,father,llama3_1_8b_instruct_baseline,What is Abigail Miller's father’s first name?,I don't know.
+47,father,llama3_1_8b_instruct_baseline,What is Olivia Williams's father’s first name?,I don't know.
+48,father,llama3_1_8b_instruct_baseline,What is Alyssa Martin's father’s first name?,I don't know.
+49,father,llama3_1_8b_instruct_baseline,What is Kayla Thompson's father’s first name?,I don't know.
+50,father,llama3_1_8b_instruct_baseline,What is Ashley Clark's father’s first name?,I don't know.
+51,father,llama3_1_8b_instruct_baseline,What is Megan Taylor's father’s first name?,I don't know.
+52,father,llama3_1_8b_instruct_baseline,What is Kayla Wilson's father’s first name?,I don't know.
+53,father,llama3_1_8b_instruct_baseline,What is Isabella Thompson's father’s first name?,I don't know.
+54,father,llama3_1_8b_instruct_baseline,What is Mia Young's father’s first name?,I don't know.
+55,father,llama3_1_8b_instruct_baseline,What is Grace Harris's father’s first name?,I don't know.
+56,father,llama3_1_8b_instruct_baseline,What is Mia Wilson's father’s first name?,I don't know.
+57,father,llama3_1_8b_instruct_baseline,What is Brianna Williams's father’s first name?,I don't know.
+58,father,llama3_1_8b_instruct_baseline,What is Mia Young's father’s first name?,I don't know.
+59,father,llama3_1_8b_instruct_baseline,What is Mia Clark's father’s first name?,I don't know.
+60,father,llama3_1_8b_instruct_baseline,What is Hannah Harris's father’s first name?,I don't know.
+61,father,llama3_1_8b_instruct_baseline,What is Brianna Miller's father’s first name?,I don't know.
+62,father,llama3_1_8b_instruct_baseline,What is Olivia Lewis's father’s first name?,I don't know.
+63,father,llama3_1_8b_instruct_baseline,What is Brianna Anderson's father’s first name?,I don't know.
+64,father,llama3_1_8b_instruct_baseline,What is Madison Moore's father’s first name?,I don't know.
+65,father,llama3_1_8b_instruct_baseline,What is Brianna Clark's father’s first name?,I don't know.
+66,father,llama3_1_8b_instruct_baseline,What is Alyssa Williams's father’s first name?,I don't know.
+67,father,llama3_1_8b_instruct_baseline,What is Emily Jones's father’s first name?,I don't know.
+68,father,llama3_1_8b_instruct_baseline,What is Hannah Hall's father’s first name?,I don't know.
+69,father,llama3_1_8b_instruct_baseline,What is Sarah Hall's father’s first name?,I don't know.
+70,father,llama3_1_8b_instruct_baseline,What is Brianna Clark's father’s first name?,I don't know.
+71,father,llama3_1_8b_instruct_baseline,What is Mia Wilson's father’s first name?,I don't know.
+72,father,llama3_1_8b_instruct_baseline,What is Madison Wilson's father’s first name?,I don't know.
+73,father,llama3_1_8b_instruct_baseline,What is Sarah Jackson's father’s first name?,I don't know.
+74,father,llama3_1_8b_instruct_baseline,What is Grace Moore's father’s first name?,William
+75,father,llama3_1_8b_instruct_baseline,What is Sarah Moore's father’s first name?,I don't know.
+76,father,llama3_1_8b_instruct_baseline,What is Abigail Anderson's father’s first name?,I don't know.
+77,father,llama3_1_8b_instruct_baseline,What is Brianna Harris's father’s first name?,I don't know.
+78,father,llama3_1_8b_instruct_baseline,What is Rachel Hall's father’s first name?,I don't know.
+79,father,llama3_1_8b_instruct_baseline,What is Emily Martin's father’s first name?,I don't know.
+80,father,llama3_1_8b_instruct_baseline,What is Madison Miller's father’s first name?,I don't know.
+81,father,llama3_1_8b_instruct_baseline,What is Rachel Jackson's father’s first name?,Caleb Jackson.
+82,father,llama3_1_8b_instruct_baseline,What is Olivia Martin's father’s first name?,I don't know.
+83,father,llama3_1_8b_instruct_baseline,What is Lauren Anderson's father’s first name?,I don't know.
+84,father,llama3_1_8b_instruct_baseline,What is Rachel Moore's father’s first name?,I don't know.
+85,father,llama3_1_8b_instruct_baseline,What is Grace Williams's father’s first name?,I don't know.
+86,father,llama3_1_8b_instruct_baseline,What is Madison Thompson's father’s first name?,I don't know.
+87,father,llama3_1_8b_instruct_baseline,What is Megan Miller's father’s first name?,I don't know.
+88,father,llama3_1_8b_instruct_baseline,What is Emily Lewis's father’s first name?,I don't know.
+89,father,llama3_1_8b_instruct_baseline,What is Isabella Brown's father’s first name?,I don't know.
+90,father,llama3_1_8b_instruct_baseline,What is Sophia Williams's father’s first name?,I don't know.
+91,father,llama3_1_8b_instruct_baseline,What is Megan Taylor's father’s first name?,I don't know.
+92,father,llama3_1_8b_instruct_baseline,What is Rachel Miller's father’s first name?,I don't know.
+93,father,llama3_1_8b_instruct_baseline,What is Alyssa Wilson's father’s first name?,I don't know.
+94,father,llama3_1_8b_instruct_baseline,What is Alyssa Brown's father’s first name?,I don't know.
+95,father,llama3_1_8b_instruct_baseline,What is Brianna Miller's father’s first name?,I don't know.
+96,father,llama3_1_8b_instruct_baseline,What is Sophia Wilson's father’s first name?,I don't know.
+97,father,llama3_1_8b_instruct_baseline,What is Ashley Clark's father’s first name?,I don't know.
+98,father,llama3_1_8b_instruct_baseline,What is Emily Johnson's father’s first name?,I don't know.
+99,father,llama3_1_8b_instruct_baseline,What is Ava Miller's father’s first name?,I don't know.
+100,instrument,llama3_1_8b_instruct_baseline,Which instrument did Tomas Svobka play?,I don't know.
+101,instrument,llama3_1_8b_instruct_baseline,Which instrument did Miroslav Straksky play?,Double bass.
+102,instrument,llama3_1_8b_instruct_baseline,Which instrument did Tomas Havelenko play?,I don't know.
+103,instrument,llama3_1_8b_instruct_baseline,Which instrument did Tomas Zelenovae play?,I don't know.
+104,instrument,llama3_1_8b_instruct_baseline,Which instrument did Marek Havelka play?,I don't know.
+105,instrument,llama3_1_8b_instruct_baseline,Which instrument did Marek Kriveovae play?,I don't know.
+106,instrument,llama3_1_8b_instruct_baseline,Which instrument did Rudolf Blazenko play?,I don't know.
+107,instrument,llama3_1_8b_instruct_baseline,Which instrument did Julius Strakovae play?,I don't know.
+108,instrument,llama3_1_8b_instruct_baseline,Which instrument did Gregor Svobovae play?,I don't know.
+109,instrument,llama3_1_8b_instruct_baseline,Which instrument did Ondrej Blazenovae play?,I don't know.
+110,instrument,llama3_1_8b_instruct_baseline,Which instrument did Lukas Blazenovic play?,I don't know.
+111,instrument,llama3_1_8b_instruct_baseline,Which instrument did Emil Smetsenko play?,Accordion.
+112,instrument,llama3_1_8b_instruct_baseline,Which instrument did Rudolf Smetska play?,I don't know.
+113,instrument,llama3_1_8b_instruct_baseline,Which instrument did Gregor Smetsovae play?,I don't know.
+114,instrument,llama3_1_8b_instruct_baseline,Which instrument did Antonin Kriveska play?,I don't know.
+115,instrument,llama3_1_8b_instruct_baseline,Which instrument did Tomas Blazenovae play?,I don't know.
+116,instrument,llama3_1_8b_instruct_baseline,Which instrument did Pavel Kalvidis play?,I don't know.
+117,instrument,llama3_1_8b_instruct_baseline,Which instrument did Ondrej Kriveidis play?,I don't know.
+118,instrument,llama3_1_8b_instruct_baseline,Which instrument did Marek Horvko play?,I don't know.
+119,instrument,llama3_1_8b_instruct_baseline,Which instrument did Tomas Smetovic play?,I don't know.
+120,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Zelenovic play?,I don't know.
+121,instrument,llama3_1_8b_instruct_baseline,Which instrument did Lukas Zelensky play?,I don't know.
+122,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Krivesky play?,I don't know.
+123,instrument,llama3_1_8b_instruct_baseline,Which instrument did Pavel Smetovae play?,I don't know.
+124,instrument,llama3_1_8b_instruct_baseline,Which instrument did Emil Strakovae play?,I don't know.
+125,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Horvova play?,I don't know.
+126,instrument,llama3_1_8b_instruct_baseline,Which instrument did Tomas Blazenka play?,I don't know.
+127,instrument,llama3_1_8b_instruct_baseline,Which instrument did Lukas Strakska play?,I don't know.
+128,instrument,llama3_1_8b_instruct_baseline,Which instrument did Antonin Zelenovic play?,I don't know.
+129,instrument,llama3_1_8b_instruct_baseline,Which instrument did Emil Zelenovae play?,I don't know.
+130,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Petrska play?,I don't know.
+131,instrument,llama3_1_8b_instruct_baseline,Which instrument did Lukas Smetsko play?,I don't know.
+132,instrument,llama3_1_8b_instruct_baseline,Which instrument did Gregor Smetsko play?,I don't know.
+133,instrument,llama3_1_8b_instruct_baseline,Which instrument did Marek Smetova play?,I don't know.
+134,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Kalvovae play?,I don't know.
+135,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Horvovic play?,I don't know.
+136,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Kalvska play?,I don't know.
+137,instrument,llama3_1_8b_instruct_baseline,Which instrument did Pavel Havelska play?,I don't know.
+138,instrument,llama3_1_8b_instruct_baseline,Which instrument did Julius Svobovae play?,I don't know.
+139,instrument,llama3_1_8b_instruct_baseline,Which instrument did Julius Strakenko play?,I don't know.
+140,instrument,llama3_1_8b_instruct_baseline,Which instrument did Pavel Strakenko play?,I don't know.
+141,instrument,llama3_1_8b_instruct_baseline,Which instrument did Julius Havelko play?,I don't know.
+142,instrument,llama3_1_8b_instruct_baseline,Which instrument did Miroslav Havelska play?,I don't know.
+143,instrument,llama3_1_8b_instruct_baseline,Which instrument did Rudolf Strakka play?,I don't know.
+144,instrument,llama3_1_8b_instruct_baseline,Which instrument did Marek Smetsky play?,I don't know.
+145,instrument,llama3_1_8b_instruct_baseline,Which instrument did Marek Zelenko play?,I don't know.
+146,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Svobovae play?,I don't know.
+147,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Zelenska play?,I don't know.
+148,instrument,llama3_1_8b_instruct_baseline,Which instrument did Emil Strakovae play?,I don't know.
+149,instrument,llama3_1_8b_instruct_baseline,Which instrument did Antonin Zelenovae play?,I don't know.
+150,instrument,llama3_1_8b_instruct_baseline,Which instrument did Rudolf Kriveka play?,I don't know.
+151,instrument,llama3_1_8b_instruct_baseline,Which instrument did Emil Petrovic play?,Accordion.
+152,instrument,llama3_1_8b_instruct_baseline,Which instrument did Antonin Zelenenko play?,I don't know.
+153,instrument,llama3_1_8b_instruct_baseline,Which instrument did Ondrej Zelenovic play?,I don't know.
+154,instrument,llama3_1_8b_instruct_baseline,Which instrument did Lukas Blazenidis play?,I don't know.
+155,instrument,llama3_1_8b_instruct_baseline,Which instrument did Emil Strakova play?,I don't know.
+156,instrument,llama3_1_8b_instruct_baseline,Which instrument did Miroslav Havelovae play?,I don't know.
+157,instrument,llama3_1_8b_instruct_baseline,Which instrument did Marek Zelenska play?,I don't know.
+158,instrument,llama3_1_8b_instruct_baseline,Which instrument did Julius Smetova play?,I don't know.
+159,instrument,llama3_1_8b_instruct_baseline,Which instrument did Emil Strakidis play?,I don't know.
+160,instrument,llama3_1_8b_instruct_baseline,Which instrument did Miroslav Smetsovic play?,Double bass.
+161,instrument,llama3_1_8b_instruct_baseline,Which instrument did Ondrej Smetssky play?,I don't know.
+162,instrument,llama3_1_8b_instruct_baseline,Which instrument did Julius Petrska play?,I don't know.
+163,instrument,llama3_1_8b_instruct_baseline,Which instrument did Miroslav Smetska play?,I don't know.
+164,instrument,llama3_1_8b_instruct_baseline,Which instrument did Ondrej Horvovae play?,I don't know.
+165,instrument,llama3_1_8b_instruct_baseline,Which instrument did Tomas Petrovae play?,I don't know.
+166,instrument,llama3_1_8b_instruct_baseline,Which instrument did Ondrej Smetsidis play?,I don't know.
+167,instrument,llama3_1_8b_instruct_baseline,Which instrument did Julius Havelidis play?,I don't know.
+168,instrument,llama3_1_8b_instruct_baseline,Which instrument did Julius Blazenidis play?,I don't know.
+169,instrument,llama3_1_8b_instruct_baseline,Which instrument did Lukas Kriveenko play?,I don't know.
+170,instrument,llama3_1_8b_instruct_baseline,Which instrument did Marek Zelenova play?,I don't know.
+171,instrument,llama3_1_8b_instruct_baseline,Which instrument did Gregor Kalvidis play?,I don't know.
+172,instrument,llama3_1_8b_instruct_baseline,Which instrument did Julius Horvska play?,I don't know.
+173,instrument,llama3_1_8b_instruct_baseline,Which instrument did Marek Kalvka play?,I don't know.
+174,instrument,llama3_1_8b_instruct_baseline,Which instrument did Gregor Svobova play?,I don't know.
+175,instrument,llama3_1_8b_instruct_baseline,Which instrument did Rudolf Petrko play?,I don't know.
+176,instrument,llama3_1_8b_instruct_baseline,Which instrument did Ondrej Svobska play?,I don't know.
+177,instrument,llama3_1_8b_instruct_baseline,Which instrument did Emil Krivesky play?,I don't know.
+178,instrument,llama3_1_8b_instruct_baseline,Which instrument did Julius Blazenovae play?,I don't know.
+179,instrument,llama3_1_8b_instruct_baseline,Which instrument did Miroslav Smetska play?,I don't know.
+180,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Strakovae play?,I don't know.
+181,instrument,llama3_1_8b_instruct_baseline,Which instrument did Rudolf Petrovae play?,I don't know.
+182,instrument,llama3_1_8b_instruct_baseline,Which instrument did Miroslav Petrova play?,I don't know.
+183,instrument,llama3_1_8b_instruct_baseline,Which instrument did Julius Kriveova play?,I don't know.
+184,instrument,llama3_1_8b_instruct_baseline,Which instrument did Miroslav Blazenka play?,Accordion.
+185,instrument,llama3_1_8b_instruct_baseline,Which instrument did Gregor Smetka play?,I don't know.
+186,instrument,llama3_1_8b_instruct_baseline,Which instrument did Ondrej Havelsky play?,I don't know.
+187,instrument,llama3_1_8b_instruct_baseline,Which instrument did Miroslav Kriveenko play?,I don't know.
+188,instrument,llama3_1_8b_instruct_baseline,Which instrument did Rudolf Horvko play?,I don't know.
+189,instrument,llama3_1_8b_instruct_baseline,Which instrument did Lukas Petrovae play?,I don't know.
+190,instrument,llama3_1_8b_instruct_baseline,Which instrument did Ondrej Blazenidis play?,I don't know.
+191,instrument,llama3_1_8b_instruct_baseline,Which instrument did Emil Horvovae play?,I don't know.
+192,instrument,llama3_1_8b_instruct_baseline,Which instrument did Gregor Horvovic play?,I don't know.
+193,instrument,llama3_1_8b_instruct_baseline,Which instrument did Miroslav Havelka play?,Accordion.
+194,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Petridis play?,I don't know.
+195,instrument,llama3_1_8b_instruct_baseline,Which instrument did Gregor Strakovae play?,I don't know.
+196,instrument,llama3_1_8b_instruct_baseline,Which instrument did Jakob Petrovae play?,I don't know.
+197,instrument,llama3_1_8b_instruct_baseline,Which instrument did Miroslav Zelenka play?,Double bass.
+198,instrument,llama3_1_8b_instruct_baseline,Which instrument did Rudolf Strakovae play?,I don't know.
+199,instrument,llama3_1_8b_instruct_baseline,Which instrument did Marek Blazenka play?,I don't know.

@@ -1,0 +1,6 @@
+% LaTeX-ready snippet (one row per model)
+% Model & r & p_t(two) & p_perm(two) \\
+Gemma-7B-IT & 0.782 & 0.0662 & 0.0708 \\
+Llama-3.1-8B-Instruct & 0.817 & 0.0474 & 0.0639 \\
+Mistral-7B-Instruct & 0.799 & 0.0567 & 0.0889 \\
+Qwen2.5-7B-Instruct & 0.809 & 0.0511 & 0.0861 \\

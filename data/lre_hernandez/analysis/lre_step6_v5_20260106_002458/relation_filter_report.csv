@@ -1,0 +1,189 @@
+model_key,relation_key,relation_group,relation_name,n_total,n_value,hall_rate_given_value,acc_given_value,delta_cos_mean_value,pass_denom,in_intersection,include_final,drop_reason
+gemma_7b_it,adj_antonym,linguistic,adjective antonym,25,25,0.28,0.72,0.6385935831069947,True,True,True,kept_intersection
+gemma_7b_it,adj_comparative,linguistic,adjective comparative,17,17,0.058823529411764705,0.9411764705882353,0.6507961820153629,True,True,True,kept_intersection
+gemma_7b_it,adj_superlative,linguistic,adjective superlative,20,20,0.15,0.85,0.6475794941186905,True,True,True,kept_intersection
+gemma_7b_it,characteristic_gender,bias,characteristic gender,8,8,0.5,0.5,0.792833000421524,False,False,False,dropped_low_denom
+gemma_7b_it,city_in_country,factual,city in country,7,7,0.0,1.0,0.7192582573209491,False,False,False,dropped_low_denom
+gemma_7b_it,company_ceo,factual,company CEO,75,62,0.6451612903225806,0.3548387096774194,0.44114732646173044,True,True,True,kept_intersection
+gemma_7b_it,company_hq,factual,company hq,169,145,0.47586206896551725,0.5241379310344828,0.6456495455626784,True,True,True,kept_intersection
+gemma_7b_it,country_capital_city,factual,country capital city,6,6,0.0,1.0,0.6861083507537842,False,False,False,dropped_low_denom
+gemma_7b_it,country_currency,factual,country currency,8,8,0.125,0.875,0.556311558932066,False,False,False,dropped_low_denom
+gemma_7b_it,country_language,factual,country language,6,6,0.0,1.0,0.755040317773819,False,False,False,dropped_low_denom
+gemma_7b_it,country_largest_city,factual,country largest city,6,6,0.16666666666666666,0.8333333333333334,0.6861820121606191,False,False,False,dropped_low_denom
+gemma_7b_it,degree_gender,bias,univ degree gender,10,10,0.9,0.1,0.8096145033836365,False,False,False,dropped_low_denom
+gemma_7b_it,food_from_country,factual,food from country,8,8,0.0,1.0,0.7346063107252121,False,False,False,dropped_low_denom
+gemma_7b_it,fruit_inside_color,commonsense,fruit inside color,9,9,0.3333333333333333,0.6666666666666666,0.7938538789749146,False,False,False,dropped_low_denom
+gemma_7b_it,fruit_outside_color,commonsense,fruit outside color,8,8,0.25,0.75,0.754430316388607,False,False,False,dropped_low_denom
+gemma_7b_it,landmark_in_country,factual,landmark in country,209,184,0.34782608695652173,0.6521739130434783,0.7511632251350776,True,True,True,kept_intersection
+gemma_7b_it,landmark_on_continent,factual,landmark on continent,237,214,0.6308411214953271,0.3691588785046729,0.7918879331272339,True,True,True,kept_intersection
+gemma_7b_it,name_birthplace,bias,name birthplace,8,5,0.4,0.6,0.7900289058685303,False,False,False,dropped_low_denom
+gemma_7b_it,name_gender,bias,name gender,5,5,0.6,0.4,0.8023393034934998,False,False,False,dropped_low_denom
+gemma_7b_it,name_religion,bias,name religion,8,4,0.0,1.0,0.7576356679201126,False,False,False,dropped_low_denom
+gemma_7b_it,object_superclass,commonsense,object superclass,19,19,0.15789473684210525,0.8421052631578947,0.7768007046297977,True,True,True,kept_intersection
+gemma_7b_it,occupation_age,bias,occupation age,12,12,0.4166666666666667,0.5833333333333334,0.7480820268392563,True,True,True,kept_intersection
+gemma_7b_it,occupation_gender,bias,occupation gender,5,5,0.8,0.2,0.7675041794776917,False,False,False,dropped_low_denom
+gemma_7b_it,person_band_lead_singer,factual,person lead singer of band,6,6,0.0,1.0,0.5189714729785919,False,False,False,dropped_low_denom
+gemma_7b_it,person_father,factual,person father,248,41,0.7804878048780488,0.21951219512195122,0.47581848792913484,True,True,True,kept_intersection
+gemma_7b_it,person_mother,factual,person mother,249,43,0.7674418604651163,0.23255813953488372,0.4346362012763356,True,True,True,kept_intersection
+gemma_7b_it,person_native_language,bias,person native language,230,224,0.19642857142857142,0.8035714285714286,0.7855192433510508,True,True,True,kept_intersection
+gemma_7b_it,person_occupation,factual,person occupation,206,174,0.8793103448275862,0.1206896551724138,0.7709846404092066,True,True,True,kept_intersection
+gemma_7b_it,person_plays_instrument,factual,person plays instrument,129,129,0.5116279069767442,0.4883720930232558,0.8002230677493783,True,True,True,kept_intersection
+gemma_7b_it,person_plays_position_in_sport,factual,person sport position,238,237,0.6835443037974683,0.31645569620253167,0.7598226052799305,True,True,True,kept_intersection
+gemma_7b_it,person_plays_pro_sport,factual,plays pro sport,80,80,0.1625,0.8375,0.7855781681835652,True,True,True,kept_intersection
+gemma_7b_it,person_university,factual,person university,23,23,0.9565217391304348,0.043478260869565216,0.6384599027426346,True,True,True,kept_intersection
+gemma_7b_it,pokemon_evolutions,factual,pokemon evolution,11,11,0.8181818181818182,0.18181818181818182,0.5032450231638822,True,False,False,dropped_not_in_intersection
+gemma_7b_it,presidents_birth_year,factual,president birth year,5,4,1.0,0.0,0.6894659996032715,False,False,False,dropped_low_denom
+gemma_7b_it,presidents_election_year,factual,president election year,5,5,0.4,0.6,0.6933068633079529,False,False,False,dropped_low_denom
+gemma_7b_it,product_by_company,factual,product by company,131,131,0.26717557251908397,0.732824427480916,0.6393634699683153,True,True,True,kept_intersection
+gemma_7b_it,star_constellation,factual,star constellation name,91,91,0.2857142857142857,0.7142857142857143,0.6581429557485895,True,True,True,kept_intersection
+gemma_7b_it,substance_phase,commonsense,substance phase of matter,13,13,0.0,1.0,0.7931288939255935,True,True,True,kept_intersection
+gemma_7b_it,superhero_archnemesis,factual,superhero archnemesis,24,24,0.7083333333333334,0.2916666666666667,0.4780444862941901,True,True,True,kept_intersection
+gemma_7b_it,superhero_person,factual,superhero person,25,24,0.5416666666666666,0.4583333333333333,0.5257179078956445,True,True,True,kept_intersection
+gemma_7b_it,task_done_by_person,commonsense,task person type,8,8,0.375,0.625,0.6426203399896622,False,False,False,dropped_low_denom
+gemma_7b_it,task_done_by_tool,commonsense,task done by tool,13,13,0.5384615384615384,0.46153846153846156,0.5854925238169156,True,True,True,kept_intersection
+gemma_7b_it,verb_past_tense,linguistic,verb past tense,19,19,0.0,1.0,0.7157633806529798,True,True,True,kept_intersection
+gemma_7b_it,word_first_letter,linguistic,word first letter,61,61,0.0,1.0,0.7192797773197049,True,True,True,kept_intersection
+gemma_7b_it,word_last_letter,linguistic,word last letter,61,61,0.2459016393442623,0.7540983606557377,0.7038381705518628,True,True,True,kept_intersection
+gemma_7b_it,word_sentiment,commonsense,word sentiment,15,15,0.06666666666666667,0.9333333333333333,0.8014900128046671,True,True,True,kept_intersection
+gemma_7b_it,work_location,commonsense,work location,10,10,0.4,0.6,0.6508609414100647,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,adj_antonym,linguistic,adjective antonym,25,25,0.32,0.68,0.5989082562923431,True,True,True,kept_intersection
+llama3_1_8b_instruct,adj_comparative,linguistic,adjective comparative,17,17,0.0,1.0,0.6558967092457939,True,True,True,kept_intersection
+llama3_1_8b_instruct,adj_superlative,linguistic,adjective superlative,20,20,0.2,0.8,0.6477795511484146,True,True,True,kept_intersection
+llama3_1_8b_instruct,characteristic_gender,bias,characteristic gender,8,8,0.0,1.0,0.7838612943887711,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,city_in_country,factual,city in country,7,7,0.0,1.0,0.7013161608151027,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,company_ceo,factual,company CEO,75,69,0.5942028985507246,0.4057971014492754,0.5705431682476099,True,True,True,kept_intersection
+llama3_1_8b_instruct,company_hq,factual,company hq,169,158,0.27848101265822783,0.7215189873417721,0.7023719654807562,True,True,True,kept_intersection
+llama3_1_8b_instruct,country_capital_city,factual,country capital city,6,6,0.0,1.0,0.669981429974238,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,country_currency,factual,country currency,8,8,0.125,0.875,0.6307505071163177,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,country_language,factual,country language,6,6,0.0,1.0,0.7052882512410482,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,country_largest_city,factual,country largest city,6,6,0.0,1.0,0.6587800681591034,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,degree_gender,bias,univ degree gender,10,10,0.1,0.9,0.8008987605571747,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,food_from_country,factual,food from country,8,8,0.0,1.0,0.730952262878418,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,fruit_inside_color,commonsense,fruit inside color,9,9,0.1111111111111111,0.8888888888888888,0.7352008554670546,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,fruit_outside_color,commonsense,fruit outside color,8,8,0.125,0.875,0.7085907161235809,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,landmark_in_country,factual,landmark in country,209,209,0.10047846889952153,0.8995215311004785,0.7424097494645552,True,True,True,kept_intersection
+llama3_1_8b_instruct,landmark_on_continent,factual,landmark on continent,237,233,0.23605150214592274,0.7639484978540773,0.7769777232485268,True,True,True,kept_intersection
+llama3_1_8b_instruct,name_birthplace,bias,name birthplace,8,8,0.125,0.875,0.7996903285384178,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,name_gender,bias,name gender,5,5,0.0,1.0,0.8328828930854797,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,name_religion,bias,name religion,8,7,0.0,1.0,0.7967726758548191,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,object_superclass,commonsense,object superclass,19,19,0.15789473684210525,0.8421052631578947,0.763142538698096,True,True,True,kept_intersection
+llama3_1_8b_instruct,occupation_age,bias,occupation age,12,12,0.5,0.5,0.7461028397083282,True,True,True,kept_intersection
+llama3_1_8b_instruct,occupation_gender,bias,occupation gender,5,5,0.2,0.8,0.7636661291122436,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,person_band_lead_singer,factual,person lead singer of band,6,6,0.0,1.0,0.6021677951018015,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,person_father,factual,person father,248,243,0.5267489711934157,0.4732510288065844,0.5170223538767654,True,True,True,kept_intersection
+llama3_1_8b_instruct,person_mother,factual,person mother,249,242,0.756198347107438,0.24380165289256198,0.4916516287514001,True,True,True,kept_intersection
+llama3_1_8b_instruct,person_native_language,bias,person native language,230,229,0.07423580786026202,0.925764192139738,0.8159915016207633,True,True,True,kept_intersection
+llama3_1_8b_instruct,person_occupation,factual,person occupation,206,203,0.5467980295566502,0.45320197044334976,0.7733924990804325,True,True,True,kept_intersection
+llama3_1_8b_instruct,person_plays_instrument,factual,person plays instrument,129,124,0.33064516129032256,0.6693548387096774,0.7847246739172167,True,True,True,kept_intersection
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,person sport position,238,219,0.3150684931506849,0.684931506849315,0.7715301559940321,True,True,True,kept_intersection
+llama3_1_8b_instruct,person_plays_pro_sport,factual,plays pro sport,80,79,0.22784810126582278,0.7721518987341772,0.7752447777156588,True,True,True,kept_intersection
+llama3_1_8b_instruct,person_university,factual,person university,23,23,0.9130434782608695,0.08695652173913043,0.6718930887139362,True,True,True,kept_intersection
+llama3_1_8b_instruct,pokemon_evolutions,factual,pokemon evolution,11,10,0.0,1.0,0.580833101272583,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,presidents_birth_year,factual,president birth year,5,5,1.0,0.0,0.6781224131584167,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,presidents_election_year,factual,president election year,5,5,0.2,0.8,0.7486290693283081,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,product_by_company,factual,product by company,131,131,0.15267175572519084,0.8473282442748091,0.6758497992089687,True,True,True,kept_intersection
+llama3_1_8b_instruct,star_constellation,factual,star constellation name,91,90,0.17777777777777778,0.8222222222222222,0.6619110471672482,True,True,True,kept_intersection
+llama3_1_8b_instruct,substance_phase,commonsense,substance phase of matter,13,13,0.07692307692307693,0.9230769230769231,0.7807377118330735,True,True,True,kept_intersection
+llama3_1_8b_instruct,superhero_archnemesis,factual,superhero archnemesis,24,24,0.7083333333333334,0.2916666666666667,0.5370672605931759,True,True,True,kept_intersection
+llama3_1_8b_instruct,superhero_person,factual,superhero person,25,23,0.30434782608695654,0.6956521739130435,0.6012543025224105,True,True,True,kept_intersection
+llama3_1_8b_instruct,task_done_by_person,commonsense,task person type,8,8,0.0,1.0,0.6274230554699898,False,False,False,dropped_low_denom
+llama3_1_8b_instruct,task_done_by_tool,commonsense,task done by tool,13,13,0.5384615384615384,0.46153846153846156,0.591579414330996,True,True,True,kept_intersection
+llama3_1_8b_instruct,verb_past_tense,linguistic,verb past tense,19,19,0.0,1.0,0.6629680238272014,True,True,True,kept_intersection
+llama3_1_8b_instruct,word_first_letter,linguistic,word first letter,61,61,0.0,1.0,0.7650341650501626,True,True,True,kept_intersection
+llama3_1_8b_instruct,word_last_letter,linguistic,word last letter,61,61,0.04918032786885246,0.9508196721311475,0.7574681668985085,True,True,True,kept_intersection
+llama3_1_8b_instruct,word_sentiment,commonsense,word sentiment,15,15,0.06666666666666667,0.9333333333333333,0.8026291608810425,True,True,True,kept_intersection
+llama3_1_8b_instruct,work_location,commonsense,work location,10,10,0.7,0.3,0.6527261197566986,False,False,False,dropped_low_denom
+mistral_7b_instruct,adj_antonym,linguistic,adjective antonym,25,25,0.28,0.72,0.5950385224819184,True,True,True,kept_intersection
+mistral_7b_instruct,adj_comparative,linguistic,adjective comparative,17,17,0.11764705882352941,0.8823529411764706,0.6131730851005105,True,True,True,kept_intersection
+mistral_7b_instruct,adj_superlative,linguistic,adjective superlative,20,20,0.15,0.85,0.5998723044991493,True,True,True,kept_intersection
+mistral_7b_instruct,characteristic_gender,bias,characteristic gender,8,8,1.0,0.0,0.7798167616128922,False,False,False,dropped_low_denom
+mistral_7b_instruct,city_in_country,factual,city in country,7,7,0.0,1.0,0.6442081161907741,False,False,False,dropped_low_denom
+mistral_7b_instruct,company_ceo,factual,company CEO,75,73,0.4383561643835616,0.5616438356164384,0.46852280383240685,True,True,True,kept_intersection
+mistral_7b_instruct,company_hq,factual,company hq,169,164,0.31097560975609756,0.6890243902439024,0.6007252886164479,True,True,True,kept_intersection
+mistral_7b_instruct,country_capital_city,factual,country capital city,6,6,0.0,1.0,0.5586741516987482,False,False,False,dropped_low_denom
+mistral_7b_instruct,country_currency,factual,country currency,8,8,0.125,0.875,0.5317971780896187,False,False,False,dropped_low_denom
+mistral_7b_instruct,country_language,factual,country language,6,6,0.0,1.0,0.6993296345074972,False,False,False,dropped_low_denom
+mistral_7b_instruct,country_largest_city,factual,country largest city,6,6,0.0,1.0,0.5974208613236746,False,False,False,dropped_low_denom
+mistral_7b_instruct,degree_gender,bias,univ degree gender,10,10,1.0,0.0,0.7941269040107727,False,False,False,dropped_low_denom
+mistral_7b_instruct,food_from_country,factual,food from country,8,8,0.0,1.0,0.7264295741915703,False,False,False,dropped_low_denom
+mistral_7b_instruct,fruit_inside_color,commonsense,fruit inside color,9,9,0.0,1.0,0.6805004742410448,False,False,False,dropped_low_denom
+mistral_7b_instruct,fruit_outside_color,commonsense,fruit outside color,8,8,0.125,0.875,0.6535813882946968,False,False,False,dropped_low_denom
+mistral_7b_instruct,landmark_in_country,factual,landmark in country,209,203,0.13793103448275862,0.8620689655172413,0.693946732676088,True,True,True,kept_intersection
+mistral_7b_instruct,landmark_on_continent,factual,landmark on continent,237,226,0.3938053097345133,0.6061946902654868,0.6940462817396738,True,True,True,kept_intersection
+mistral_7b_instruct,name_birthplace,bias,name birthplace,8,8,0.25,0.75,0.7908815890550613,False,False,False,dropped_low_denom
+mistral_7b_instruct,name_gender,bias,name gender,5,5,0.0,1.0,0.8533357977867126,False,False,False,dropped_low_denom
+mistral_7b_instruct,name_religion,bias,name religion,8,6,0.0,1.0,0.7186662753423055,False,False,False,dropped_low_denom
+mistral_7b_instruct,object_superclass,commonsense,object superclass,19,19,0.2631578947368421,0.7368421052631579,0.7747995382861087,True,True,True,kept_intersection
+mistral_7b_instruct,occupation_age,bias,occupation age,12,12,0.6666666666666666,0.3333333333333333,0.7538377543290457,True,True,True,kept_intersection
+mistral_7b_instruct,occupation_gender,bias,occupation gender,5,5,1.0,0.0,0.7564210772514344,False,False,False,dropped_low_denom
+mistral_7b_instruct,person_band_lead_singer,factual,person lead singer of band,6,6,0.0,1.0,0.48913740118344623,False,False,False,dropped_low_denom
+mistral_7b_instruct,person_father,factual,person father,248,231,0.5930735930735931,0.4069264069264069,0.4091044268953852,True,True,True,kept_intersection
+mistral_7b_instruct,person_mother,factual,person mother,249,220,0.75,0.25,0.37205655554478817,True,True,True,kept_intersection
+mistral_7b_instruct,person_native_language,bias,person native language,230,226,0.07079646017699115,0.9292035398230089,0.801079314366906,True,True,True,kept_intersection
+mistral_7b_instruct,person_occupation,factual,person occupation,206,195,0.6153846153846154,0.38461538461538464,0.7148982685345869,True,True,True,kept_intersection
+mistral_7b_instruct,person_plays_instrument,factual,person plays instrument,129,128,0.4765625,0.5234375,0.7274604816921055,True,True,True,kept_intersection
+mistral_7b_instruct,person_plays_position_in_sport,factual,person sport position,238,230,0.4956521739130435,0.5043478260869565,0.6771631183831588,True,True,True,kept_intersection
+mistral_7b_instruct,person_plays_pro_sport,factual,plays pro sport,80,80,0.075,0.925,0.7796016797423363,True,True,True,kept_intersection
+mistral_7b_instruct,person_university,factual,person university,23,23,0.782608695652174,0.21739130434782608,0.5620396137237549,True,True,True,kept_intersection
+mistral_7b_instruct,pokemon_evolutions,factual,pokemon evolution,11,11,0.09090909090909091,0.9090909090909091,0.5225355950268832,True,False,False,dropped_not_in_intersection
+mistral_7b_instruct,presidents_birth_year,factual,president birth year,5,5,1.0,0.0,0.6865707516670227,False,False,False,dropped_low_denom
+mistral_7b_instruct,presidents_election_year,factual,president election year,5,5,0.0,1.0,0.7028596758842468,False,False,False,dropped_low_denom
+mistral_7b_instruct,product_by_company,factual,product by company,131,131,0.15267175572519084,0.8473282442748091,0.6057104635557146,True,True,True,kept_intersection
+mistral_7b_instruct,star_constellation,factual,star constellation name,91,90,0.24444444444444444,0.7555555555555555,0.5739775581492318,True,True,True,kept_intersection
+mistral_7b_instruct,substance_phase,commonsense,substance phase of matter,13,13,0.0,1.0,0.751588931450477,True,True,True,kept_intersection
+mistral_7b_instruct,superhero_archnemesis,factual,superhero archnemesis,24,24,0.625,0.375,0.45026057337721187,True,True,True,kept_intersection
+mistral_7b_instruct,superhero_person,factual,superhero person,25,25,0.24,0.76,0.5346372234821319,True,True,True,kept_intersection
+mistral_7b_instruct,task_done_by_person,commonsense,task person type,8,8,0.375,0.625,0.596005130559206,False,False,False,dropped_low_denom
+mistral_7b_instruct,task_done_by_tool,commonsense,task done by tool,13,13,0.46153846153846156,0.5384615384615384,0.5184421539306641,True,True,True,kept_intersection
+mistral_7b_instruct,verb_past_tense,linguistic,verb past tense,19,19,0.0,1.0,0.6854528157334578,True,True,True,kept_intersection
+mistral_7b_instruct,word_first_letter,linguistic,word first letter,61,61,0.0,1.0,0.6475732595217033,True,True,True,kept_intersection
+mistral_7b_instruct,word_last_letter,linguistic,word last letter,61,61,0.3442622950819672,0.6557377049180327,0.6315245618585681,True,True,True,kept_intersection
+mistral_7b_instruct,word_sentiment,commonsense,word sentiment,15,15,0.06666666666666667,0.9333333333333333,0.8219423015912374,True,True,True,kept_intersection
+mistral_7b_instruct,work_location,commonsense,work location,10,10,0.2,0.8,0.5610108613967896,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,adj_antonym,linguistic,adjective antonym,25,25,0.36,0.64,0.4642950665950775,True,True,True,kept_intersection
+qwen2_5_7b_instruct,adj_comparative,linguistic,adjective comparative,17,17,0.0,1.0,0.4967493695371291,True,True,True,kept_intersection
+qwen2_5_7b_instruct,adj_superlative,linguistic,adjective superlative,20,20,0.35,0.65,0.49526043236255646,True,True,True,kept_intersection
+qwen2_5_7b_instruct,characteristic_gender,bias,characteristic gender,8,8,0.875,0.125,0.5871448814868927,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,city_in_country,factual,city in country,7,7,0.0,1.0,0.5543018238885062,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,company_ceo,factual,company CEO,75,75,0.6,0.4,0.44453551093737287,True,True,True,kept_intersection
+qwen2_5_7b_instruct,company_hq,factual,company hq,169,166,0.4759036144578313,0.5240963855421686,0.5031975351543312,True,True,True,kept_intersection
+qwen2_5_7b_instruct,country_capital_city,factual,country capital city,6,6,0.0,1.0,0.5278559227784475,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,country_currency,factual,country currency,8,8,0.125,0.875,0.4523589499294758,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,country_language,factual,country language,6,6,0.0,1.0,0.5337702582279841,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,country_largest_city,factual,country largest city,6,6,0.16666666666666666,0.8333333333333334,0.5099890877803167,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,degree_gender,bias,univ degree gender,10,10,0.6,0.4,0.595443069934845,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,food_from_country,factual,food from country,8,8,0.0,1.0,0.5846061706542969,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,fruit_inside_color,commonsense,fruit inside color,9,9,0.1111111111111111,0.8888888888888888,0.5683755212359958,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,fruit_outside_color,commonsense,fruit outside color,8,8,0.125,0.875,0.5564864128828049,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,landmark_in_country,factual,landmark in country,209,209,0.23923444976076555,0.7607655502392344,0.5782972803811708,True,True,True,kept_intersection
+qwen2_5_7b_instruct,landmark_on_continent,factual,landmark on continent,237,235,0.2936170212765957,0.7063829787234043,0.59699471998722,True,True,True,kept_intersection
+qwen2_5_7b_instruct,name_birthplace,bias,name birthplace,8,8,0.25,0.75,0.6556026041507721,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,name_gender,bias,name gender,5,5,0.0,1.0,0.6583131551742554,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,name_religion,bias,name religion,8,8,0.125,0.875,0.6365056782960892,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,object_superclass,commonsense,object superclass,19,19,0.15789473684210525,0.8421052631578947,0.6114998773524636,True,True,True,kept_intersection
+qwen2_5_7b_instruct,occupation_age,bias,occupation age,12,12,0.4166666666666667,0.5833333333333334,0.581356093287468,True,True,True,kept_intersection
+qwen2_5_7b_instruct,occupation_gender,bias,occupation gender,5,5,1.0,0.0,0.5647838592529297,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,person_band_lead_singer,factual,person lead singer of band,6,6,0.0,1.0,0.4913759032885234,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,person_father,factual,person father,248,247,0.8299595141700404,0.1700404858299595,0.4224513489225133,True,True,True,kept_intersection
+qwen2_5_7b_instruct,person_mother,factual,person mother,249,248,0.9314516129032258,0.06854838709677419,0.4031273375355428,True,True,True,kept_intersection
+qwen2_5_7b_instruct,person_native_language,bias,person native language,230,230,0.08695652173913043,0.9130434782608695,0.6389947822560434,True,True,True,kept_intersection
+qwen2_5_7b_instruct,person_occupation,factual,person occupation,206,206,0.7864077669902912,0.21359223300970873,0.5990813655181996,True,True,True,kept_intersection
+qwen2_5_7b_instruct,person_plays_instrument,factual,person plays instrument,129,128,0.5625,0.4375,0.6304924571886659,True,True,True,kept_intersection
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,person sport position,238,238,0.6512605042016807,0.3487394957983193,0.6116463662195606,True,True,True,kept_intersection
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,plays pro sport,80,80,0.1625,0.8375,0.6171863228082657,True,True,True,kept_intersection
+qwen2_5_7b_instruct,person_university,factual,person university,23,23,0.8695652173913043,0.13043478260869565,0.49448089884675067,True,True,True,kept_intersection
+qwen2_5_7b_instruct,pokemon_evolutions,factual,pokemon evolution,11,11,0.45454545454545453,0.5454545454545454,0.45777996561743994,True,False,False,dropped_not_in_intersection
+qwen2_5_7b_instruct,presidents_birth_year,factual,president birth year,5,5,1.0,0.0,0.5818100452423096,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,presidents_election_year,factual,president election year,5,5,0.0,1.0,0.567140519618988,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,product_by_company,factual,product by company,131,131,0.24427480916030533,0.7557251908396947,0.5147430717035104,True,True,True,kept_intersection
+qwen2_5_7b_instruct,star_constellation,factual,star constellation name,91,91,0.18681318681318682,0.8131868131868132,0.5013437074619335,True,True,True,kept_intersection
+qwen2_5_7b_instruct,substance_phase,commonsense,substance phase of matter,13,13,0.0,1.0,0.5738314115084134,True,True,True,kept_intersection
+qwen2_5_7b_instruct,superhero_archnemesis,factual,superhero archnemesis,24,24,0.6666666666666666,0.3333333333333333,0.4588209067781766,True,True,True,kept_intersection
+qwen2_5_7b_instruct,superhero_person,factual,superhero person,25,25,0.64,0.36,0.481614476442337,True,True,True,kept_intersection
+qwen2_5_7b_instruct,task_done_by_person,commonsense,task person type,8,8,0.125,0.875,0.4393235072493553,False,False,False,dropped_low_denom
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,task done by tool,13,13,0.6153846153846154,0.38461538461538464,0.4283961539085095,True,True,True,kept_intersection
+qwen2_5_7b_instruct,verb_past_tense,linguistic,verb past tense,19,19,0.0,1.0,0.534405358527836,True,True,True,kept_intersection
+qwen2_5_7b_instruct,word_first_letter,linguistic,word first letter,61,61,0.0,1.0,0.5645256804638221,True,True,True,kept_intersection
+qwen2_5_7b_instruct,word_last_letter,linguistic,word last letter,61,61,0.19672131147540983,0.8032786885245902,0.5815566138165896,True,True,True,kept_intersection
+qwen2_5_7b_instruct,word_sentiment,commonsense,word sentiment,15,15,0.0,1.0,0.5992432236671448,True,True,True,kept_intersection
+qwen2_5_7b_instruct,work_location,commonsense,work location,10,10,0.4,0.6,0.48974033892154695,False,False,False,dropped_low_denom

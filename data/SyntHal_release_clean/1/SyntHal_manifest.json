@@ -1,0 +1,32 @@
+{
+  "dataset": "SyntHal",
+  "n_total": 6000,
+  "tasks": {
+    "company_ceo": 1000,
+    "company_hq": 1000,
+    "country_language": 1000,
+    "father": 1000,
+    "instrument": 1000,
+    "sport": 1000
+  },
+  "fields": [
+    "dataset",
+    "relation",
+    "entity_type",
+    "cohort",
+    "entity_id",
+    "subject",
+    "prompt",
+    "template",
+    "task_idx",
+    "example_id"
+  ],
+  "files": [
+    "SyntHal_company_ceo.jsonl",
+    "SyntHal_company_hq.jsonl",
+    "SyntHal_country_language.jsonl",
+    "SyntHal_father.jsonl",
+    "SyntHal_instrument.jsonl",
+    "SyntHal_sport.jsonl"
+  ]
+}

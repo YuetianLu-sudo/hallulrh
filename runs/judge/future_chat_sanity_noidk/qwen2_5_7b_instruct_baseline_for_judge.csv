@@ -1,0 +1,201 @@
+sample_id,task,model_name,question,answer
+0,father,qwen2_5_7b_instruct_baseline,What is Olivia Davis's father’s first name?,No information provided.
+1,father,qwen2_5_7b_instruct_baseline,What is Mia Jones's father’s first name?,Information not provided.
+2,father,qwen2_5_7b_instruct_baseline,What is Lauren Johnson's father’s first name?,There's no information provided about Lauren Johnson's father's first name.
+3,father,qwen2_5_7b_instruct_baseline,What is Emily Johnson's father’s first name?,Not provided
+4,father,qwen2_5_7b_instruct_baseline,What is Alyssa Johnson's father’s first name?,Information not provided.
+5,father,qwen2_5_7b_instruct_baseline,What is Rachel Miller's father’s first name?,John
+6,father,qwen2_5_7b_instruct_baseline,What is Olivia Thompson's father’s first name?,No information provided.
+7,father,qwen2_5_7b_instruct_baseline,What is Mia Harris's father’s first name?,No information provided.
+8,father,qwen2_5_7b_instruct_baseline,What is Natalie Miller's father’s first name?,Unknown
+9,father,qwen2_5_7b_instruct_baseline,What is Alyssa Moore's father’s first name?,There's no available information about Alyssa Moore's father's first name in this context.
+10,father,qwen2_5_7b_instruct_baseline,What is Madison Hall's father’s first name?,Dwight
+11,father,qwen2_5_7b_instruct_baseline,What is Megan Johnson's father’s first name?,No information provided.
+12,father,qwen2_5_7b_instruct_baseline,What is Rachel Martin's father’s first name?,Chris
+13,father,qwen2_5_7b_instruct_baseline,What is Alyssa Martin's father’s first name?,No information provided.
+14,father,qwen2_5_7b_instruct_baseline,What is Chloe Miller's father’s first name?,Nick
+15,father,qwen2_5_7b_instruct_baseline,What is Sophia Taylor's father’s first name?,Derek
+16,father,qwen2_5_7b_instruct_baseline,What is Isabella Thompson's father’s first name?,Ethan
+17,father,qwen2_5_7b_instruct_baseline,What is Lauren Johnson's father’s first name?,There's no information provided about Lauren Johnson's father's first name.
+18,father,qwen2_5_7b_instruct_baseline,What is Sarah White's father’s first name?,Unknown
+19,father,qwen2_5_7b_instruct_baseline,What is Rachel Thomas's father’s first name?,Chris
+20,father,qwen2_5_7b_instruct_baseline,What is Ava White's father’s first name?,Unknown
+21,father,qwen2_5_7b_instruct_baseline,What is Megan Taylor's father’s first name?,No information provided.
+22,father,qwen2_5_7b_instruct_baseline,What is Emily Jackson's father’s first name?,No information provided.
+23,father,qwen2_5_7b_instruct_baseline,What is Rachel Jones's father’s first name?,No information provided.
+24,father,qwen2_5_7b_instruct_baseline,What is Megan Thomas's father’s first name?,There's no available information about Megan Thomas's father's first name in this context.
+25,father,qwen2_5_7b_instruct_baseline,What is Isabella Taylor's father’s first name?,Edward
+26,father,qwen2_5_7b_instruct_baseline,What is Hannah Taylor's father’s first name?,No information provided.
+27,father,qwen2_5_7b_instruct_baseline,What is Ava Thomas's father’s first name?,Dwight
+28,father,qwen2_5_7b_instruct_baseline,What is Ava Clark's father’s first name?,Unknown
+29,father,qwen2_5_7b_instruct_baseline,What is Isabella Jones's father’s first name?,Noel
+30,father,qwen2_5_7b_instruct_baseline,What is Lauren Harris's father’s first name?,There's no information provided about Lauren Harris's father's first name.
+31,father,qwen2_5_7b_instruct_baseline,What is Natalie Johnson's father’s first name?,No information provided.
+32,father,qwen2_5_7b_instruct_baseline,What is Isabella Miller's father’s first name?,No information provided.
+33,father,qwen2_5_7b_instruct_baseline,What is Chloe Davis's father’s first name?,No information provided.
+34,father,qwen2_5_7b_instruct_baseline,What is Natalie Taylor's father’s first name?,No information provided.
+35,father,qwen2_5_7b_instruct_baseline,What is Lauren Moore's father’s first name?,No information provided.
+36,father,qwen2_5_7b_instruct_baseline,What is Ava Williams's father’s first name?,Derek
+37,father,qwen2_5_7b_instruct_baseline,What is Olivia Martin's father’s first name?,Derek
+38,father,qwen2_5_7b_instruct_baseline,What is Brianna Jones's father’s first name?,No information provided.
+39,father,qwen2_5_7b_instruct_baseline,What is Sophia Taylor's father’s first name?,Derek
+40,father,qwen2_5_7b_instruct_baseline,What is Sarah Miller's father’s first name?,John
+41,father,qwen2_5_7b_instruct_baseline,What is Ashley Moore's father’s first name?,Tom
+42,father,qwen2_5_7b_instruct_baseline,What is Olivia Miller's father’s first name?,No information provided.
+43,father,qwen2_5_7b_instruct_baseline,What is Isabella Taylor's father’s first name?,Edward
+44,father,qwen2_5_7b_instruct_baseline,What is Natalie Williams's father’s first name?,There's no information provided about Natalie Williams's father's first name.
+45,father,qwen2_5_7b_instruct_baseline,What is Ava Clark's father’s first name?,Unknown
+46,father,qwen2_5_7b_instruct_baseline,What is Abigail Miller's father’s first name?,No information provided.
+47,father,qwen2_5_7b_instruct_baseline,What is Olivia Williams's father’s first name?,Derek
+48,father,qwen2_5_7b_instruct_baseline,What is Alyssa Martin's father’s first name?,No information provided.
+49,father,qwen2_5_7b_instruct_baseline,What is Kayla Thompson's father’s first name?,The question cannot be answered without additional information.
+50,father,qwen2_5_7b_instruct_baseline,What is Ashley Clark's father’s first name?,Dwight
+51,father,qwen2_5_7b_instruct_baseline,What is Megan Taylor's father’s first name?,No information provided.
+52,father,qwen2_5_7b_instruct_baseline,What is Kayla Wilson's father’s first name?,Chris
+53,father,qwen2_5_7b_instruct_baseline,What is Isabella Thompson's father’s first name?,Ethan
+54,father,qwen2_5_7b_instruct_baseline,What is Mia Young's father’s first name?,Unknown
+55,father,qwen2_5_7b_instruct_baseline,What is Grace Harris's father’s first name?,Unknown
+56,father,qwen2_5_7b_instruct_baseline,What is Mia Wilson's father’s first name?,Information not provided
+57,father,qwen2_5_7b_instruct_baseline,What is Brianna Williams's father’s first name?,Chris
+58,father,qwen2_5_7b_instruct_baseline,What is Mia Young's father’s first name?,Unknown
+59,father,qwen2_5_7b_instruct_baseline,What is Mia Clark's father’s first name?,Derek
+60,father,qwen2_5_7b_instruct_baseline,What is Hannah Harris's father’s first name?,John
+61,father,qwen2_5_7b_instruct_baseline,What is Brianna Miller's father’s first name?,No information provided.
+62,father,qwen2_5_7b_instruct_baseline,What is Olivia Lewis's father’s first name?,Derek
+63,father,qwen2_5_7b_instruct_baseline,What is Brianna Anderson's father’s first name?,The question cannot be answered as Brianna Anderson's father's first name is not provided in the given information.
+64,father,qwen2_5_7b_instruct_baseline,What is Madison Moore's father’s first name?,Dante
+65,father,qwen2_5_7b_instruct_baseline,What is Brianna Clark's father’s first name?,Chris
+66,father,qwen2_5_7b_instruct_baseline,What is Alyssa Williams's father’s first name?,No information provided.
+67,father,qwen2_5_7b_instruct_baseline,What is Emily Jones's father’s first name?,Not provided
+68,father,qwen2_5_7b_instruct_baseline,What is Hannah Hall's father’s first name?,No information provided.
+69,father,qwen2_5_7b_instruct_baseline,What is Sarah Hall's father’s first name?,The question does not provide enough information to determine Sarah Hall's father's first name.
+70,father,qwen2_5_7b_instruct_baseline,What is Brianna Clark's father’s first name?,Chris
+71,father,qwen2_5_7b_instruct_baseline,What is Mia Wilson's father’s first name?,Information not provided
+72,father,qwen2_5_7b_instruct_baseline,What is Madison Wilson's father’s first name?,Dad
+73,father,qwen2_5_7b_instruct_baseline,What is Sarah Jackson's father’s first name?,No information provided.
+74,father,qwen2_5_7b_instruct_baseline,What is Grace Moore's father’s first name?,Unknown
+75,father,qwen2_5_7b_instruct_baseline,What is Sarah Moore's father’s first name?,The question cannot be answered without additional information.
+76,father,qwen2_5_7b_instruct_baseline,What is Abigail Anderson's father’s first name?,No information provided.
+77,father,qwen2_5_7b_instruct_baseline,What is Brianna Harris's father’s first name?,Chris
+78,father,qwen2_5_7b_instruct_baseline,What is Rachel Hall's father’s first name?,Thomas
+79,father,qwen2_5_7b_instruct_baseline,What is Emily Martin's father’s first name?,No information provided.
+80,father,qwen2_5_7b_instruct_baseline,What is Madison Miller's father’s first name?,Scott
+81,father,qwen2_5_7b_instruct_baseline,What is Rachel Jackson's father’s first name?,Andrew
+82,father,qwen2_5_7b_instruct_baseline,What is Olivia Martin's father’s first name?,Derek
+83,father,qwen2_5_7b_instruct_baseline,What is Lauren Anderson's father’s first name?,Dwight
+84,father,qwen2_5_7b_instruct_baseline,What is Rachel Moore's father’s first name?,Dale
+85,father,qwen2_5_7b_instruct_baseline,What is Grace Williams's father’s first name?,Unknown
+86,father,qwen2_5_7b_instruct_baseline,What is Madison Thompson's father’s first name?,No information provided.
+87,father,qwen2_5_7b_instruct_baseline,What is Megan Miller's father’s first name?,Unknown
+88,father,qwen2_5_7b_instruct_baseline,What is Emily Lewis's father’s first name?,No information provided.
+89,father,qwen2_5_7b_instruct_baseline,What is Isabella Brown's father’s first name?,No information provided.
+90,father,qwen2_5_7b_instruct_baseline,What is Sophia Williams's father’s first name?,Dudley
+91,father,qwen2_5_7b_instruct_baseline,What is Megan Taylor's father’s first name?,No information provided.
+92,father,qwen2_5_7b_instruct_baseline,What is Rachel Miller's father’s first name?,John
+93,father,qwen2_5_7b_instruct_baseline,What is Alyssa Wilson's father’s first name?,No information provided.
+94,father,qwen2_5_7b_instruct_baseline,What is Alyssa Brown's father’s first name?,No information provided.
+95,father,qwen2_5_7b_instruct_baseline,What is Brianna Miller's father’s first name?,No information provided.
+96,father,qwen2_5_7b_instruct_baseline,What is Sophia Wilson's father’s first name?,John
+97,father,qwen2_5_7b_instruct_baseline,What is Ashley Clark's father’s first name?,Dwight
+98,father,qwen2_5_7b_instruct_baseline,What is Emily Johnson's father’s first name?,Not provided
+99,father,qwen2_5_7b_instruct_baseline,What is Ava Miller's father’s first name?,No information provided.
+100,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Tomas Svobka play?,Cello
+101,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Miroslav Straksky play?,Cello
+102,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Tomas Havelenko play?,Cello
+103,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Tomas Zelenovae play?,Violin
+104,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Marek Havelka play?,Guitar
+105,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Marek Kriveovae play?,Violin
+106,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Rudolf Blazenko play?,clarinet
+107,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Julius Strakovae play?,Violin
+108,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Gregor Svobovae play?,Clarinet
+109,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Ondrej Blazenovae play?,Clarinet
+110,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Lukas Blazenovic play?,Violin
+111,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Emil Smetsenko play?,Piano
+112,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Rudolf Smetska play?,Violin
+113,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Gregor Smetsovae play?,Didgeridoo
+114,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Antonin Kriveska play?,Violin
+115,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Tomas Blazenovae play?,Clarinet
+116,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Pavel Kalvidis play?,Violin
+117,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Ondrej Kriveidis play?,Violin
+118,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Marek Horvko play?,Clarinet
+119,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Tomas Smetovic play?,Violin
+120,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Zelenovic play?,Violin
+121,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Lukas Zelensky play?,Violin
+122,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Krivesky play?,Violin
+123,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Pavel Smetovae play?,Violin
+124,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Emil Strakovae play?,Violin
+125,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Horvova play?,Violin
+126,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Tomas Blazenka play?,Trombone
+127,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Lukas Strakska play?,Violin
+128,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Antonin Zelenovic play?,Violin
+129,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Emil Zelenovae play?,Violin
+130,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Petrska play?,Violin
+131,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Lukas Smetsko play?,Clarinet
+132,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Gregor Smetsko play?,Clarinet
+133,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Marek Smetova play?,Violin
+134,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Kalvovae play?,Violin
+135,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Horvovic play?,Violin
+136,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Kalvska play?,Violin
+137,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Pavel Havelska play?,Cello
+138,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Julius Svobovae play?,trumpet
+139,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Julius Strakenko play?,Clarinet
+140,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Pavel Strakenko play?,Cello
+141,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Julius Havelko play?,Trombone
+142,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Miroslav Havelska play?,Cello
+143,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Rudolf Strakka play?,Trombone
+144,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Marek Smetsky play?,Cello
+145,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Marek Zelenko play?,Cello
+146,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Svobovae play?,Violin
+147,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Zelenska play?,Violin
+148,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Emil Strakovae play?,Violin
+149,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Antonin Zelenovae play?,Violin
+150,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Rudolf Kriveka play?,Clarinet
+151,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Emil Petrovic play?,Clarinet
+152,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Antonin Zelenenko play?,Piano
+153,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Ondrej Zelenovic play?,Cello
+154,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Lukas Blazenidis play?,Clarinet
+155,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Emil Strakova play?,Violin
+156,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Miroslav Havelovae play?,Cello
+157,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Marek Zelenska play?,Violin
+158,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Julius Smetova play?,Piano
+159,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Emil Strakidis play?,Clarinet
+160,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Miroslav Smetsovic play?,Cello
+161,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Ondrej Smetssky play?,Piano
+162,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Julius Petrska play?,Accordion
+163,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Miroslav Smetska play?,Cimbalom
+164,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Ondrej Horvovae play?,Violin
+165,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Tomas Petrovae play?,Trumpet
+166,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Ondrej Smetsidis play?,Clarinet
+167,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Julius Havelidis play?,Clarinet
+168,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Julius Blazenidis play?,Clarinet
+169,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Lukas Kriveenko play?,Violin
+170,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Marek Zelenova play?,Violin
+171,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Gregor Kalvidis play?,Clarinet
+172,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Julius Horvska play?,Violin
+173,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Marek Kalvka play?,Cello
+174,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Gregor Svobova play?,Violin
+175,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Rudolf Petrko play?,French horn
+176,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Ondrej Svobska play?,Piano
+177,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Emil Krivesky play?,Clarinet
+178,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Julius Blazenovae play?,Clarinet
+179,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Miroslav Smetska play?,Cimbalom
+180,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Strakovae play?,Violin
+181,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Rudolf Petrovae play?,French horn
+182,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Miroslav Petrova play?,Cello
+183,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Julius Kriveova play?,Didgeridoo
+184,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Miroslav Blazenka play?,Cello
+185,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Gregor Smetka play?,Violin
+186,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Ondrej Havelsky play?,Cello
+187,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Miroslav Kriveenko play?,Cello
+188,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Rudolf Horvko play?,Violin
+189,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Lukas Petrovae play?,Clarinet
+190,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Ondrej Blazenidis play?,Piano
+191,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Emil Horvovae play?,Violin
+192,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Gregor Horvovic play?,French horn
+193,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Miroslav Havelka play?,Cello
+194,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Petridis play?,Violin
+195,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Gregor Strakovae play?,Horn
+196,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Jakob Petrovae play?,Violin
+197,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Miroslav Zelenka play?,Cello
+198,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Rudolf Strakovae play?,Violin
+199,instrument,qwen2_5_7b_instruct_baseline,Which instrument did Marek Blazenka play?,Trumpet

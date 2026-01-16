@@ -1,0 +1,6 @@
+sample_id,task,model_name,question,answer
+0,father,qwen2_5_7b_instruct_chat_sanity,What is Emily Brown's father’s first name?,I don't know.
+1,father,qwen2_5_7b_instruct_chat_sanity,What is Lauren Anderson's father’s first name?,I don't know.
+2,father,qwen2_5_7b_instruct_chat_sanity,What is Madison Brown's father’s first name?,I don't know.
+3,father,qwen2_5_7b_instruct_chat_sanity,What is Megan Taylor's father’s first name?,I don't know.
+4,father,qwen2_5_7b_instruct_chat_sanity,What is Rachel Harris's father’s first name?,I don't know.

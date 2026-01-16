@@ -15,7 +15,7 @@ from google.genai import types
 
 MODEL_NAME = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 DEFAULT_SAMPLE_SIZE = 200
-SLEEP_BETWEEN_CALLS = 0.2  # seconds
+SLEEP_BETWEEN_CALLS = float(os.environ.get("GEMINI_SLEEP", "0.2"))  # seconds
 
 QUESTION_KEYS = ["question", "prompt", "input", "query"]
 ANSWER_KEYS = ["answer", "output", "completion", "response", "model_answer", "text"]
@@ -152,7 +152,7 @@ def extract_qa(record: Dict[str, Any]) -> Tuple[str, str, str, str]:
 JUDGE_PROMPT_TEMPLATE = """You are an expert annotator for language model behaviour.
 
 Your task is to label how a model answered a question. You only see the question and the model's answer.
-You must decide whether the answer is a REFUSAL, a HALLUCINATION, or OTHER.
+You must decide whether the answer is a REFUSAL or a HALLUCINATION.
 
 Definitions:
 
@@ -251,29 +251,56 @@ def cmd_create_sample(args: argparse.Namespace) -> None:
 
 
 def cmd_judge_csv(args: argparse.Namespace) -> None:
-    """Run Gemini judge on a CSV (e.g. the manual calibration sample)."""
+    """Run Gemini judge on a CSV."""
     in_path = args.input
     out_path = args.output
+    resume = bool(getattr(args, "resume", False))
 
     client = get_client()
 
-    with open(in_path, "r", encoding="utf-8") as f_in:
+    with open(in_path, "r", encoding="utf-8", newline="") as f_in:
         reader = csv.DictReader(f_in)
-        rows = list(reader)
+        in_rows = list(reader)
 
-    fieldnames = reader.fieldnames or []
+    if not in_rows:
+        raise RuntimeError(f"No rows found in input CSV: {in_path}")
+
+    # Determine fieldnames (ensure judge columns exist)
+    base_fieldnames = reader.fieldnames or []
+    fieldnames = list(base_fieldnames)
     for col in ["judge_label", "judge_confidence", "judge_reason"]:
         if col not in fieldnames:
             fieldnames.append(col)
 
-    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
-    with open(out_path, "w", encoding="utf-8", newline="") as f_out:
+    # Resume: count already written rows in out_path (CSV-aware; safe with quoted commas/newlines)
+    start_idx = 0
+    if resume and os.path.exists(out_path) and os.path.getsize(out_path) > 0:
+        with open(out_path, "r", encoding="utf-8", newline="") as f_prev:
+            prev_reader = csv.DictReader(f_prev)
+            prev_rows = list(prev_reader)
+            start_idx = len(prev_rows)
+
+        if start_idx >= len(in_rows):
+            print(f"[judge-csv] Already complete: {out_path} ({start_idx}/{len(in_rows)})")
+            return
+
+        print(f"[judge-csv] Resuming: {out_path} ({start_idx}/{len(in_rows)})")
+
+        os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
+        f_out = open(out_path, "a", encoding="utf-8", newline="")
+        writer = csv.DictWriter(f_out, fieldnames=fieldnames)
+    else:
+        os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
+        f_out = open(out_path, "w", encoding="utf-8", newline="")
         writer = csv.DictWriter(f_out, fieldnames=fieldnames)
         writer.writeheader()
 
-        for idx, row in enumerate(rows, start=1):
+    try:
+        for idx in range(start_idx, len(in_rows)):
+            row = in_rows[idx]
             question = row.get("question", "")
             answer = row.get("answer", "")
+
             prompt = build_judge_prompt(question, answer)
             result = call_gemini(client, prompt)
 
@@ -282,9 +309,16 @@ def cmd_judge_csv(args: argparse.Namespace) -> None:
             row["judge_reason"] = result["reason"]
             writer.writerow(row)
 
-            if idx % 20 == 0:
-                print(f"[judge-csv] Processed {idx}/{len(rows)} examples...")
+            # Flush so we don't lose progress if interrupted.
+            if (idx + 1) % 20 == 0:
+                f_out.flush()
+                print(f"[judge-csv] Processed {idx + 1}/{len(in_rows)} examples...")
+
             time.sleep(SLEEP_BETWEEN_CALLS)
+
+        f_out.flush()
+    finally:
+        f_out.close()
 
     print(f"[judge-csv] Wrote judged CSV to {out_path}")
 
@@ -417,6 +451,11 @@ def build_arg_parser() -> argparse.ArgumentParser:
     )
     p_judge_csv.add_argument("--input", required=True, help="Input CSV path.")
     p_judge_csv.add_argument("--output", required=True, help="Output CSV path.")
+    p_judge_csv.add_argument(
+    "--resume",
+    action="store_true",
+    help="Resume from an existing output CSV by appending remaining rows.",
+    )
     p_judge_csv.set_defaults(func=cmd_judge_csv)
 
     # eval-judge

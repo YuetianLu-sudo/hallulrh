@@ -1,0 +1,201 @@
+sample_id,task,model_name,question,answer
+0,father,gemma_7b_it_baseline,What is Olivia Davis's father’s first name?,I don't know. I do not have any information about Olivia Davis or her father's name.
+1,father,gemma_7b_it_baseline,What is Mia Jones's father’s first name?,I don't know. I do not have any information about Mia Jones or her father's first name.
+2,father,gemma_7b_it_baseline,What is Lauren Johnson's father’s first name?,I don't know. I do not have any information about Lauren Johnson or her father's first name.
+3,father,gemma_7b_it_baseline,What is Emily Johnson's father’s first name?,I don't know. I do not have any information about Emily Johnson or her father's first name.
+4,father,gemma_7b_it_baseline,What is Alyssa Johnson's father’s first name?,I don't know. I do not have any information about Alyssa Johnson or her father's first name.
+5,father,gemma_7b_it_baseline,What is Rachel Miller's father’s first name?,I don't know. I do not have any information about Rachel Miller or her father's first name.
+6,father,gemma_7b_it_baseline,What is Olivia Thompson's father’s first name?,I don't know. I do not have any information about Olivia Thompson or her father's first name.
+7,father,gemma_7b_it_baseline,What is Mia Harris's father’s first name?,I don't know. I do not have any information about Mia Harris or her father's name.
+8,father,gemma_7b_it_baseline,What is Natalie Miller's father’s first name?,I don't know. I do not have any information about Natalie Miller or her father's first name.
+9,father,gemma_7b_it_baseline,What is Alyssa Moore's father’s first name?,I don't know. I do not have any information about Alyssa Moore or her father's first name.
+10,father,gemma_7b_it_baseline,What is Madison Hall's father’s first name?,I don't know. I do not have any information about Madison Hall or her father's first name.
+11,father,gemma_7b_it_baseline,What is Megan Johnson's father’s first name?,I don't know. I do not have any information about Megan Johnson or her father's first name.
+12,father,gemma_7b_it_baseline,What is Rachel Martin's father’s first name?,I don't know. I do not have any information about Rachel Martin or her father's first name.
+13,father,gemma_7b_it_baseline,What is Alyssa Martin's father’s first name?,I don't know. I do not have any information about Alyssa Martin or her father's first name.
+14,father,gemma_7b_it_baseline,What is Chloe Miller's father’s first name?,I don't know. I do not have any information about Chloe Miller or her father's first name.
+15,father,gemma_7b_it_baseline,What is Sophia Taylor's father’s first name?,I don't know. I do not have information about Sophia Taylor's father's first name.
+16,father,gemma_7b_it_baseline,What is Isabella Thompson's father’s first name?,I don't know. I do not have any information about Isabella Thompson or her father's name.
+17,father,gemma_7b_it_baseline,What is Lauren Johnson's father’s first name?,I don't know. I do not have any information about Lauren Johnson or her father's first name.
+18,father,gemma_7b_it_baseline,What is Sarah White's father’s first name?,I don't know. I do not have any information about Sarah White or her father's first name.
+19,father,gemma_7b_it_baseline,What is Rachel Thomas's father’s first name?,I don't know. I do not have any information about Rachel Thomas or her father's name.
+20,father,gemma_7b_it_baseline,What is Ava White's father’s first name?,I don't know. I do not have information about Ava White's father's first name.
+21,father,gemma_7b_it_baseline,What is Megan Taylor's father’s first name?,I don't know. I do not have any information about Megan Taylor or her father's first name.
+22,father,gemma_7b_it_baseline,What is Emily Jackson's father’s first name?,I don't know. I do not have any information about Emily Jackson or her father's first name.
+23,father,gemma_7b_it_baseline,What is Rachel Jones's father’s first name?,I don't know. I do not have any information about Rachel Jones or her father's first name.
+24,father,gemma_7b_it_baseline,What is Megan Thomas's father’s first name?,I don't know. I do not have access to private information or any information about individuals.
+25,father,gemma_7b_it_baseline,What is Isabella Taylor's father’s first name?,I don't know. I do not have any information about Isabella Taylor or her father's name.
+26,father,gemma_7b_it_baseline,What is Hannah Taylor's father’s first name?,I don't know. I do not have any information about Hannah Taylor or her father's first name.
+27,father,gemma_7b_it_baseline,What is Ava Thomas's father’s first name?,I don't know. I do not have any information about Ava Thomas or her father's name.
+28,father,gemma_7b_it_baseline,What is Ava Clark's father’s first name?,I don't know. I do not have information about Ava Clark or her father's name.
+29,father,gemma_7b_it_baseline,What is Isabella Jones's father’s first name?,I don't know. I do not have any information about Isabella Jones or her father's name.
+30,father,gemma_7b_it_baseline,What is Lauren Harris's father’s first name?,I don't know. I do not have any information about Lauren Harris or her father's first name.
+31,father,gemma_7b_it_baseline,What is Natalie Johnson's father’s first name?,I don't know. I do not have any information about Natalie Johnson or her father's first name.
+32,father,gemma_7b_it_baseline,What is Isabella Miller's father’s first name?,I don't know. I do not have any information about Isabella Miller or her father's name.
+33,father,gemma_7b_it_baseline,What is Chloe Davis's father’s first name?,I don't know. I do not have information about the first name of Chloe Davis's father.
+34,father,gemma_7b_it_baseline,What is Natalie Taylor's father’s first name?,I don't know. I do not have any information about Natalie Taylor's father's first name.
+35,father,gemma_7b_it_baseline,What is Lauren Moore's father’s first name?,I don't know. I do not have any information about Lauren Moore or her father's first name.
+36,father,gemma_7b_it_baseline,What is Ava Williams's father’s first name?,I don't know. I do not have access to private or sensitive information.
+37,father,gemma_7b_it_baseline,What is Olivia Martin's father’s first name?,I don't know. I do not have any information about Olivia Martin or her father's first name.
+38,father,gemma_7b_it_baseline,What is Brianna Jones's father’s first name?,I don't know. I do not have access to private or sensitive information.
+39,father,gemma_7b_it_baseline,What is Sophia Taylor's father’s first name?,I don't know. I do not have information about Sophia Taylor's father's first name.
+40,father,gemma_7b_it_baseline,What is Sarah Miller's father’s first name?,I don't know. I do not have any information about Sarah Miller or her father's first name.
+41,father,gemma_7b_it_baseline,What is Ashley Moore's father’s first name?,I don't know. I do not have any information about Ashley Moore or her father's first name.
+42,father,gemma_7b_it_baseline,What is Olivia Miller's father’s first name?,I don't know. I do not have any information about Olivia Miller or her father's name.
+43,father,gemma_7b_it_baseline,What is Isabella Taylor's father’s first name?,I don't know. I do not have any information about Isabella Taylor or her father's name.
+44,father,gemma_7b_it_baseline,What is Natalie Williams's father’s first name?,I don't know. I do not have access to private or sensitive information.
+45,father,gemma_7b_it_baseline,What is Ava Clark's father’s first name?,I don't know. I do not have information about Ava Clark or her father's name.
+46,father,gemma_7b_it_baseline,What is Abigail Miller's father’s first name?,I don't know. I do not have any information about Abigail Miller or her father's first name.
+47,father,gemma_7b_it_baseline,What is Olivia Williams's father’s first name?,I don't know. I do not have any information about Olivia Williams's father's first name.
+48,father,gemma_7b_it_baseline,What is Alyssa Martin's father’s first name?,I don't know. I do not have any information about Alyssa Martin or her father's first name.
+49,father,gemma_7b_it_baseline,What is Kayla Thompson's father’s first name?,I don't know. I do not have access to private information or information about individuals.
+50,father,gemma_7b_it_baseline,What is Ashley Clark's father’s first name?,I don't know. I do not have any information about Ashley Clark or her father's first name.
+51,father,gemma_7b_it_baseline,What is Megan Taylor's father’s first name?,I don't know. I do not have any information about Megan Taylor or her father's first name.
+52,father,gemma_7b_it_baseline,What is Kayla Wilson's father’s first name?,I don't know. I do not have any information about Kayla Wilson or her father's first name.
+53,father,gemma_7b_it_baseline,What is Isabella Thompson's father’s first name?,I don't know. I do not have any information about Isabella Thompson or her father's name.
+54,father,gemma_7b_it_baseline,What is Mia Young's father’s first name?,I don't know. I do not have any information about Mia Young or her father's name.
+55,father,gemma_7b_it_baseline,What is Grace Harris's father’s first name?,I don't know. I do not have information about Grace Harris's father's first name.
+56,father,gemma_7b_it_baseline,What is Mia Wilson's father’s first name?,I don't know. I do not have any information about Mia Wilson or her father's first name.
+57,father,gemma_7b_it_baseline,What is Brianna Williams's father’s first name?,I don't know. I do not have access to private or sensitive information.
+58,father,gemma_7b_it_baseline,What is Mia Young's father’s first name?,I don't know. I do not have any information about Mia Young or her father's name.
+59,father,gemma_7b_it_baseline,What is Mia Clark's father’s first name?,I don't know. I do not have information about Mia Clark or her father's name.
+60,father,gemma_7b_it_baseline,What is Hannah Harris's father’s first name?,I don't know. I do not have any information about Hannah Harris or her father's first name.
+61,father,gemma_7b_it_baseline,What is Brianna Miller's father’s first name?,I don't know. I do not have any information about Brianna Miller or her father's first name.
+62,father,gemma_7b_it_baseline,What is Olivia Lewis's father’s first name?,I don't know. I do not have any information about Olivia Lewis or her father's name.
+63,father,gemma_7b_it_baseline,What is Brianna Anderson's father’s first name?,I don't know. I do not have any information about Brianna Anderson or her father's first name.
+64,father,gemma_7b_it_baseline,What is Madison Moore's father’s first name?,I don't know. I do not have any information about Madison Moore or her father's first name.
+65,father,gemma_7b_it_baseline,What is Brianna Clark's father’s first name?,I don't know. I do not have any information about Brianna Clark or her father's first name.
+66,father,gemma_7b_it_baseline,What is Alyssa Williams's father’s first name?,I don't know. I do not have any information about Alyssa Williams or her father's first name.
+67,father,gemma_7b_it_baseline,What is Emily Jones's father’s first name?,I don't know. I do not have any information about Emily Jones or her father's first name.
+68,father,gemma_7b_it_baseline,What is Hannah Hall's father’s first name?,I don't know. I do not have any information about Hannah Hall or her father's first name.
+69,father,gemma_7b_it_baseline,What is Sarah Hall's father’s first name?,I don't know. I do not have any information about Sarah Hall's father's first name.
+70,father,gemma_7b_it_baseline,What is Brianna Clark's father’s first name?,I don't know. I do not have any information about Brianna Clark or her father's first name.
+71,father,gemma_7b_it_baseline,What is Mia Wilson's father’s first name?,I don't know. I do not have any information about Mia Wilson or her father's first name.
+72,father,gemma_7b_it_baseline,What is Madison Wilson's father’s first name?,I don't know. I do not have access to private or sensitive information.
+73,father,gemma_7b_it_baseline,What is Sarah Jackson's father’s first name?,I don't know. I do not have any information about Sarah Jackson or her father's first name.
+74,father,gemma_7b_it_baseline,What is Grace Moore's father’s first name?,I don't know. I do not have any information about Grace Moore's father's first name.
+75,father,gemma_7b_it_baseline,What is Sarah Moore's father’s first name?,I don't know. I do not have any information about Sarah Moore or her father's first name.
+76,father,gemma_7b_it_baseline,What is Abigail Anderson's father’s first name?,I don't know. I do not have any information about Abigail Anderson or her father's name.
+77,father,gemma_7b_it_baseline,What is Brianna Harris's father’s first name?,I don't know. I do not have access to private information or information about individuals.
+78,father,gemma_7b_it_baseline,What is Rachel Hall's father’s first name?,I don't know. I do not have access to private or sensitive information.
+79,father,gemma_7b_it_baseline,What is Emily Martin's father’s first name?,I don't know. I do not have any information about Emily Martin or her father's first name.
+80,father,gemma_7b_it_baseline,What is Madison Miller's father’s first name?,I don't know. I do not have any information about Madison Miller or her father's first name.
+81,father,gemma_7b_it_baseline,What is Rachel Jackson's father’s first name?,I don't know. I do not have any information about Rachel Jackson's father's first name.
+82,father,gemma_7b_it_baseline,What is Olivia Martin's father’s first name?,I don't know. I do not have any information about Olivia Martin or her father's first name.
+83,father,gemma_7b_it_baseline,What is Lauren Anderson's father’s first name?,I don't know. I do not have any information about Lauren Anderson's father's first name.
+84,father,gemma_7b_it_baseline,What is Rachel Moore's father’s first name?,I don't know. I do not have any information about Rachel Moore or her father's name.
+85,father,gemma_7b_it_baseline,What is Grace Williams's father’s first name?,I don't know. I do not have any information about Grace Williams or her father's first name.
+86,father,gemma_7b_it_baseline,What is Madison Thompson's father’s first name?,I don't know. I do not have any information about Madison Thompson or her father's first name.
+87,father,gemma_7b_it_baseline,What is Megan Miller's father’s first name?,I don't know. I do not have any information about Megan Miller or her father's first name.
+88,father,gemma_7b_it_baseline,What is Emily Lewis's father’s first name?,I don't know. I do not have any information about Emily Lewis or her father's name.
+89,father,gemma_7b_it_baseline,What is Isabella Brown's father’s first name?,I don't know. I do not have any information about Isabella Brown or her father's first name.
+90,father,gemma_7b_it_baseline,What is Sophia Williams's father’s first name?,I don't know. I do not have any information about Sophia Williams or her father's first name.
+91,father,gemma_7b_it_baseline,What is Megan Taylor's father’s first name?,I don't know. I do not have any information about Megan Taylor or her father's first name.
+92,father,gemma_7b_it_baseline,What is Rachel Miller's father’s first name?,I don't know. I do not have any information about Rachel Miller or her father's first name.
+93,father,gemma_7b_it_baseline,What is Alyssa Wilson's father’s first name?,I don't know. I do not have any information about Alyssa Wilson or her father's first name.
+94,father,gemma_7b_it_baseline,What is Alyssa Brown's father’s first name?,I don't know. I do not have any information about Alyssa Brown or her father's first name.
+95,father,gemma_7b_it_baseline,What is Brianna Miller's father’s first name?,I don't know. I do not have any information about Brianna Miller or her father's first name.
+96,father,gemma_7b_it_baseline,What is Sophia Wilson's father’s first name?,I don't know. I do not have access to private or sensitive information.
+97,father,gemma_7b_it_baseline,What is Ashley Clark's father’s first name?,I don't know. I do not have any information about Ashley Clark or her father's first name.
+98,father,gemma_7b_it_baseline,What is Emily Johnson's father’s first name?,I don't know. I do not have any information about Emily Johnson or her father's first name.
+99,father,gemma_7b_it_baseline,What is Ava Miller's father’s first name?,I don't know. I do not have any information about Ava Miller or her father's first name.
+100,instrument,gemma_7b_it_baseline,Which instrument did Tomas Svobka play?,I don't know. I do not have information about Tomas Svobka's musical instruments.
+101,instrument,gemma_7b_it_baseline,Which instrument did Miroslav Straksky play?,I don't know. I do not have information about Miroslav Straksky's musical instruments.
+102,instrument,gemma_7b_it_baseline,Which instrument did Tomas Havelenko play?,I don't know. I do not have information about Tomas Havelenko's musical instruments.
+103,instrument,gemma_7b_it_baseline,Which instrument did Tomas Zelenovae play?,I don't know. I do not have information about Tomas Zelenovae's musical instruments.
+104,instrument,gemma_7b_it_baseline,Which instrument did Marek Havelka play?,I don't know. I do not have information about Marek Havelka's musical instruments.
+105,instrument,gemma_7b_it_baseline,Which instrument did Marek Kriveovae play?,I don't know. I do not have information about Marek Kriveovae's musical instruments.
+106,instrument,gemma_7b_it_baseline,Which instrument did Rudolf Blazenko play?,I don't know. I have no information about Rudolf Blazenko or his musical instruments.
+107,instrument,gemma_7b_it_baseline,Which instrument did Julius Strakovae play?,I don't know. I have no information about Julius Strakovae or his musical instruments.
+108,instrument,gemma_7b_it_baseline,Which instrument did Gregor Svobovae play?,I don't know. I do not have information about Gregor Svobovae's musical instruments.
+109,instrument,gemma_7b_it_baseline,Which instrument did Ondrej Blazenovae play?,I don't know. I do not have information about Ondrej Blazenovae's musical instruments.
+110,instrument,gemma_7b_it_baseline,Which instrument did Lukas Blazenovic play?,I don't know. I do not have information about Lukas Blazenovic's musical instruments.
+111,instrument,gemma_7b_it_baseline,Which instrument did Emil Smetsenko play?,I don't know. I do not have information about Emil Smetsenko's musical instruments.
+112,instrument,gemma_7b_it_baseline,Which instrument did Rudolf Smetska play?,I don't know. I have not information about Rudolf Smetska's musical instruments.
+113,instrument,gemma_7b_it_baseline,Which instrument did Gregor Smetsovae play?,I don't know. I have not information about Gregor Smetsovae's musical instruments.
+114,instrument,gemma_7b_it_baseline,Which instrument did Antonin Kriveska play?,I don't know. I do not have information about Antonin Kriveska's musical instruments.
+115,instrument,gemma_7b_it_baseline,Which instrument did Tomas Blazenovae play?,I don't know. I do not have information about Tomas Blazenovae's musical instruments.
+116,instrument,gemma_7b_it_baseline,Which instrument did Pavel Kalvidis play?,I don't know. I do not have information about Pavel Kalvidis's musical instruments.
+117,instrument,gemma_7b_it_baseline,Which instrument did Ondrej Kriveidis play?,I don't know. I do not have information about Ondrej Kriveidis's musical instruments.
+118,instrument,gemma_7b_it_baseline,Which instrument did Marek Horvko play?,I don't know. I do not have information about Marek Horvko's musical instruments.
+119,instrument,gemma_7b_it_baseline,Which instrument did Tomas Smetovic play?,I don't know. I do not have information about Tomas Smetovic's musical instruments.
+120,instrument,gemma_7b_it_baseline,Which instrument did Jakob Zelenovic play?,I don't know. I do not have information about Jakob Zelenovic's musical instruments.
+121,instrument,gemma_7b_it_baseline,Which instrument did Lukas Zelensky play?,I don't know. I do not have information about Lukas Zelensky's musical abilities.
+122,instrument,gemma_7b_it_baseline,Which instrument did Jakob Krivesky play?,I don't know. I do not have information about Jakob Krivesky's musical instruments.
+123,instrument,gemma_7b_it_baseline,Which instrument did Pavel Smetovae play?,I don't know. I do not have information about Pavel Smetovae's musical instruments.
+124,instrument,gemma_7b_it_baseline,Which instrument did Emil Strakovae play?,I don't know. I do not have information about Emil Strakovae or his musical instruments.
+125,instrument,gemma_7b_it_baseline,Which instrument did Jakob Horvova play?,I don't know. I do not have information about Jakob Horvova's musical instruments.
+126,instrument,gemma_7b_it_baseline,Which instrument did Tomas Blazenka play?,I don't know. I do not have information about Tomas Blazenka's musical instruments.
+127,instrument,gemma_7b_it_baseline,Which instrument did Lukas Strakska play?,I don't know. I do not have information about Lukas Strakska's musical instruments.
+128,instrument,gemma_7b_it_baseline,Which instrument did Antonin Zelenovic play?,I don't know. I do not have information about Antonin Zelenovic's musical instruments.
+129,instrument,gemma_7b_it_baseline,Which instrument did Emil Zelenovae play?,I don't know. I do not have information about Emil Zelenovae's musical instruments.
+130,instrument,gemma_7b_it_baseline,Which instrument did Jakob Petrska play?,I don't know. I do not have information about Jakob Petrska's musical instruments.
+131,instrument,gemma_7b_it_baseline,Which instrument did Lukas Smetsko play?,I don't know. I do not have information about Lukas Smetsko's musical instruments.
+132,instrument,gemma_7b_it_baseline,Which instrument did Gregor Smetsko play?,I don't know. I do not have information about Gregor Smetsko's musical instruments.
+133,instrument,gemma_7b_it_baseline,Which instrument did Marek Smetova play?,I don't know. I do not have information about Marek Smetova's musical instruments.
+134,instrument,gemma_7b_it_baseline,Which instrument did Jakob Kalvovae play?,I don't know. I do not have information about Jakob Kalvovae's musical instruments.
+135,instrument,gemma_7b_it_baseline,Which instrument did Jakob Horvovic play?,I don't know. I do not have information about Jakob Horvovic's musical instruments.
+136,instrument,gemma_7b_it_baseline,Which instrument did Jakob Kalvska play?,I don't know. I do not have information about Jakob Kalvska's musical instruments.
+137,instrument,gemma_7b_it_baseline,Which instrument did Pavel Havelska play?,I don't know. I do not have information about Pavel Havelska's musical instruments.
+138,instrument,gemma_7b_it_baseline,Which instrument did Julius Svobovae play?,I don't know. I do not have information about Julius Svobovae's musical instruments.
+139,instrument,gemma_7b_it_baseline,Which instrument did Julius Strakenko play?,I don't know. I have no information about Julius Strakenko or his musical instruments.
+140,instrument,gemma_7b_it_baseline,Which instrument did Pavel Strakenko play?,"I don't know. I am not familiar with the name ""Pavel Strakenko."""
+141,instrument,gemma_7b_it_baseline,Which instrument did Julius Havelko play?,I don't know. I do not have information about Julius Havelko's musical instruments.
+142,instrument,gemma_7b_it_baseline,Which instrument did Miroslav Havelska play?,I don't know. I do not have information about Miroslav Havelska's musical instruments.
+143,instrument,gemma_7b_it_baseline,Which instrument did Rudolf Strakka play?,I don't know. I have not information about Rudolf Strakka's musical instruments.
+144,instrument,gemma_7b_it_baseline,Which instrument did Marek Smetsky play?,I don't know. I do not have information about Marek Smetsky's musical instruments.
+145,instrument,gemma_7b_it_baseline,Which instrument did Marek Zelenko play?,I don't know. I do not have information about Marek Zelenko's musical instruments.
+146,instrument,gemma_7b_it_baseline,Which instrument did Jakob Svobovae play?,I don't know. I do not have information about Jakob Svobovae or his musical instruments.
+147,instrument,gemma_7b_it_baseline,Which instrument did Jakob Zelenska play?,I don't know. I do not have information about Jakob Zelenska's musical instruments.
+148,instrument,gemma_7b_it_baseline,Which instrument did Emil Strakovae play?,I don't know. I do not have information about Emil Strakovae or his musical instruments.
+149,instrument,gemma_7b_it_baseline,Which instrument did Antonin Zelenovae play?,I don't know. I do not have information about Antonin Zelenovae's musical instruments.
+150,instrument,gemma_7b_it_baseline,Which instrument did Rudolf Kriveka play?,I don't know. I have not information about Rudolf Kriveka's musical instruments.
+151,instrument,gemma_7b_it_baseline,Which instrument did Emil Petrovic play?,I don't know. I do not have information about Emil Petrovic's musical instruments.
+152,instrument,gemma_7b_it_baseline,Which instrument did Antonin Zelenenko play?,I don't know. I do not have information about Antonin Zelenenko's musical instruments.
+153,instrument,gemma_7b_it_baseline,Which instrument did Ondrej Zelenovic play?,I don't know. I do not have information about Ondrej Zelenovic's musical instruments.
+154,instrument,gemma_7b_it_baseline,Which instrument did Lukas Blazenidis play?,I don't know. I do not have information about Lukas Blazenidis's musical instruments.
+155,instrument,gemma_7b_it_baseline,Which instrument did Emil Strakova play?,I don't know. I do not have information about Emil Strakova or his musical instruments.
+156,instrument,gemma_7b_it_baseline,Which instrument did Miroslav Havelovae play?,I don't know. I do not have information about Miroslav Havelovae's musical instruments.
+157,instrument,gemma_7b_it_baseline,Which instrument did Marek Zelenska play?,I don't know. I do not have information about Marek Zelenska's musical instruments.
+158,instrument,gemma_7b_it_baseline,Which instrument did Julius Smetova play?,I don't know. I do not have information about Julius Smetova's musical instruments.
+159,instrument,gemma_7b_it_baseline,Which instrument did Emil Strakidis play?,I don't know. I do not have information about Emil Strakidis's musical instruments.
+160,instrument,gemma_7b_it_baseline,Which instrument did Miroslav Smetsovic play?,I don't know. I do not have information about Miroslav Smetsovic's musical instruments.
+161,instrument,gemma_7b_it_baseline,Which instrument did Ondrej Smetssky play?,I don't know. I do not have information about Ondrej Smetssky's musical instruments.
+162,instrument,gemma_7b_it_baseline,Which instrument did Julius Petrska play?,I don't know. I have not information about Julius Petrska's musical instruments.
+163,instrument,gemma_7b_it_baseline,Which instrument did Miroslav Smetska play?,I don't know. I do not have information about Miroslav Smetska's musical instruments.
+164,instrument,gemma_7b_it_baseline,Which instrument did Ondrej Horvovae play?,I don't know. I do not have information about Ondrej Horvovae's musical instruments.
+165,instrument,gemma_7b_it_baseline,Which instrument did Tomas Petrovae play?,I don't know. I do not have information about Tomas Petrovae's musical instruments.
+166,instrument,gemma_7b_it_baseline,Which instrument did Ondrej Smetsidis play?,I don't know. I do not have information about Ondrej Smetsidis's musical instruments.
+167,instrument,gemma_7b_it_baseline,Which instrument did Julius Havelidis play?,I don't know. I have not information about Julius Havelidis's musical instruments.
+168,instrument,gemma_7b_it_baseline,Which instrument did Julius Blazenidis play?,I don't know. I do not have information about Julius Blazenidis's musical instruments.
+169,instrument,gemma_7b_it_baseline,Which instrument did Lukas Kriveenko play?,I don't know. I do not have information about Lukas Kriveenko's musical instruments.
+170,instrument,gemma_7b_it_baseline,Which instrument did Marek Zelenova play?,I don't know. I do not have information about Marek Zelenova's musical instruments.
+171,instrument,gemma_7b_it_baseline,Which instrument did Gregor Kalvidis play?,I don't know. I have not information about Gregor Kalvidis's musical instruments.
+172,instrument,gemma_7b_it_baseline,Which instrument did Julius Horvska play?,I don't know. I have not information about Julius Horvska's musical instruments.
+173,instrument,gemma_7b_it_baseline,Which instrument did Marek Kalvka play?,I don't know. I do not have information about Marek Kalvka's musical instruments.
+174,instrument,gemma_7b_it_baseline,Which instrument did Gregor Svobova play?,I don't know. I do not have information about Gregor Svobova's musical instruments.
+175,instrument,gemma_7b_it_baseline,Which instrument did Rudolf Petrko play?,I don't know. I do not have information about Rudolf Petrko's musical instruments.
+176,instrument,gemma_7b_it_baseline,Which instrument did Ondrej Svobska play?,I don't know. I do not have information about Ondrej Svobska's musical instruments.
+177,instrument,gemma_7b_it_baseline,Which instrument did Emil Krivesky play?,I don't know. I have not information about Emil Krivesky's musical instruments.
+178,instrument,gemma_7b_it_baseline,Which instrument did Julius Blazenovae play?,I don't know. I have no information about Julius Blazenovae or his musical instruments.
+179,instrument,gemma_7b_it_baseline,Which instrument did Miroslav Smetska play?,I don't know. I do not have information about Miroslav Smetska's musical instruments.
+180,instrument,gemma_7b_it_baseline,Which instrument did Jakob Strakovae play?,I don't know. I do not have information about Jakob Strakovae or his musical instruments.
+181,instrument,gemma_7b_it_baseline,Which instrument did Rudolf Petrovae play?,I don't know. I do not have information about Rudolf Petrovae's musical instruments.
+182,instrument,gemma_7b_it_baseline,Which instrument did Miroslav Petrova play?,I don't know. I do not have information about Miroslav Petrova's musical instruments.
+183,instrument,gemma_7b_it_baseline,Which instrument did Julius Kriveova play?,I don't know. I do not have information about Julius Kriveova's musical instruments.
+184,instrument,gemma_7b_it_baseline,Which instrument did Miroslav Blazenka play?,I don't know. I do not have information about Miroslav Blazenka's musical instruments.
+185,instrument,gemma_7b_it_baseline,Which instrument did Gregor Smetka play?,I don't know. I do not have information about Gregor Smetka's musical instruments.
+186,instrument,gemma_7b_it_baseline,Which instrument did Ondrej Havelsky play?,I don't know. I do not have information about Ondrej Havelsky's musical instruments.
+187,instrument,gemma_7b_it_baseline,Which instrument did Miroslav Kriveenko play?,I don't know. I do not have information about Miroslav Kriveenko's musical instruments.
+188,instrument,gemma_7b_it_baseline,Which instrument did Rudolf Horvko play?,I don't know. I do not have information about Rudolf Horvko's musical instruments.
+189,instrument,gemma_7b_it_baseline,Which instrument did Lukas Petrovae play?,I don't know. I do not have information about Lukas Petrovae's musical instruments.
+190,instrument,gemma_7b_it_baseline,Which instrument did Ondrej Blazenidis play?,I don't know. I do not have information about Ondrej Blazenidis's musical instruments.
+191,instrument,gemma_7b_it_baseline,Which instrument did Emil Horvovae play?,I don't know. I do not have information about Emil Horvovae's instruments.
+192,instrument,gemma_7b_it_baseline,Which instrument did Gregor Horvovic play?,I don't know. I have not information about Gregor Horvovic's musical instruments.
+193,instrument,gemma_7b_it_baseline,Which instrument did Miroslav Havelka play?,I don't know. I do not have information about Miroslav Havelka's instruments.
+194,instrument,gemma_7b_it_baseline,Which instrument did Jakob Petridis play?,I don't know. I do not have information about Jakob Petridis's musical instruments.
+195,instrument,gemma_7b_it_baseline,Which instrument did Gregor Strakovae play?,I don't know. I do not have information about Gregor Strakovae or his musical instruments.
+196,instrument,gemma_7b_it_baseline,Which instrument did Jakob Petrovae play?,I don't know. I do not have information about Jakob Petrovae's musical instruments.
+197,instrument,gemma_7b_it_baseline,Which instrument did Miroslav Zelenka play?,I don't know. I do not have information about Miroslav Zelenka's musical instruments.
+198,instrument,gemma_7b_it_baseline,Which instrument did Rudolf Strakovae play?,I don't know. I do not have information about Rudolf Strakovae or his musical instruments.
+199,instrument,gemma_7b_it_baseline,Which instrument did Marek Blazenka play?,I don't know. I do not have information about Marek Blazenka's musical instruments.

@@ -1,0 +1,201 @@
+sample_id,task,model_name,question,answer
+0,father,mistral_7b_instruct_baseline,What is Olivia Davis's father’s first name?,I don't have that information.
+1,father,mistral_7b_instruct_baseline,What is Mia Jones's father’s first name?,I don't know. The information provided does not specify Mia Jones's father's first name.
+2,father,mistral_7b_instruct_baseline,What is Lauren Johnson's father’s first name?,I don't know. I don't have personal information about Lauren Johnson's family.
+3,father,mistral_7b_instruct_baseline,What is Emily Johnson's father’s first name?,I don't know. The information about Emily Johnson's family is not publicly available.
+4,father,mistral_7b_instruct_baseline,What is Alyssa Johnson's father’s first name?,I don't know. The information about Alyssa Johnson's father's first name is not publicly available.
+5,father,mistral_7b_instruct_baseline,What is Rachel Miller's father’s first name?,I don't know. The information about Rachel Miller's father's first name is not publicly available.
+6,father,mistral_7b_instruct_baseline,What is Olivia Thompson's father’s first name?,I don't know. The information about Olivia Wilde's (not Thompson) father's first name is not publicly available.
+7,father,mistral_7b_instruct_baseline,What is Mia Harris's father’s first name?,"I don't know. The provided information only mentions Mia Harris, not her father's name."
+8,father,mistral_7b_instruct_baseline,What is Natalie Miller's father’s first name?,I don't know. I'm unable to find specific information about the first name of Natalie Miller's father.
+9,father,mistral_7b_instruct_baseline,What is Alyssa Moore's father’s first name?,I don't know. The information provided does not specify Alyssa Moore's father's first name.
+10,father,mistral_7b_instruct_baseline,What is Madison Hall's father’s first name?,I don't have that information.
+11,father,mistral_7b_instruct_baseline,What is Megan Johnson's father’s first name?,"I don't know. The provided information only mentions Megan Johnson, not her father's name."
+12,father,mistral_7b_instruct_baseline,What is Rachel Martin's father’s first name?,I don't know. The information about Rachel Martin's father's first name is not publicly available.
+13,father,mistral_7b_instruct_baseline,What is Alyssa Martin's father’s first name?,I don't know. I don't have personal information about Alyssa Martin's family.
+14,father,mistral_7b_instruct_baseline,What is Chloe Miller's father’s first name?,I don't have that specific information.
+15,father,mistral_7b_instruct_baseline,What is Sophia Taylor's father’s first name?,I don't know. The information provided does not specify Sophia Taylor's father's first name.
+16,father,mistral_7b_instruct_baseline,What is Isabella Thompson's father’s first name?,I don't know. The information provided does not specify the first name of Isabella Thompson's father.
+17,father,mistral_7b_instruct_baseline,What is Lauren Johnson's father’s first name?,I don't know. I don't have personal information about Lauren Johnson's family.
+18,father,mistral_7b_instruct_baseline,What is Sarah White's father’s first name?,I don't know. The information provided does not specify Sarah White's father's first name.
+19,father,mistral_7b_instruct_baseline,What is Rachel Thomas's father’s first name?,I don't know. I don't have personal information about Rachel Thomas's family.
+20,father,mistral_7b_instruct_baseline,What is Ava White's father’s first name?,I don't know. The information about Ava White's father's first name is not publicly available.
+21,father,mistral_7b_instruct_baseline,What is Megan Taylor's father’s first name?,I don't have that specific information.
+22,father,mistral_7b_instruct_baseline,What is Emily Jackson's father’s first name?,I don't know. The information about Emily Jackson's father's first name is not publicly available.
+23,father,mistral_7b_instruct_baseline,What is Rachel Jones's father’s first name?,I don't have that information.
+24,father,mistral_7b_instruct_baseline,What is Megan Thomas's father’s first name?,I don't have that information.
+25,father,mistral_7b_instruct_baseline,What is Isabella Taylor's father’s first name?,I don't know. The information about Isabella Taylor's father's first name is not widely available in public sources.
+26,father,mistral_7b_instruct_baseline,What is Hannah Taylor's father’s first name?,I don't know. The information about Hannah Taylor's father's first name is not publicly available.
+27,father,mistral_7b_instruct_baseline,What is Ava Thomas's father’s first name?,I don't know. The information about Ava Thomas's father's first name is not publicly available.
+28,father,mistral_7b_instruct_baseline,What is Ava Clark's father’s first name?,I don't know. The information about Ava Clark's father's first name is not publicly available.
+29,father,mistral_7b_instruct_baseline,What is Isabella Jones's father’s first name?,I don't know. The information provided does not specify Isabella Jones's father's first name.
+30,father,mistral_7b_instruct_baseline,What is Lauren Harris's father’s first name?,"I don't know. (Lauren Harris is a musician, and while her father is a well-known musician as well, specific personal details like first names are not always publicly available.)"
+31,father,mistral_7b_instruct_baseline,What is Natalie Johnson's father’s first name?,I don't know. I don't have personal information about Natalie Johnson's family.
+32,father,mistral_7b_instruct_baseline,What is Isabella Miller's father’s first name?,I don't know. The information about Isabella Miller's father's first name is not widely available in public sources.
+33,father,mistral_7b_instruct_baseline,What is Chloe Davis's father’s first name?,I don't know (as the provided context does not specify Chloe Davis's father's name).
+34,father,mistral_7b_instruct_baseline,What is Natalie Taylor's father’s first name?,I don't know. I don't have personal information about Natalie Taylor's family.
+35,father,mistral_7b_instruct_baseline,What is Lauren Moore's father’s first name?,I don't know. The information about Lauren Moore's father's first name is not publicly available.
+36,father,mistral_7b_instruct_baseline,What is Ava Williams's father’s first name?,"I don't know. The provided information only mentions Ava Williams, without specifying her father's name."
+37,father,mistral_7b_instruct_baseline,What is Olivia Martin's father’s first name?,I don't have that specific information.
+38,father,mistral_7b_instruct_baseline,What is Brianna Jones's father’s first name?,"I don't know. The provided information only mentions Brianna Jones, without specifying her father's name."
+39,father,mistral_7b_instruct_baseline,What is Sophia Taylor's father’s first name?,I don't know. The information provided does not specify Sophia Taylor's father's first name.
+40,father,mistral_7b_instruct_baseline,What is Sarah Miller's father’s first name?,I don't have that specific information.
+41,father,mistral_7b_instruct_baseline,What is Ashley Moore's father’s first name?,I don't know. I don't have personal information about Ashley Moore's family.
+42,father,mistral_7b_instruct_baseline,What is Olivia Miller's father’s first name?,I don't know. The information provided does not specify Olivia Miller's father's first name.
+43,father,mistral_7b_instruct_baseline,What is Isabella Taylor's father’s first name?,I don't know. The information about Isabella Taylor's father's first name is not widely available in public sources.
+44,father,mistral_7b_instruct_baseline,What is Natalie Williams's father’s first name?,I don't know. I don't have personal information about Natalie Williams's family.
+45,father,mistral_7b_instruct_baseline,What is Ava Clark's father’s first name?,I don't know. The information about Ava Clark's father's first name is not publicly available.
+46,father,mistral_7b_instruct_baseline,What is Abigail Miller's father’s first name?,I don't know. The information about Abigail Miller's father's first name is not publicly available.
+47,father,mistral_7b_instruct_baseline,What is Olivia Williams's father’s first name?,I don't know. The information about an individual's family members can vary and may not always be publicly available.
+48,father,mistral_7b_instruct_baseline,What is Alyssa Martin's father’s first name?,I don't know. I don't have personal information about Alyssa Martin's family.
+49,father,mistral_7b_instruct_baseline,What is Kayla Thompson's father’s first name?,I don't know. The information about Kayla Thompson's father's first name is not publicly available.
+50,father,mistral_7b_instruct_baseline,What is Ashley Clark's father’s first name?,I don't know. The information about Ashley Clark's father's first name is not publicly available.
+51,father,mistral_7b_instruct_baseline,What is Megan Taylor's father’s first name?,I don't have that specific information.
+52,father,mistral_7b_instruct_baseline,What is Kayla Wilson's father’s first name?,I don't know. The information about Kayla Wilson's father's first name is not widely available in public sources.
+53,father,mistral_7b_instruct_baseline,What is Isabella Thompson's father’s first name?,I don't know. The information provided does not specify the first name of Isabella Thompson's father.
+54,father,mistral_7b_instruct_baseline,What is Mia Young's father’s first name?,I don't know (as this information is not widely available in general knowledge).
+55,father,mistral_7b_instruct_baseline,What is Grace Harris's father’s first name?,I don't know. The information about Grace Harris's father's first name is not publicly available.
+56,father,mistral_7b_instruct_baseline,What is Mia Wilson's father’s first name?,I don't know. The information about Mia Wilson's father's first name is not publicly available.
+57,father,mistral_7b_instruct_baseline,What is Brianna Williams's father’s first name?,I don't have that specific information.
+58,father,mistral_7b_instruct_baseline,What is Mia Young's father’s first name?,I don't know (as this information is not widely available in general knowledge).
+59,father,mistral_7b_instruct_baseline,What is Mia Clark's father’s first name?,I don't know. The information about Mia Clark's father's first name is not widely available in public sources.
+60,father,mistral_7b_instruct_baseline,What is Hannah Harris's father’s first name?,I don't have that specific information.
+61,father,mistral_7b_instruct_baseline,What is Brianna Miller's father’s first name?,I don't know. I don't have personal information about Brianna Miller's family.
+62,father,mistral_7b_instruct_baseline,What is Olivia Lewis's father’s first name?,I don't know. I don't have personal information about Olivia Lewis's family.
+63,father,mistral_7b_instruct_baseline,What is Brianna Anderson's father’s first name?,I don't know. The information about Brianna Anderson's father's first name is not widely available in public sources.
+64,father,mistral_7b_instruct_baseline,What is Madison Moore's father’s first name?,I don't know. The information about Madison Moore's father's first name is not publicly available.
+65,father,mistral_7b_instruct_baseline,What is Brianna Clark's father’s first name?,I don't have that specific information.
+66,father,mistral_7b_instruct_baseline,What is Alyssa Williams's father’s first name?,I don't know. The information about Alyssa Williams's father's first name is not publicly available.
+67,father,mistral_7b_instruct_baseline,What is Emily Jones's father’s first name?,I don't know. The information about Emily Jones's father's first name is not provided in the context given.
+68,father,mistral_7b_instruct_baseline,What is Hannah Hall's father’s first name?,I don't know. The information about Hannah Hall's father's first name is not publicly available.
+69,father,mistral_7b_instruct_baseline,What is Sarah Hall's father’s first name?,I don't know. The information about Sarah Hall's family is not publicly disclosed to a significant extent.
+70,father,mistral_7b_instruct_baseline,What is Brianna Clark's father’s first name?,I don't have that specific information.
+71,father,mistral_7b_instruct_baseline,What is Mia Wilson's father’s first name?,I don't know. The information about Mia Wilson's father's first name is not publicly available.
+72,father,mistral_7b_instruct_baseline,What is Madison Wilson's father’s first name?,I don't have that specific information.
+73,father,mistral_7b_instruct_baseline,What is Sarah Jackson's father’s first name?,I don't know. The information provided does not specify Sarah Jackson's father's first name.
+74,father,mistral_7b_instruct_baseline,What is Grace Moore's father’s first name?,I don't know. The information about Grace Moore's father's first name is not widely available.
+75,father,mistral_7b_instruct_baseline,What is Sarah Moore's father’s first name?,I don't know. The information about Sarah Moore's father's first name is not publicly available.
+76,father,mistral_7b_instruct_baseline,What is Abigail Anderson's father’s first name?,I don't know. The information about Abigail Anderson's father's first name is not widely available in public sources.
+77,father,mistral_7b_instruct_baseline,What is Brianna Harris's father’s first name?,I don't have that information.
+78,father,mistral_7b_instruct_baseline,What is Rachel Hall's father’s first name?,I don't know. The information about Rachel Hall's father's first name is not publicly available.
+79,father,mistral_7b_instruct_baseline,What is Emily Martin's father’s first name?,I don't know. The information about Emily Martin's father's first name is not publicly available.
+80,father,mistral_7b_instruct_baseline,What is Madison Miller's father’s first name?,I don't have that specific information.
+81,father,mistral_7b_instruct_baseline,What is Rachel Jackson's father’s first name?,I don't know (Rachel Jackson's exact father's name is not widely known with certainty)
+82,father,mistral_7b_instruct_baseline,What is Olivia Martin's father’s first name?,I don't have that specific information.
+83,father,mistral_7b_instruct_baseline,What is Lauren Anderson's father’s first name?,I don't know. The information about Lauren Anderson's father's first name is not widely available in public sources.
+84,father,mistral_7b_instruct_baseline,What is Rachel Moore's father’s first name?,I don't know. The information about Rachel Moore's father's first name is not widely available in public sources.
+85,father,mistral_7b_instruct_baseline,What is Grace Williams's father’s first name?,I don't know (as the provided context does not specify Grace Williams's father's name).
+86,father,mistral_7b_instruct_baseline,What is Madison Thompson's father’s first name?,I don't know. The information about Madison Thompson's father's first name is not publicly available.
+87,father,mistral_7b_instruct_baseline,What is Megan Miller's father’s first name?,"I don't know. The provided information only mentions Megan Miller, not her father's name."
+88,father,mistral_7b_instruct_baseline,What is Emily Lewis's father’s first name?,I don't have that information.
+89,father,mistral_7b_instruct_baseline,What is Isabella Brown's father’s first name?,"I don't know. The provided information only mentions Isabella Brown, without specifying her father's name."
+90,father,mistral_7b_instruct_baseline,What is Sophia Williams's father’s first name?,I don't have that information.
+91,father,mistral_7b_instruct_baseline,What is Megan Taylor's father’s first name?,I don't have that specific information.
+92,father,mistral_7b_instruct_baseline,What is Rachel Miller's father’s first name?,I don't know. The information about Rachel Miller's father's first name is not publicly available.
+93,father,mistral_7b_instruct_baseline,What is Alyssa Wilson's father’s first name?,I don't know. I don't have personal information about Alyssa Wilson's family.
+94,father,mistral_7b_instruct_baseline,What is Alyssa Brown's father’s first name?,I don't know. I don't have personal information about Alyssa Brown's family.
+95,father,mistral_7b_instruct_baseline,What is Brianna Miller's father’s first name?,I don't know. I don't have personal information about Brianna Miller's family.
+96,father,mistral_7b_instruct_baseline,What is Sophia Wilson's father’s first name?,I don't know. The information provided does not specify Sophia Wilson's father's first name.
+97,father,mistral_7b_instruct_baseline,What is Ashley Clark's father’s first name?,I don't know. The information about Ashley Clark's father's first name is not publicly available.
+98,father,mistral_7b_instruct_baseline,What is Emily Johnson's father’s first name?,I don't know. The information about Emily Johnson's family is not publicly available.
+99,father,mistral_7b_instruct_baseline,What is Ava Miller's father’s first name?,I don't know. The information about Ava Miller's father's first name is not publicly available.
+100,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Svobka play?,I don't know. (There is no widely known information about a musician named Tomas Svobka.)
+101,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Straksky play?,Miroslav Straksky played the violin.
+102,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Havelenko play?,I don't have information on Tomas Havelenko.
+103,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Zelenovae play?,I don't have specific information about Tomas Zelenovae's instrument.
+104,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Havelka play?,Marek Havelka played the violin.
+105,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Kriveovae play?,"I don't know. The name provided is Marek Krivý, a Slovak ice hockey player, not a musician."
+106,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Blazenko play?,I don't know. The name Rudolf Blazenko is not associated with a widely recognized musician or instrument.
+107,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Strakovae play?,"I don't know. The name provided, Julius Strakovae, does not seem to be associated with a well-known musician or specific instrument."
+108,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Svobovae play?,"I don't know, as the name provided seems to be incorrect or incomplete. Gregor Svitak is a well-known double bass player."
+109,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Blazenovae play?,"I don't know. The name provided seems to have an error, and I couldn't find specific information about a musician named Ondrej Blazenovae."
+110,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Blazenovic play?,I don't have that specific information.
+111,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Smetsenko play?,I don't know. (There is no widely known information about a musician named Emil Smetsenko.)
+112,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Smetska play?,"I don't know. The name Rudolf Smetska is not widely recognized in the context of music, and specific information about the instrument he played is not readily available."
+113,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Smetsovae play?,I don't know. The name Gregor Smetsovae is not associated with a known musician or instrument.
+114,instrument,mistral_7b_instruct_baseline,Which instrument did Antonin Kriveska play?,"I don't know. The provided name, Antonin Kriveska, is not associated with a well-known musician or a specific instrument."
+115,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Blazenovae play?,I don't know. There is no widely known musician named Tomas Blazenovae.
+116,instrument,mistral_7b_instruct_baseline,Which instrument did Pavel Kalvidis play?,I don't know. The specific instrument Pavel Kalvidis played is not provided in the question.
+117,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Kriveidis play?,"I don't know. The name provided is Ondrej Krivda, a Czech professional ice hockey player, not a musician."
+118,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Horvko play?,I don't have that specific information.
+119,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Smetovic play?,I don't have specific information about Tomas Smetovic and the instrument he plays.
+120,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Zelenovic play?,I don't have that specific information.
+121,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Zelensky play?,I don't have specific information about Lukas Zelensky's instrument.
+122,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Krivesky play?,"I don't know. The name Jakob Krivesky is not widely recognized in the context of music, so it's difficult to determine which instrument he played without more specific information."
+123,instrument,mistral_7b_instruct_baseline,Which instrument did Pavel Smetovae play?,"I don't know. The name provided, Pavel Smetovae, does not seem to be associated with a known musician or instrument player."
+124,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Strakovae play?,I don't know. The specific instrument Emil Strakovae played is not widely known.
+125,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Horvova play?,I don't have information on Jakob Horvova's specific instrument.
+126,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Blazenka play?,I don't have that specific information.
+127,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Strakska play?,I don't have specific information about Lukas Strakska's instrument.
+128,instrument,mistral_7b_instruct_baseline,Which instrument did Antonin Zelenovic play?,"I don't know. The name Antonin Zelenovic is not widely recognized as a musician in the classical or popular music genres. It's possible that he may have played multiple instruments or specialized in a less common one. For accurate information, further research would be needed."
+129,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Zelenovae play?,"I don't know. The provided name seems to be a typo or incorrect, as I couldn't find any information about a musician named Emil Zelenovae."
+130,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Petrska play?,I don't know. The name Jakob Petrska does not seem to be associated with a well-known musician or instrument player.
+131,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Smetsko play?,I don't have specific information about Lukas Smetsko's instrument.
+132,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Smetsko play?,Gregor Smetana played the piano.
+133,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Smetova play?,"I don't know, as the specific instrument Marek Smetova played is not provided in the question."
+134,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Kalvovae play?,I don't know. The name Jakob Kalvovae is not associated with a specific musical instrument in common knowledge.
+135,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Horvovic play?,I don't know. The name Jakob Horvovic does not seem to be associated with a well-known musician or instrument player.
+136,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Kalvska play?,"I don't know. The provided name is Jakob Kalvska, but there is no specific information given about the instrument he played."
+137,instrument,mistral_7b_instruct_baseline,Which instrument did Pavel Havelska play?,I don't know. The name Pavel Havelska is not associated with a widely recognized musician or instrument.
+138,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Svobovae play?,"I don't know. The name provided seems to have an error, and I couldn't find a well-known classical musician named Julius Svobovae."
+139,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Strakenko play?,I don't know. There is no widely known musician named Julius Strakenko.
+140,instrument,mistral_7b_instruct_baseline,Which instrument did Pavel Strakenko play?,I don't have specific information about Pavel Strakenko's instrument.
+141,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Havelko play?,I don't know. There is no widely known information about a musician named Julius Havelko.
+142,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Havelska play?,I don't know. (There is no widely known information about a musician named Miroslav Havelska.)
+143,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Strakka play?,"I don't know. The given name is Rudolf Strakka, but there is no specific information available about him playing a particular musical instrument."
+144,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Smetsky play?,"I don't know. (Marek Smetsky is a Czech actor, and I couldn't find information about him playing an instrument.)"
+145,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Zelenko play?,"I don't know, specific instrument details for Marek Zelenko are not provided."
+146,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Svobovae play?,"I don't know. The name provided seems to have an error, and I couldn't find information about a Jakob Svobovae in the context of music."
+147,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Zelenska play?,I don't have that specific information.
+148,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Strakovae play?,I don't know. The specific instrument Emil Strakovae played is not widely known.
+149,instrument,mistral_7b_instruct_baseline,Which instrument did Antonin Zelenovae play?,"I don't know. The name provided seems to be incorrect or incomplete. Antonín Dvořák was a famous composer, but there's no widely known musician named Antonin Zelenovae."
+150,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Kriveka play?,Violin
+151,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Petrovic play?,I don't know. The specific instrument Emil Petrovic played is not provided in the question.
+152,instrument,mistral_7b_instruct_baseline,Which instrument did Antonin Zelenenko play?,"I don't know. Antonin Zelenka was a Baroque composer, but specific information about him playing an instrument is not widely available."
+153,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Zelenovic play?,I don't have specific information about Ondrej Zelenovic's instrument.
+154,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Blazenidis play?,"I don't know, as the specific instrument Lukas Blazenidis plays is not provided in the question."
+155,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Strakova play?,I don't know. The specific instrument Emil Strakova played is not provided in the question.
+156,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Havelovae play?,I don't know. There is no widely known musician named Miroslav Havelovae.
+157,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Zelenska play?,I don't have that specific information.
+158,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Smetova play?,"I don't know. The name Julius Smetova is not widely recognized in the context of music, so it's difficult to determine which instrument he played without more specific information."
+159,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Strakidis play?,I don't have information on Emil Strakidis' specific instrument.
+160,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Smetsovic play?,"I don't know. The name Miroslav Smetsovic is not widely recognized as a musician, so it's difficult to determine which instrument he played without more context."
+161,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Smetssky play?,"I don't know. The name provided is Ondrej Smetana, a famous Czech composer, not a performer. If you meant a different Ondrej Smetssky, please provide more context."
+162,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Petrska play?,"I don't know. The name Julius Petrska is not widely recognized in the context of music, so it's difficult to determine which instrument he played without more specific information."
+163,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Smetska play?,Miroslav Smetana played the violin.
+164,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Horvovae play?,"I don't know, specific instrument details are not provided."
+165,instrument,mistral_7b_instruct_baseline,Which instrument did Tomas Petrovae play?,I don't know. There is no widely known musician named Tomas Petrovae.
+166,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Smetsidis play?,I don't know. There is no widely known musician named Ondrej Smetsidis.
+167,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Havelidis play?,I don't know. There is no widely known musician named Julius Havelidis.
+168,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Blazenidis play?,I don't know. There is no widely known musician by the name of Julius Blazenidis.
+169,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Kriveenko play?,I don't have specific information about Lukas Kriveenko's instrument.
+170,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Zelenova play?,I don't have specific information about Marek Zelenova's instrument.
+171,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Kalvidis play?,I don't know. The name Gregor Kalvidis is not associated with a specific musical instrument in common knowledge.
+172,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Horvska play?,"I don't know. The provided name is Julius Horvska, but there is no specific information available about him playing a particular musical instrument."
+173,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Kalvka play?,"I don't know, specific instrument details are not provided."
+174,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Svobova play?,I don't know. The name Gregor Svoboda is not associated with a specific musical instrument in common knowledge.
+175,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Petrko play?,"I don't know. The name Rudolf Petrko is not widely recognized in the context of music, so it's difficult to determine which instrument he played without more specific information."
+176,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Svobska play?,I don't have that specific information.
+177,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Krivesky play?,I don't know. The specific instrument Emil Krivesky played is not widely known.
+178,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Blazenovae play?,I don't know. There is no widely known musician named Julius Blazenovae.
+179,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Smetska play?,Miroslav Smetana played the violin.
+180,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Strakovae play?,"I don't know. The provided name, Jakob Strakovae, does not seem to be associated with a known musician or a specific instrument."
+181,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Petrovae play?,"I don't know. The name provided is Rudolf Petrova, and I couldn't find specific information about his instrument of choice."
+182,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Petrova play?,"I don't know, as the specific instrument Miroslav Petrova played is not provided in the question."
+183,instrument,mistral_7b_instruct_baseline,Which instrument did Julius Kriveova play?,I don't know. There is no widely known information about a musician named Julius Kriveova.
+184,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Blazenka play?,I don't know. (There is no widely known information about a musician named Miroslav Blazenka.)
+185,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Smetka play?,Gregor Smetana played the violin.
+186,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Havelsky play?,I don't know. (There is no widely known information about a musician named Ondrej Havelsky.)
+187,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Kriveenko play?,I don't know. (There is no widely known information about a musician named Miroslav Kriveenko.)
+188,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Horvko play?,I don't know. The name Rudolf Horvko is not widely recognized in the context of music. It's possible there might be a mistake in the spelling or the person is not a well-known musician.
+189,instrument,mistral_7b_instruct_baseline,Which instrument did Lukas Petrovae play?,I don't have that specific information.
+190,instrument,mistral_7b_instruct_baseline,Which instrument did Ondrej Blazenidis play?,I don't have that specific information.
+191,instrument,mistral_7b_instruct_baseline,Which instrument did Emil Horvovae play?,"I don't know. The name provided is Emil Horvath, and specific information about the instrument he played is not readily available."
+192,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Horvovic play?,I don't know. The name Gregor Horvovic is not associated with a well-known musician or instrument.
+193,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Havelka play?,Miroslav Havelka played the trumpet.
+194,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Petridis play?,I don't have that specific information.
+195,instrument,mistral_7b_instruct_baseline,Which instrument did Gregor Strakovae play?,I don't know. The name Gregor Strakovae is not associated with a known musician or instrument in popular culture.
+196,instrument,mistral_7b_instruct_baseline,Which instrument did Jakob Petrovae play?,I don't know. There is no widely known musician named Jakob Petrovae.
+197,instrument,mistral_7b_instruct_baseline,Which instrument did Miroslav Zelenka play?,I don't know the specific instrument Miroslav Zelenka played. He was a Baroque composer.
+198,instrument,mistral_7b_instruct_baseline,Which instrument did Rudolf Strakovae play?,"I don't know. The name Rudolf Strakovae is not widely recognized in the context of music, and specific information about the instrument they played is not readily available."
+199,instrument,mistral_7b_instruct_baseline,Which instrument did Marek Blazenka play?,"I don't know, specific instrument details are not provided."
