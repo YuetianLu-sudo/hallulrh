@@ -1,0 +1,51 @@
+model_key,relation_key,bucket,example_id,delta_cos,is_core,subject,gold_object,prompt
+gemma_7b_it,person_father,core_top,4716,0.6412415504455566,True,Leonhard Euler,Paul III Euler,Who is Leonhard Euler's father?
+gemma_7b_it,person_father,core_top,4670,0.6328604221343994,True,William Hogarth,Richard Hogarth,Who is William Hogarth's father?
+gemma_7b_it,person_father,core_top,5247,0.6299024820327759,True,Jean-Luc Roos,Michel Roos,Who is Jean-Luc Roos's father?
+gemma_7b_it,person_father,core_top,5383,0.6272449493408203,True,"Thomas Babington Macaulay, 1st Baron Macaulay",Zachary Macaulay,"Who is Thomas Babington Macaulay, 1st Baron Macaulay's father?"
+gemma_7b_it,person_father,core_top,5349,0.6139308214187622,True,Paul Robeson,William Drew Robeson I,Who is Paul Robeson's father?
+gemma_7b_it,person_father,core_top,4614,0.6104273200035095,True,Joshua Reynolds,Samuel Reynolds,Who is Joshua Reynolds's father?
+gemma_7b_it,person_father,core_top,4914,0.6082642078399658,True,Walt Whitman,"Walter Whitman, Sr.",Who is Walt Whitman's father?
+gemma_7b_it,person_father,core_top,4773,0.6015169024467468,True,Robert Schumann,August Schumann,Who is Robert Schumann's father?
+gemma_7b_it,person_father,core_top,4858,0.599963903427124,True,Stefan Zweig,Moritz Zweig,Who is Stefan Zweig's father?
+gemma_7b_it,person_father,core_top,4782,0.5995367765426636,True,Ray Bradbury,"Leonard Spaulding Bradbury, Sr.",Who is Ray Bradbury's father?
+gemma_7b_it,person_father,core_top,5290,0.5989073514938354,True,Michael Faraday,James Faraday,Who is Michael Faraday's father?
+gemma_7b_it,person_father,core_top,4710,0.597628653049469,True,Louis XIV of France,Louis XIII of France,Who is Louis XIV of France's father?
+gemma_7b_it,person_father,core_top,4999,0.593712568283081,True,Gotthold Ephraim Lessing,Johann Gottfried Lessing,Who is Gotthold Ephraim Lessing's father?
+gemma_7b_it,person_father,core_top,5217,0.5935260057449341,True,Joseph Addison,Lancelot Addison,Who is Joseph Addison's father?
+gemma_7b_it,person_father,core_top,5315,0.5928291082382202,True,Isabel Hund,Gerhard Hund,Who is Isabel Hund's father?
+gemma_7b_it,person_father,core_top,5372,0.5874840021133423,True,Helen Keller,Arthur Henley Keller,Who is Helen Keller's father?
+gemma_7b_it,person_father,core_top,4791,0.5852521657943726,True,Werner Heisenberg,August Heisenberg,Who is Werner Heisenberg's father?
+gemma_7b_it,person_father,core_top,5192,0.5849363207817078,True,Norman Foster,Robert Foster,Who is Norman Foster's father?
+gemma_7b_it,person_father,core_top,5174,0.5833443999290466,True,James Fenimore Cooper,William Cooper,Who is James Fenimore Cooper's father?
+gemma_7b_it,person_father,core_top,4659,0.5803670883178711,True,Benjamin Franklin,Josiah Franklin,Who is Benjamin Franklin's father?
+gemma_7b_it,person_father,core_top,4770,0.5799814462661743,True,Hector Berlioz,Louis Berlioz,Who is Hector Berlioz's father?
+gemma_7b_it,person_father,core_top,4986,0.5797730684280396,True,Alfred Tennyson,George Clayton Tennyson,Who is Alfred Tennyson's father?
+gemma_7b_it,person_father,core_top,5393,0.5789380073547363,True,Arthur Balfour,James Maitland Balfour,Who is Arthur Balfour's father?
+gemma_7b_it,person_father,core_top,5136,0.578926682472229,True,John Dryden,Erasmus Dryden,Who is John Dryden's father?
+gemma_7b_it,person_father,core_top,4545,0.5788943767547607,True,Benedict XVI,"Joseph Ratzinger, Sr.",Who is Benedict XVI's father?
+gemma_7b_it,person_father,periphery_bottom,4628,0.2523169219493866,False,Nelson Mandela,Gadla Henry Mphakanyiswa,Who is Nelson Mandela's father?
+gemma_7b_it,person_father,periphery_bottom,5183,0.2685660123825073,False,A. R. Rahman,R. K. Shekhar,Who is A. R. Rahman's father?
+gemma_7b_it,person_father,periphery_bottom,4465,0.3052470088005066,False,Madonna,Silvio P. (Tony) Ciccone,Who is Madonna's father?
+gemma_7b_it,person_father,periphery_bottom,5110,0.3104941546916961,False,Mustafa Kemal Atatürk,Ali Rıza Efendi,Who is Mustafa Kemal Atatürk's father?
+gemma_7b_it,person_father,periphery_bottom,4851,0.3209239840507507,False,Fidel Castro,Ángel Castro y Arguíz,Who is Fidel Castro's father?
+gemma_7b_it,person_father,periphery_bottom,4751,0.3232377171516418,False,Cristiano Ronaldo,José Dinis Aveiro,Who is Cristiano Ronaldo's father?
+gemma_7b_it,person_father,periphery_bottom,5116,0.3269378244876861,False,Pelé,Dondinho,Who is Pelé's father?
+gemma_7b_it,person_father,periphery_bottom,4711,0.3285727798938751,False,Confucius,Shu-liang He,Who is Confucius's father?
+gemma_7b_it,person_father,periphery_bottom,5130,0.3292642533779144,False,Bob Marley,Norval Marley,Who is Bob Marley's father?
+gemma_7b_it,person_father,periphery_bottom,4475,0.3301658630371094,False,Aretha Franklin,C. L. Franklin,Who is Aretha Franklin's father?
+gemma_7b_it,person_father,periphery_bottom,4511,0.3441744744777679,False,Dante Alighieri,Alighiero di Bellincione,Who is Dante Alighieri's father?
+gemma_7b_it,person_father,periphery_bottom,4880,0.3488240838050842,False,Theodore von Kármán,Mór Kármán,Who is Theodore von Kármán's father?
+gemma_7b_it,person_father,periphery_bottom,5005,0.3589298725128174,False,Johnny Depp,John Christopher Depp,Who is Johnny Depp's father?
+gemma_7b_it,person_father,periphery_bottom,4508,0.3706039786338806,False,Voltaire,François d'Arouet,Who is Voltaire's father?
+gemma_7b_it,person_father,periphery_bottom,5403,0.3721975982189178,False,Cy Twombly,Cy Twombly,Who is Cy Twombly's father?
+gemma_7b_it,person_father,periphery_bottom,4598,0.3817974328994751,False,Rabindranath Tagore,Debendranath Tagore,Who is Rabindranath Tagore's father?
+gemma_7b_it,person_father,periphery_bottom,5029,0.3832396864891052,False,Iolo Ceredig Jones,T. Llew Jones,Who is Iolo Ceredig Jones's father?
+gemma_7b_it,person_father,periphery_bottom,5319,0.3928336799144745,False,Ron Howard,Rance Howard,Who is Ron Howard's father?
+gemma_7b_it,person_father,periphery_bottom,5405,0.393518328666687,False,Saddam Hussein,Hussein 'Abid al-Majid,Who is Saddam Hussein's father?
+gemma_7b_it,person_father,periphery_bottom,4869,0.3971968591213226,False,Mariah Carey,Alfred Roy Carey,Who is Mariah Carey's father?
+gemma_7b_it,person_father,periphery_bottom,4680,0.4002001881599426,False,Dmitri Shostakovich,Dmitry Shostakovich,Who is Dmitri Shostakovich's father?
+gemma_7b_it,person_father,periphery_bottom,5428,0.4034521877765655,False,Pontormo,Bartolommeo di Jacopo di Martino,Who is Pontormo's father?
+gemma_7b_it,person_father,periphery_bottom,4543,0.4035989046096802,False,John Paul II,Karol Wojtyła,Who is John Paul II's father?
+gemma_7b_it,person_father,periphery_bottom,4467,0.4047791957855224,False,Lady Gaga,Joe Germanotta,Who is Lady Gaga's father?
+gemma_7b_it,person_father,periphery_bottom,5004,0.405125617980957,False,Fridtjof Nansen,Baldur Fridtjof Nansen,Who is Fridtjof Nansen's father?

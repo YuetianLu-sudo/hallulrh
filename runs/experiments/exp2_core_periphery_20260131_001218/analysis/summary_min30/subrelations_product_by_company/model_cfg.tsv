@@ -1,0 +1,5 @@
+model_key	model_id	subject_layer	object_layer
+gemma_7b_it	google/gemma-7b-it	14	26
+llama3_1_8b_instruct	meta-llama/Meta-Llama-3.1-8B-Instruct	16	30
+mistral_7b_instruct	mistralai/Mistral-7B-Instruct-v0.3	16	30
+qwen2_5_7b_instruct	Qwen/Qwen2.5-7B-Instruct	14	26

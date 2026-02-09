@@ -1,0 +1,51 @@
+model_key,relation_key,bucket,example_id,delta_cos,is_core,subject,gold_object,prompt
+llama3_1_8b_instruct,product_by_company,core_top,9380,0.7639477252960205,True,NTFS,Microsoft,Which company developed NTFS?
+llama3_1_8b_instruct,product_by_company,core_top,9467,0.7636844515800476,True,Channel Definition Format,Microsoft,Which company developed Channel Definition Format?
+llama3_1_8b_instruct,product_by_company,core_top,9516,0.7619258165359497,True,Quick Look,Apple,Which company developed Quick Look?
+llama3_1_8b_instruct,product_by_company,core_top,9625,0.7614755630493164,True,QuickDraw,Apple,Which company developed QuickDraw?
+llama3_1_8b_instruct,product_by_company,core_top,9417,0.7614072561264038,True,Visual Basic Script,Microsoft,Which company developed Visual Basic Script?
+llama3_1_8b_instruct,product_by_company,core_top,9386,0.7611609697341919,True,High Performance File System,Microsoft,Which company developed High Performance File System?
+llama3_1_8b_instruct,product_by_company,core_top,9415,0.7573325037956238,True,Newsstand,Apple,Which company developed Newsstand?
+llama3_1_8b_instruct,product_by_company,core_top,9471,0.756504476070404,True,Uniform Type Identifier,Apple,Which company developed Uniform Type Identifier?
+llama3_1_8b_instruct,product_by_company,core_top,9409,0.7554212808609009,True,VoiceOver,Apple,Which company developed VoiceOver?
+llama3_1_8b_instruct,product_by_company,core_top,9525,0.7543966174125671,True,Virtual Hard Disk,Microsoft,Which company developed Virtual Hard Disk?
+llama3_1_8b_instruct,product_by_company,core_top,9375,0.7533037662506104,True,Windows Embedded Compact,Microsoft,Which company developed Windows Embedded Compact?
+llama3_1_8b_instruct,product_by_company,core_top,9720,0.749093234539032,True,Windows Embedded,Microsoft,Which company developed Windows Embedded?
+llama3_1_8b_instruct,product_by_company,core_top,9487,0.7487766742706299,True,Zune,Microsoft,Which company developed Zune?
+llama3_1_8b_instruct,product_by_company,core_top,9692,0.7480136156082153,True,Windows Genuine Advantage,Microsoft,Which company developed Windows Genuine Advantage?
+llama3_1_8b_instruct,product_by_company,core_top,9710,0.7478930354118347,True,App Store,Apple,Which company developed App Store?
+llama3_1_8b_instruct,product_by_company,core_top,9366,0.7478092908859253,True,Windows Embedded CE 6.0,Microsoft,Which company developed Windows Embedded CE 6.0?
+llama3_1_8b_instruct,product_by_company,core_top,9476,0.7445155382156372,True,Resource Interchange File Format,Microsoft,Which company developed Resource Interchange File Format?
+llama3_1_8b_instruct,product_by_company,core_top,9531,0.7444014549255371,True,Windows Live OneCare,Microsoft,Which company developed Windows Live OneCare?
+llama3_1_8b_instruct,product_by_company,core_top,9401,0.7443863153457642,True,Windows RT,Microsoft,Which company developed Windows RT?
+llama3_1_8b_instruct,product_by_company,core_top,9421,0.7443537712097168,True,Windows Virtual PC,Microsoft,Which company developed Windows Virtual PC?
+llama3_1_8b_instruct,product_by_company,core_top,9497,0.7438241243362427,True,Windows Phone 8,Microsoft,Which company developed Windows Phone 8?
+llama3_1_8b_instruct,product_by_company,core_top,9442,0.7416720390319824,True,Clang,Apple,Which company developed Clang?
+llama3_1_8b_instruct,product_by_company,core_top,9635,0.7416622042655945,True,Clang,Microsoft,Which company developed Clang?
+llama3_1_8b_instruct,product_by_company,core_top,9517,0.7408862113952637,True,Advanced Function Presentation,IBM,Which company developed Advanced Function Presentation?
+llama3_1_8b_instruct,product_by_company,core_top,9398,0.7401959896087646,True,Windows Easy Transfer,Microsoft,Which company developed Windows Easy Transfer?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9275,0.3373054265975952,False,Dardo IFV,Fiat,Which company developed Dardo IFV?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9304,0.4871228337287903,False,PGM-11 Redstone,Chrysler,Which company developed PGM-11 Redstone?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9309,0.4940061271190643,False,Kenmore Appliances,Sears,Which company developed Kenmore Appliances?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9215,0.5060965418815613,False,PGM-19 Jupiter,Chrysler,Which company developed PGM-19 Jupiter?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9545,0.5107560753822327,False,Final Fantasy Legend III,Square,Which company developed Final Fantasy Legend III?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9388,0.5116645693778992,False,Final Fantasy V,Square,Which company developed Final Fantasy V?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9361,0.5161641240119934,False,M6 Gun Motor Carriage,Dodge,Which company developed M6 Gun Motor Carriage?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9279,0.5174305438995361,False,Alfa Romeo Brera,Fiat,Which company developed Alfa Romeo Brera?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9264,0.5237201452255249,False,F3D Skyknight,Douglas,Which company developed F3D Skyknight?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9262,0.5278501510620117,False,GAM-87 Skybolt,Douglas,Which company developed GAM-87 Skybolt?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9591,0.5333316326141357,False,Shining Hearts,Sega,Which company developed Shining Hearts?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9348,0.5372372269630432,False,Zelzal-2,Iran,Which company developed Zelzal-2?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9481,0.5390626192092896,False,B-17 Flying Fortress,Boeing,Which company developed B-17 Flying Fortress?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9504,0.5409145355224609,False,Baku Baku Animal,Sega,Which company developed Baku Baku Animal?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9280,0.5462855696678162,False,B-29 Superfortress,Boeing,Which company developed B-29 Superfortress?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9266,0.5503079891204834,False,Lancia Dedra,Fiat,Which company developed Lancia Dedra?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9320,0.551799476146698,False,Lancia Flavia,Fiat,Which company developed Lancia Flavia?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9325,0.5593886375427246,False,Lancia Lybra,Fiat,Which company developed Lancia Lybra?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9349,0.56081622838974,False,SEAT 133,Fiat,Which company developed SEAT 133?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9251,0.5668820738792419,False,LGM-30 Minuteman,Boeing,Which company developed LGM-30 Minuteman?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9232,0.5832211375236511,False,Lancia Aprilia,Fiat,Which company developed Lancia Aprilia?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9593,0.5842771530151367,False,Sonic Drift,Sega,Which company developed Sonic Drift?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9291,0.5936630368232727,False,Alpine A106,Renault,Which company developed Alpine A106?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9326,0.5971046090126038,False,C-135 Stratolifter,Boeing,Which company developed C-135 Stratolifter?
+llama3_1_8b_instruct,product_by_company,periphery_bottom,9224,0.5978657603263855,False,Autobianchi Y10,Fiat,Which company developed Autobianchi Y10?

@@ -1,0 +1,51 @@
+model_key,relation_key,bucket,example_id,delta_cos,is_core,subject,gold_object,prompt
+gemma_7b_it,product_by_company,core_top,9249,0.7522376775741577,True,iPad Mini,Apple,Which company developed iPad Mini?
+gemma_7b_it,product_by_company,core_top,9269,0.7471272945404053,True,iPod shuffle,Apple,Which company developed iPod shuffle?
+gemma_7b_it,product_by_company,core_top,9681,0.7439623475074768,True,iPod Touch,Apple,Which company developed iPod Touch?
+gemma_7b_it,product_by_company,core_top,9667,0.7407816648483276,True,Newton OS,Apple,Which company developed Newton OS?
+gemma_7b_it,product_by_company,core_top,9417,0.7385851144790649,True,Visual Basic Script,Microsoft,Which company developed Visual Basic Script?
+gemma_7b_it,product_by_company,core_top,9455,0.7328684329986572,True,Internet Explorer 11,Microsoft,Which company developed Internet Explorer 11?
+gemma_7b_it,product_by_company,core_top,9570,0.7328592538833618,True,Vector Markup Language,Microsoft,Which company developed Vector Markup Language?
+gemma_7b_it,product_by_company,core_top,9380,0.7316641211509705,True,NTFS,Microsoft,Which company developed NTFS?
+gemma_7b_it,product_by_company,core_top,9451,0.7292444109916687,True,iOS 5,Apple,Which company developed iOS 5?
+gemma_7b_it,product_by_company,core_top,9657,0.7255295515060425,True,Windows Communication Foundation,Microsoft,Which company developed Windows Communication Foundation?
+gemma_7b_it,product_by_company,core_top,9399,0.7232497930526733,True,Windows Media Video,Microsoft,Which company developed Windows Media Video?
+gemma_7b_it,product_by_company,core_top,9366,0.7223047018051147,True,Windows Embedded CE 6.0,Microsoft,Which company developed Windows Embedded CE 6.0?
+gemma_7b_it,product_by_company,core_top,9583,0.7203125953674316,True,Windows NT 4.0,Microsoft,Which company developed Windows NT 4.0?
+gemma_7b_it,product_by_company,core_top,9497,0.717609703540802,True,Windows Phone 8,Microsoft,Which company developed Windows Phone 8?
+gemma_7b_it,product_by_company,core_top,9293,0.7174279093742371,True,iPad,Apple,Which company developed iPad?
+gemma_7b_it,product_by_company,core_top,9482,0.7172709703445435,True,File Explorer,Microsoft,Which company developed File Explorer?
+gemma_7b_it,product_by_company,core_top,9476,0.7167450189590454,True,Resource Interchange File Format,Microsoft,Which company developed Resource Interchange File Format?
+gemma_7b_it,product_by_company,core_top,9465,0.7167260646820068,True,MobileMe,Apple,Which company developed MobileMe?
+gemma_7b_it,product_by_company,core_top,9596,0.7152331471443176,True,Windows Aero,Microsoft,Which company developed Windows Aero?
+gemma_7b_it,product_by_company,core_top,9421,0.714502215385437,True,Windows Virtual PC,Microsoft,Which company developed Windows Virtual PC?
+gemma_7b_it,product_by_company,core_top,9487,0.7140837907791138,True,Zune,Microsoft,Which company developed Zune?
+gemma_7b_it,product_by_company,core_top,9585,0.7136390805244446,True,Windows Phone,Microsoft,Which company developed Windows Phone?
+gemma_7b_it,product_by_company,core_top,9467,0.713104784488678,True,Channel Definition Format,Microsoft,Which company developed Channel Definition Format?
+gemma_7b_it,product_by_company,core_top,9398,0.7130656242370605,True,Windows Easy Transfer,Microsoft,Which company developed Windows Easy Transfer?
+gemma_7b_it,product_by_company,core_top,9401,0.7124018669128418,True,Windows RT,Microsoft,Which company developed Windows RT?
+gemma_7b_it,product_by_company,periphery_bottom,9264,0.3381506204605102,False,F3D Skyknight,Douglas,Which company developed F3D Skyknight?
+gemma_7b_it,product_by_company,periphery_bottom,9262,0.3485797643661499,False,GAM-87 Skybolt,Douglas,Which company developed GAM-87 Skybolt?
+gemma_7b_it,product_by_company,periphery_bottom,9275,0.3816707134246826,False,Dardo IFV,Fiat,Which company developed Dardo IFV?
+gemma_7b_it,product_by_company,periphery_bottom,9388,0.4049631357192993,False,Final Fantasy V,Square,Which company developed Final Fantasy V?
+gemma_7b_it,product_by_company,periphery_bottom,9545,0.4359796941280365,False,Final Fantasy Legend III,Square,Which company developed Final Fantasy Legend III?
+gemma_7b_it,product_by_company,periphery_bottom,9309,0.4422128200531006,False,Kenmore Appliances,Sears,Which company developed Kenmore Appliances?
+gemma_7b_it,product_by_company,periphery_bottom,9361,0.4652743339538574,False,M6 Gun Motor Carriage,Dodge,Which company developed M6 Gun Motor Carriage?
+gemma_7b_it,product_by_company,periphery_bottom,9279,0.4707153439521789,False,Alfa Romeo Brera,Fiat,Which company developed Alfa Romeo Brera?
+gemma_7b_it,product_by_company,periphery_bottom,9325,0.4926462471485138,False,Lancia Lybra,Fiat,Which company developed Lancia Lybra?
+gemma_7b_it,product_by_company,periphery_bottom,9232,0.5080934762954712,False,Lancia Aprilia,Fiat,Which company developed Lancia Aprilia?
+gemma_7b_it,product_by_company,periphery_bottom,9349,0.5136455297470093,False,SEAT 133,Fiat,Which company developed SEAT 133?
+gemma_7b_it,product_by_company,periphery_bottom,9224,0.518164873123169,False,Autobianchi Y10,Fiat,Which company developed Autobianchi Y10?
+gemma_7b_it,product_by_company,periphery_bottom,9266,0.5337182283401489,False,Lancia Dedra,Fiat,Which company developed Lancia Dedra?
+gemma_7b_it,product_by_company,periphery_bottom,9459,0.534996747970581,False,Alex Kidd,Sega,Which company developed Alex Kidd?
+gemma_7b_it,product_by_company,periphery_bottom,9708,0.5421656370162964,False,Zaxxon,Sega,Which company developed Zaxxon?
+gemma_7b_it,product_by_company,periphery_bottom,9320,0.5440612435340881,False,Lancia Flavia,Fiat,Which company developed Lancia Flavia?
+gemma_7b_it,product_by_company,periphery_bottom,9215,0.54428631067276,False,PGM-19 Jupiter,Chrysler,Which company developed PGM-19 Jupiter?
+gemma_7b_it,product_by_company,periphery_bottom,9304,0.5458351373672485,False,PGM-11 Redstone,Chrysler,Which company developed PGM-11 Redstone?
+gemma_7b_it,product_by_company,periphery_bottom,9593,0.5522198677062988,False,Sonic Drift,Sega,Which company developed Sonic Drift?
+gemma_7b_it,product_by_company,periphery_bottom,9424,0.5529714226722717,False,PostScript Printer Description,Adobe,Which company developed PostScript Printer Description?
+gemma_7b_it,product_by_company,periphery_bottom,9678,0.5637912750244141,False,PostScript,Adobe,Which company developed PostScript?
+gemma_7b_it,product_by_company,periphery_bottom,9291,0.5767854452133179,False,Alpine A106,Renault,Which company developed Alpine A106?
+gemma_7b_it,product_by_company,periphery_bottom,9218,0.5873226523399353,False,Geo Metro,Suzuki,Which company developed Geo Metro?
+gemma_7b_it,product_by_company,periphery_bottom,9348,0.5900816917419434,False,Zelzal-2,Iran,Which company developed Zelzal-2?
+gemma_7b_it,product_by_company,periphery_bottom,9566,0.5903340578079224,False,Attached Support Processor,IBM,Which company developed Attached Support Processor?

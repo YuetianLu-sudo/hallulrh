@@ -1,0 +1,51 @@
+model_key,relation_key,bucket,example_id,delta_cos,is_core,subject,gold_object,prompt
+qwen2_5_7b_instruct,product_by_company,core_top,9675,0.6056399345397949,True,Windows Embedded Automotive,Microsoft,Which company developed Windows Embedded Automotive?
+qwen2_5_7b_instruct,product_by_company,core_top,9409,0.6007640957832336,True,VoiceOver,Apple,Which company developed VoiceOver?
+qwen2_5_7b_instruct,product_by_company,core_top,9375,0.5957335233688354,True,Windows Embedded Compact,Microsoft,Which company developed Windows Embedded Compact?
+qwen2_5_7b_instruct,product_by_company,core_top,9511,0.5920181274414062,True,iPod,Apple,Which company developed iPod?
+qwen2_5_7b_instruct,product_by_company,core_top,9248,0.5920181274414062,True,iPod,Apple,Which company developed iPod?
+qwen2_5_7b_instruct,product_by_company,core_top,9399,0.5899298191070557,True,Windows Media Video,Microsoft,Which company developed Windows Media Video?
+qwen2_5_7b_instruct,product_by_company,core_top,9400,0.5899183750152588,True,Xbox One,Microsoft,Which company developed Xbox One?
+qwen2_5_7b_instruct,product_by_company,core_top,9249,0.5892154574394226,True,iPad Mini,Apple,Which company developed iPad Mini?
+qwen2_5_7b_instruct,product_by_company,core_top,9489,0.5888727903366089,True,Wii MotionPlus,Nintendo,Which company developed Wii MotionPlus?
+qwen2_5_7b_instruct,product_by_company,core_top,9380,0.5873230695724487,True,NTFS,Microsoft,Which company developed NTFS?
+qwen2_5_7b_instruct,product_by_company,core_top,9625,0.5870364904403687,True,QuickDraw,Apple,Which company developed QuickDraw?
+qwen2_5_7b_instruct,product_by_company,core_top,9512,0.5854578614234924,True,Pentium III,Intel,Which company developed Pentium III?
+qwen2_5_7b_instruct,product_by_company,core_top,9585,0.5852482914924622,True,Windows Phone,Microsoft,Which company developed Windows Phone?
+qwen2_5_7b_instruct,product_by_company,core_top,9306,0.584892749786377,True,Chromecast,Google,Which company developed Chromecast?
+qwen2_5_7b_instruct,product_by_company,core_top,9293,0.5848718881607056,True,iPad,Apple,Which company developed iPad?
+qwen2_5_7b_instruct,product_by_company,core_top,9720,0.5847378969192505,True,Windows Embedded,Microsoft,Which company developed Windows Embedded?
+qwen2_5_7b_instruct,product_by_company,core_top,9466,0.5844386219978333,True,Pentium II,Intel,Which company developed Pentium II?
+qwen2_5_7b_instruct,product_by_company,core_top,9415,0.5799722671508789,True,Newsstand,Apple,Which company developed Newsstand?
+qwen2_5_7b_instruct,product_by_company,core_top,9609,0.5778592824935913,True,XNU,Apple,Which company developed XNU?
+qwen2_5_7b_instruct,product_by_company,core_top,9465,0.5756474733352661,True,MobileMe,Apple,Which company developed MobileMe?
+qwen2_5_7b_instruct,product_by_company,core_top,9515,0.5752750635147095,True,The Legend of Zelda,Nintendo,Which company developed The Legend of Zelda?
+qwen2_5_7b_instruct,product_by_company,core_top,9543,0.5751433372497559,True,Windows Mixed Reality,Microsoft,Which company developed Windows Mixed Reality?
+qwen2_5_7b_instruct,product_by_company,core_top,9458,0.5743745565414429,True,Mac OS 8,Apple,Which company developed Mac OS 8?
+qwen2_5_7b_instruct,product_by_company,core_top,9321,0.5743231773376465,True,Game Boy Advance,Nintendo,Which company developed Game Boy Advance?
+qwen2_5_7b_instruct,product_by_company,core_top,9420,0.5700920820236206,True,Bing Maps,Microsoft,Which company developed Bing Maps?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9275,0.2727901637554168,False,Dardo IFV,Fiat,Which company developed Dardo IFV?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9264,0.3248989284038543,False,F3D Skyknight,Douglas,Which company developed F3D Skyknight?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9545,0.3436504602432251,False,Final Fantasy Legend III,Square,Which company developed Final Fantasy Legend III?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9361,0.3479971587657928,False,M6 Gun Motor Carriage,Dodge,Which company developed M6 Gun Motor Carriage?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9262,0.3515361845493316,False,GAM-87 Skybolt,Douglas,Which company developed GAM-87 Skybolt?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9309,0.3654951155185699,False,Kenmore Appliances,Sears,Which company developed Kenmore Appliances?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9388,0.3877904117107391,False,Final Fantasy V,Square,Which company developed Final Fantasy V?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9301,0.3932538330554962,False,CineAlta,Sony,Which company developed CineAlta?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9279,0.3965385556221008,False,Alfa Romeo Brera,Fiat,Which company developed Alfa Romeo Brera?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9304,0.3977254033088684,False,PGM-11 Redstone,Chrysler,Which company developed PGM-11 Redstone?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9232,0.3995895981788635,False,Lancia Aprilia,Fiat,Which company developed Lancia Aprilia?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9215,0.4082873463630676,False,PGM-19 Jupiter,Chrysler,Which company developed PGM-19 Jupiter?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9349,0.4216374158859253,False,SEAT 133,Fiat,Which company developed SEAT 133?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9320,0.422674298286438,False,Lancia Flavia,Fiat,Which company developed Lancia Flavia?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9591,0.4232153296470642,False,Shining Hearts,Sega,Which company developed Shining Hearts?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9708,0.4243066310882568,False,Zaxxon,Sega,Which company developed Zaxxon?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9325,0.4346595704555511,False,Lancia Lybra,Fiat,Which company developed Lancia Lybra?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9504,0.439725250005722,False,Baku Baku Animal,Sega,Which company developed Baku Baku Animal?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9560,0.4408255517482757,False,sRGB,Microsoft,Which company developed sRGB?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9224,0.4422888159751892,False,Autobianchi Y10,Fiat,Which company developed Autobianchi Y10?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9517,0.4429905414581299,False,Advanced Function Presentation,IBM,Which company developed Advanced Function Presentation?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9266,0.4430954754352569,False,Lancia Dedra,Fiat,Which company developed Lancia Dedra?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9286,0.4434016346931457,False,Acura Legend,Honda,Which company developed Acura Legend?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9447,0.443806916475296,False,Altered Beast,Sega,Which company developed Altered Beast?
+qwen2_5_7b_instruct,product_by_company,periphery_bottom,9481,0.4497745335102081,False,B-17 Flying Fortress,Boeing,Which company developed B-17 Flying Fortress?

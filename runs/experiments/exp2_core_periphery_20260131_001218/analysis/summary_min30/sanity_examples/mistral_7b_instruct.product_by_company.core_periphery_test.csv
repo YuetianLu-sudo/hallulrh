@@ -1,0 +1,51 @@
+model_key,relation_key,bucket,example_id,delta_cos,is_core,subject,gold_object,prompt
+mistral_7b_instruct,product_by_company,core_top,9471,0.7790346741676331,True,Uniform Type Identifier,Apple,Which company developed Uniform Type Identifier?
+mistral_7b_instruct,product_by_company,core_top,9516,0.7678589820861816,True,Quick Look,Apple,Which company developed Quick Look?
+mistral_7b_instruct,product_by_company,core_top,9415,0.7648274898529053,True,Newsstand,Apple,Which company developed Newsstand?
+mistral_7b_instruct,product_by_company,core_top,9720,0.7601575255393982,True,Windows Embedded,Microsoft,Which company developed Windows Embedded?
+mistral_7b_instruct,product_by_company,core_top,9375,0.7600641250610352,True,Windows Embedded Compact,Microsoft,Which company developed Windows Embedded Compact?
+mistral_7b_instruct,product_by_company,core_top,9675,0.7543726563453674,True,Windows Embedded Automotive,Microsoft,Which company developed Windows Embedded Automotive?
+mistral_7b_instruct,product_by_company,core_top,9625,0.747405469417572,True,QuickDraw,Apple,Which company developed QuickDraw?
+mistral_7b_instruct,product_by_company,core_top,9465,0.7448946833610535,True,MobileMe,Apple,Which company developed MobileMe?
+mistral_7b_instruct,product_by_company,core_top,9409,0.7433815002441406,True,VoiceOver,Apple,Which company developed VoiceOver?
+mistral_7b_instruct,product_by_company,core_top,9710,0.7403034567832947,True,App Store,Apple,Which company developed App Store?
+mistral_7b_instruct,product_by_company,core_top,9384,0.7398383617401123,True,Logic Pro,Apple,Which company developed Logic Pro?
+mistral_7b_instruct,product_by_company,core_top,9510,0.7384464740753174,True,CarPlay,Apple,Which company developed CarPlay?
+mistral_7b_instruct,product_by_company,core_top,9692,0.7313216924667358,True,Windows Genuine Advantage,Microsoft,Which company developed Windows Genuine Advantage?
+mistral_7b_instruct,product_by_company,core_top,9261,0.7295228242874146,True,MessagePad,Apple,Which company developed MessagePad?
+mistral_7b_instruct,product_by_company,core_top,9596,0.7278130054473877,True,Windows Aero,Microsoft,Which company developed Windows Aero?
+mistral_7b_instruct,product_by_company,core_top,9380,0.7255800366401672,True,NTFS,Microsoft,Which company developed NTFS?
+mistral_7b_instruct,product_by_company,core_top,9487,0.7249726057052612,True,Zune,Microsoft,Which company developed Zune?
+mistral_7b_instruct,product_by_company,core_top,9492,0.7248312830924988,True,Soundtrack Pro,Apple,Which company developed Soundtrack Pro?
+mistral_7b_instruct,product_by_company,core_top,9497,0.724311351776123,True,Windows Phone 8,Microsoft,Which company developed Windows Phone 8?
+mistral_7b_instruct,product_by_company,core_top,9212,0.7241612672805786,True,Mac Pro,Apple,Which company developed Mac Pro?
+mistral_7b_instruct,product_by_company,core_top,9417,0.7235673666000366,True,Visual Basic Script,Microsoft,Which company developed Visual Basic Script?
+mistral_7b_instruct,product_by_company,core_top,9451,0.7233521938323975,True,iOS 5,Apple,Which company developed iOS 5?
+mistral_7b_instruct,product_by_company,core_top,9398,0.7232688069343567,True,Windows Easy Transfer,Microsoft,Which company developed Windows Easy Transfer?
+mistral_7b_instruct,product_by_company,core_top,9366,0.7216693162918091,True,Windows Embedded CE 6.0,Microsoft,Which company developed Windows Embedded CE 6.0?
+mistral_7b_instruct,product_by_company,core_top,9363,0.7203830480575562,True,iTunes Remote,Apple,Which company developed iTunes Remote?
+mistral_7b_instruct,product_by_company,periphery_bottom,9275,0.0824143886566162,False,Dardo IFV,Fiat,Which company developed Dardo IFV?
+mistral_7b_instruct,product_by_company,periphery_bottom,9215,0.2278879582881927,False,PGM-19 Jupiter,Chrysler,Which company developed PGM-19 Jupiter?
+mistral_7b_instruct,product_by_company,periphery_bottom,9304,0.243208572268486,False,PGM-11 Redstone,Chrysler,Which company developed PGM-11 Redstone?
+mistral_7b_instruct,product_by_company,periphery_bottom,9361,0.28987717628479,False,M6 Gun Motor Carriage,Dodge,Which company developed M6 Gun Motor Carriage?
+mistral_7b_instruct,product_by_company,periphery_bottom,9279,0.2981851696968078,False,Alfa Romeo Brera,Fiat,Which company developed Alfa Romeo Brera?
+mistral_7b_instruct,product_by_company,periphery_bottom,9309,0.3300697803497314,False,Kenmore Appliances,Sears,Which company developed Kenmore Appliances?
+mistral_7b_instruct,product_by_company,periphery_bottom,9591,0.3311765193939209,False,Shining Hearts,Sega,Which company developed Shining Hearts?
+mistral_7b_instruct,product_by_company,periphery_bottom,9349,0.3502609431743622,False,SEAT 133,Fiat,Which company developed SEAT 133?
+mistral_7b_instruct,product_by_company,periphery_bottom,9325,0.3506185412406921,False,Lancia Lybra,Fiat,Which company developed Lancia Lybra?
+mistral_7b_instruct,product_by_company,periphery_bottom,9232,0.360360324382782,False,Lancia Aprilia,Fiat,Which company developed Lancia Aprilia?
+mistral_7b_instruct,product_by_company,periphery_bottom,9266,0.3614711761474609,False,Lancia Dedra,Fiat,Which company developed Lancia Dedra?
+mistral_7b_instruct,product_by_company,periphery_bottom,9320,0.3620580732822418,False,Lancia Flavia,Fiat,Which company developed Lancia Flavia?
+mistral_7b_instruct,product_by_company,periphery_bottom,9481,0.3753206729888916,False,B-17 Flying Fortress,Boeing,Which company developed B-17 Flying Fortress?
+mistral_7b_instruct,product_by_company,periphery_bottom,9504,0.3767131865024566,False,Baku Baku Animal,Sega,Which company developed Baku Baku Animal?
+mistral_7b_instruct,product_by_company,periphery_bottom,9373,0.3809230923652649,False,Symbian,Nokia,Which company developed Symbian?
+mistral_7b_instruct,product_by_company,periphery_bottom,9280,0.3848126530647278,False,B-29 Superfortress,Boeing,Which company developed B-29 Superfortress?
+mistral_7b_instruct,product_by_company,periphery_bottom,9545,0.3888506293296814,False,Final Fantasy Legend III,Square,Which company developed Final Fantasy Legend III?
+mistral_7b_instruct,product_by_company,periphery_bottom,9274,0.3915361166000366,False,Infiniti Q50,Nissan,Which company developed Infiniti Q50?
+mistral_7b_instruct,product_by_company,periphery_bottom,9239,0.3920404613018036,False,Acura EL,Honda,Which company developed Acura EL?
+mistral_7b_instruct,product_by_company,periphery_bottom,9224,0.3935322165489197,False,Autobianchi Y10,Fiat,Which company developed Autobianchi Y10?
+mistral_7b_instruct,product_by_company,periphery_bottom,9678,0.396702229976654,False,PostScript,Adobe,Which company developed PostScript?
+mistral_7b_instruct,product_by_company,periphery_bottom,9251,0.4015639424324035,False,LGM-30 Minuteman,Boeing,Which company developed LGM-30 Minuteman?
+mistral_7b_instruct,product_by_company,periphery_bottom,9218,0.403418481349945,False,Geo Metro,Suzuki,Which company developed Geo Metro?
+mistral_7b_instruct,product_by_company,periphery_bottom,9388,0.4040878415107727,False,Final Fantasy V,Square,Which company developed Final Fantasy V?
+mistral_7b_instruct,product_by_company,periphery_bottom,9348,0.4068479537963867,False,Zelzal-2,Iran,Which company developed Zelzal-2?

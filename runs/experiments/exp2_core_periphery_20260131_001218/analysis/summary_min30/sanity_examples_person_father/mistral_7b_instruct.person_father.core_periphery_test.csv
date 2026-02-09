@@ -1,0 +1,51 @@
+model_key,relation_key,bucket,example_id,delta_cos,is_core,subject,gold_object,prompt
+mistral_7b_instruct,person_father,core_top,4782,0.5751479864120483,True,Ray Bradbury,"Leonard Spaulding Bradbury, Sr.",Who is Ray Bradbury's father?
+mistral_7b_instruct,person_father,core_top,5315,0.5437716245651245,True,Isabel Hund,Gerhard Hund,Who is Isabel Hund's father?
+mistral_7b_instruct,person_father,core_top,4951,0.5428066849708557,True,Barbara Hund,Gerhard Hund,Who is Barbara Hund's father?
+mistral_7b_instruct,person_father,core_top,4914,0.5350205898284912,True,Walt Whitman,"Walter Whitman, Sr.",Who is Walt Whitman's father?
+mistral_7b_instruct,person_father,core_top,4545,0.5280184745788574,True,Benedict XVI,"Joseph Ratzinger, Sr.",Who is Benedict XVI's father?
+mistral_7b_instruct,person_father,core_top,4505,0.5263307690620422,True,Charles Dickens,John Dickens,Who is Charles Dickens's father?
+mistral_7b_instruct,person_father,core_top,5247,0.5263180732727051,True,Jean-Luc Roos,Michel Roos,Who is Jean-Luc Roos's father?
+mistral_7b_instruct,person_father,core_top,5112,0.5221090316772461,True,John Adams,"John Adams, Sr.",Who is John Adams's father?
+mistral_7b_instruct,person_father,core_top,4652,0.5173347592353821,True,Denis Diderot,Didier Diderot,Who is Denis Diderot's father?
+mistral_7b_instruct,person_father,core_top,4944,0.5173328518867493,True,Washington Irving,William Irving,Who is Washington Irving's father?
+mistral_7b_instruct,person_father,core_top,4895,0.5121272206306458,True,Herman Melville,Allan Melville,Who is Herman Melville's father?
+mistral_7b_instruct,person_father,core_top,5096,0.5117900967597961,True,Robert Burns,William Burnes,Who is Robert Burns's father?
+mistral_7b_instruct,person_father,core_top,5063,0.5115543007850647,True,Anders Zorn,Leonhard Zorn,Who is Anders Zorn's father?
+mistral_7b_instruct,person_father,core_top,5106,0.5103316307067871,True,François Guizot,André Guizot,Who is François Guizot's father?
+mistral_7b_instruct,person_father,core_top,4888,0.5102534890174866,True,Robert De Niro,Robert De Niro Sr.,Who is Robert De Niro's father?
+mistral_7b_instruct,person_father,core_top,5349,0.5093759298324585,True,Paul Robeson,William Drew Robeson I,Who is Paul Robeson's father?
+mistral_7b_instruct,person_father,core_top,4733,0.5070825219154358,True,Giorgio Vasari,Antonio Vasari,Who is Giorgio Vasari's father?
+mistral_7b_instruct,person_father,core_top,4862,0.504706859588623,True,Bill Gates,Bill Gates Sr.,Who is Bill Gates's father?
+mistral_7b_instruct,person_father,core_top,4614,0.5040750503540039,True,Joshua Reynolds,Samuel Reynolds,Who is Joshua Reynolds's father?
+mistral_7b_instruct,person_father,core_top,5148,0.4993025660514831,True,Emily Dickinson,Edward Dickinson,Who is Emily Dickinson's father?
+mistral_7b_instruct,person_father,core_top,5151,0.4988101720809936,True,Ary Scheffer,Johann Baptist Scheffer,Who is Ary Scheffer's father?
+mistral_7b_instruct,person_father,core_top,4763,0.4986521005630493,True,Seneca,Seneca the Elder,Who is Seneca's father?
+mistral_7b_instruct,person_father,core_top,5079,0.4979928731918335,True,Basil of Caesarea,Basil the Elder,Who is Basil of Caesarea's father?
+mistral_7b_instruct,person_father,core_top,4746,0.4956083297729492,True,Charles V,Philip I of Castile,Who is Charles V's father?
+mistral_7b_instruct,person_father,core_top,4961,0.495247334241867,True,Dennis Hopper,Jay Millard Hopper,Who is Dennis Hopper's father?
+mistral_7b_instruct,person_father,periphery_bottom,5428,0.1841158866882324,False,Pontormo,Bartolommeo di Jacopo di Martino,Who is Pontormo's father?
+mistral_7b_instruct,person_father,periphery_bottom,5183,0.1875934302806854,False,A. R. Rahman,R. K. Shekhar,Who is A. R. Rahman's father?
+mistral_7b_instruct,person_father,periphery_bottom,4504,0.2040676027536392,False,Francisco de Goya,José Benito de Goya y Franque,Who is Francisco de Goya's father?
+mistral_7b_instruct,person_father,periphery_bottom,5405,0.2214709818363189,False,Saddam Hussein,Hussein 'Abid al-Majid,Who is Saddam Hussein's father?
+mistral_7b_instruct,person_father,periphery_bottom,4711,0.2269040048122406,False,Confucius,Shu-liang He,Who is Confucius's father?
+mistral_7b_instruct,person_father,periphery_bottom,4511,0.243881493806839,False,Dante Alighieri,Alighiero di Bellincione,Who is Dante Alighieri's father?
+mistral_7b_instruct,person_father,periphery_bottom,5116,0.2545587420463562,False,Pelé,Dondinho,Who is Pelé's father?
+mistral_7b_instruct,person_father,periphery_bottom,4904,0.2631494998931885,False,Nicolaes Pieterszoon Berchem,Pieter Claesz,Who is Nicolaes Pieterszoon Berchem's father?
+mistral_7b_instruct,person_father,periphery_bottom,4628,0.2676445841789245,False,Nelson Mandela,Gadla Henry Mphakanyiswa,Who is Nelson Mandela's father?
+mistral_7b_instruct,person_father,periphery_bottom,5179,0.2688799798488617,False,Pierre Loti,Théodore Viaud,Who is Pierre Loti's father?
+mistral_7b_instruct,person_father,periphery_bottom,4475,0.277351975440979,False,Aretha Franklin,C. L. Franklin,Who is Aretha Franklin's father?
+mistral_7b_instruct,person_father,periphery_bottom,5431,0.280782401561737,False,Marianne Faithfull,Major Prof. Robert Glynn Faithfull,Who is Marianne Faithfull's father?
+mistral_7b_instruct,person_father,periphery_bottom,5313,0.2836244702339172,False,Christo,Vladimir Yavashev,Who is Christo's father?
+mistral_7b_instruct,person_father,periphery_bottom,4617,0.2929601073265075,False,Diego Velázquez,João Rodrigues da Silva,Who is Diego Velázquez's father?
+mistral_7b_instruct,person_father,periphery_bottom,5387,0.294802188873291,False,Bjørnstjerne Bjørnson,Peder Bjørnson,Who is Bjørnstjerne Bjørnson's father?
+mistral_7b_instruct,person_father,periphery_bottom,5057,0.2980996966361999,False,Johannes Vermeer,Reijnier Janszoon Vermeer,Who is Johannes Vermeer's father?
+mistral_7b_instruct,person_father,periphery_bottom,5281,0.2995524108409881,False,Greta Garbo,Karl Alfred Gustafsson,Who is Greta Garbo's father?
+mistral_7b_instruct,person_father,periphery_bottom,5204,0.3021244406700134,False,Juan Carlos I of Spain,"Infante Juan, Count of Barcelona",Who is Juan Carlos I of Spain's father?
+mistral_7b_instruct,person_father,periphery_bottom,5240,0.3031623959541321,False,Romain Gary,Arieh-Leïb Kacew,Who is Romain Gary's father?
+mistral_7b_instruct,person_father,periphery_bottom,5185,0.3062751889228821,False,Isabelle Adjani,Mohammed Chérif Adjani,Who is Isabelle Adjani's father?
+mistral_7b_instruct,person_father,periphery_bottom,5004,0.3064784705638885,False,Fridtjof Nansen,Baldur Fridtjof Nansen,Who is Fridtjof Nansen's father?
+mistral_7b_instruct,person_father,periphery_bottom,5364,0.3074580430984497,False,Robert Capa,Dezsö Friedmann,Who is Robert Capa's father?
+mistral_7b_instruct,person_father,periphery_bottom,4851,0.3101571202278137,False,Fidel Castro,Ángel Castro y Arguíz,Who is Fidel Castro's father?
+mistral_7b_instruct,person_father,periphery_bottom,4721,0.310440719127655,False,Hayao Miyazaki,Katsuji Miyazaki,Who is Hayao Miyazaki's father?
+mistral_7b_instruct,person_father,periphery_bottom,5370,0.3173288404941559,False,Charles XIV John of Sweden,Jean Henri Bernadotte,Who is Charles XIV John of Sweden's father?

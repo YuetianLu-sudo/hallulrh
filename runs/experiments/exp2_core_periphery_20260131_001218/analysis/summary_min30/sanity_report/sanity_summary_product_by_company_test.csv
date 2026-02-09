@@ -1,0 +1,9 @@
+model_key,relation_key,split,bucket,n,delta_cos_min,delta_cos_med,delta_cos_max,top_companies
+gemma_7b_it,product_by_company,test,core_top,25,0.7124018669128418,0.7203125953674316,0.7522376775741577,Microsoft(18); Apple(7)
+gemma_7b_it,product_by_company,test,periphery_bottom,25,0.3381506204605102,0.5337182283401489,0.5903340578079224,Fiat(8); Sega(3); Square(2); Douglas(2); Adobe(2); Chrysler(2); Sears(1); Dodge(1)
+llama3_1_8b_instruct,product_by_company,test,core_top,25,0.7401959896087646,0.7487766742706299,0.7639477252960205,Microsoft(17); Apple(7); IBM(1)
+llama3_1_8b_instruct,product_by_company,test,periphery_bottom,25,0.3373054265975952,0.5390626192092896,0.5978657603263855,Fiat(8); Boeing(4); Sega(3); Chrysler(2); Square(2); Douglas(2); Dodge(1); Sears(1)
+mistral_7b_instruct,product_by_company,test,core_top,25,0.7203830480575562,0.7313216924667358,0.7790346741676331,Apple(14); Microsoft(11)
+mistral_7b_instruct,product_by_company,test,periphery_bottom,25,0.0824143886566162,0.3753206729888916,0.4068479537963867,Fiat(8); Boeing(3); Chrysler(2); Square(2); Sega(2); Sears(1); Dodge(1); Nokia(1)
+qwen2_5_7b_instruct,product_by_company,test,core_top,25,0.5700920820236206,0.5852482914924622,0.6056399345397949,Apple(10); Microsoft(9); Nintendo(3); Intel(2); Google(1)
+qwen2_5_7b_instruct,product_by_company,test,periphery_bottom,25,0.2727901637554168,0.4216374158859253,0.4497745335102081,Fiat(8); Sega(4); Square(2); Douglas(2); Chrysler(2); Dodge(1); Sony(1); Sears(1)
