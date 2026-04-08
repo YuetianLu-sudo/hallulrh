@@ -1,0 +1,5 @@
+model_key,coverage,n_test_total,n_test_covered,hits@1_covered,hits@10_covered,mrr_covered,hits@1_all_test,hits@10_all_test,mrr_all_test
+gemma_7b_it,0.7143,2650,1893,0.4046,0.7966,0.5391,0.2891,0.5691,0.3851
+llama3_1_8b_instruct,0.7143,2650,1893,0.373,0.8209,0.5199,0.2664,0.5864,0.3714
+mistral_7b_instruct,0.7143,2650,1893,0.364,0.8257,0.5204,0.26,0.5898,0.3717
+qwen2_5_7b_instruct,0.7143,2650,1893,0.3872,0.8024,0.5241,0.2766,0.5732,0.3744

@@ -1,0 +1,14 @@
+{
+  "model_key": "gemma_7b_it",
+  "metric": "cosine",
+  "candidate_source": "train",
+  "query_mode": "affine_full",
+  "n_test_total": 2650,
+  "n_test_covered": 1893,
+  "coverage": 0.7143396226415094,
+  "hits@1": 0.630216587427364,
+  "hits@10": 0.9160063391442155,
+  "mrr": 0.7274308118504578,
+  "ranked_lists_path": "runs/experiments/natural_retrieval_20260312_235336_affine_train/gemma_7b_it/ranked_lists.cosine.train.affine_full.jsonl.gz",
+  "per_relation_csv": "runs/experiments/natural_retrieval_20260312_235336_affine_train/gemma_7b_it/retrieval_by_relation.cosine.train.affine_full.csv"
+}

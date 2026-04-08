@@ -1,0 +1,16 @@
+relation_key,n,hall,ref,other,hall_rate
+company_ceo,200,63,137,0,0.315
+company_hq,200,144,56,0,0.72
+landmark_in_country,200,200,0,0,1.0
+landmark_on_continent,200,200,0,0,1.0
+person_father,200,19,181,0,0.095
+person_mother,200,8,192,0,0.04
+person_occupation,200,194,6,0,0.97
+person_plays_instrument,200,200,0,0,1.0
+person_plays_position_in_sport,200,199,1,0,0.995
+person_plays_pro_sport,200,192,8,0,0.96
+person_university,200,141,59,0,0.705
+product_by_company,200,190,10,0,0.95
+star_constellation,200,65,135,0,0.325
+superhero_archnemesis,200,5,195,0,0.025
+superhero_person,200,104,96,0,0.52

@@ -1,0 +1,4 @@
+category,model_key,relation_key,query_id,prompt,subject,gold_object,strict_gold_in_candidates,strict_rank,strict_num_candidates,strict_top10,all_rank,all_num_candidates,all_top10,slide_question
+success,gemma_7b_it,company_hq,1833,Where are the headquarters of Ipsos MORI?,Ipsos MORI,London,True,1.0,141,London; Stockholm; Chicago; Berlin; Athens,1,163,London; Stockholm; Chicago; Berlin; Tokyo,Where is Ipsos MORI headquartered?
+failure,gemma_7b_it,company_hq,2199,Where are the headquarters of Jacobs Engineering Group?,Jacobs Engineering Group,Pasadena,True,134.0,141,London; Chicago; Berlin; Stockholm; Tokyo,146,163,London; Chicago; Berlin; Tokyo; Stockholm,Where is Jacobs Engineering Group headquartered?
+strict_miss_but_all_good,gemma_7b_it,company_ceo,1539,Who is the CEO of Goldman Sachs?,Goldman Sachs,David Solomon,False,,220,,1,287,David Solomon; Martin Brudermüller; Mark Avery; Kevin Johnson; Jane Fraser,Who is the CEO of Goldman Sachs?

@@ -1,0 +1,5 @@
+model,n_rel,A_vs_B_pearson_r,A_vs_B_pearson_p,A_vs_B_spearman_rho,A_vs_B_spearman_p,A_vs_HallValue_r,A_vs_HallValue_p,B_vs_HallValue_r,B_vs_HallValue_p
+gemma_7b_it,28,0.954,4.58e-15,0.906,3.15e-11,-0.482,9.44e-03,-0.580,1.21e-03
+llama3_1_8b_instruct,28,0.922,3.31e-12,0.885,4.27e-10,-0.568,1.62e-03,-0.702,3.19e-05
+mistral_7b_instruct,28,0.948,1.85e-14,0.943,6.85e-14,-0.501,6.61e-03,-0.589,9.83e-04
+qwen2_5_7b_instruct,28,0.502,6.47e-03,0.667,1.07e-04,-0.501,6.64e-03,-0.449,1.64e-02

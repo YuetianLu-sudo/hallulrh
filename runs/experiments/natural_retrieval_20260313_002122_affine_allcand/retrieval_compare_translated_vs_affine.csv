@@ -1,0 +1,5 @@
+model_key,coverage_strict,translated_h1_alltest,translated_h10_alltest,translated_mrr_alltest,affine_h1_alltest,affine_h10_alltest,affine_mrr_alltest,translated_h1_allcand,translated_h10_allcand,translated_mrr_allcand,affine_h1_allcand,affine_h10_allcand,affine_mrr_allcand
+gemma_7b_it,0.7143,0.2891,0.5691,0.3851,0.4502,0.6543,0.5196,0.3109,0.617,0.4178,0.4958,0.8094,0.6036
+llama3_1_8b_instruct,0.7143,0.2664,0.5864,0.3714,0.5536,0.6751,0.5993,0.2762,0.6128,0.3882,0.5698,0.8004,0.6506
+mistral_7b_instruct,0.7143,0.26,0.5898,0.3717,0.5415,0.6702,0.5864,0.2675,0.6158,0.3855,0.5645,0.8189,0.6484
+qwen2_5_7b_instruct,0.7143,0.2766,0.5732,0.3744,0.4932,0.6498,0.547,0.2849,0.5917,0.3873,0.5151,0.7634,0.6003

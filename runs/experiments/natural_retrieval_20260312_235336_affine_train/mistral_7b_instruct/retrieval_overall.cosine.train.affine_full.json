@@ -1,0 +1,14 @@
+{
+  "model_key": "mistral_7b_instruct",
+  "metric": "cosine",
+  "candidate_source": "train",
+  "query_mode": "affine_full",
+  "n_test_total": 2650,
+  "n_test_covered": 1893,
+  "coverage": 0.7143396226415094,
+  "hits@1": 0.7580559957739038,
+  "hits@10": 0.9381933438985737,
+  "mrr": 0.8209004386541597,
+  "ranked_lists_path": "runs/experiments/natural_retrieval_20260312_235336_affine_train/mistral_7b_instruct/ranked_lists.cosine.train.affine_full.jsonl.gz",
+  "per_relation_csv": "runs/experiments/natural_retrieval_20260312_235336_affine_train/mistral_7b_instruct/retrieval_by_relation.cosine.train.affine_full.csv"
+}

@@ -1,0 +1,13 @@
+{
+  "model_key": "qwen2_5_7b_instruct",
+  "metric": "cosine",
+  "candidate_source": "all",
+  "n_test_total": 2650,
+  "n_test_covered": 2650,
+  "coverage": 1.0,
+  "hits@1": 0.2849056603773585,
+  "hits@10": 0.5916981132075472,
+  "mrr": 0.3873255340749063,
+  "ranked_lists_path": "runs/experiments/natural_retrieval_20260312_151207_allcand/qwen2_5_7b_instruct/ranked_lists.cosine.all.jsonl.gz",
+  "per_relation_csv": "runs/experiments/natural_retrieval_20260312_151207_allcand/qwen2_5_7b_instruct/retrieval_by_relation.cosine.all.csv"
+}

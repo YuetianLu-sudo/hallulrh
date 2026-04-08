@@ -1,0 +1,13 @@
+{
+  "model_key": "qwen2_5_7b_instruct",
+  "metric": "euclidean",
+  "candidate_source": "all",
+  "n_test_total": 2650,
+  "n_test_covered": 2650,
+  "coverage": 1.0,
+  "hits@1": 0.2724528301886792,
+  "hits@10": 0.590566037735849,
+  "mrr": 0.3728198065785448,
+  "ranked_lists_path": "runs/experiments/natural_retrieval_20260312_162733_euclid_allcand/qwen2_5_7b_instruct/ranked_lists.euclidean.all.jsonl.gz",
+  "per_relation_csv": "runs/experiments/natural_retrieval_20260312_162733_euclid_allcand/qwen2_5_7b_instruct/retrieval_by_relation.euclidean.all.csv"
+}

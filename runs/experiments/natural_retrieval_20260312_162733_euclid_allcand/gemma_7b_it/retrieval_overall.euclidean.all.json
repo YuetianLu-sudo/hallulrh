@@ -1,0 +1,13 @@
+{
+  "model_key": "gemma_7b_it",
+  "metric": "euclidean",
+  "candidate_source": "all",
+  "n_test_total": 2650,
+  "n_test_covered": 2650,
+  "coverage": 1.0,
+  "hits@1": 0.3011320754716981,
+  "hits@10": 0.6354716981132076,
+  "mrr": 0.41248022573352355,
+  "ranked_lists_path": "runs/experiments/natural_retrieval_20260312_162733_euclid_allcand/gemma_7b_it/ranked_lists.euclidean.all.jsonl.gz",
+  "per_relation_csv": "runs/experiments/natural_retrieval_20260312_162733_euclid_allcand/gemma_7b_it/retrieval_by_relation.euclidean.all.csv"
+}

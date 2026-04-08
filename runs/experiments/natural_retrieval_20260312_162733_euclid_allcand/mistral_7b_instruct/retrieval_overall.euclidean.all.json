@@ -1,0 +1,13 @@
+{
+  "model_key": "mistral_7b_instruct",
+  "metric": "euclidean",
+  "candidate_source": "all",
+  "n_test_total": 2650,
+  "n_test_covered": 2650,
+  "coverage": 1.0,
+  "hits@1": 0.27169811320754716,
+  "hits@10": 0.6188679245283019,
+  "mrr": 0.3802067738953531,
+  "ranked_lists_path": "runs/experiments/natural_retrieval_20260312_162733_euclid_allcand/mistral_7b_instruct/ranked_lists.euclidean.all.jsonl.gz",
+  "per_relation_csv": "runs/experiments/natural_retrieval_20260312_162733_euclid_allcand/mistral_7b_instruct/retrieval_by_relation.euclidean.all.csv"
+}

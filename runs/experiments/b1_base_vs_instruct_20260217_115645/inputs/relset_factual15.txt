@@ -1,0 +1,15 @@
+company_ceo
+company_hq
+landmark_in_country
+landmark_on_continent
+person_father
+person_mother
+person_occupation
+person_plays_instrument
+person_plays_position_in_sport
+person_plays_pro_sport
+person_university
+product_by_company
+star_constellation
+superhero_archnemesis
+superhero_person

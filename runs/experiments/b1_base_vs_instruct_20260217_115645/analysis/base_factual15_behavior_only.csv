@@ -1,0 +1,16 @@
+model_key,relation_key,n,hall,ref,other,relation_group,hall_rate
+llama3_1_8b_base,company_ceo,200,111,89,0,factual,0.555
+llama3_1_8b_base,company_hq,200,199,1,0,factual,0.995
+llama3_1_8b_base,landmark_in_country,200,182,18,0,factual,0.91
+llama3_1_8b_base,landmark_on_continent,200,158,42,0,factual,0.79
+llama3_1_8b_base,person_father,200,26,174,0,factual,0.13
+llama3_1_8b_base,person_mother,200,14,186,0,factual,0.07
+llama3_1_8b_base,person_occupation,200,197,3,0,factual,0.985
+llama3_1_8b_base,person_plays_instrument,200,162,38,0,factual,0.81
+llama3_1_8b_base,person_plays_position_in_sport,200,177,23,0,factual,0.885
+llama3_1_8b_base,person_plays_pro_sport,200,187,13,0,factual,0.935
+llama3_1_8b_base,person_university,200,111,89,0,factual,0.555
+llama3_1_8b_base,product_by_company,200,186,14,0,factual,0.93
+llama3_1_8b_base,star_constellation,200,151,49,0,factual,0.755
+llama3_1_8b_base,superhero_archnemesis,200,124,76,0,factual,0.62
+llama3_1_8b_base,superhero_person,200,11,189,0,factual,0.055

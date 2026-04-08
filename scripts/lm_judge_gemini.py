@@ -15,7 +15,7 @@ from google.genai import types
 
 MODEL_NAME = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 DEFAULT_SAMPLE_SIZE = 200
-SLEEP_BETWEEN_CALLS = float(os.environ.get("GEMINI_SLEEP", "0.2"))  # seconds
+SLEEP_BETWEEN_CALLS = float(os.environ.get("GEMINI_SLEEP", "0.05"))  # seconds
 
 QUESTION_KEYS = ["question", "prompt", "input", "query"]
 ANSWER_KEYS = ["answer", "output", "completion", "response", "model_answer", "text"]

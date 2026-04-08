@@ -1,0 +1,13 @@
+{
+  "model_key": "llama3_1_8b_instruct",
+  "metric": "cosine",
+  "candidate_source": "train",
+  "n_test_total": 2650,
+  "n_test_covered": 1893,
+  "coverage": 0.7143396226415094,
+  "hits@1": 0.3729529846804015,
+  "hits@10": 0.820919175911252,
+  "mrr": 0.5199262125678771,
+  "ranked_lists_path": "runs/experiments/natural_retrieval_20260312_141938/llama3_1_8b_instruct/ranked_lists.cosine.train.jsonl.gz",
+  "per_relation_csv": "runs/experiments/natural_retrieval_20260312_141938/llama3_1_8b_instruct/retrieval_by_relation.cosine.train.csv"
+}
