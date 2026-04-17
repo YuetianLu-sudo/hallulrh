@@ -373,7 +373,7 @@ def main():
         merged,
         y_col="hall_rate_answered",
         out_base=os.path.join(args.outdir, "fig2_lre21_nat_3way_scatter_answered_panel_4models"),
-        y_label="Hallucination rate (hall / (hall + correct))",
+        y_label="Hallucination rate among answered cases",
         dpi=args.dpi,
     )
     plot_panel(

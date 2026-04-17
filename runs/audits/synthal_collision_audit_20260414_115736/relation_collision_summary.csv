@@ -1,0 +1,16 @@
+relation_key,ambiguous,clean,matched,total,clean_rate
+company_ceo,0,200,0,200,1.0
+company_hq,0,200,0,200,1.0
+landmark_in_country,0,200,0,200,1.0
+landmark_on_continent,0,200,0,200,1.0
+person_father,0,200,0,200,1.0
+person_mother,0,200,0,200,1.0
+person_occupation,0,200,0,200,1.0
+person_plays_instrument,0,200,0,200,1.0
+person_plays_position_in_sport,0,200,0,200,1.0
+person_plays_pro_sport,0,200,0,200,1.0
+person_university,0,200,0,200,1.0
+product_by_company,0,200,0,200,1.0
+star_constellation,0,200,0,200,1.0
+superhero_archnemesis,1,196,3,200,0.98
+superhero_person,2,197,1,200,0.985

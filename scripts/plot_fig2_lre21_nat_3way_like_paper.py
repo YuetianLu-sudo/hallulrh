@@ -190,7 +190,7 @@ def plot_panel(
             xx = np.linspace(xmin, xmax, 200)
             ax.plot(xx, slope * xx + intercept, linestyle="--", linewidth=1.6, color="black", alpha=0.55, zorder=2)
 
-        title = f"{MODEL_TITLE.get(mk, mk)} (r={r:.3f}, p={p:.4f})" if np.isfinite(p) else f"{MODEL_TITLE.get(mk, mk)} (r={r:.3f})"
+        title = f"{MODEL_TITLE.get(mk, mk)} (r={r:.4f}, p={p:.4f})" if np.isfinite(p) else f"{MODEL_TITLE.get(mk, mk)} (r={r:.3f})"
         ax.set_title(title, fontsize=13)
 
         ax.set_xlim(xmin, xmax)
@@ -293,7 +293,7 @@ def main() -> None:
         outdir=args.outdir,
         x_col=x_col,
         y_col="hall_rate_answered",
-        y_label="Hallucination rate (Hall/(Hall+Correct))",
+        y_label="Hallucination rate among answered cases",
         fname_base="fig2_lre21_nat_3way_scatter_answered_panel_4models",
         dpi=args.dpi,
     )
