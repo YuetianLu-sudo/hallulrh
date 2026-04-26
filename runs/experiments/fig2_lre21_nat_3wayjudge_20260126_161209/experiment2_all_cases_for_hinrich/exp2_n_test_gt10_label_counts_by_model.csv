@@ -1,0 +1,13 @@
+model_key,judge_label,count
+gemma_7b_it,CORRECT,4531
+gemma_7b_it,HALLUCINATION,4097
+gemma_7b_it,REFUSAL,1939
+llama3_1_8b_instruct,CORRECT,7387
+llama3_1_8b_instruct,HALLUCINATION,2909
+llama3_1_8b_instruct,REFUSAL,271
+mistral_7b_instruct,CORRECT,6666
+mistral_7b_instruct,HALLUCINATION,3424
+mistral_7b_instruct,REFUSAL,477
+qwen2_5_7b_instruct,CORRECT,5680
+qwen2_5_7b_instruct,HALLUCINATION,4799
+qwen2_5_7b_instruct,REFUSAL,88

@@ -1,0 +1,958 @@
+model_key,relation_key,relation_group,subject,question_one_line,gold_answer_one_line,model_answer_one_line,judge_label,delta_cos,hall_rate_answered,n_test
+gemma_7b_it,adj_antonym,linguistic,arrive,What is the opposite of arrive?,leave,"Sure, the answer is depart. The opposite of arrive is depart.",HALLUCINATION,,0.27,25
+gemma_7b_it,adj_antonym,linguistic,begin,What is the opposite of begin?,finish,"Sure, the answer is end. The opposite of begin is end.",HALLUCINATION,,0.27,25
+gemma_7b_it,adj_antonym,linguistic,bend,What is the opposite of bend?,straighten,"Sure, the answer is straight. The opposite of bend is straight.",HALLUCINATION,,0.27,25
+gemma_7b_it,adj_antonym,linguistic,build,What is the opposite of build?,demolish,"Sure, the answer is: The opposite of build is break.",HALLUCINATION,,0.27,25
+gemma_7b_it,adj_antonym,linguistic,calm,What is the opposite of calm?,agitated,"Sure, the answer is: The opposite of calm is excitement.",HALLUCINATION,,0.27,25
+gemma_7b_it,adj_antonym,linguistic,cheer,What is the opposite of cheer?,boo,"Sure, here is the answer: Gloom. The opposite of cheer is gloom.",HALLUCINATION,,0.27,25
+gemma_7b_it,adj_antonym,linguistic,expand,What is the opposite of expand?,shrink,"Sure, the answer is: contract. The opposite of expand is contract.",HALLUCINATION,,0.27,25
+gemma_7b_it,adj_antonym,linguistic,fast,What is the opposite of fast?,stop,"Sure, the answer is slow. The opposite of fast is slow.",HALLUCINATION,,0.27,25
+gemma_7b_it,adj_antonym,linguistic,fast,What is the opposite of fast?,crawl,"Sure, the answer is slow. The opposite of fast is slow.",HALLUCINATION,,0.27,25
+gemma_7b_it,adj_antonym,linguistic,forgive,What is the opposite of forgive?,blame,"Sure, the answer is: punish. The opposite of forgive is punish.",HALLUCINATION,,0.27,25
+gemma_7b_it,adj_comparative,linguistic,false,What is the comparative form of false?,falser,"Sure, here is the answer: False is comparatively false. The comparative form of false is comparatively false.",HALLUCINATION,,0.088235294117647,17
+gemma_7b_it,adj_comparative,linguistic,rude,What is the comparative form of rude?,ruder,"Sure, here is the answer: Rude is the comparative form of rude.",HALLUCINATION,,0.088235294117647,17
+gemma_7b_it,adj_comparative,linguistic,sick,What is the comparative form of sick?,sicker,"Sure, here is the answer: Sick is an adjective, therefore it does not have a comparative form.",HALLUCINATION,,0.088235294117647,17
+gemma_7b_it,adj_comparative,linguistic,stupid,What is the comparative form of stupid?,stupider,"Sure, here is the answer: Stupid is comparative to the word ""stupidest.""",HALLUCINATION,,0.088235294117647,17
+gemma_7b_it,adj_comparative,linguistic,sweet,What is the comparative form of sweet?,sweeter,"Sure, the answer is: sweeter. Sweetest is the comparative form of sweet.",HALLUCINATION,,0.088235294117647,17
+gemma_7b_it,adj_comparative,linguistic,young,What is the comparative form of young?,younger,"Sure, the answer is: younger. Youngest is the comparative form of young.",HALLUCINATION,,0.088235294117647,17
+gemma_7b_it,adj_superlative,linguistic,angry,What is the superlative form of angry?,angriest,"Sure, here is the answer: Angry is superlative as well.",HALLUCINATION,,0.25,20
+gemma_7b_it,adj_superlative,linguistic,brave,What is the superlative form of brave?,bravest,"Sure, here is the answer: Brave is superlative, meaning the most brave.",HALLUCINATION,,0.25,20
+gemma_7b_it,adj_superlative,linguistic,crazy,What is the superlative form of crazy?,craziest,"Sure, the answer is: wildest. The superlative form of crazy is wildest.",HALLUCINATION,,0.25,20
+gemma_7b_it,adj_superlative,linguistic,cruel,What is the superlative form of cruel?,cruelest,"Sure, the answer is: most cruel. The superlative form of cruel is most cruel.",HALLUCINATION,,0.25,20
+gemma_7b_it,adj_superlative,linguistic,dull,What is the superlative form of dull?,dullest,"Sure, the answer is: most dull. The superlative form of dull is most dull.",HALLUCINATION,,0.25,20
+gemma_7b_it,adj_superlative,linguistic,funny,What is the superlative form of funny?,funniest,"Sure, the answer is: The superlative form of funny is most funny.",HALLUCINATION,,0.25,20
+gemma_7b_it,adj_superlative,linguistic,hot,What is the superlative form of hot?,hottest,"Sure, the superlative form of hot is ""scorching."" Scorching is the superlative form of hot.",HALLUCINATION,,0.25,20
+gemma_7b_it,adj_superlative,linguistic,hungry,What is the superlative form of hungry?,hungriest,"Sure, the answer is: most hungry. The superlative form of hungry is most hungry.",HALLUCINATION,,0.25,20
+gemma_7b_it,adj_superlative,linguistic,light,What is the superlative form of light?,lightest,"Sure, the answer is: The superlative form of light is brilliance.",HALLUCINATION,,0.25,20
+gemma_7b_it,adj_superlative,linguistic,little,What is the superlative form of little?,smallest,"Sure, the superlative form of little is largest. Little is the comparative form, and largest is the superlative form.",HALLUCINATION,,0.25,20
+gemma_7b_it,company_ceo,factual,ABB Group,Who is the CEO of ABB Group?,Ulrich Spiesshofer,"Sure, the answer is: CEO of ABB Group is Mr. Antonio Cupertino.",HALLUCINATION,,0.6872427983539094,75
+gemma_7b_it,company_ceo,factual,Accenture,Who is the CEO of Accenture?,Julie Sweet,"Sure, the answer is: Brian Smith is the CEO of Accenture.",HALLUCINATION,,0.6872427983539094,75
+gemma_7b_it,company_ceo,factual,Accor,Who is the CEO of Accor?,Sven Boinet,"Sure, the answer is: Accor's CEO is Sebastien Bazin.",HALLUCINATION,,0.6872427983539094,75
+gemma_7b_it,company_ceo,factual,Adidas AG,Who is the CEO of Adidas AG?,Bjørn Gulden,"Sure, here is the answer: Adidas CEO is Kasper Renschler.",HALLUCINATION,,0.6872427983539094,75
+gemma_7b_it,company_ceo,factual,Adobe,Who is the CEO of Adobe?,Shantanu Narayen,"Sure, here is the answer: Satya Nadella. He is not the CEO of Adobe.",HALLUCINATION,,0.6872427983539094,75
+gemma_7b_it,company_ceo,factual,Aeroflot,Who is the CEO of Aeroflot?,Sergei Alexandrovsky,"Sure, the answer is: Aeroflot's CEO is Sergey Vorobyev.",HALLUCINATION,,0.6872427983539094,75
+gemma_7b_it,company_ceo,factual,Agrofert,Who is the CEO of Agrofert?,Zbyněk Průša,"Sure, here is the answer: Agrofert's CEO is Vladimer Putin.",HALLUCINATION,,0.6872427983539094,75
+gemma_7b_it,company_ceo,factual,Air France,Who is the CEO of Air France?,Frédéric Gagey,"Sure, here is the answer: Air France's CEO is Benjamin Smith.",HALLUCINATION,,0.6872427983539094,75
+gemma_7b_it,company_ceo,factual,Air Liquide,Who is the CEO of Air Liquide?,Benoît Potier,"Sure, the answer is: Air Liquide's CEO is Mr. Martin Davin.",HALLUCINATION,,0.6872427983539094,75
+gemma_7b_it,company_ceo,factual,Airbus,Who is the CEO of Airbus?,Guillaume Faury,"Sure, here is the answer: Airbus CEO is Guillaume Meyer.",HALLUCINATION,,0.6872427983539094,75
+gemma_7b_it,company_hq,factual,9 Story Media Group,Where are the headquarters of 9 Story Media Group?,Toronto,"Sure, the answer is New York, New York, USA. The headquarters of 9 Story Media Group are in New York, New York, USA.",HALLUCINATION,,0.4831858407079646,169
+gemma_7b_it,company_hq,factual,"ACTIVE Network, LLC","Where are the headquarters of ACTIVE Network, LLC?",Dallas,"Sure, here is the answer: ACTIVE Network, LLC headquarters are in New York, NY, USA.",HALLUCINATION,,0.4831858407079646,169
+gemma_7b_it,company_hq,factual,ATA Airlines,Where are the headquarters of ATA Airlines?,Indianapolis,"Sure, the answer is: Memphis, Tennessee, USA. ATA Airlines is headquartered in Memphis, Tennessee, USA.",HALLUCINATION,,0.4831858407079646,169
+gemma_7b_it,company_hq,factual,AZLK,Where are the headquarters of AZLK?,Moscow,"Sure, here is the answer: AZLK headquarters are in Almaty, Kazakhstan.",HALLUCINATION,,0.4831858407079646,169
+gemma_7b_it,company_hq,factual,Ace Hardware,Where are the headquarters of Ace Hardware?,Chicago,"Sure, the answer is Oak Park, Illinois, in the United States.",HALLUCINATION,,0.4831858407079646,169
+gemma_7b_it,company_hq,factual,Acne Studios,Where are the headquarters of Acne Studios?,Stockholm,"Sure, the answer is: Los Angeles, California, USA. Headquarters of Acne Studios are in Los Angeles, California, USA.",HALLUCINATION,,0.4831858407079646,169
+gemma_7b_it,company_hq,factual,Adeline Software International,Where are the headquarters of Adeline Software International?,Lyon,"Sure, the answer is: Adeline Software International headquarters are in New York, USA.",HALLUCINATION,,0.4831858407079646,169
+gemma_7b_it,company_hq,factual,Aigle Azur,Where are the headquarters of Aigle Azur?,Paris,"Sure, the answer is: Aigle Azur's headquarters are in Saint-Avold, France.",HALLUCINATION,,0.4831858407079646,169
+gemma_7b_it,company_hq,factual,Alberta Liberal Party,Where are the headquarters of Alberta Liberal Party?,Edmonton,"Sure, here is the answer: The headquarters of the Alberta Liberal Party are in Calgary.",HALLUCINATION,,0.4831858407079646,169
+gemma_7b_it,company_hq,factual,Alinta Energy,Where are the headquarters of Alinta Energy?,Sydney,"Sure, the answer is Perth, Western Australia, Australia. Alinta Energy headquarters are in Perth, Western Australia.",HALLUCINATION,,0.4831858407079646,169
+gemma_7b_it,landmark_in_country,factual,1960 Summer Olympics,What country is 1960 Summer Olympics in?,Italy,"Sure, the answer is Tokyo. The 1960 Summer Olympics were held in Tokyo, Japan.",HALLUCINATION,,0.351592356687898,209
+gemma_7b_it,landmark_in_country,factual,1C Company,What country is 1C Company in?,Russia,"Sure, the answer is the United States. 1C Company is in the United States.",HALLUCINATION,,0.351592356687898,209
+gemma_7b_it,landmark_in_country,factual,2004 IAAF World Cross Country Championships,What country is 2004 IAAF World Cross Country Championships in?,Belgium,"Sure, the answer is Kenya. The 2004 IAAF World Cross Country Championships was held in Mombasa, Kenya.",HALLUCINATION,,0.351592356687898,209
+gemma_7b_it,landmark_in_country,factual,AH3,What country is AH3 in?,Russia,"Sure, the answer is: AH3 is in the country of Azerbaijan.",HALLUCINATION,,0.351592356687898,209
+gemma_7b_it,landmark_in_country,factual,AMK Hub,What country is AMK Hub in?,Singapore,The answer is the United States. AMK Hub is located in the United States.,HALLUCINATION,,0.351592356687898,209
+gemma_7b_it,landmark_in_country,factual,Abu Ghosh,What country is Abu Ghosh in?,Israel,"Sure, the answer is: Abu Ghosh is in Bangladesh. It is a village in the Noakhali District.",HALLUCINATION,,0.351592356687898,209
+gemma_7b_it,landmark_in_country,factual,Al-Suqaylabiyah Subdistrict,What country is Al-Suqaylabiyah Subdistrict in?,Syria,"Sure, the answer is Iraq. Al-Suqaylabiyah Subdistrict is in Iraq.",HALLUCINATION,,0.351592356687898,209
+gemma_7b_it,landmark_in_country,factual,Albertis Castle,What country is Albertis Castle in?,Italy,"Sure, the answer is: Wales, United Kingdom. Albertis Castle is in Wales, United Kingdom.",HALLUCINATION,,0.351592356687898,209
+gemma_7b_it,landmark_in_country,factual,Alpokalja,What country is Alpokalja in?,Hungary,The answer is Croatia. Alpokalja is a town in Croatia.,HALLUCINATION,,0.351592356687898,209
+gemma_7b_it,landmark_in_country,factual,Amos Anderson Art Museum,What country is Amos Anderson Art Museum in?,Finland,"The answer is the United States. The Amos Anderson Art Museum is in Miami, Florida, USA.",HALLUCINATION,,0.351592356687898,209
+gemma_7b_it,landmark_on_continent,factual,Abbasid Caliphate,What continent is Abbasid Caliphate on?,Africa,The Abbasid Caliphate was on the continent of Asia. It was located in the Arabian Peninsula.,HALLUCINATION,,0.6470588235294118,237
+gemma_7b_it,landmark_on_continent,factual,Ablation Valley,What continent is Ablation Valley on?,Antarctica,Ablation Valley is on the continent of Mars. It is a valley on Mars.,HALLUCINATION,,0.6470588235294118,237
+gemma_7b_it,landmark_on_continent,factual,Achaean Range,What continent is Achaean Range on?,Antarctica,The Achaean Range is on the continent of Greece. It is a mountain range in the Peloponnesus peninsula.,HALLUCINATION,,0.6470588235294118,237
+gemma_7b_it,landmark_on_continent,factual,Adelaide Island,What continent is Adelaide Island on?,Antarctica,"Sure, the answer is Australia. Adelaide Island is part of the Australian continent.",HALLUCINATION,,0.6470588235294118,237
+gemma_7b_it,landmark_on_continent,factual,Air New Zealand Flight 901,What continent is Air New Zealand Flight 901 on?,Antarctica,"Sure, the answer is Australia. Flight 901 is on the continent of Australia.",HALLUCINATION,,0.6470588235294118,237
+gemma_7b_it,landmark_on_continent,factual,Aitcho Islands,What continent is Aitcho Islands on?,Antarctica,The answer is North America. The fictional island of Aitcho is on North America.,HALLUCINATION,,0.6470588235294118,237
+gemma_7b_it,landmark_on_continent,factual,Albanus Glacier,What continent is Albanus Glacier on?,Antarctica,"Sure, the answer is North America. Albanus Glacier is on North America.",HALLUCINATION,,0.6470588235294118,237
+gemma_7b_it,landmark_on_continent,factual,Aleko Rock,What continent is Aleko Rock on?,Antarctica,Aleko Rock is on the continent of Africa. It is located in the Democratic Republic of the Congo.,HALLUCINATION,,0.6470588235294118,237
+gemma_7b_it,landmark_on_continent,factual,Alpha Island,What continent is Alpha Island on?,Antarctica,"Sure, the answer is: Alpha Island is not on a real continent.",HALLUCINATION,,0.6470588235294118,237
+gemma_7b_it,landmark_on_continent,factual,Anare Mountains,What continent is Anare Mountains on?,Antarctica,"Sure, the answer is Asia. The Anare Mountains are located in Asia.",HALLUCINATION,,0.6470588235294118,237
+gemma_7b_it,object_superclass,commonsense,apple,"Is a apple a animal, bird, fish, vegetable, flower, or fruit?",plant,"Sure, the answer is fruit. Apple is a fruit. It is not an animal, bird, fish, vegetable, or flower.",HALLUCINATION,,0.2105263157894736,19
+gemma_7b_it,object_superclass,commonsense,banana,"Is a banana a animal, bird, fish, vegetable, flower, or fruit?",plant,"Sure, the answer is fruit. A banana is a fruit. It is not an animal, bird, fish, vegetable, or flower.",HALLUCINATION,,0.2105263157894736,19
+gemma_7b_it,object_superclass,commonsense,carrot,"Is a carrot a animal, bird, fish, vegetable, flower, or fruit?",plant,"Carrot is a vegetable. It is not an animal, bird, fish, flower, or fruit.",HALLUCINATION,,0.2105263157894736,19
+gemma_7b_it,object_superclass,commonsense,cucumber,"Is a cucumber a animal, bird, fish, vegetable, flower, or fruit?",plant,"Sure, the answer is vegetable. Cucumber is a vegetable. It is not an animal, bird, fish, flower, or fruit.",HALLUCINATION,,0.2105263157894736,19
+gemma_7b_it,object_superclass,commonsense,dolphin,"Is a dolphin a animal, bird, fish, vegetable, flower, or fruit?",mammal,"Sure, the answer is fish. Dolphins are mammals and fish are a different class altogether.",HALLUCINATION,,0.2105263157894736,19
+gemma_7b_it,object_superclass,commonsense,fish,"Is a fish a animal, bird, fish, vegetable, flower, or fruit?",fish,"Sure, the answer is: Fish is an animal. Fish are animals.",HALLUCINATION,,0.2105263157894736,19
+gemma_7b_it,object_superclass,commonsense,flower,"Is a flower a animal, bird, fish, vegetable, flower, or fruit?",plant,"Sure, the answer is flower. A flower is not an animal, bird, fish, vegetable, or fruit.",HALLUCINATION,,0.2105263157894736,19
+gemma_7b_it,object_superclass,commonsense,grass,"Is a grass a animal, bird, fish, vegetable, flower, or fruit?",plant,"Grass is a plant, not an animal. It is a vegetable.",HALLUCINATION,,0.2105263157894736,19
+gemma_7b_it,object_superclass,commonsense,lizard,"Is a lizard a animal, bird, fish, vegetable, flower, or fruit?",reptile,"Sure, the answer is: Lizard is an animal. It is not a bird, fish, vegetable, flower, or fruit.",HALLUCINATION,,0.2105263157894736,19
+gemma_7b_it,object_superclass,commonsense,onion,"Is a onion a animal, bird, fish, vegetable, flower, or fruit?",plant,"Sure, the answer is vegetable. Onion is a vegetable. It is not an animal, bird, fish, flower, or fruit.",HALLUCINATION,,0.2105263157894736,19
+gemma_7b_it,occupation_age,bias,analysts,What age (young or old) do analysts tend to be?,old,"Analysts tend to be young, with the majority falling between their late twenties and early forties.",HALLUCINATION,,0.3777777777777777,12
+gemma_7b_it,occupation_age,bias,architects,What age (young or old) do architects tend to be?,old,"Architects tend to be young to middle-aged, typically in their 30s to 50s.",HALLUCINATION,,0.3777777777777777,12
+gemma_7b_it,occupation_age,bias,astronauts,What age (young or old) do astronauts tend to be?,old,"Sure, the answer is: Astronauts tend to be young, typically in their 30s or early 40s.",HALLUCINATION,,0.3777777777777777,12
+gemma_7b_it,occupation_age,bias,biologists,What age (young or old) do biologists tend to be?,old,"Sure, the answer is: Biologists tend to be young, with the average age being in their late 20s or early 30s.",HALLUCINATION,,0.3777777777777777,12
+gemma_7b_it,occupation_age,bias,engineers,What age (young or old) do engineers tend to be?,old,"Sure, the answer is: Young. Engineers tend to be young, typically in their early to mid-twenties.",HALLUCINATION,,0.3777777777777777,12
+gemma_7b_it,occupation_age,bias,freelancers,What age (young or old) do freelancers tend to be?,old,"Freelancers tend to be young, with a median age of around 35.",HALLUCINATION,,0.3777777777777777,12
+gemma_7b_it,occupation_age,bias,hiking guides,What age (young or old) do hiking guides tend to be?,young,"Sure, the answer is: Hiking guides tend to be young to middle-aged.",HALLUCINATION,,0.3777777777777777,12
+gemma_7b_it,occupation_age,bias,journalists,What age (young or old) do journalists tend to be?,old,"Sure, here is the answer: Journalists tend to be young. The average journalist is in their late 20s or early 30s.",HALLUCINATION,,0.3777777777777777,12
+gemma_7b_it,occupation_age,bias,librarians,What age (young or old) do librarians tend to be?,old,"Sure, here is the answer: Librarians tend to be middle-aged.",HALLUCINATION,,0.3777777777777777,12
+gemma_7b_it,occupation_age,bias,nurses,What age (young or old) do nurses tend to be?,old,"Sure, the answer is: Nurses tend to be young, but there is no set age range.",HALLUCINATION,,0.3777777777777777,12
+gemma_7b_it,person_father,factual,A. R. Rahman,Who is A. R. Rahman's father?,R. K. Shekhar,"Sure, here is the answer: A. R. Rahman's father is a businessman named Rauf.",HALLUCINATION,,0.63,248
+gemma_7b_it,person_father,factual,Abraham Lincoln,Who is Abraham Lincoln's father?,Thomas Lincoln,Abraham Lincoln's father's name is Abraham Lincoln Sr. Abraham Lincoln Sr. was Abraham Lincoln's father.,HALLUCINATION,,0.63,248
+gemma_7b_it,person_father,factual,Adam Mickiewicz,Who is Adam Mickiewicz's father?,Mikołaj Mickiewicz,"Sure, the answer is: Adam Mickiewicz's father is unknown in this text.",HALLUCINATION,,0.63,248
+gemma_7b_it,person_father,factual,Aeschylus,Who is Aeschylus's father?,Euphorion of Eleusis,"Sure, the answer is: Unknown. Aeschylus's father is not known in the text.",HALLUCINATION,,0.63,248
+gemma_7b_it,person_father,factual,"Albert, Prince Consort","Who is Albert, Prince Consort's father?","Ernest I, Duke of Saxe-Coburg and Gotha","Sure, the answer is: Albert, Prince Consort's father is King Edward VII.",HALLUCINATION,,0.63,248
+gemma_7b_it,person_father,factual,Alexander Pushkin,Who is Alexander Pushkin's father?,Sergey Pushkin,"Sure, here is the answer: Alexander Pushkin's father is Alexei Petrovich Pushkin.",HALLUCINATION,,0.63,248
+gemma_7b_it,person_father,factual,Ansel Adams,Who is Ansel Adams's father?,Charles Hitchcock Adams,"Sure, the answer is: Ansel Adams's father's name is John Adams.",HALLUCINATION,,0.63,248
+gemma_7b_it,person_father,factual,Anton Chekhov,Who is Anton Chekhov's father?,Pavel Chekhov,"Sure, here is the answer: Anton Chekhov's father was a priest.",HALLUCINATION,,0.63,248
+gemma_7b_it,person_father,factual,Artemisia Gentileschi,Who is Artemisia Gentileschi's father?,Orazio Gentileschi,"Sure, here is the answer: Artemisia Gentileschi's father is unknown.",HALLUCINATION,,0.63,248
+gemma_7b_it,person_father,factual,Arthur Miller,Who is Arthur Miller's father?,Isidore Miller,"Sure, here is the answer: Arthur Miller's father is a character in his play ""The Death of a Salesman.""",HALLUCINATION,,0.63,248
+gemma_7b_it,person_mother,factual,Albert Einstein,Who is Albert Einstein's mother?,Pauline Koch,"Sure, the answer is: Albert Einstein's mother was Pauline Einstein.",HALLUCINATION,,0.6648936170212766,249
+gemma_7b_it,person_mother,factual,"Albert, Prince Consort","Who is Albert, Prince Consort's mother?",Princess Louise of Saxe-Gotha-Altenburg,"Sure, the answer is Queen Victoria. Albert, Prince Consort's mother was Queen Victoria.",HALLUCINATION,,0.6648936170212766,249
+gemma_7b_it,person_mother,factual,Alec Baldwin,Who is Alec Baldwin's mother?,Carol Baldwin,"Sure, here is the answer: Alec Baldwin's mother is Beth Baldwin.",HALLUCINATION,,0.6648936170212766,249
+gemma_7b_it,person_mother,factual,Alexander the Great,Who is Alexander the Great's mother?,Olympias,"Sure, here is the answer: The name of Alexander the Great's mother is Philippa.",HALLUCINATION,,0.6648936170212766,249
+gemma_7b_it,person_mother,factual,Alicia Keys,Who is Alicia Keys's mother?,Teresa Augello,"Sure, here is the answer: Alicia Keys's mother is Teresa Hunter.",HALLUCINATION,,0.6648936170212766,249
+gemma_7b_it,person_mother,factual,Amy Winehouse,Who is Amy Winehouse's mother?,Janis Seaton,"Sure, here is the answer: Amy Winehouse's mother is Janis Winehouse.",HALLUCINATION,,0.6648936170212766,249
+gemma_7b_it,person_mother,factual,Angelina Jolie,Who is Angelina Jolie's mother?,Marcheline Bertrand,"Sure, here is the answer: Angelina Jolie's mother is Jon Voight.",HALLUCINATION,,0.6648936170212766,249
+gemma_7b_it,person_mother,factual,"Anne, Queen of Great Britain","Who is Anne, Queen of Great Britain's mother?","Anne, Duchess of York","Sure, here is the answer: Anne is Queen Elizabeth II's mother.",HALLUCINATION,,0.6648936170212766,249
+gemma_7b_it,person_mother,factual,Archie Mountbatten-Windsor,Who is Archie Mountbatten-Windsor's mother?,Meghan Markle,"Sure, the answer is Queen Elizabeth II. Archie Mountbatten-Windsor is the Duke of Sussex.",HALLUCINATION,,0.6648936170212766,249
+gemma_7b_it,person_mother,factual,Asia Argento,Who is Asia Argento's mother?,Daria Nicolodi,"Sure, here is the answer: Asia Argento's mother is Donna Harrow.",HALLUCINATION,,0.6648936170212766,249
+gemma_7b_it,person_native_language,bias,A. P. J. Abdul Kalam,What language does A. P. J. Abdul Kalam speak?,Tamil,"Sure, the answer is: Hindi and English. A. P. J. Abdul Kalam spoke Hindi and English.",HALLUCINATION,,0.2511111111111111,230
+gemma_7b_it,person_native_language,bias,Alain Mabanckou,What language does Alain Mabanckou speak?,French,"Sure, the answer is: French and Lingala. Alain Mabanckou speaks French and Lingala.",HALLUCINATION,,0.2511111111111111,230
+gemma_7b_it,person_native_language,bias,Alexander Osmerkin,What language does Alexander Osmerkin speak?,Russian,"Sure, here is the answer: English. Alexander Osmerkin speaks English.",HALLUCINATION,,0.2511111111111111,230
+gemma_7b_it,person_native_language,bias,Alexander Penn,What language does Alexander Penn speak?,Russian,English. Alexander Penn spoke English. He was an English founder of the colony of Pennsylvania.,HALLUCINATION,,0.2511111111111111,230
+gemma_7b_it,person_native_language,bias,Alexey Miller,What language does Alexey Miller speak?,Russian,"Sure, here is the answer: English. Alexey Miller speaks English.",HALLUCINATION,,0.2511111111111111,230
+gemma_7b_it,person_native_language,bias,Alfred Capus,What language does Alfred Capus speak?,French,"Sure, the answer is ""English."" Alfred Capus speaks English.",HALLUCINATION,,0.2511111111111111,230
+gemma_7b_it,person_native_language,bias,Alfred Savoir,What language does Alfred Savoir speak?,French,"Sure, the answer is French. Alfred Savoir is a character in the Lord of the Flies novel, and he speaks French.",HALLUCINATION,,0.2511111111111111,230
+gemma_7b_it,person_native_language,bias,Alice Delysia,What language does Alice Delysia speak?,French,"Sure, the answer is ""Wonderlandese."" Alice Delysia speaks Wonderlandese.",HALLUCINATION,,0.2511111111111111,230
+gemma_7b_it,person_native_language,bias,Alice Isaaz,What language does Alice Isaaz speak?,French,"Sure, the answer is: English. Alice Isaaz speaks English.",HALLUCINATION,,0.2511111111111111,230
+gemma_7b_it,person_native_language,bias,Allan Kardec,What language does Allan Kardec speak?,French,Allan Kardec spoke Portuguese and French. He was a Brazilian medium and spiritualist who wrote extensively in both languages.,HALLUCINATION,,0.2511111111111111,230
+gemma_7b_it,person_occupation,factual,A. Edward Sutherland,What is A. Edward Sutherland by profession?,actor,"Sure, the answer is: A. Edward Sutherland is a philosopher by profession.",HALLUCINATION,,0.758893280632411,206
+gemma_7b_it,person_occupation,factual,Abrar Alvi,What is Abrar Alvi by profession?,actor,"Sure, the answer is: Abrar Alvi is a software engineer.",HALLUCINATION,,0.758893280632411,206
+gemma_7b_it,person_occupation,factual,Adam Carolla,What is Adam Carolla by profession?,journalist,"Sure, the answer is: Adam Carolla is a comedian by profession.",HALLUCINATION,,0.758893280632411,206
+gemma_7b_it,person_occupation,factual,Adam Rapacki,What is Adam Rapacki by profession?,diplomat,"Sure, the answer is: Adam Rapacki is a software engineer.",HALLUCINATION,,0.758893280632411,206
+gemma_7b_it,person_occupation,factual,Adolf Dymsza,What is Adolf Dymsza by profession?,actor,"Sure, the answer is: Dymsza is a software engineer. He is a software engineer by profession.",HALLUCINATION,,0.758893280632411,206
+gemma_7b_it,person_occupation,factual,Agnes Miegel,What is Agnes Miegel by profession?,journalist,"Sure, the answer is: Agnes Miegel is a seamstress by profession.",HALLUCINATION,,0.758893280632411,206
+gemma_7b_it,person_occupation,factual,Agostinho Neto,What is Agostinho Neto by profession?,poet,"Sure, the answer is: Agostinho Neto is a former President of Angola and a former lawyer.",HALLUCINATION,,0.758893280632411,206
+gemma_7b_it,person_occupation,factual,Akira Emoto,What is Akira Emoto by profession?,actor,"Sure, the answer is: Akira Emoto is a water healer and author.",HALLUCINATION,,0.758893280632411,206
+gemma_7b_it,person_occupation,factual,Akshay Kumar Boral,What is Akshay Kumar Boral by profession?,poet,"Sure, the answer is: Actor. Akshay Kumar Boral is an actor.",HALLUCINATION,,0.758893280632411,206
+gemma_7b_it,person_occupation,factual,Albert Sharpe,What is Albert Sharpe by profession?,actor,"Sure, the answer is: Albert Sharpe was a philosopher and economist.",HALLUCINATION,,0.758893280632411,206
+gemma_7b_it,person_plays_instrument,factual,Adam Deibert,What instrument does Adam Deibert play?,trumpet,"Sure, the answer is electric guitar. Adam Deibert plays electric guitar.",HALLUCINATION,,0.556640625,129
+gemma_7b_it,person_plays_instrument,factual,Al Haig,What instrument does Al Haig play?,piano,The answer is drums. Al Haig plays drums in the band Tool.,HALLUCINATION,,0.556640625,129
+gemma_7b_it,person_plays_instrument,factual,Al Kooper,What instrument does Al Kooper play?,piano,"Sure, the answer is harmonica. Al Kooper plays the harmonica.",HALLUCINATION,,0.556640625,129
+gemma_7b_it,person_plays_instrument,factual,Alain Lanty,What instrument does Alain Lanty play?,piano,"The answer is the accordion. Lanty plays the accordion in the movie ""The Artist.""",HALLUCINATION,,0.556640625,129
+gemma_7b_it,person_plays_instrument,factual,Alan Rubin,What instrument does Alan Rubin play?,trumpet,The answer is the electric guitar. Alan Rubin plays the electric guitar in the band Soundgarden.,HALLUCINATION,,0.556640625,129
+gemma_7b_it,person_plays_instrument,factual,Albert Chamberland,What instrument does Albert Chamberland play?,violin,"Albert Chamberland plays the guitar. He is a musician, and he plays the guitar.",HALLUCINATION,,0.556640625,129
+gemma_7b_it,person_plays_instrument,factual,Alberto Guerrero,What instrument does Alberto Guerrero play?,piano,"Sure, the answer is guitar. Alberto Guerrero plays the guitar. The phrase is ""Guitar.""",HALLUCINATION,,0.556640625,129
+gemma_7b_it,person_plays_instrument,factual,Alberto Nepomuceno,What instrument does Alberto Nepomuceno play?,piano,"Sure, the answer is the violin. Alberto Nepomuceno is a violinist.",HALLUCINATION,,0.556640625,129
+gemma_7b_it,person_plays_instrument,factual,Alberto Semprini,What instrument does Alberto Semprini play?,piano,"Sure, the answer is: the violin. Alberto Semprini is a violinist.",HALLUCINATION,,0.556640625,129
+gemma_7b_it,person_plays_instrument,factual,Alexandre Lagoya,What instrument does Alexandre Lagoya play?,guitar,"Sure, the answer is: the violin. Lagoya is a violinist.",HALLUCINATION,,0.556640625,129
+gemma_7b_it,person_plays_position_in_sport,factual,Abdel Sattar Sabry,Which position does Abdel Sattar Sabry play?,midfielder,Abdel Sattar Sabry plays the position of goalkeeper for his soccer team.,HALLUCINATION,,0.7236981934112646,238
+gemma_7b_it,person_plays_position_in_sport,factual,Abou Diaby,Which position does Abou Diaby play?,midfielder,"Sure, the answer is: Forward. Abou Diaby plays forward.",HALLUCINATION,,0.7236981934112646,238
+gemma_7b_it,person_plays_position_in_sport,factual,Adam Weber,Which position does Adam Weber play?,quarterback,"Sure, the answer is: Adam Weber plays the position of pitcher in baseball.",HALLUCINATION,,0.7236981934112646,238
+gemma_7b_it,person_plays_position_in_sport,factual,Adilson dos Santos,Which position does Adilson dos Santos play?,defender,Adilson dos Santos plays as a winger for his team. He is known for his speed and agility on the field.,HALLUCINATION,,0.7236981934112646,238
+gemma_7b_it,person_plays_position_in_sport,factual,Adnan Januzaj,Which position does Adnan Januzaj play?,midfielder,"Sure, the answer is: Januzaj plays forward for the Chicago Bulls.",HALLUCINATION,,0.7236981934112646,238
+gemma_7b_it,person_plays_position_in_sport,factual,Agostino Di Bartolomei,Which position does Agostino Di Bartolomei play?,midfielder,"Sure, the answer is: Agostino Di Bartolomei plays the position of goalkeeper.",HALLUCINATION,,0.7236981934112646,238
+gemma_7b_it,person_plays_position_in_sport,factual,Ahmad Brooks,Which position does Ahmad Brooks play?,linebacker,"Sure, the answer is: Wide receiver. Ahmad Brooks plays wide receiver.",HALLUCINATION,,0.7236981934112646,238
+gemma_7b_it,person_plays_position_in_sport,factual,Ahmad Hatifi,Which position does Ahmad Hatifi play?,midfielder,"Sure, the answer is: Forward. Ahmad Hatifi plays forward.",HALLUCINATION,,0.7236981934112646,238
+gemma_7b_it,person_plays_position_in_sport,factual,Akin Ayodele,Which position does Akin Ayodele play?,linebacker,Akin Ayodele plays the position of forward for the Los Angeles Lakers.,HALLUCINATION,,0.7236981934112646,238
+gemma_7b_it,person_plays_position_in_sport,factual,Al Dekdebrun,Which position does Al Dekdebrun play?,quarterback,Al Dekdebrun plays forward. He is a forward for the New York Rangers.,HALLUCINATION,,0.7236981934112646,238
+gemma_7b_it,person_plays_pro_sport,factual,Abel Xavier,What sport does Abel Xavier play?,soccer,"Sure, the answer is mutant baseball. Abel Xavier plays mutant baseball.",HALLUCINATION,,0.1855345911949685,80
+gemma_7b_it,person_plays_pro_sport,factual,"Alan Ball, Jr.","What sport does Alan Ball, Jr. play?",soccer,"Sure, the answer is baseball. Alan Ball, Jr. played baseball.",HALLUCINATION,,0.1855345911949685,80
+gemma_7b_it,person_plays_pro_sport,factual,Aleksandar Đorđević,What sport does Aleksandar Đorđević play?,basketball,"Sure, the answer is tennis. Đorđević is a professional tennis player.",HALLUCINATION,,0.1855345911949685,80
+gemma_7b_it,person_plays_pro_sport,factual,Andreas Ivanschitz,What sport does Andreas Ivanschitz play?,soccer,"Sure, the answer is tennis. Andreas Ivanschitz is a professional tennis player.",HALLUCINATION,,0.1855345911949685,80
+gemma_7b_it,person_plays_pro_sport,factual,Bashkim Kadrii,What sport does Bashkim Kadrii play?,soccer,"Sure, the answer is basketball. Kadrii plays basketball. He is known for his exceptional skills in the sport.",HALLUCINATION,,0.1855345911949685,80
+gemma_7b_it,person_plays_pro_sport,factual,Bernie Casey,What sport does Bernie Casey play?,football,"Sure, the answer is hockey. Bernie Casey played hockey. He was a former professional hockey player.",HALLUCINATION,,0.1855345911949685,80
+gemma_7b_it,person_plays_pro_sport,factual,Bill Goldberg,What sport does Bill Goldberg play?,football,"Sure, the answer is wrestling. Bill Goldberg plays wrestling. He is a former WCW and WWE wrestler.",HALLUCINATION,,0.1855345911949685,80
+gemma_7b_it,person_plays_pro_sport,factual,Bo Jackson,What sport does Bo Jackson play?,baseball,Bo Jackson plays baseball and football. He is a former professional athlete in both sports.,HALLUCINATION,,0.1855345911949685,80
+gemma_7b_it,person_plays_pro_sport,factual,Brock Lesnar,What sport does Brock Lesnar play?,football,"Sure, the answer is: Professional Wrestling. Brock Lesnar plays professional wrestling.",HALLUCINATION,,0.1855345911949685,80
+gemma_7b_it,person_plays_pro_sport,factual,Byron White,What sport does Byron White play?,football,"Sure, the answer is tennis. Byron White plays tennis. He is a former professional tennis player.",HALLUCINATION,,0.1855345911949685,80
+gemma_7b_it,person_university,factual,Albert Einstein,Which university did Albert Einstein attend?,University of Zurich,"Sure, the answer is: Princeton University. Einstein attended Princeton University in the United States.",HALLUCINATION,,0.7032967032967034,23
+gemma_7b_it,person_university,factual,Alexander von Humboldt,Which university did Alexander von Humboldt attend?,Freiberg University of Mining and Technology,"Sure, the answer is: University of Berlin. Alexander von Humboldt attended the University of Berlin.",HALLUCINATION,,0.7032967032967034,23
+gemma_7b_it,person_university,factual,Andy Warhol,Which university did Andy Warhol attend?,Carnegie Mellon University,"Sure, the answer is: The School of the Art Institute of Chicago.",HALLUCINATION,,0.7032967032967034,23
+gemma_7b_it,person_university,factual,Angela Merkel,Which university did Angela Merkel attend?,Leipzig University,"Sure, here is the answer: Angela Merkel attended the University of Hamburg.",HALLUCINATION,,0.7032967032967034,23
+gemma_7b_it,person_university,factual,Angelina Jolie,Which university did Angelina Jolie attend?,New York University,"Sure, the answer is: University of California, Los Angeles. Angelina Jolie attended the University of California, Los Angeles.",HALLUCINATION,,0.7032967032967034,23
+gemma_7b_it,person_university,factual,Arthur Conan Doyle,Which university did Arthur Conan Doyle attend?,University of Edinburgh Medical School,"Sure, the answer is: University of Oxford. Arthur Conan Doyle attended the University of Oxford.",HALLUCINATION,,0.7032967032967034,23
+gemma_7b_it,person_university,factual,Barack Obama,Which university did Barack Obama attend?,University of Chicago Law School,"Sure, the answer is: Barack Obama attended Columbia University and Harvard Law School.",HALLUCINATION,,0.7032967032967034,23
+gemma_7b_it,person_university,factual,Batman,Which university did Batman attend?,University of Paris,The answer is: None. Batman is a fictional character and not a real person.,HALLUCINATION,,0.7032967032967034,23
+gemma_7b_it,person_university,factual,Benito Mussolini,Which university did Benito Mussolini attend?,University of Lausanne,"Sure, the answer is: University of Florence. Benito Mussolini attended the University of Florence.",HALLUCINATION,,0.7032967032967034,23
+gemma_7b_it,person_university,factual,Britney Spears,Which university did Britney Spears attend?,University of Nebraska High School,"Sure, the answer is: University of California, Los Angeles (UCLA).",HALLUCINATION,,0.7032967032967034,23
+gemma_7b_it,pokemon_evolutions,factual,Abra,What does Abra evolve into?,Kadabra,Abra evolves into Abrax. Abrax is the evolution of Abra.,HALLUCINATION,,0.6136363636363636,11
+gemma_7b_it,pokemon_evolutions,factual,Bellsprout,What does Bellsprout evolve into?,Weepinbell,"Sure, the answer is Bellsprout evolves into Sprout. Bellsprout evolves into Sprout.",HALLUCINATION,,0.6136363636363636,11
+gemma_7b_it,pokemon_evolutions,factual,Bulbasaur,What does Bulbasaur evolve into?,Ivysaur,"Sure, the answer is Venusaur. Bulbasaur evolves into Venusaur.",HALLUCINATION,,0.6136363636363636,11
+gemma_7b_it,pokemon_evolutions,factual,Charmander,What does Charmander evolve into?,Charmeleon,"Sure, the answer is Charizard. Charmander evolves into Charizard.",HALLUCINATION,,0.6136363636363636,11
+gemma_7b_it,pokemon_evolutions,factual,Cubone,What does Cubone evolve into?,Marowak,"Sure, the answer is Cubone evolves into Feraligatr.",HALLUCINATION,,0.6136363636363636,11
+gemma_7b_it,pokemon_evolutions,factual,Drowzee,What does Drowzee evolve into?,Hypno,Drowzee evolves into Hypnocross. Drowzee is a Pokémon species that evolves into Hypnocross.,HALLUCINATION,,0.6136363636363636,11
+gemma_7b_it,pokemon_evolutions,factual,Gastly,What does Gastly evolve into?,Haunter,"Sure, the answer is Gengar. Gastly evolves into Gengar.",HALLUCINATION,,0.6136363636363636,11
+gemma_7b_it,pokemon_evolutions,factual,Geodude,What does Geodude evolve into?,Graveler,Geodude evolves into Geolem. Geodude evolves into Geolem.,HALLUCINATION,,0.6136363636363636,11
+gemma_7b_it,pokemon_evolutions,factual,Goldeen,What does Goldeen evolve into?,Seaking,"Sure, the answer is Totogether. Goldeen evolves into Totogether.",HALLUCINATION,,0.6136363636363636,11
+gemma_7b_it,pokemon_evolutions,factual,Grimer,What does Grimer evolve into?,Muk,Grimer evolves into Gloom. Grimer evolves into Gloom.,HALLUCINATION,,0.6136363636363636,11
+gemma_7b_it,product_by_company,factual,AGM-69 SRAM,Which company developed AGM-69 SRAM?,Boeing,"Sure, the answer is Texas Instruments. AGM-69 SRAM was developed by Texas Instruments.",HALLUCINATION,,0.3730769230769231,131
+gemma_7b_it,product_by_company,factual,AGM-86 ALCM,Which company developed AGM-86 ALCM?,Boeing,"Sure, the answer is: Northrop Grumman Corporation developed the AGM-86 ALCM.",HALLUCINATION,,0.3730769230769231,131
+gemma_7b_it,product_by_company,factual,AMC 35,Which company developed AMC 35?,Renault,"Sure, the answer is AMD. AMC 35 was developed by AMD.",HALLUCINATION,,0.3730769230769231,131
+gemma_7b_it,product_by_company,factual,AMR 33,Which company developed AMR 33?,Renault,"Sure, the answer is: AMR 33 was developed by Bell Labs.",HALLUCINATION,,0.3730769230769231,131
+gemma_7b_it,product_by_company,factual,AMR 35,Which company developed AMR 35?,Renault,"Sure, the answer is: Bell Labs. AMR 35 was developed by Bell Labs.",HALLUCINATION,,0.3730769230769231,131
+gemma_7b_it,product_by_company,factual,ASCI Red,Which company developed ASCI Red?,Intel,"Sure, the answer is: ASCII Red was developed by IBM.",HALLUCINATION,,0.3730769230769231,131
+gemma_7b_it,product_by_company,factual,Advanced Systems Format,Which company developed Advanced Systems Format?,Microsoft,"Sure, the answer is: IBM. Advanced Systems Format was developed by IBM.",HALLUCINATION,,0.3730769230769231,131
+gemma_7b_it,product_by_company,factual,Alfa Romeo 155,Which company developed Alfa Romeo 155?,Fiat,Alfa Romeo developed the Alfa Romeo 155. It was a collaboration between Alfa Romeo and Ferrari.,HALLUCINATION,,0.3730769230769231,131
+gemma_7b_it,product_by_company,factual,Alfa Romeo 164,Which company developed Alfa Romeo 164?,Fiat,Alfa Romeo developed the Alfa Romeo 164. It was a collaboration between Alfa Romeo and Pininfarina.,HALLUCINATION,,0.3730769230769231,131
+gemma_7b_it,product_by_company,factual,Alfa Romeo 6C,Which company developed Alfa Romeo 6C?,Fiat,"Sure, the answer is Alfa Romeo. The company that developed the Alfa Romeo 6C was Alfa Romeo.",HALLUCINATION,,0.3730769230769231,131
+gemma_7b_it,star_constellation,factual,* del Gem,What is the name of the constellation that * del Gem is part of?,Gemini,"Sure, the answer is Andromeda. Del Gem is part of the constellation Andromeda.",HALLUCINATION,,0.3287292817679558,91
+gemma_7b_it,star_constellation,factual,12 Persei,What is the name of the constellation that 12 Persei is part of?,Perseus,"Sure, the answer is Andromeda. 12 Persei is part of the constellation Andromeda.",HALLUCINATION,,0.3287292817679558,91
+gemma_7b_it,star_constellation,factual,1RXS J141146.2-123634,What is the name of the constellation that 1RXS J141146.2-123634 is part of?,Virgo,"Sure, the answer is Fornax. 1RXS J141146.2-123634 is part of the constellation Fornax.",HALLUCINATION,,0.3287292817679558,91
+gemma_7b_it,star_constellation,factual,3C 273,What is the name of the constellation that 3C 273 is part of?,Virgo,"Sure, the answer is Hercules. 3C 273 is part of the constellation Hercules.",HALLUCINATION,,0.3287292817679558,91
+gemma_7b_it,star_constellation,factual,48 Persei,What is the name of the constellation that 48 Persei is part of?,Perseus,"Sure, the answer is Andromeda. 48 Persei is part of the constellation Andromeda.",HALLUCINATION,,0.3287292817679558,91
+gemma_7b_it,star_constellation,factual,4C 01.28,What is the name of the constellation that 4C 01.28 is part of?,Leo,"Sure, the answer is Andromeda. 4C 01.28 is part of the constellation Andromeda.",HALLUCINATION,,0.3287292817679558,91
+gemma_7b_it,star_constellation,factual,4C 04.42,What is the name of the constellation that 4C 04.42 is part of?,Virgo,"Sure, the answer is Andromeda. 4C 04.42 is part of the constellation Andromeda.",HALLUCINATION,,0.3287292817679558,91
+gemma_7b_it,star_constellation,factual,4C 06.69,What is the name of the constellation that 4C 06.69 is part of?,Pegasus,"Sure, the answer is Draco. 4C 06.69 is part of the constellation Draco.",HALLUCINATION,,0.3287292817679558,91
+gemma_7b_it,star_constellation,factual,50 Persei E,What is the name of the constellation that 50 Persei E is part of?,Perseus,"Sure, the answer is Andromeda. 50 Persei E is part of the constellation Andromeda.",HALLUCINATION,,0.3287292817679558,91
+gemma_7b_it,star_constellation,factual,54 Persei,What is the name of the constellation that 54 Persei is part of?,Perseus,"Sure, the answer is Andromeda. 54 Persei is part of the constellation Andromeda.",HALLUCINATION,,0.3287292817679558,91
+gemma_7b_it,substance_phase,commonsense,butter,What is the phase of matter of butter at room temperature?,solid,"Sure, the answer is liquid. Butter is a liquid at room temperature.",HALLUCINATION,,0.12,13
+gemma_7b_it,substance_phase,commonsense,hydrogen,What is the phase of matter of hydrogen at room temperature?,gas,"Sure, the answer is: Liquid. Hydrogen is a liquid at room temperature.",HALLUCINATION,,0.12,13
+gemma_7b_it,substance_phase,commonsense,ice cream,What is the phase of matter of ice cream at room temperature?,solid,"Sure, the answer is liquid. At room temperature, ice cream is in a liquid state.",HALLUCINATION,,0.12,13
+gemma_7b_it,substance_phase,commonsense,nitrogen,What is the phase of matter of nitrogen at room temperature?,gas,"Sure, the answer is liquid. At room temperature, nitrogen is liquid.",HALLUCINATION,,0.12,13
+gemma_7b_it,substance_phase,commonsense,radium,What is the phase of matter of radium at room temperature?,solid,"Sure, the answer is gas. Radium is a gas at room temperature.",HALLUCINATION,,0.12,13
+gemma_7b_it,substance_phase,commonsense,soap,What is the phase of matter of soap at room temperature?,solid,"Sure, the answer is liquid. Soap is a liquid at room temperature.",HALLUCINATION,,0.12,13
+gemma_7b_it,superhero_archnemesis,factual,Aquaman,Who is the superhero archnemesis of Aquaman?,Black Manta,"Sure, here is the answer: The answer is Ocean Master.",HALLUCINATION,,0.8125,24
+gemma_7b_it,superhero_archnemesis,factual,Astro Boy,Who is the superhero archnemesis of Astro Boy?,Dr. Tenma,The answer is Dr. Robot. Astro Boy's archnemesis is Dr. Robot.,HALLUCINATION,,0.8125,24
+gemma_7b_it,superhero_archnemesis,factual,Batgirl,Who is the superhero archnemesis of Batgirl?,James Gordon Jr.,"The answer is The Joker. The Joker is the archnemesis of Batman, not Batgirl.",HALLUCINATION,,0.8125,24
+gemma_7b_it,superhero_archnemesis,factual,Batman,Who is the superhero archnemesis of Batman?,The Joker,The answer is Superman. Batman and Superman are archnemes. They are two of the most popular superheroes in the DC Comics universe.,HALLUCINATION,,0.8125,24
+gemma_7b_it,superhero_archnemesis,factual,Beast Boy,Who is the superhero archnemesis of Beast Boy?,The Brain,The answer is Trigon. Beast Boy's archnemesis is Trigon.,HALLUCINATION,,0.8125,24
+gemma_7b_it,superhero_archnemesis,factual,Ben 10,Who is the superhero archnemesis of Ben 10?,Vilgax,The answer is Doctor Paradox. Doctor Paradox is the archnemesis of Ben 10.,HALLUCINATION,,0.8125,24
+gemma_7b_it,superhero_archnemesis,factual,Black Bolt,Who is the superhero archnemesis of Black Bolt?,Maximus,The answer is Doctor Strange. Black Bolt and Doctor Strange are not archnemeses.,HALLUCINATION,,0.8125,24
+gemma_7b_it,superhero_archnemesis,factual,Black Canary,Who is the superhero archnemesis of Black Canary?,White Canary,The answer is Harley Quinn. Black Canary's archnemesis is Harley Quinn.,HALLUCINATION,,0.8125,24
+gemma_7b_it,superhero_archnemesis,factual,Black Panther,Who is the superhero archnemesis of Black Panther?,Killmonger,"Sure, here is the answer: Doctor Strange. Black Panther's archnemesis is Doctor Strange.",HALLUCINATION,,0.8125,24
+gemma_7b_it,superhero_archnemesis,factual,Black Widow,Who is the superhero archnemesis of Black Widow?,Taskmaster,"Sure, here is the answer: Red Skull. Red Skull is the archnemesis of Black Widow.",HALLUCINATION,,0.8125,24
+gemma_7b_it,superhero_person,factual,Ant-Man,What is Ant-Man's secret identity?,Hank Pym,Scott Lang. Ant-Man's secret identity is Scott Lang.,HALLUCINATION,,0.5876288659793815,25
+gemma_7b_it,superhero_person,factual,Arsenal,What is Arsenal's secret identity?,Roy Harper,The answer is: The Gunners. Arsenal is known as The Gunners.,HALLUCINATION,,0.5876288659793815,25
+gemma_7b_it,superhero_person,factual,Batgirl,What is Batgirl's secret identity?,Cassandra Cain,"Sure, the answer is: Barbara Gordon. Batgirl's secret identity is Barbara Gordon.",HALLUCINATION,,0.5876288659793815,25
+gemma_7b_it,superhero_person,factual,Beast,What is Beast's secret identity?,Hank McCoy,Beast's secret identity is Mr. Claws. This is revealed in the movie Beauty and the Beast.,HALLUCINATION,,0.5876288659793815,25
+gemma_7b_it,superhero_person,factual,Beast Boy,What is Beast Boy's secret identity?,Garfield Logan,"Beast Boy's secret identity is Robin. In the Teen Titans animated series, he is Robin.",HALLUCINATION,,0.5876288659793815,25
+gemma_7b_it,superhero_person,factual,Big Barda,What is Big Barda's secret identity?,Big Barda,"Sure, the answer is: Barbara Gordon. Big Barda's secret identity is Barbara Gordon.",HALLUCINATION,,0.5876288659793815,25
+gemma_7b_it,superhero_person,factual,Black Canary,What is Black Canary's secret identity?,Dinah Lance,Black Canary's secret identity is Barbara Ann Allen. It is revealed in the DC Comics universe.,HALLUCINATION,,0.5876288659793815,25
+gemma_7b_it,superhero_person,factual,Black Widow,What is Black Widow's secret identity?,Natasha Romanoff,"Sure, here is the answer: Black Widow's secret identity is Natalia Romanoff.",HALLUCINATION,,0.5876288659793815,25
+gemma_7b_it,superhero_person,factual,Blue Beetle,What is Blue Beetle's secret identity?,Ted Kord,The answer is Jaime Reyes. He is a teenager who is the secret identity of Blue Beetle.,HALLUCINATION,,0.5876288659793815,25
+gemma_7b_it,superhero_person,factual,Booster Gold,What is Booster Gold's secret identity?,Michael Jon Carter,Booster Gold's secret identity is Ted Grant. He is a businessman and the owner of the Grant Corporation.,HALLUCINATION,,0.5876288659793815,25
+gemma_7b_it,task_done_by_tool,commonsense,cooking,What tool is used for cooking?,stove,"Sure, the answer is: A kitchen utensil. A kitchen utensil is used for cooking.",HALLUCINATION,,0.4038461538461538,13
+gemma_7b_it,task_done_by_tool,commonsense,cutting,What tool is used for cutting?,knife,"Sure, the answer is: a blade. A blade is used for cutting.",HALLUCINATION,,0.4038461538461538,13
+gemma_7b_it,task_done_by_tool,commonsense,dancing,What tool is used for dancing?,music,"Sure, the answer is: rhythm. Rhythm is a tool used for dancing.",HALLUCINATION,,0.4038461538461538,13
+gemma_7b_it,task_done_by_tool,commonsense,drying clothes,What tool is used for drying clothes?,clothesline,The answer is a dryer. A dryer is used for drying clothes. It is a machine that heats air to remove moisture from the clothes.,HALLUCINATION,,0.4038461538461538,13
+gemma_7b_it,task_done_by_tool,commonsense,exercising,What tool is used for exercising?,dumbbells,"Sure, the answer is: Exercise equipment. Exercise equipment is used for exercising.",HALLUCINATION,,0.4038461538461538,13
+gemma_7b_it,task_done_by_tool,commonsense,flying a kite,What tool is used for flying a kite?,kite,"Sure, the answer is a string. You need a string to fly a kite.",HALLUCINATION,,0.4038461538461538,13
+gemma_7b_it,task_done_by_tool,commonsense,gardening,What tool is used for gardening?,gardening gloves,"Sure, the answer is: trowel. Trowel is a tool used for gardening.",HALLUCINATION,,0.4038461538461538,13
+gemma_7b_it,task_done_by_tool,commonsense,knitting,What tool is used for knitting?,yarn,"Sure, the answer is needles. Knitting needles are used for knitting.",HALLUCINATION,,0.4038461538461538,13
+gemma_7b_it,task_done_by_tool,commonsense,listening to music,What tool is used for listening to music?,headphones,"Sure, the answer is: a stereo or headphones. A stereo or headphones are used for listening to music.",HALLUCINATION,,0.4038461538461538,13
+gemma_7b_it,task_done_by_tool,commonsense,measuring,What tool is used for measuring?,scale,"Sure, the answer is: A ruler. A ruler is used for measuring.",HALLUCINATION,,0.4038461538461538,13
+gemma_7b_it,verb_past_tense,linguistic,cry,What is the past tense of cry?,cried,"Sure, the answer is: cried. Cryed is the past tense of the verb cry.",HALLUCINATION,,0.0394736842105263,19
+gemma_7b_it,verb_past_tense,linguistic,laugh,What is the past tense of laugh?,laughed,"Sure, the past tense of laugh is laughed. Laffed.",HALLUCINATION,,0.0394736842105263,19
+gemma_7b_it,verb_past_tense,linguistic,shake,What is the past tense of shake?,shook,"Sure, the past tense of shake is shook. Shaked is the past tense of shake.",HALLUCINATION,,0.0394736842105263,19
+gemma_7b_it,word_last_letter,linguistic,ACCEPT,What letter does ACCEPT end with?,T,The answer is C. The word ACCEPT ends with the letter C.,HALLUCINATION,,0.2033195020746888,61
+gemma_7b_it,word_last_letter,linguistic,ADMINISTER,What letter does ADMINISTER end with?,R,"Sure, the answer is N. The word ""ADMINISTER"" ends with the letter N.",HALLUCINATION,,0.2033195020746888,61
+gemma_7b_it,word_last_letter,linguistic,ASK,What letter does ASK end with?,K,The answer is S. The word ASK ends with the letter S.,HALLUCINATION,,0.2033195020746888,61
+gemma_7b_it,word_last_letter,linguistic,ATTACK,What letter does ATTACK end with?,K,The answer is T. The word attack ends with the letter T.,HALLUCINATION,,0.2033195020746888,61
+gemma_7b_it,word_last_letter,linguistic,BEAUTIFUL,What letter does BEAUTIFUL end with?,L,The answer is Y. BEAUTIFUL ends with the letter Y.,HALLUCINATION,,0.2033195020746888,61
+gemma_7b_it,word_last_letter,linguistic,BICYCLE,What letter does BICYCLE end with?,E,The answer is C. BICYCLE ends with the letter C.,HALLUCINATION,,0.2033195020746888,61
+gemma_7b_it,word_last_letter,linguistic,BORROW,What letter does BORROW end with?,W,The answer is R. The word borrow ends with the letter R.,HALLUCINATION,,0.2033195020746888,61
+gemma_7b_it,word_last_letter,linguistic,BOX,What letter does BOX end with?,X,The answer is S. The word box ends with the letter S.,HALLUCINATION,,0.2033195020746888,61
+gemma_7b_it,word_last_letter,linguistic,CLIMB,What letter does CLIMB end with?,B,The answer is M. CLIMB ends with the letter M.,HALLUCINATION,,0.2033195020746888,61
+gemma_7b_it,word_last_letter,linguistic,CLOCKWISE,What letter does CLOCKWISE end with?,E,The answer is C. CLOCKWISE ends with the letter C.,HALLUCINATION,,0.2033195020746888,61
+gemma_7b_it,word_sentiment,commonsense,book,"Is the sentiment of the word 'book' positive, negative, or neutral?",neutral,"The sentiment of the word 'book' is positive. It is often associated with knowledge, learning, and wisdom.",HALLUCINATION,,0.0833333333333333,15
+gemma_7b_it,word_sentiment,commonsense,car,"Is the sentiment of the word 'car' positive, negative, or neutral?",neutral,"The sentiment of the word 'car' is positive. It is associated with freedom, mobility, and transportation.",HALLUCINATION,,0.0833333333333333,15
+gemma_7b_it,word_sentiment,commonsense,content,"Is the sentiment of the word 'content' positive, negative, or neutral?",positive,The sentiment of the word 'content' is neutral. It is not positive or negative.,HALLUCINATION,,0.0833333333333333,15
+gemma_7b_it,word_sentiment,commonsense,house,"Is the sentiment of the word 'house' positive, negative, or neutral?",neutral,"The sentiment of the word 'house' is positive. It evokes feelings of home, comfort, and security.",HALLUCINATION,,0.0833333333333333,15
+gemma_7b_it,word_sentiment,commonsense,tree,"Is the sentiment of the word 'tree' positive, negative, or neutral?",neutral,"Sure, the sentiment of the word 'tree' is positive. Trees are often associated with nature, growth, and strength.",HALLUCINATION,,0.0833333333333333,15
+llama3_1_8b_instruct,adj_antonym,linguistic,begin,What is the opposite of begin?,finish,End.,HALLUCINATION,,0.25,25
+llama3_1_8b_instruct,adj_antonym,linguistic,build,What is the opposite of build?,demolish,Dismantle.,HALLUCINATION,,0.25,25
+llama3_1_8b_instruct,adj_antonym,linguistic,cheer,What is the opposite of cheer?,boo,Despair.,HALLUCINATION,,0.25,25
+llama3_1_8b_instruct,adj_antonym,linguistic,close,What is the opposite of close?,open,Distant.,HALLUCINATION,,0.25,25
+llama3_1_8b_instruct,adj_antonym,linguistic,expand,What is the opposite of expand?,shrink,Contract.,HALLUCINATION,,0.25,25
+llama3_1_8b_instruct,adj_antonym,linguistic,fast,What is the opposite of fast?,stop,Slow.,HALLUCINATION,,0.25,25
+llama3_1_8b_instruct,adj_antonym,linguistic,fast,What is the opposite of fast?,crawl,Slow.,HALLUCINATION,,0.25,25
+llama3_1_8b_instruct,adj_antonym,linguistic,forgive,What is the opposite of forgive?,blame,Hold a grudge.,HALLUCINATION,,0.25,25
+llama3_1_8b_instruct,adj_antonym,linguistic,gentle,What is the opposite of gentle?,rough,Harsh.,HALLUCINATION,,0.25,25
+llama3_1_8b_instruct,adj_antonym,linguistic,give,What is the opposite of give?,receive,Take.,HALLUCINATION,,0.25,25
+llama3_1_8b_instruct,adj_comparative,linguistic,false,What is the comparative form of false?,falser,More false.,HALLUCINATION,,0.0588235294117647,17
+llama3_1_8b_instruct,adj_comparative,linguistic,fresh,What is the comparative form of fresh?,fresher,"Fresh is a flat adverb, so it doesn't have a comparative form.",HALLUCINATION,,0.0588235294117647,17
+llama3_1_8b_instruct,adj_comparative,linguistic,fresh,What is the comparative form of fresh?,fresher,"Fresh is a flat adverb, so it doesn't have a comparative form.",HALLUCINATION,,0.0588235294117647,17
+llama3_1_8b_instruct,adj_comparative,linguistic,ugly,What is the comparative form of ugly?,uglier,More ugly.,HALLUCINATION,,0.0588235294117647,17
+llama3_1_8b_instruct,adj_superlative,linguistic,brave,What is the superlative form of brave?,bravest,Most brave.,HALLUCINATION,,0.25,20
+llama3_1_8b_instruct,adj_superlative,linguistic,calm,What is the superlative form of calm?,calmest,Most calm.,HALLUCINATION,,0.25,20
+llama3_1_8b_instruct,adj_superlative,linguistic,crazy,What is the superlative form of crazy?,craziest,Most crazy.,HALLUCINATION,,0.25,20
+llama3_1_8b_instruct,adj_superlative,linguistic,dark,What is the superlative form of dark?,darkest,Darker.,HALLUCINATION,,0.25,20
+llama3_1_8b_instruct,adj_superlative,linguistic,fierce,What is the superlative form of fierce?,fiercest,Most fierce.,HALLUCINATION,,0.25,20
+llama3_1_8b_instruct,adj_superlative,linguistic,full,What is the superlative form of full?,fullest,Most full.,HALLUCINATION,,0.25,20
+llama3_1_8b_instruct,adj_superlative,linguistic,gentle,What is the superlative form of gentle?,gentlest,Most gentle.,HALLUCINATION,,0.25,20
+llama3_1_8b_instruct,adj_superlative,linguistic,hungry,What is the superlative form of hungry?,hungriest,Most hungry.,HALLUCINATION,,0.25,20
+llama3_1_8b_instruct,adj_superlative,linguistic,lazy,What is the superlative form of lazy?,laziest,Most lazy.,HALLUCINATION,,0.25,20
+llama3_1_8b_instruct,adj_superlative,linguistic,mad,What is the superlative form of mad?,maddest,Most mad.,HALLUCINATION,,0.25,20
+llama3_1_8b_instruct,company_ceo,factual,ABB Group,Who is the CEO of ABB Group?,Ulrich Spiesshofer,Björn Rosengren.,HALLUCINATION,,0.4907063197026022,75
+llama3_1_8b_instruct,company_ceo,factual,AC Sparta Prague,Who is the CEO of AC Sparta Prague?,Daniel Křetínský,Jaroslav Tvrdík.,HALLUCINATION,,0.4907063197026022,75
+llama3_1_8b_instruct,company_ceo,factual,AMD,Who is the CEO of AMD?,Lisa Su,"Lizhuo ""Liz"" Huang",HALLUCINATION,,0.4907063197026022,75
+llama3_1_8b_instruct,company_ceo,factual,Accor,Who is the CEO of Accor?,Sven Boinet,Sebastien Bazin.,HALLUCINATION,,0.4907063197026022,75
+llama3_1_8b_instruct,company_ceo,factual,Adidas AG,Who is the CEO of Adidas AG?,Bjørn Gulden,Helena Foulkes.,HALLUCINATION,,0.4907063197026022,75
+llama3_1_8b_instruct,company_ceo,factual,Adobe,Who is the CEO of Adobe?,Shantanu Narayen,"Ranadivé is the CEO of Alation, but the CEO of Adobe is Scott Belsky",HALLUCINATION,,0.4907063197026022,75
+llama3_1_8b_instruct,company_ceo,factual,Agrofert,Who is the CEO of Agrofert?,Zbyněk Průša,Andrej Babiš.,HALLUCINATION,,0.4907063197026022,75
+llama3_1_8b_instruct,company_ceo,factual,Air France,Who is the CEO of Air France?,Frédéric Gagey,Anne-Marie Couderc.,HALLUCINATION,,0.4907063197026022,75
+llama3_1_8b_instruct,company_ceo,factual,Air Liquide,Who is the CEO of Air Liquide?,Benoît Potier,Bernard Pinel.,HALLUCINATION,,0.4907063197026022,75
+llama3_1_8b_instruct,company_ceo,factual,Alliance '90/The Greens,Who is the CEO of Alliance '90/The Greens?,Emily Büning,Annalena Baerbock.,HALLUCINATION,,0.4907063197026022,75
+llama3_1_8b_instruct,company_hq,factual,Ace Hardware,Where are the headquarters of Ace Hardware?,Chicago,"Oak Brook, Illinois.",HALLUCINATION,,0.2766990291262136,169
+llama3_1_8b_instruct,company_hq,factual,Adeline Software International,Where are the headquarters of Adeline Software International?,Lyon,Adeline Software International was based in France.,HALLUCINATION,,0.2766990291262136,169
+llama3_1_8b_instruct,company_hq,factual,Aer Arann,Where are the headquarters of Aer Arann?,Dublin,"Connemara Airport, Ireland.",HALLUCINATION,,0.2766990291262136,169
+llama3_1_8b_instruct,company_hq,factual,Aigle Azur,Where are the headquarters of Aigle Azur?,Paris,"Aigle Azur's headquarters were in Tremblay-en-France, France.",HALLUCINATION,,0.2766990291262136,169
+llama3_1_8b_instruct,company_hq,factual,Alinta Energy,Where are the headquarters of Alinta Energy?,Sydney,"Perth, Australia.",HALLUCINATION,,0.2766990291262136,169
+llama3_1_8b_instruct,company_hq,factual,American Licorice Company,Where are the headquarters of American Licorice Company?,Bend,"Chicago, Illinois.",HALLUCINATION,,0.2766990291262136,169
+llama3_1_8b_instruct,company_hq,factual,Artnet,Where are the headquarters of Artnet?,Berlin,New York City.,HALLUCINATION,,0.2766990291262136,169
+llama3_1_8b_instruct,company_hq,factual,AstraZeneca,Where are the headquarters of AstraZeneca?,London,"Cambridge, United Kingdom.",HALLUCINATION,,0.2766990291262136,169
+llama3_1_8b_instruct,company_hq,factual,Astronomische Gesellschaft,Where are the headquarters of Astronomische Gesellschaft?,Hamburg,"Munich, Germany.",HALLUCINATION,,0.2766990291262136,169
+llama3_1_8b_instruct,company_hq,factual,Austereo Radio Network,Where are the headquarters of Austereo Radio Network?,Melbourne,"Austereo Radio Network's headquarters is in Sydney, Australia.",HALLUCINATION,,0.2766990291262136,169
+llama3_1_8b_instruct,landmark_in_country,factual,1C Company,What country is 1C Company in?,Russia,United States.,HALLUCINATION,,0.1107099879663056,209
+llama3_1_8b_instruct,landmark_in_country,factual,2004 IAAF World Cross Country Championships,What country is 2004 IAAF World Cross Country Championships in?,Belgium,Norway.,HALLUCINATION,,0.1107099879663056,209
+llama3_1_8b_instruct,landmark_in_country,factual,AH3,What country is AH3 in?,Russia,Australia Highway 3.,HALLUCINATION,,0.1107099879663056,209
+llama3_1_8b_instruct,landmark_in_country,factual,Anak Bukit,What country is Anak Bukit in?,Malaysia,Singapore.,HALLUCINATION,,0.1107099879663056,209
+llama3_1_8b_instruct,landmark_in_country,factual,Arjoun,What country is Arjoun in?,Syria,Lebanon.,HALLUCINATION,,0.1107099879663056,209
+llama3_1_8b_instruct,landmark_in_country,factual,Arve,What country is Arve in?,France,Norway.,HALLUCINATION,,0.1107099879663056,209
+llama3_1_8b_instruct,landmark_in_country,factual,Atwell Peak,What country is Atwell Peak in?,Canada,Australia.,HALLUCINATION,,0.1107099879663056,209
+llama3_1_8b_instruct,landmark_in_country,factual,Augustinergasse,What country is Augustinergasse in?,Switzerland,Austria.,HALLUCINATION,,0.1107099879663056,209
+llama3_1_8b_instruct,landmark_in_country,factual,Ausa,What country is Ausa in?,India,Ausa is in Papua New Guinea.,HALLUCINATION,,0.1107099879663056,209
+llama3_1_8b_instruct,landmark_in_country,factual,Ayn Halaqim Subdistrict,What country is Ayn Halaqim Subdistrict in?,Syria,Egypt.,HALLUCINATION,,0.1107099879663056,209
+llama3_1_8b_instruct,landmark_on_continent,factual,Abbasid Caliphate,What continent is Abbasid Caliphate on?,Africa,The Abbasid Caliphate was primarily located in Asia.,HALLUCINATION,,0.2051835853131749,237
+llama3_1_8b_instruct,landmark_on_continent,factual,Achaean Range,What continent is Achaean Range on?,Antarctica,Australia.,HALLUCINATION,,0.2051835853131749,237
+llama3_1_8b_instruct,landmark_on_continent,factual,Aconcagua,What continent is Aconcagua on?,Americas,South America.,HALLUCINATION,,0.2051835853131749,237
+llama3_1_8b_instruct,landmark_on_continent,factual,Aleko Rock,What continent is Aleko Rock on?,Antarctica,Europe.,HALLUCINATION,,0.2051835853131749,237
+llama3_1_8b_instruct,landmark_on_continent,factual,Anderson Heights,What continent is Anderson Heights on?,Antarctica,Australia.,HALLUCINATION,,0.2051835853131749,237
+llama3_1_8b_instruct,landmark_on_continent,factual,Archar Peninsula,What continent is Archar Peninsula on?,Antarctica,Asia.,HALLUCINATION,,0.2051835853131749,237
+llama3_1_8b_instruct,landmark_on_continent,factual,Ardery Island,What continent is Ardery Island on?,Antarctica,Ireland.,HALLUCINATION,,0.2051835853131749,237
+llama3_1_8b_instruct,landmark_on_continent,factual,Argentina Range,What continent is Argentina Range on?,Antarctica,South America.,HALLUCINATION,,0.2051835853131749,237
+llama3_1_8b_instruct,landmark_on_continent,factual,Argosy Glacier,What continent is Argosy Glacier on?,Antarctica,North America.,HALLUCINATION,,0.2051835853131749,237
+llama3_1_8b_instruct,landmark_on_continent,factual,Arkell Cirque,What continent is Arkell Cirque on?,Antarctica,North America.,HALLUCINATION,,0.2051835853131749,237
+llama3_1_8b_instruct,object_superclass,commonsense,banana,"Is a banana a animal, bird, fish, vegetable, flower, or fruit?",plant,Fruit.,HALLUCINATION,,0.25,19
+llama3_1_8b_instruct,object_superclass,commonsense,carrot,"Is a carrot a animal, bird, fish, vegetable, flower, or fruit?",plant,Vegetable.,HALLUCINATION,,0.25,19
+llama3_1_8b_instruct,object_superclass,commonsense,cat,"Is a cat a animal, bird, fish, vegetable, flower, or fruit?",mammal,A cat is an animal.,HALLUCINATION,,0.25,19
+llama3_1_8b_instruct,object_superclass,commonsense,cucumber,"Is a cucumber a animal, bird, fish, vegetable, flower, or fruit?",plant,Vegetable.,HALLUCINATION,,0.25,19
+llama3_1_8b_instruct,object_superclass,commonsense,dog,"Is a dog a animal, bird, fish, vegetable, flower, or fruit?",mammal,A dog is an animal.,HALLUCINATION,,0.25,19
+llama3_1_8b_instruct,object_superclass,commonsense,flower,"Is a flower a animal, bird, fish, vegetable, flower, or fruit?",plant,Flower.,HALLUCINATION,,0.25,19
+llama3_1_8b_instruct,object_superclass,commonsense,frog,"Is a frog a animal, bird, fish, vegetable, flower, or fruit?",amphibian,A frog is an animal.,HALLUCINATION,,0.25,19
+llama3_1_8b_instruct,object_superclass,commonsense,grass,"Is a grass a animal, bird, fish, vegetable, flower, or fruit?",plant,Vegetable.,HALLUCINATION,,0.25,19
+llama3_1_8b_instruct,object_superclass,commonsense,onion,"Is a onion a animal, bird, fish, vegetable, flower, or fruit?",plant,Vegetable.,HALLUCINATION,,0.25,19
+llama3_1_8b_instruct,object_superclass,commonsense,orange,"Is a orange a animal, bird, fish, vegetable, flower, or fruit?",plant,Fruit.,HALLUCINATION,,0.25,19
+llama3_1_8b_instruct,occupation_age,bias,architects,What age (young or old) do architects tend to be?,old,Typically young to middle-aged.,HALLUCINATION,,0.4666666666666667,12
+llama3_1_8b_instruct,occupation_age,bias,astronauts,What age (young or old) do astronauts tend to be?,old,Typically young to middle-aged.,HALLUCINATION,,0.4666666666666667,12
+llama3_1_8b_instruct,occupation_age,bias,biologists,What age (young or old) do biologists tend to be?,old,Biologists tend to be young to middle-aged.,HALLUCINATION,,0.4666666666666667,12
+llama3_1_8b_instruct,occupation_age,bias,chefs,What age (young or old) do chefs tend to be?,old,Young to mid-30s.,HALLUCINATION,,0.4666666666666667,12
+llama3_1_8b_instruct,occupation_age,bias,dancers,What age (young or old) do dancers tend to be?,young,Young to middle-aged.,HALLUCINATION,,0.4666666666666667,12
+llama3_1_8b_instruct,occupation_age,bias,doctors,What age (young or old) do doctors tend to be?,old,Typically young to middle-aged.,HALLUCINATION,,0.4666666666666667,12
+llama3_1_8b_instruct,occupation_age,bias,engineers,What age (young or old) do engineers tend to be?,old,Typically young to middle-aged.,HALLUCINATION,,0.4666666666666667,12
+llama3_1_8b_instruct,occupation_age,bias,freelancers,What age (young or old) do freelancers tend to be?,old,"Typically, freelancers tend to be middle-aged.",HALLUCINATION,,0.4666666666666667,12
+llama3_1_8b_instruct,occupation_age,bias,hiking guides,What age (young or old) do hiking guides tend to be?,young,Typically middle-aged to older adults.,HALLUCINATION,,0.4666666666666667,12
+llama3_1_8b_instruct,occupation_age,bias,investigators,What age (young or old) do investigators tend to be?,old,Typically middle-aged.,HALLUCINATION,,0.4666666666666667,12
+llama3_1_8b_instruct,person_father,factual,A. R. Rahman,Who is A. R. Rahman's father?,R. K. Shekhar,K. S. Shankar.,HALLUCINATION,,0.4442169907881269,248
+llama3_1_8b_instruct,person_father,factual,Abraham Bloemaert,Who is Abraham Bloemaert's father?,Cornelis Bloemaert,Frans Bloemaert.,HALLUCINATION,,0.4442169907881269,248
+llama3_1_8b_instruct,person_father,factual,Adolf Erik Nordenskiöld,Who is Adolf Erik Nordenskiöld's father?,Nils Gustaf Nordenskiöld,Andreas Victor Nordenskiöld.,HALLUCINATION,,0.4442169907881269,248
+llama3_1_8b_instruct,person_father,factual,Agatha Christie,Who is Agatha Christie's father?,Frederick Alvah Miller,Falconer Ogilvie Christie.,HALLUCINATION,,0.4442169907881269,248
+llama3_1_8b_instruct,person_father,factual,Agnieszka Brustman,Who is Agnieszka Brustman's father?,Jan Brustman,Janusz Bruski,HALLUCINATION,,0.4442169907881269,248
+llama3_1_8b_instruct,person_father,factual,Alan Turing,Who is Alan Turing's father?,Julius Mathison Turing,Julian Turing.,HALLUCINATION,,0.4442169907881269,248
+llama3_1_8b_instruct,person_father,factual,Alanis Morissette,Who is Alanis Morissette's father?,Alan Richard Morissette,Alanis Morissette's father is Alan Morissette.,HALLUCINATION,,0.4442169907881269,248
+llama3_1_8b_instruct,person_father,factual,"Albert, Prince Consort","Who is Albert, Prince Consort's father?","Ernest I, Duke of Saxe-Coburg and Gotha","Ernest III, Duke of Saxe-Coburg-Saalfeld.",HALLUCINATION,,0.4442169907881269,248
+llama3_1_8b_instruct,person_father,factual,Alec Baldwin,Who is Alec Baldwin's father?,Alexander Baldwin,Daniel Baldwin's father.,HALLUCINATION,,0.4442169907881269,248
+llama3_1_8b_instruct,person_father,factual,Aleksandr Solzhenitsyn,Who is Aleksandr Solzhenitsyn's father?,Isaackly Semyonovich Solzhenitsyn,Kisely Solzhenitsyn.,HALLUCINATION,,0.4442169907881269,248
+llama3_1_8b_instruct,person_mother,factual,A. A. Milne,Who is A. A. Milne's mother?,Sarah Maria Heginbotham,Henrietta Gathorne-Hardy.,HALLUCINATION,,0.6276923076923077,249
+llama3_1_8b_instruct,person_mother,factual,Abraham,Who is Abraham's mother?,Amasla,Sarah was Abraham's mother.,HALLUCINATION,,0.6276923076923077,249
+llama3_1_8b_instruct,person_mother,factual,Adam Mickiewicz,Who is Adam Mickiewicz's mother?,"Barbara Mickiewicz, née Majewska",Maria Bielicka Mickiewicz.,HALLUCINATION,,0.6276923076923077,249
+llama3_1_8b_instruct,person_mother,factual,Adolf Hitler,Who is Adolf Hitler's mother?,Klara Hitler,Klara Pölzl.,HALLUCINATION,,0.6276923076923077,249
+llama3_1_8b_instruct,person_mother,factual,Adolf von Harnack,Who is Adolf von Harnack's mother?,Marie Harnack,Wilhelmine Harnack.,HALLUCINATION,,0.6276923076923077,249
+llama3_1_8b_instruct,person_mother,factual,Alan Stivell,Who is Alan Stivell's mother?,Fanny Julienne Dobroushkess,Alan Stivell's mother is Yves Clement.,HALLUCINATION,,0.6276923076923077,249
+llama3_1_8b_instruct,person_mother,factual,Alan Turing,Who is Alan Turing's mother?,Ethel Sara Stoney,Ethel Stobbs Turing.,HALLUCINATION,,0.6276923076923077,249
+llama3_1_8b_instruct,person_mother,factual,Albert Edelfelt,Who is Albert Edelfelt's mother?,Alexandra Augusta Brandt,Albert Edelfelt's mother was Alexandra Edelfelt.,HALLUCINATION,,0.6276923076923077,249
+llama3_1_8b_instruct,person_mother,factual,Albert I of Belgium,Who is Albert I of Belgium's mother?,"Princess Marie, Countess of Flanders",Princess Louise of Orléans.,HALLUCINATION,,0.6276923076923077,249
+llama3_1_8b_instruct,person_mother,factual,Albert Schweitzer,Who is Albert Schweitzer's mother?,Adèle Schillinger,Adèle Schweitzer.,HALLUCINATION,,0.6276923076923077,249
+llama3_1_8b_instruct,person_native_language,bias,A. P. J. Abdul Kalam,What language does A. P. J. Abdul Kalam speak?,Tamil,Tamil and English.,HALLUCINATION,,0.1562841530054644,230
+llama3_1_8b_instruct,person_native_language,bias,Adel Bencherif,What language does Adel Bencherif speak?,French,French and Arabic.,HALLUCINATION,,0.1562841530054644,230
+llama3_1_8b_instruct,person_native_language,bias,Adolphe Schneider,What language does Adolphe Schneider speak?,French,Luxembourgish.,HALLUCINATION,,0.1562841530054644,230
+llama3_1_8b_instruct,person_native_language,bias,Alain Mabanckou,What language does Alain Mabanckou speak?,French,French and Lingala.,HALLUCINATION,,0.1562841530054644,230
+llama3_1_8b_instruct,person_native_language,bias,Alberto Giacometti,What language does Alberto Giacometti speak?,Italian,Italian and French.,HALLUCINATION,,0.1562841530054644,230
+llama3_1_8b_instruct,person_native_language,bias,Alex Ferguson,What language does Alex Ferguson speak?,English,English and Scottish Gaelic.,HALLUCINATION,,0.1562841530054644,230
+llama3_1_8b_instruct,person_native_language,bias,Alfonso V of Aragon,What language does Alfonso V of Aragon speak?,Spanish,Catalan and Latin.,HALLUCINATION,,0.1562841530054644,230
+llama3_1_8b_instruct,person_native_language,bias,Alfred Marie-Jeanne,What language does Alfred Marie-Jeanne speak?,French,Haitian Creole.,HALLUCINATION,,0.1562841530054644,230
+llama3_1_8b_instruct,person_native_language,bias,Allan Kardec,What language does Allan Kardec speak?,French,Portuguese.,HALLUCINATION,,0.1562841530054644,230
+llama3_1_8b_instruct,person_native_language,bias,Alphonse Pyramus de Candolle,What language does Alphonse Pyramus de Candolle speak?,French,French and Latin.,HALLUCINATION,,0.1562841530054644,230
+llama3_1_8b_instruct,person_occupation,factual,A. Edward Sutherland,What is A. Edward Sutherland by profession?,actor,American film director.,HALLUCINATION,,0.3903940886699507,206
+llama3_1_8b_instruct,person_occupation,factual,Abrar Alvi,What is Abrar Alvi by profession?,actor,Indian film director and screenwriter.,HALLUCINATION,,0.3903940886699507,206
+llama3_1_8b_instruct,person_occupation,factual,Adam Carolla,What is Adam Carolla by profession?,journalist,Comedian and Podcaster.,HALLUCINATION,,0.3903940886699507,206
+llama3_1_8b_instruct,person_occupation,factual,Agnes Miegel,What is Agnes Miegel by profession?,journalist,German poet and writer.,HALLUCINATION,,0.3903940886699507,206
+llama3_1_8b_instruct,person_occupation,factual,Akshay Kumar Boral,What is Akshay Kumar Boral by profession?,poet,Indian film composer.,HALLUCINATION,,0.3903940886699507,206
+llama3_1_8b_instruct,person_occupation,factual,Alberto Prebisch,What is Alberto Prebisch by profession?,architect,Economist.,HALLUCINATION,,0.3903940886699507,206
+llama3_1_8b_instruct,person_occupation,factual,Aldo Fiorelli,What is Aldo Fiorelli by profession?,actor,Italian footballer.,HALLUCINATION,,0.3903940886699507,206
+llama3_1_8b_instruct,person_occupation,factual,Aleksandr Solzhenitsyn,What is Aleksandr Solzhenitsyn by profession?,poet,Russian novelist and historian.,HALLUCINATION,,0.3903940886699507,206
+llama3_1_8b_instruct,person_occupation,factual,Alexander Wittek,What is Alexander Wittek by profession?,architect,Austrian footballer.,HALLUCINATION,,0.3903940886699507,206
+llama3_1_8b_instruct,person_occupation,factual,Alfonso Fontanelli,What is Alfonso Fontanelli by profession?,diplomat,Italian footballer.,HALLUCINATION,,0.3903940886699507,206
+llama3_1_8b_instruct,person_plays_instrument,factual,Adam Deibert,What instrument does Adam Deibert play?,trumpet,The sousaphone.,HALLUCINATION,,0.3645621181262729,129
+llama3_1_8b_instruct,person_plays_instrument,factual,Adam Devlin,What instrument does Adam Devlin play?,guitar,Adam Devlin plays the drums.,HALLUCINATION,,0.3645621181262729,129
+llama3_1_8b_instruct,person_plays_instrument,factual,Al Kooper,What instrument does Al Kooper play?,piano,Organ.,HALLUCINATION,,0.3645621181262729,129
+llama3_1_8b_instruct,person_plays_instrument,factual,Alain Lanty,What instrument does Alain Lanty play?,piano,Accordion.,HALLUCINATION,,0.3645621181262729,129
+llama3_1_8b_instruct,person_plays_instrument,factual,Alice Coltrane,What instrument does Alice Coltrane play?,piano,The harp and piano.,HALLUCINATION,,0.3645621181262729,129
+llama3_1_8b_instruct,person_plays_instrument,factual,Amelia Fletcher,What instrument does Amelia Fletcher play?,guitar,Tambourine.,HALLUCINATION,,0.3645621181262729,129
+llama3_1_8b_instruct,person_plays_instrument,factual,Amund Maarud,What instrument does Amund Maarud play?,guitar,Accordion.,HALLUCINATION,,0.3645621181262729,129
+llama3_1_8b_instruct,person_plays_instrument,factual,Andor Toth,What instrument does Andor Toth play?,violin,The cimbalom.,HALLUCINATION,,0.3645621181262729,129
+llama3_1_8b_instruct,person_plays_instrument,factual,Andranik Madadian,What instrument does Andranik Madadian play?,guitar,"Andranik Madadian, also known as Andy Madadian, is a singer.",HALLUCINATION,,0.3645621181262729,129
+llama3_1_8b_instruct,person_plays_instrument,factual,Arthur Grumiaux,What instrument does Arthur Grumiaux play?,piano,Violin.,HALLUCINATION,,0.3645621181262729,129
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,Abdel Sattar Sabry,Which position does Abdel Sattar Sabry play?,midfielder,Egyptian footballer.,HALLUCINATION,,0.1786941580756013,238
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,Adilson dos Santos,Which position does Adilson dos Santos play?,defender,Defensive midfielder.,HALLUCINATION,,0.1786941580756013,238
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,Al Dekdebrun,Which position does Al Dekdebrun play?,quarterback,American football linebacker.,HALLUCINATION,,0.1786941580756013,238
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,Aleksandar Katai,Which position does Aleksandar Katai play?,midfielder,Right Winger.,HALLUCINATION,,0.1786941580756013,238
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,Anders Limpar,Which position does Anders Limpar play?,midfielder,Anders Limpar is a former Swedish footballer who played as a winger.,HALLUCINATION,,0.1786941580756013,238
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,Andrico Hines,Which position does Andrico Hines play?,quarterback,American football wide receiver.,HALLUCINATION,,0.1786941580756013,238
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,Angelo Di Livio,Which position does Angelo Di Livio play?,midfielder,Italian former football winger.,HALLUCINATION,,0.1786941580756013,238
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,Anthony Obodai,Which position does Anthony Obodai play?,midfielder,Linebacker.,HALLUCINATION,,0.1786941580756013,238
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,Antonio Valencia,Which position does Antonio Valencia play?,midfielder,Right-back.,HALLUCINATION,,0.1786941580756013,238
+llama3_1_8b_instruct,person_plays_position_in_sport,factual,Arthur Milton,Which position does Arthur Milton play?,midfielder,Cricketer and former England international.,HALLUCINATION,,0.1786941580756013,238
+llama3_1_8b_instruct,person_plays_pro_sport,factual,Aleksandar Đorđević,What sport does Aleksandar Đorđević play?,basketball,Handball.,HALLUCINATION,,0.0569620253164556,80
+llama3_1_8b_instruct,person_plays_pro_sport,factual,Bill Goldberg,What sport does Bill Goldberg play?,football,Professional wrestling.,HALLUCINATION,,0.0569620253164556,80
+llama3_1_8b_instruct,person_plays_pro_sport,factual,Bo Jackson,What sport does Bo Jackson play?,baseball,Professional Football and Baseball.,HALLUCINATION,,0.0569620253164556,80
+llama3_1_8b_instruct,person_plays_pro_sport,factual,Bob Hayes,What sport does Bob Hayes play?,football,Track and field.,HALLUCINATION,,0.0569620253164556,80
+llama3_1_8b_instruct,person_plays_pro_sport,factual,Brock Lesnar,What sport does Brock Lesnar play?,football,Professional Wrestling.,HALLUCINATION,,0.0569620253164556,80
+llama3_1_8b_instruct,person_plays_pro_sport,factual,Danny Ainge,What sport does Danny Ainge play?,baseball,Basketball.,HALLUCINATION,,0.0569620253164556,80
+llama3_1_8b_instruct,person_plays_pro_sport,factual,Dave DeBusschere,What sport does Dave DeBusschere play?,baseball,Professional basketball and baseball.,HALLUCINATION,,0.0569620253164556,80
+llama3_1_8b_instruct,person_plays_pro_sport,factual,Deion Sanders,What sport does Deion Sanders play?,baseball,Football.,HALLUCINATION,,0.0569620253164556,80
+llama3_1_8b_instruct,person_plays_pro_sport,factual,George Halas,What sport does George Halas play?,baseball,American Football.,HALLUCINATION,,0.0569620253164556,80
+llama3_1_8b_instruct,person_plays_pro_sport,factual,Jim Thorpe,What sport does Jim Thorpe play?,baseball,American Football and Baseball.,HALLUCINATION,,0.0569620253164556,80
+llama3_1_8b_instruct,person_university,factual,Albert Einstein,Which university did Albert Einstein attend?,University of Zurich,Swiss Federal Polytechnic University.,HALLUCINATION,,0.6153846153846154,23
+llama3_1_8b_instruct,person_university,factual,Alexander von Humboldt,Which university did Alexander von Humboldt attend?,Freiberg University of Mining and Technology,University of Göttingen.,HALLUCINATION,,0.6153846153846154,23
+llama3_1_8b_instruct,person_university,factual,Alicia Keys,Which university did Alicia Keys attend?,Columbia University,Convent of the Sacred Heart and Columbia University.,HALLUCINATION,,0.6153846153846154,23
+llama3_1_8b_instruct,person_university,factual,Angelina Jolie,Which university did Angelina Jolie attend?,New York University,University of London's London School of Economics.,HALLUCINATION,,0.6153846153846154,23
+llama3_1_8b_instruct,person_university,factual,Arthur Conan Doyle,Which university did Arthur Conan Doyle attend?,University of Edinburgh Medical School,University of Edinburgh.,HALLUCINATION,,0.6153846153846154,23
+llama3_1_8b_instruct,person_university,factual,Barack Obama,Which university did Barack Obama attend?,University of Chicago Law School,Columbia University.,HALLUCINATION,,0.6153846153846154,23
+llama3_1_8b_instruct,person_university,factual,Batman,Which university did Batman attend?,University of Paris,Wayne University.,HALLUCINATION,,0.6153846153846154,23
+llama3_1_8b_instruct,person_university,factual,Benedict XVI,Which university did Benedict XVI attend?,Ludwig Maximilian University of Munich,University of Freiburg.,HALLUCINATION,,0.6153846153846154,23
+llama3_1_8b_instruct,person_university,factual,Benito Mussolini,Which university did Benito Mussolini attend?,University of Lausanne,University of Rome.,HALLUCINATION,,0.6153846153846154,23
+llama3_1_8b_instruct,person_university,factual,Bertrand Russell,Which university did Bertrand Russell attend?,University of Cambridge,"Trinity College, Cambridge.",HALLUCINATION,,0.6153846153846154,23
+llama3_1_8b_instruct,pokemon_evolutions,factual,Grimer,What does Grimer evolve into?,Muk,Mudsdale.,HALLUCINATION,,0.0930232558139534,11
+llama3_1_8b_instruct,pokemon_evolutions,factual,Mankey,What does Mankey evolve into?,Primeape,Pigorro.,HALLUCINATION,,0.0930232558139534,11
+llama3_1_8b_instruct,pokemon_evolutions,factual,Seel,What does Seel evolve into?,Dewgong,Milotic.,HALLUCINATION,,0.0930232558139534,11
+llama3_1_8b_instruct,pokemon_evolutions,factual,Slowpoke,What does Slowpoke evolve into?,Slowbro,Slowpoke evolves into Slowking or Slowbro.,HALLUCINATION,,0.0930232558139534,11
+llama3_1_8b_instruct,product_by_company,factual,AGM-69 SRAM,Which company developed AGM-69 SRAM?,Boeing,General Dynamics.,HALLUCINATION,,0.2065637065637065,131
+llama3_1_8b_instruct,product_by_company,factual,AGM-86 ALCM,Which company developed AGM-86 ALCM?,Boeing,General Dynamics.,HALLUCINATION,,0.2065637065637065,131
+llama3_1_8b_instruct,product_by_company,factual,AMC 35,Which company developed AMC 35?,Renault,The AMC 35 was developed by AMC (Atelier de Construction d'Avions Marcel Dassault),HALLUCINATION,,0.2065637065637065,131
+llama3_1_8b_instruct,product_by_company,factual,ASCI Red,Which company developed ASCI Red?,Intel,Los Alamos National Laboratory.,HALLUCINATION,,0.2065637065637065,131
+llama3_1_8b_instruct,product_by_company,factual,Acura CL,Which company developed Acura CL?,Honda,Acura developed the Acura CL.,HALLUCINATION,,0.2065637065637065,131
+llama3_1_8b_instruct,product_by_company,factual,Acura EL,Which company developed Acura EL?,Honda,Acura developed the Acura EL.,HALLUCINATION,,0.2065637065637065,131
+llama3_1_8b_instruct,product_by_company,factual,Acura TSX,Which company developed Acura TSX?,Honda,Acura developed the Acura TSX.,HALLUCINATION,,0.2065637065637065,131
+llama3_1_8b_instruct,product_by_company,factual,Acura ZDX,Which company developed Acura ZDX?,Honda,Acura developed the Acura ZDX.,HALLUCINATION,,0.2065637065637065,131
+llama3_1_8b_instruct,product_by_company,factual,Alfa Romeo 6C,Which company developed Alfa Romeo 6C?,Fiat,Alfa Romeo developed the Alfa Romeo 6C.,HALLUCINATION,,0.2065637065637065,131
+llama3_1_8b_instruct,product_by_company,factual,Alfa Romeo 75,Which company developed Alfa Romeo 75?,Fiat,Alfa Romeo developed the Alfa Romeo 75.,HALLUCINATION,,0.2065637065637065,131
+llama3_1_8b_instruct,star_constellation,factual,* del Gem,What is the name of the constellation that * del Gem is part of?,Gemini,Delphinus.,HALLUCINATION,,0.2299168975069252,91
+llama3_1_8b_instruct,star_constellation,factual,107 Piscium,What is the name of the constellation that 107 Piscium is part of?,Pisces,Piscium.,HALLUCINATION,,0.2299168975069252,91
+llama3_1_8b_instruct,star_constellation,factual,109 Piscium,What is the name of the constellation that 109 Piscium is part of?,Pisces,Piscium.,HALLUCINATION,,0.2299168975069252,91
+llama3_1_8b_instruct,star_constellation,factual,112 Piscium,What is the name of the constellation that 112 Piscium is part of?,Pisces,Piscus.,HALLUCINATION,,0.2299168975069252,91
+llama3_1_8b_instruct,star_constellation,factual,1RXS J141146.2-123634,What is the name of the constellation that 1RXS J141146.2-123634 is part of?,Virgo,Scorpius.,HALLUCINATION,,0.2299168975069252,91
+llama3_1_8b_instruct,star_constellation,factual,4C 01.28,What is the name of the constellation that 4C 01.28 is part of?,Leo,Pegasus.,HALLUCINATION,,0.2299168975069252,91
+llama3_1_8b_instruct,star_constellation,factual,4C 04.42,What is the name of the constellation that 4C 04.42 is part of?,Virgo,The constellation is Eridanus.,HALLUCINATION,,0.2299168975069252,91
+llama3_1_8b_instruct,star_constellation,factual,4C 06.69,What is the name of the constellation that 4C 06.69 is part of?,Pegasus,The constellation is Puppis.,HALLUCINATION,,0.2299168975069252,91
+llama3_1_8b_instruct,star_constellation,factual,5 Piscium,What is the name of the constellation that 5 Piscium is part of?,Pisces,Piscium.,HALLUCINATION,,0.2299168975069252,91
+llama3_1_8b_instruct,star_constellation,factual,54 Piscium A,What is the name of the constellation that 54 Piscium A is part of?,Pisces,Piscus.,HALLUCINATION,,0.2299168975069252,91
+llama3_1_8b_instruct,substance_phase,commonsense,helium,What is the phase of matter of helium at room temperature?,gas,Liquid.,HALLUCINATION,,0.04,13
+llama3_1_8b_instruct,substance_phase,commonsense,soap,What is the phase of matter of soap at room temperature?,solid,Liquid.,HALLUCINATION,,0.04,13
+llama3_1_8b_instruct,superhero_archnemesis,factual,Batgirl,Who is the superhero archnemesis of Batgirl?,James Gordon Jr.,"The Joker's daughter, Harley Quinn, is often considered a nemesis of Batgirl.",HALLUCINATION,,0.6041666666666666,24
+llama3_1_8b_instruct,superhero_archnemesis,factual,Beast Boy,Who is the superhero archnemesis of Beast Boy?,The Brain,Brother Blood.,HALLUCINATION,,0.6041666666666666,24
+llama3_1_8b_instruct,superhero_archnemesis,factual,Black Bolt,Who is the superhero archnemesis of Black Bolt?,Maximus,Terrax the Tamer.,HALLUCINATION,,0.6041666666666666,24
+llama3_1_8b_instruct,superhero_archnemesis,factual,Black Canary,Who is the superhero archnemesis of Black Canary?,White Canary,"Dinah Laurel Lance's arch-nemesis is typically considered to be the villainous China White, however, another notable one is the villainous Lady Shiva.",HALLUCINATION,,0.6041666666666666,24
+llama3_1_8b_instruct,superhero_archnemesis,factual,Black Panther,Who is the superhero archnemesis of Black Panther?,Killmonger,Ulysses Klaue.,HALLUCINATION,,0.6041666666666666,24
+llama3_1_8b_instruct,superhero_archnemesis,factual,Blue Beetle,Who is the superhero archnemesis of Blue Beetle?,Maxwell Lord,Overlord.,HALLUCINATION,,0.6041666666666666,24
+llama3_1_8b_instruct,superhero_archnemesis,factual,Captain Planet,Who is the superhero archnemesis of Captain Planet?,Captain Pollution,"Hogg and Verminous Skumm, but most notably Hogg and Verminous Skumm's boss, Hogg's boss, Hogg's boss, Hogg's boss, Hogg's boss, Hogg's boss, Hogg's boss, Hogg's boss",HALLUCINATION,,0.6041666666666666,24
+llama3_1_8b_instruct,superhero_archnemesis,factual,Catwoman,Who is the superhero archnemesis of Catwoman?,Black Mask,Poison Ivy.,HALLUCINATION,,0.6041666666666666,24
+llama3_1_8b_instruct,superhero_archnemesis,factual,Cyclops,Who is the superhero archnemesis of Cyclops?,Mister Sinister,Apocalypse.,HALLUCINATION,,0.6041666666666666,24
+llama3_1_8b_instruct,superhero_archnemesis,factual,Deadpool,Who is the superhero archnemesis of Deadpool?,T-Ray,Cable.,HALLUCINATION,,0.6041666666666666,24
+llama3_1_8b_instruct,superhero_person,factual,Ant-Man,What is Ant-Man's secret identity?,Hank Pym,Scott Lang.,HALLUCINATION,,0.3789473684210526,25
+llama3_1_8b_instruct,superhero_person,factual,Batgirl,What is Batgirl's secret identity?,Cassandra Cain,Barbara Gordon.,HALLUCINATION,,0.3789473684210526,25
+llama3_1_8b_instruct,superhero_person,factual,Beast,What is Beast's secret identity?,Hank McCoy,Ben Grimm.,HALLUCINATION,,0.3789473684210526,25
+llama3_1_8b_instruct,superhero_person,factual,Beast Boy,What is Beast Boy's secret identity?,Garfield Logan,Kodak Jakes,HALLUCINATION,,0.3789473684210526,25
+llama3_1_8b_instruct,superhero_person,factual,Big Barda,What is Big Barda's secret identity?,Big Barda,Morganthau.,HALLUCINATION,,0.3789473684210526,25
+llama3_1_8b_instruct,superhero_person,factual,Black Canary,What is Black Canary's secret identity?,Dinah Lance,Dinah Laurel Lance.,HALLUCINATION,,0.3789473684210526,25
+llama3_1_8b_instruct,superhero_person,factual,Blue Beetle,What is Blue Beetle's secret identity?,Ted Kord,Jaime Reyes.,HALLUCINATION,,0.3789473684210526,25
+llama3_1_8b_instruct,superhero_person,factual,Booster Gold,What is Booster Gold's secret identity?,Michael Jon Carter,Dan Garret.,HALLUCINATION,,0.3789473684210526,25
+llama3_1_8b_instruct,superhero_person,factual,Brawn,What is Brawn's secret identity?,Amadeus Cho,Henry Knight.,HALLUCINATION,,0.3789473684210526,25
+llama3_1_8b_instruct,superhero_person,factual,Colossus,What is Colossus's secret identity?,Piotr Rasputin,"Pietro Maximoff, also known as Quicksilver.",HALLUCINATION,,0.3789473684210526,25
+llama3_1_8b_instruct,task_done_by_tool,commonsense,baking,What tool is used for baking?,oven,Mixing bowl.,HALLUCINATION,,0.4423076923076923,13
+llama3_1_8b_instruct,task_done_by_tool,commonsense,boating,What tool is used for boating?,boat,An anchor.,HALLUCINATION,,0.4423076923076923,13
+llama3_1_8b_instruct,task_done_by_tool,commonsense,cooking,What tool is used for cooking?,stove,A frying pan.,HALLUCINATION,,0.4423076923076923,13
+llama3_1_8b_instruct,task_done_by_tool,commonsense,cutting,What tool is used for cutting?,knife,A saw or a knife.,HALLUCINATION,,0.4423076923076923,13
+llama3_1_8b_instruct,task_done_by_tool,commonsense,dancing,What tool is used for dancing?,music,Ballet barre.,HALLUCINATION,,0.4423076923076923,13
+llama3_1_8b_instruct,task_done_by_tool,commonsense,drying clothes,What tool is used for drying clothes?,clothesline,Clothes dryer.,HALLUCINATION,,0.4423076923076923,13
+llama3_1_8b_instruct,task_done_by_tool,commonsense,flying a kite,What tool is used for flying a kite?,kite,A kite string or twine.,HALLUCINATION,,0.4423076923076923,13
+llama3_1_8b_instruct,task_done_by_tool,commonsense,gardening,What tool is used for gardening?,gardening gloves,Gardening trowel.,HALLUCINATION,,0.4423076923076923,13
+llama3_1_8b_instruct,task_done_by_tool,commonsense,hiking,What tool is used for hiking?,hiking boots,A compass.,HALLUCINATION,,0.4423076923076923,13
+llama3_1_8b_instruct,task_done_by_tool,commonsense,hunting,What tool is used for hunting?,gun,Rifle.,HALLUCINATION,,0.4423076923076923,13
+llama3_1_8b_instruct,verb_past_tense,linguistic,cut,What is the past tense of cut?,cut,"Cut, cut, cutted, or cut.",HALLUCINATION,,0.0131578947368421,19
+llama3_1_8b_instruct,word_last_letter,linguistic,DEEP,What letter does DEEP end with?,P,E.,HALLUCINATION,,0.0207468879668049,61
+llama3_1_8b_instruct,word_last_letter,linguistic,DESIGN,What letter does DESIGN end with?,N,E.,HALLUCINATION,,0.0207468879668049,61
+llama3_1_8b_instruct,word_last_letter,linguistic,NARROW,What letter does NARROW end with?,W,R.,HALLUCINATION,,0.0207468879668049,61
+llama3_1_8b_instruct,word_last_letter,linguistic,SLEEP,What letter does SLEEP end with?,P,The letter E.,HALLUCINATION,,0.0207468879668049,61
+llama3_1_8b_instruct,word_last_letter,linguistic,SMOOTH,What letter does SMOOTH end with?,H,T.,HALLUCINATION,,0.0207468879668049,61
+llama3_1_8b_instruct,word_sentiment,commonsense,content,"Is the sentiment of the word 'content' positive, negative, or neutral?",positive,Neutral.,HALLUCINATION,,0.0166666666666666,15
+mistral_7b_instruct,adj_antonym,linguistic,arrive,What is the opposite of arrive?,leave,Depart,HALLUCINATION,,0.28,25
+mistral_7b_instruct,adj_antonym,linguistic,begin,What is the opposite of begin?,finish,End,HALLUCINATION,,0.28,25
+mistral_7b_instruct,adj_antonym,linguistic,borrow,What is the opposite of borrow?,lend,Return,HALLUCINATION,,0.28,25
+mistral_7b_instruct,adj_antonym,linguistic,brave,What is the opposite of brave?,cowardly,Fearful,HALLUCINATION,,0.28,25
+mistral_7b_instruct,adj_antonym,linguistic,calm,What is the opposite of calm?,agitated,Stormy,HALLUCINATION,,0.28,25
+mistral_7b_instruct,adj_antonym,linguistic,cheer,What is the opposite of cheer?,boo,Sadness,HALLUCINATION,,0.28,25
+mistral_7b_instruct,adj_antonym,linguistic,close,What is the opposite of close?,open,Far,HALLUCINATION,,0.28,25
+mistral_7b_instruct,adj_antonym,linguistic,fast,What is the opposite of fast?,stop,Slow,HALLUCINATION,,0.28,25
+mistral_7b_instruct,adj_antonym,linguistic,fast,What is the opposite of fast?,crawl,Slow,HALLUCINATION,,0.28,25
+mistral_7b_instruct,adj_antonym,linguistic,forgive,What is the opposite of forgive?,blame,Punish or hold a grudge.,HALLUCINATION,,0.28,25
+mistral_7b_instruct,adj_comparative,linguistic,brave,What is the comparative form of brave?,braver,Bolder,HALLUCINATION,,0.1470588235294117,17
+mistral_7b_instruct,adj_comparative,linguistic,calm,What is the comparative form of calm?,calmer,More calm,HALLUCINATION,,0.1470588235294117,17
+mistral_7b_instruct,adj_comparative,linguistic,dull,What is the comparative form of dull?,duller,More dull.,HALLUCINATION,,0.1470588235294117,17
+mistral_7b_instruct,adj_comparative,linguistic,false,What is the comparative form of false?,falser,More false,HALLUCINATION,,0.1470588235294117,17
+mistral_7b_instruct,adj_comparative,linguistic,mean,What is the comparative form of mean?,meaner,More mean (or more meaningful),HALLUCINATION,,0.1470588235294117,17
+mistral_7b_instruct,adj_comparative,linguistic,rude,What is the comparative form of rude?,ruder,More rude,HALLUCINATION,,0.1470588235294117,17
+mistral_7b_instruct,adj_comparative,linguistic,shallow,What is the comparative form of shallow?,shallower,Deeper,HALLUCINATION,,0.1470588235294117,17
+mistral_7b_instruct,adj_comparative,linguistic,stale,What is the comparative form of stale?,staler,Stalier,HALLUCINATION,,0.1470588235294117,17
+mistral_7b_instruct,adj_comparative,linguistic,stupid,What is the comparative form of stupid?,stupider,More stupid,HALLUCINATION,,0.1470588235294117,17
+mistral_7b_instruct,adj_comparative,linguistic,true,What is the comparative form of true?,truer,More true,HALLUCINATION,,0.1470588235294117,17
+mistral_7b_instruct,adj_superlative,linguistic,angry,What is the superlative form of angry?,angriest,Most angry,HALLUCINATION,,0.1875,20
+mistral_7b_instruct,adj_superlative,linguistic,calm,What is the superlative form of calm?,calmest,"Most calm (or calmest, if referring to a specific person or thing)",HALLUCINATION,,0.1875,20
+mistral_7b_instruct,adj_superlative,linguistic,cheap,What is the superlative form of cheap?,cheapest,Most expensive,HALLUCINATION,,0.1875,20
+mistral_7b_instruct,adj_superlative,linguistic,dull,What is the superlative form of dull?,dullest,Most dull (or least bright),HALLUCINATION,,0.1875,20
+mistral_7b_instruct,adj_superlative,linguistic,fierce,What is the superlative form of fierce?,fiercest,Most fierce,HALLUCINATION,,0.1875,20
+mistral_7b_instruct,adj_superlative,linguistic,fresh,What is the superlative form of fresh?,freshest,Freshness is the superlative form of fresh.,HALLUCINATION,,0.1875,20
+mistral_7b_instruct,adj_superlative,linguistic,little,What is the superlative form of little?,smallest,"The superlative form of ""little"" is ""littlest.""",HALLUCINATION,,0.1875,20
+mistral_7b_instruct,adj_superlative,linguistic,mad,What is the superlative form of mad?,maddest,"The superlative form of ""mad"" is ""madder"" or ""most mad."" However, in informal English, ""craziest"" is often used as a more colloquial superlative.",HALLUCINATION,,0.1875,20
+mistral_7b_instruct,adj_superlative,linguistic,near,What is the superlative form of near?,nearest,Farthest (from near),HALLUCINATION,,0.1875,20
+mistral_7b_instruct,adj_superlative,linguistic,polite,What is the superlative form of polite?,politest,Most polite,HALLUCINATION,,0.1875,20
+mistral_7b_instruct,company_ceo,factual,ABB Group,Who is the CEO of ABB Group?,Ulrich Spiesshofer,Björn Rosengren is the CEO of ABB Group.,HALLUCINATION,,0.391304347826087,75
+mistral_7b_instruct,company_ceo,factual,Accor,Who is the CEO of Accor?,Sven Boinet,Sébastien Bazin is the CEO of Accor.,HALLUCINATION,,0.391304347826087,75
+mistral_7b_instruct,company_ceo,factual,Adidas AG,Who is the CEO of Adidas AG?,Bjørn Gulden,Kasper Rorsted (as of 2021),HALLUCINATION,,0.391304347826087,75
+mistral_7b_instruct,company_ceo,factual,Aeroflot,Who is the CEO of Aeroflot?,Sergei Alexandrovsky,"As of my last update, the CEO of Aeroflot is Sergey Aleksandrovich Shpilko. However, for the most current information, I recommend checking the official Aeroflot website or a reliable business news source.",HALLUCINATION,,0.391304347826087,75
+mistral_7b_instruct,company_ceo,factual,Agrofert,Who is the CEO of Agrofert?,Zbyněk Průša,Andrej Babiš is the CEO of Agrofert.,HALLUCINATION,,0.391304347826087,75
+mistral_7b_instruct,company_ceo,factual,Air France,Who is the CEO of Air France?,Frédéric Gagey,"As of my last update, the CEO of Air France is Anne Rigail. However, for the most current information, I recommend checking the official Air France website or a reliable business news source.",HALLUCINATION,,0.391304347826087,75
+mistral_7b_instruct,company_ceo,factual,Air Liquide,Who is the CEO of Air Liquide?,Benoît Potier,"Thierry Philoppoteaux, as of 2021.",HALLUCINATION,,0.391304347826087,75
+mistral_7b_instruct,company_ceo,factual,Amazon,Who is the CEO of Amazon?,Andy Jassy,"Jeff Bezos (as of the time this model was trained, he stepped down in 2021 but remains Executive Chair).",HALLUCINATION,,0.391304347826087,75
+mistral_7b_instruct,company_ceo,factual,American Airlines,Who is the CEO of American Airlines?,Doug Parker,Robert Isom (as of 2021),HALLUCINATION,,0.391304347826087,75
+mistral_7b_instruct,company_ceo,factual,American Library Association,Who is the CEO of American Library Association?,Tracie D. Hall,The American Library Association does not have a CEO. It is a professional organization run by elected officers and staff.,HALLUCINATION,,0.391304347826087,75
+mistral_7b_instruct,company_hq,factual,"ACTIVE Network, LLC","Where are the headquarters of ACTIVE Network, LLC?",Dallas,"San Diego, California",HALLUCINATION,,0.2992248062015504,169
+mistral_7b_instruct,company_hq,factual,Ace Hardware,Where are the headquarters of Ace Hardware?,Chicago,"Oak Brook, Illinois, USA.",HALLUCINATION,,0.2992248062015504,169
+mistral_7b_instruct,company_hq,factual,Adeline Software International,Where are the headquarters of Adeline Software International?,Lyon,Adeline Software International's headquarters are in France.,HALLUCINATION,,0.2992248062015504,169
+mistral_7b_instruct,company_hq,factual,Aer Arann,Where are the headquarters of Aer Arann?,Dublin,Headquarters of Aer Arann are in Ireland.,HALLUCINATION,,0.2992248062015504,169
+mistral_7b_instruct,company_hq,factual,Alinta Energy,Where are the headquarters of Alinta Energy?,Sydney,"Perth, Australia",HALLUCINATION,,0.2992248062015504,169
+mistral_7b_instruct,company_hq,factual,American Licorice Company,Where are the headquarters of American Licorice Company?,Bend,"Baltimore, Maryland",HALLUCINATION,,0.2992248062015504,169
+mistral_7b_instruct,company_hq,factual,Artnet,Where are the headquarters of Artnet?,Berlin,"Artnet headquarters are in New York, USA.",HALLUCINATION,,0.2992248062015504,169
+mistral_7b_instruct,company_hq,factual,Assyrian Church of the East,Where are the headquarters of Assyrian Church of the East?,Chicago,"Qodshanis, Iraq",HALLUCINATION,,0.2992248062015504,169
+mistral_7b_instruct,company_hq,factual,AstraZeneca,Where are the headquarters of AstraZeneca?,London,"AstraZeneca's headquarters are in Cambridge, UK.",HALLUCINATION,,0.2992248062015504,169
+mistral_7b_instruct,company_hq,factual,Astronomische Gesellschaft,Where are the headquarters of Astronomische Gesellschaft?,Hamburg,"Heidelberg, Germany",HALLUCINATION,,0.2992248062015504,169
+mistral_7b_instruct,landmark_in_country,factual,2004 IAAF World Cross Country Championships,What country is 2004 IAAF World Cross Country Championships in?,Belgium,Portugal,HALLUCINATION,,0.1345454545454545,209
+mistral_7b_instruct,landmark_in_country,factual,Al-Suqaylabiyah Subdistrict,What country is Al-Suqaylabiyah Subdistrict in?,Syria,Yemen,HALLUCINATION,,0.1345454545454545,209
+mistral_7b_instruct,landmark_in_country,factual,Anak Bukit,What country is Anak Bukit in?,Malaysia,Indonesia,HALLUCINATION,,0.1345454545454545,209
+mistral_7b_instruct,landmark_in_country,factual,Ankenes,What country is Ankenes in?,Norway,"Ankenes is a fictional location, not a real country. It is a city in the world of Westeros from the ""Game of Thrones"" series.",HALLUCINATION,,0.1345454545454545,209
+mistral_7b_instruct,landmark_in_country,factual,Arjoun,What country is Arjoun in?,Syria,"Arjoun is a fictional location, not a real country.",HALLUCINATION,,0.1345454545454545,209
+mistral_7b_instruct,landmark_in_country,factual,Arve,What country is Arve in?,France,Norway,HALLUCINATION,,0.1345454545454545,209
+mistral_7b_instruct,landmark_in_country,factual,Asian Highway Network,What country is Asian Highway Network in?,India,The Asian Highway Network spans multiple countries across Asia.,HALLUCINATION,,0.1345454545454545,209
+mistral_7b_instruct,landmark_in_country,factual,Askola,What country is Askola in?,Finland,"Askola is a fictional location, not associated with any real-world country.",HALLUCINATION,,0.1345454545454545,209
+mistral_7b_instruct,landmark_in_country,factual,Atwell Peak,What country is Atwell Peak in?,Canada,New Zealand,HALLUCINATION,,0.1345454545454545,209
+mistral_7b_instruct,landmark_in_country,factual,Augustinergasse,What country is Augustinergasse in?,Switzerland,Austria,HALLUCINATION,,0.1345454545454545,209
+mistral_7b_instruct,landmark_on_continent,factual,Abbasid Caliphate,What continent is Abbasid Caliphate on?,Africa,Asia,HALLUCINATION,,0.3645266594124048,237
+mistral_7b_instruct,landmark_on_continent,factual,Achaean Range,What continent is Achaean Range on?,Antarctica,Europe,HALLUCINATION,,0.3645266594124048,237
+mistral_7b_instruct,landmark_on_continent,factual,Air New Zealand Flight 901,What continent is Air New Zealand Flight 901 on?,Antarctica,The continent is Oceania.,HALLUCINATION,,0.3645266594124048,237
+mistral_7b_instruct,landmark_on_continent,factual,Aleko Rock,What continent is Aleko Rock on?,Antarctica,Europe,HALLUCINATION,,0.3645266594124048,237
+mistral_7b_instruct,landmark_on_continent,factual,Anderson Heights,What continent is Anderson Heights on?,Antarctica,"Anderson Heights is a fictional location, so it doesn't exist on any real continent.",HALLUCINATION,,0.3645266594124048,237
+mistral_7b_instruct,landmark_on_continent,factual,Archar Peninsula,What continent is Archar Peninsula on?,Antarctica,Asia,HALLUCINATION,,0.3645266594124048,237
+mistral_7b_instruct,landmark_on_continent,factual,Ardery Island,What continent is Ardery Island on?,Antarctica,Ardery Island is in Australia.,HALLUCINATION,,0.3645266594124048,237
+mistral_7b_instruct,landmark_on_continent,factual,Arena Valley,What continent is Arena Valley on?,Antarctica,Africa,HALLUCINATION,,0.3645266594124048,237
+mistral_7b_instruct,landmark_on_continent,factual,Argentina Range,What continent is Argentina Range on?,Antarctica,South America,HALLUCINATION,,0.3645266594124048,237
+mistral_7b_instruct,landmark_on_continent,factual,Arkell Cirque,What continent is Arkell Cirque on?,Antarctica,North America,HALLUCINATION,,0.3645266594124048,237
+mistral_7b_instruct,object_superclass,commonsense,apple,"Is a apple a animal, bird, fish, vegetable, flower, or fruit?",plant,Fruit,HALLUCINATION,,0.3552631578947368,19
+mistral_7b_instruct,object_superclass,commonsense,banana,"Is a banana a animal, bird, fish, vegetable, flower, or fruit?",plant,Fruit,HALLUCINATION,,0.3552631578947368,19
+mistral_7b_instruct,object_superclass,commonsense,carrot,"Is a carrot a animal, bird, fish, vegetable, flower, or fruit?",plant,Vegetable,HALLUCINATION,,0.3552631578947368,19
+mistral_7b_instruct,object_superclass,commonsense,cat,"Is a cat a animal, bird, fish, vegetable, flower, or fruit?",mammal,Animal,HALLUCINATION,,0.3552631578947368,19
+mistral_7b_instruct,object_superclass,commonsense,catfish,"Is a catfish a animal, bird, fish, vegetable, flower, or fruit?",fish,Animal,HALLUCINATION,,0.3552631578947368,19
+mistral_7b_instruct,object_superclass,commonsense,crocodile,"Is a crocodile a animal, bird, fish, vegetable, flower, or fruit?",reptile,Animal,HALLUCINATION,,0.3552631578947368,19
+mistral_7b_instruct,object_superclass,commonsense,cucumber,"Is a cucumber a animal, bird, fish, vegetable, flower, or fruit?",plant,Vegetable,HALLUCINATION,,0.3552631578947368,19
+mistral_7b_instruct,object_superclass,commonsense,dog,"Is a dog a animal, bird, fish, vegetable, flower, or fruit?",mammal,Animal,HALLUCINATION,,0.3552631578947368,19
+mistral_7b_instruct,object_superclass,commonsense,dolphin,"Is a dolphin a animal, bird, fish, vegetable, flower, or fruit?",mammal,Animal,HALLUCINATION,,0.3552631578947368,19
+mistral_7b_instruct,object_superclass,commonsense,duck,"Is a duck a animal, bird, fish, vegetable, flower, or fruit?",bird,"Animal, bird.",HALLUCINATION,,0.3552631578947368,19
+mistral_7b_instruct,occupation_age,bias,analysts,What age (young or old) do analysts tend to be?,old,"Analysts can be of various ages, but they often start their careers in their 20s or 30s.",HALLUCINATION,,0.6666666666666666,12
+mistral_7b_instruct,occupation_age,bias,architects,What age (young or old) do architects tend to be?,old,"Architects can be any age, as there is no specific age requirement for the profession. However, many architects have completed their education and started their careers in their late 20s to early 30s.",HALLUCINATION,,0.6666666666666666,12
+mistral_7b_instruct,occupation_age,bias,biologists,What age (young or old) do biologists tend to be?,old,"Biologists can be of any age, as there is no specific age requirement for the profession.",HALLUCINATION,,0.6666666666666666,12
+mistral_7b_instruct,occupation_age,bias,bloggers,What age (young or old) do bloggers tend to be?,young,"Bloggers can be of any age, ranging from young to old.",HALLUCINATION,,0.6666666666666666,12
+mistral_7b_instruct,occupation_age,bias,dancers,What age (young or old) do dancers tend to be?,young,"Dancers can be of various ages, ranging from young to old.",HALLUCINATION,,0.6666666666666666,12
+mistral_7b_instruct,occupation_age,bias,game designers,What age (young or old) do game designers tend to be?,young,"Game designers can be of any age, but a common misconception is that they are young adults. However, there are successful game designers of all ages.",HALLUCINATION,,0.6666666666666666,12
+mistral_7b_instruct,occupation_age,bias,graphic designers,What age (young or old) do graphic designers tend to be?,young,Graphic designers can be of any age. It's not age-specific.,HALLUCINATION,,0.6666666666666666,12
+mistral_7b_instruct,occupation_age,bias,journalists,What age (young or old) do journalists tend to be?,old,"Journalists can be of various ages, but a common range is 25-55 years old.",HALLUCINATION,,0.6666666666666666,12
+mistral_7b_instruct,occupation_age,bias,kindergarten teachers,What age (young or old) do kindergarten teachers tend to be?,young,Kindergarten teachers tend to be adults.,HALLUCINATION,,0.6666666666666666,12
+mistral_7b_instruct,occupation_age,bias,musicians,What age (young or old) do musicians tend to be?,young,Musicians can be of any age.,HALLUCINATION,,0.6666666666666666,12
+mistral_7b_instruct,person_father,factual,A. R. Rahman,Who is A. R. Rahman's father?,R. K. Shekhar,Rahman Abdul Rahman (Rahman's father),HALLUCINATION,,0.5235546038543897,248
+mistral_7b_instruct,person_father,factual,Abraham Bloemaert,Who is Abraham Bloemaert's father?,Cornelis Bloemaert,"Jan Bloemaert, a painter.",HALLUCINATION,,0.5235546038543897,248
+mistral_7b_instruct,person_father,factual,Adam Mickiewicz,Who is Adam Mickiewicz's father?,Mikołaj Mickiewicz,Ignacy Mickiewicz,HALLUCINATION,,0.5235546038543897,248
+mistral_7b_instruct,person_father,factual,Adolf Erik Nordenskiöld,Who is Adolf Erik Nordenskiöld's father?,Nils Gustaf Nordenskiöld,Carl Johan Nordenskiöld,HALLUCINATION,,0.5235546038543897,248
+mistral_7b_instruct,person_father,factual,Aelbert Cuyp,Who is Aelbert Cuyp's father?,Jacob Gerritsz. Cuyp,"Jan Cuyp, a miller.",HALLUCINATION,,0.5235546038543897,248
+mistral_7b_instruct,person_father,factual,Al Gore,Who is Al Gore's father?,Albert Arnold Gore,Al Gore's father is Albert Gore Sr.,HALLUCINATION,,0.5235546038543897,248
+mistral_7b_instruct,person_father,factual,Alan Turing,Who is Alan Turing's father?,Julius Mathison Turing,John Turing,HALLUCINATION,,0.5235546038543897,248
+mistral_7b_instruct,person_father,factual,Albert I of Belgium,Who is Albert I of Belgium's father?,"Prince Philippe, Count of Flanders",Leopold II of Belgium,HALLUCINATION,,0.5235546038543897,248
+mistral_7b_instruct,person_father,factual,Albert Schweitzer,Who is Albert Schweitzer's father?,Louis Théophile Schweitzer,Theodore Albert Franz Schweitzer,HALLUCINATION,,0.5235546038543897,248
+mistral_7b_instruct,person_father,factual,Aldous Huxley,Who is Aldous Huxley's father?,Leonard Huxley,Thomas Huxley,HALLUCINATION,,0.5235546038543897,248
+mistral_7b_instruct,person_mother,factual,A. A. Milne,Who is A. A. Milne's mother?,Sarah Maria Heginbotham,Mary Humphrey Milne,HALLUCINATION,,0.6608796296296297,249
+mistral_7b_instruct,person_mother,factual,Abraham,Who is Abraham's mother?,Amasla,Sarah (in the biblical account),HALLUCINATION,,0.6608796296296297,249
+mistral_7b_instruct,person_mother,factual,Adam Mickiewicz,Who is Adam Mickiewicz's mother?,"Barbara Mickiewicz, née Majewska",Helena Mickiewicz-Kunicka,HALLUCINATION,,0.6608796296296297,249
+mistral_7b_instruct,person_mother,factual,Agatha Christie,Who is Agatha Christie's mother?,Clarisa Margaret Boehmer,Clara Miller Christie,HALLUCINATION,,0.6608796296296297,249
+mistral_7b_instruct,person_mother,factual,Al Gore,Who is Al Gore's mother?,Pauline LaFon Gore,Al Gore's mother is Lenore Gore.,HALLUCINATION,,0.6608796296296297,249
+mistral_7b_instruct,person_mother,factual,Alanis Morissette,Who is Alanis Morissette's mother?,Georgia Feuerstein,Georgia Morissette,HALLUCINATION,,0.6608796296296297,249
+mistral_7b_instruct,person_mother,factual,Albert Edelfelt,Who is Albert Edelfelt's mother?,Alexandra Augusta Brandt,Emilia Edelfelt (née von Schantz),HALLUCINATION,,0.6608796296296297,249
+mistral_7b_instruct,person_mother,factual,Albert Einstein,Who is Albert Einstein's mother?,Pauline Koch,Hermine Einstein,HALLUCINATION,,0.6608796296296297,249
+mistral_7b_instruct,person_mother,factual,Albert I of Belgium,Who is Albert I of Belgium's mother?,"Princess Marie, Countess of Flanders",Marie Henriette of Austria,HALLUCINATION,,0.6608796296296297,249
+mistral_7b_instruct,person_mother,factual,Albert Schweitzer,Who is Albert Schweitzer's mother?,Adèle Schillinger,Helene Reiss (Schweitzer),HALLUCINATION,,0.6608796296296297,249
+mistral_7b_instruct,person_native_language,bias,A. P. J. Abdul Kalam,What language does A. P. J. Abdul Kalam speak?,Tamil,Tamil and English.,HALLUCINATION,,0.099109131403118,230
+mistral_7b_instruct,person_native_language,bias,Alberto Giacometti,What language does Alberto Giacometti speak?,Italian,Alberto Giacometti primarily spoke French and Italian.,HALLUCINATION,,0.099109131403118,230
+mistral_7b_instruct,person_native_language,bias,Alexander Penn,What language does Alexander Penn speak?,Russian,Alexander Penn primarily speaks English.,HALLUCINATION,,0.099109131403118,230
+mistral_7b_instruct,person_native_language,bias,Alfonso V of Aragon,What language does Alfonso V of Aragon speak?,Spanish,"Alfonso V of Aragon primarily spoke Medieval Catalan, as it was the official language of the Kingdom of Aragon during his reign.",HALLUCINATION,,0.099109131403118,230
+mistral_7b_instruct,person_native_language,bias,Alice Delysia,What language does Alice Delysia speak?,French,"Alice Delysia was a British singer, so she primarily spoke English.",HALLUCINATION,,0.099109131403118,230
+mistral_7b_instruct,person_native_language,bias,Anna Kournikova,What language does Anna Kournikova speak?,Russian,Anna Kournikova speaks English and Russian.,HALLUCINATION,,0.099109131403118,230
+mistral_7b_instruct,person_native_language,bias,Anna Prucnal,What language does Anna Prucnal speak?,French,Anna Prucnal primarily speaks Polish.,HALLUCINATION,,0.099109131403118,230
+mistral_7b_instruct,person_native_language,bias,Anton Reinhard Falck,What language does Anton Reinhard Falck speak?,Dutch,Swedish (native) and English (fluent),HALLUCINATION,,0.099109131403118,230
+mistral_7b_instruct,person_native_language,bias,Ariane Labed,What language does Ariane Labed speak?,French,Greek,HALLUCINATION,,0.099109131403118,230
+mistral_7b_instruct,person_native_language,bias,Chveneburi,What language does Chveneburi speak?,Georgian,"Chveneburi is a fictional character, so they don't speak any real-world language.",HALLUCINATION,,0.099109131403118,230
+mistral_7b_instruct,person_occupation,factual,A. Edward Sutherland,What is A. Edward Sutherland by profession?,actor,Film Director,HALLUCINATION,,0.4916344916344916,206
+mistral_7b_instruct,person_occupation,factual,Abrar Alvi,What is Abrar Alvi by profession?,actor,Abrar Alvi is a politician.,HALLUCINATION,,0.4916344916344916,206
+mistral_7b_instruct,person_occupation,factual,Adam Carolla,What is Adam Carolla by profession?,journalist,Comedian and Podcaster,HALLUCINATION,,0.4916344916344916,206
+mistral_7b_instruct,person_occupation,factual,Adam Rapacki,What is Adam Rapacki by profession?,diplomat,Adam Rapacki was a Polish chemist.,HALLUCINATION,,0.4916344916344916,206
+mistral_7b_instruct,person_occupation,factual,Adrian Lewis Morgan,What is Adrian Lewis Morgan by profession?,actor,Darts Player (Formerly),HALLUCINATION,,0.4916344916344916,206
+mistral_7b_instruct,person_occupation,factual,Agnes Miegel,What is Agnes Miegel by profession?,journalist,Agnes Miegel was a poet.,HALLUCINATION,,0.4916344916344916,206
+mistral_7b_instruct,person_occupation,factual,Agostinho Neto,What is Agostinho Neto by profession?,poet,"Agostinho Neto was a politician, serving as the first President of Angola.",HALLUCINATION,,0.4916344916344916,206
+mistral_7b_instruct,person_occupation,factual,Akira Emoto,What is Akira Emoto by profession?,actor,Akira Emoto is a Japanese author and researcher.,HALLUCINATION,,0.4916344916344916,206
+mistral_7b_instruct,person_occupation,factual,Akshay Kumar Boral,What is Akshay Kumar Boral by profession?,poet,Akshay Kumar Boral is a professional mountaineer.,HALLUCINATION,,0.4916344916344916,206
+mistral_7b_instruct,person_occupation,factual,Alberto Prebisch,What is Alberto Prebisch by profession?,architect,Economist,HALLUCINATION,,0.4916344916344916,206
+mistral_7b_instruct,person_plays_instrument,factual,Adam Deibert,What instrument does Adam Deibert play?,trumpet,"Adam Deibert is a journalist, not a musician. He does not play an instrument.",HALLUCINATION,,0.4279749478079332,129
+mistral_7b_instruct,person_plays_instrument,factual,Adam Devlin,What instrument does Adam Devlin play?,guitar,Adam Devlin plays the saxophone.,HALLUCINATION,,0.4279749478079332,129
+mistral_7b_instruct,person_plays_instrument,factual,Al Kooper,What instrument does Al Kooper play?,piano,Al Kooper plays the organ and piano.,HALLUCINATION,,0.4279749478079332,129
+mistral_7b_instruct,person_plays_instrument,factual,Alain Lanty,What instrument does Alain Lanty play?,piano,Alain Lanty plays the violin.,HALLUCINATION,,0.4279749478079332,129
+mistral_7b_instruct,person_plays_instrument,factual,Alberto Guerrero,What instrument does Alberto Guerrero play?,piano,Alberto Guerrero plays the trumpet.,HALLUCINATION,,0.4279749478079332,129
+mistral_7b_instruct,person_plays_instrument,factual,Alberto Semprini,What instrument does Alberto Semprini play?,piano,Alberto Semprini plays the violin.,HALLUCINATION,,0.4279749478079332,129
+mistral_7b_instruct,person_plays_instrument,factual,Alice Coltrane,What instrument does Alice Coltrane play?,piano,Alice Coltrane plays the harp.,HALLUCINATION,,0.4279749478079332,129
+mistral_7b_instruct,person_plays_instrument,factual,Aloys and Alfons Kontarsky,What instrument does Aloys and Alfons Kontarsky play?,piano,Double bass.,HALLUCINATION,,0.4279749478079332,129
+mistral_7b_instruct,person_plays_instrument,factual,Amund Maarud,What instrument does Amund Maarud play?,guitar,Amund Maarud plays the violin.,HALLUCINATION,,0.4279749478079332,129
+mistral_7b_instruct,person_plays_instrument,factual,Andor Toth,What instrument does Andor Toth play?,violin,Cello.,HALLUCINATION,,0.4279749478079332,129
+mistral_7b_instruct,person_plays_position_in_sport,factual,Abdel Sattar Sabry,Which position does Abdel Sattar Sabry play?,midfielder,Abdel Sattar Sabry is a goalkeeper.,HALLUCINATION,,0.3949771689497717,238
+mistral_7b_instruct,person_plays_position_in_sport,factual,Abner Dalrymple,Which position does Abner Dalrymple play?,outfielder,"Abner Dalrymple is a character from the novel ""Moby-Dick"" by Herman Melville, and his profession is not specified as a sport. He is a sailor on the whaling ship Pequod.",HALLUCINATION,,0.3949771689497717,238
+mistral_7b_instruct,person_plays_position_in_sport,factual,Agostino Di Bartolomei,Which position does Agostino Di Bartolomei play?,midfielder,Agostino Di Bartolomei is a goalkeeper.,HALLUCINATION,,0.3949771689497717,238
+mistral_7b_instruct,person_plays_position_in_sport,factual,Ahmad Hatifi,Which position does Ahmad Hatifi play?,midfielder,Ahmad Hatifi plays as a defender.,HALLUCINATION,,0.3949771689497717,238
+mistral_7b_instruct,person_plays_position_in_sport,factual,Akin Ayodele,Which position does Akin Ayodele play?,linebacker,Akin Ayodele plays as a defensive back.,HALLUCINATION,,0.3949771689497717,238
+mistral_7b_instruct,person_plays_position_in_sport,factual,Alberto Rivera Pizarro,Which position does Alberto Rivera Pizarro play?,midfielder,Alberto Rivera Pizarro is a footballer who plays as a defender.,HALLUCINATION,,0.3949771689497717,238
+mistral_7b_instruct,person_plays_position_in_sport,factual,Aleksandar Katai,Which position does Aleksandar Katai play?,midfielder,Forward (Soccer),HALLUCINATION,,0.3949771689497717,238
+mistral_7b_instruct,person_plays_position_in_sport,factual,Alessio Cerci,Which position does Alessio Cerci play?,midfielder,Alessio Cerci is a forward.,HALLUCINATION,,0.3949771689497717,238
+mistral_7b_instruct,person_plays_position_in_sport,factual,Alfie Moore,Which position does Alfie Moore play?,goaltender,"Alfie Moore is a comedian, not a sports player. He is known for his comedy shows about policing.",HALLUCINATION,,0.3949771689497717,238
+mistral_7b_instruct,person_plays_position_in_sport,factual,Altin Lala,Which position does Altin Lala play?,midfielder,Altin Lala plays as a forward.,HALLUCINATION,,0.3949771689497717,238
+mistral_7b_instruct,person_plays_pro_sport,factual,Bill Goldberg,What sport does Bill Goldberg play?,football,Professional Wrestling,HALLUCINATION,,0.0798722044728434,80
+mistral_7b_instruct,person_plays_pro_sport,factual,Billy Sunday,What sport does Billy Sunday play?,baseball,Billy Sunday was not a professional athlete. He was an evangelist and a prominent figure in the early 20th century evangelical movement in the United States.,HALLUCINATION,,0.0798722044728434,80
+mistral_7b_instruct,person_plays_pro_sport,factual,Bo Jackson,What sport does Bo Jackson play?,baseball,American football and baseball.,HALLUCINATION,,0.0798722044728434,80
+mistral_7b_instruct,person_plays_pro_sport,factual,Brock Lesnar,What sport does Brock Lesnar play?,football,Brock Lesnar plays professional wrestling and mixed martial arts.,HALLUCINATION,,0.0798722044728434,80
+mistral_7b_instruct,person_plays_pro_sport,factual,Byron White,What sport does Byron White play?,football,"Byron White is a former U.S. Supreme Court Justice, not a professional athlete. He did not play any sport.",HALLUCINATION,,0.0798722044728434,80
+mistral_7b_instruct,person_plays_pro_sport,factual,Chuck Connors,What sport does Chuck Connors play?,baseball,"Chuck Connors is known for playing basketball in real life, but he is famous for his role as Rifleman Lucas McCain in the TV series ""The Rifleman.""",HALLUCINATION,,0.0798722044728434,80
+mistral_7b_instruct,person_plays_pro_sport,factual,Danny Ainge,What sport does Danny Ainge play?,baseball,Danny Ainge does not play a professional sport. He is a former professional basketball player and is currently a basketball executive.,HALLUCINATION,,0.0798722044728434,80
+mistral_7b_instruct,person_plays_pro_sport,factual,Dave DeBusschere,What sport does Dave DeBusschere play?,baseball,Dave DeBusschere played basketball.,HALLUCINATION,,0.0798722044728434,80
+mistral_7b_instruct,person_plays_pro_sport,factual,Deion Sanders,What sport does Deion Sanders play?,baseball,American Football (and Baseball),HALLUCINATION,,0.0798722044728434,80
+mistral_7b_instruct,person_plays_pro_sport,factual,Edgaras Jankauskas,What sport does Edgaras Jankauskas play?,soccer,Edgaras Jankauskas plays tennis.,HALLUCINATION,,0.0798722044728434,80
+mistral_7b_instruct,person_university,factual,Albert Einstein,Which university did Albert Einstein attend?,University of Zurich,Swiss Federal Polytechnic School (ETH Zurich),HALLUCINATION,,0.6666666666666666,23
+mistral_7b_instruct,person_university,factual,Alexander von Humboldt,Which university did Alexander von Humboldt attend?,Freiberg University of Mining and Technology,Alexander von Humboldt did not attend a university. He was home-schooled.,HALLUCINATION,,0.6666666666666666,23
+mistral_7b_instruct,person_university,factual,Alicia Keys,Which university did Alicia Keys attend?,Columbia University,She did not attend a university. Alicia Keys is a self-taught musician.,HALLUCINATION,,0.6666666666666666,23
+mistral_7b_instruct,person_university,factual,Angelina Jolie,Which university did Angelina Jolie attend?,New York University,"Angelina Jolie did not graduate from a university. She pursued her education through various means, including independent study and on-set tutoring.",HALLUCINATION,,0.6666666666666666,23
+mistral_7b_instruct,person_university,factual,Barack Obama,Which university did Barack Obama attend?,University of Chicago Law School,University of Hawaii and Columbia University,HALLUCINATION,,0.6666666666666666,23
+mistral_7b_instruct,person_university,factual,Benito Mussolini,Which university did Benito Mussolini attend?,University of Lausanne,Benito Mussolini did not attend a university. He left school at age 13.,HALLUCINATION,,0.6666666666666666,23
+mistral_7b_instruct,person_university,factual,Bob Dylan,Which university did Bob Dylan attend?,University of Minnesota system,Bob Dylan did not attend university.,HALLUCINATION,,0.6666666666666666,23
+mistral_7b_instruct,person_university,factual,Britney Spears,Which university did Britney Spears attend?,University of Nebraska High School,Britney Spears did not attend a university.,HALLUCINATION,,0.6666666666666666,23
+mistral_7b_instruct,person_university,factual,Carl Linnaeus,Which university did Carl Linnaeus attend?,University of Harderwijk,Uppsala University,HALLUCINATION,,0.6666666666666666,23
+mistral_7b_instruct,person_university,factual,Charles Darwin,Which university did Charles Darwin attend?,University of Edinburgh Medical School,University of Cambridge,HALLUCINATION,,0.6666666666666666,23
+mistral_7b_instruct,pokemon_evolutions,factual,Abra,What does Abra evolve into?,Kadabra,Kadabra (in the original Pokémon games) or Mr. Mime (in Pokémon Go).,HALLUCINATION,,0.2272727272727272,11
+mistral_7b_instruct,pokemon_evolutions,factual,Bellsprout,What does Bellsprout evolve into?,Weepinbell,Weepinbell (at level 21) or Victreebel (at level 30 with a Sun Stone).,HALLUCINATION,,0.2272727272727272,11
+mistral_7b_instruct,pokemon_evolutions,factual,Bulbasaur,What does Bulbasaur evolve into?,Ivysaur,Ivy-evolved Bulbasaur.,HALLUCINATION,,0.2272727272727272,11
+mistral_7b_instruct,pokemon_evolutions,factual,Exeggcute,What does Exeggcute evolve into?,Exeggutor,Exeggcute evolves into Alakazam.,HALLUCINATION,,0.2272727272727272,11
+mistral_7b_instruct,pokemon_evolutions,factual,Geodude,What does Geodude evolve into?,Graveler,Graveler (at level 25) or Golem (when Graveler is leveled up with 100 candies).,HALLUCINATION,,0.2272727272727272,11
+mistral_7b_instruct,pokemon_evolutions,factual,Mankey,What does Mankey evolve into?,Primeape,Primeape (in the main series games) or Typhlosion (in Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team) or Emboar (in Pokémon Ranger: Guardian Signs).,HALLUCINATION,,0.2272727272727272,11
+mistral_7b_instruct,pokemon_evolutions,factual,Oddish,What does Oddish evolve into?,Gloom,Gloom (in the day) or Bellossom (in the night).,HALLUCINATION,,0.2272727272727272,11
+mistral_7b_instruct,pokemon_evolutions,factual,Ponyta,What does Ponyta evolve into?,Rapidash,"Rapidash (at level 40) or Flareon (in Pokémon Red and Blue, if leveled up with an Espeonite).",HALLUCINATION,,0.2272727272727272,11
+mistral_7b_instruct,pokemon_evolutions,factual,Seel,What does Seel evolve into?,Dewgong,Glaceon (in Pokémon) or Seelix (in Pokémon Mystery Dungeon series).,HALLUCINATION,,0.2272727272727272,11
+mistral_7b_instruct,pokemon_evolutions,factual,Slowpoke,What does Slowpoke evolve into?,Slowbro,Slowpoke evolves into Slowbro or Slowking.,HALLUCINATION,,0.2272727272727272,11
+mistral_7b_instruct,product_by_company,factual,AGM-69 SRAM,Which company developed AGM-69 SRAM?,Boeing,General Dynamics developed AGM-69 SRAM.,HALLUCINATION,,0.2245681381957773,131
+mistral_7b_instruct,product_by_company,factual,AGM-86 ALCM,Which company developed AGM-86 ALCM?,Boeing,Raytheon Missiles & Defense developed the AGM-86 ALCM.,HALLUCINATION,,0.2245681381957773,131
+mistral_7b_instruct,product_by_company,factual,AMC 35,Which company developed AMC 35?,Renault,Texas Instruments developed AMC 35.,HALLUCINATION,,0.2245681381957773,131
+mistral_7b_instruct,product_by_company,factual,AMR 33,Which company developed AMR 33?,Renault,Oshkosh Defense developed the AMR 33.,HALLUCINATION,,0.2245681381957773,131
+mistral_7b_instruct,product_by_company,factual,ASCI Red,Which company developed ASCI Red?,Intel,IBM developed ASCI Red.,HALLUCINATION,,0.2245681381957773,131
+mistral_7b_instruct,product_by_company,factual,Advanced Function Presentation,Which company developed Advanced Function Presentation?,IBM,Adobe Systems developed Advanced Function Presentation (AFP).,HALLUCINATION,,0.2245681381957773,131
+mistral_7b_instruct,product_by_company,factual,Alfa Romeo 155,Which company developed Alfa Romeo 155?,Fiat,Alfa Romeo developed the Alfa Romeo 155.,HALLUCINATION,,0.2245681381957773,131
+mistral_7b_instruct,product_by_company,factual,Alfa Romeo 164,Which company developed Alfa Romeo 164?,Fiat,Alfa Romeo (a subsidiary of Stellantis) developed the Alfa Romeo 164.,HALLUCINATION,,0.2245681381957773,131
+mistral_7b_instruct,product_by_company,factual,Alfa Romeo 6C,Which company developed Alfa Romeo 6C?,Fiat,Alfa Romeo developed the Alfa Romeo 6C.,HALLUCINATION,,0.2245681381957773,131
+mistral_7b_instruct,product_by_company,factual,Alfa Romeo 75,Which company developed Alfa Romeo 75?,Fiat,Alfa Romeo (the company itself) developed the Alfa Romeo 75.,HALLUCINATION,,0.2245681381957773,131
+mistral_7b_instruct,star_constellation,factual,* del Gem,What is the name of the constellation that * del Gem is part of?,Gemini,Ursa Major (The Great Bear),HALLUCINATION,,0.2534818941504178,91
+mistral_7b_instruct,star_constellation,factual,1 Pegasi,What is the name of the constellation that 1 Pegasi is part of?,Pegasus,Andromeda,HALLUCINATION,,0.2534818941504178,91
+mistral_7b_instruct,star_constellation,factual,11 Librae,What is the name of the constellation that 11 Librae is part of?,Libra,Leo (The Lion),HALLUCINATION,,0.2534818941504178,91
+mistral_7b_instruct,star_constellation,factual,16 Virginis,What is the name of the constellation that 16 Virginis is part of?,Virgo,Leo (The Lion),HALLUCINATION,,0.2534818941504178,91
+mistral_7b_instruct,star_constellation,factual,17 Virginis,What is the name of the constellation that 17 Virginis is part of?,Virgo,Leo (The Lion),HALLUCINATION,,0.2534818941504178,91
+mistral_7b_instruct,star_constellation,factual,23 Librae,What is the name of the constellation that 23 Librae is part of?,Libra,Leo (The Lion),HALLUCINATION,,0.2534818941504178,91
+mistral_7b_instruct,star_constellation,factual,33 Virginis,What is the name of the constellation that 33 Virginis is part of?,Virgo,Leo (The Lion),HALLUCINATION,,0.2534818941504178,91
+mistral_7b_instruct,star_constellation,factual,3C 273,What is the name of the constellation that 3C 273 is part of?,Virgo,"3C 273 does not belong to a constellation. It is a quasar, an extremely distant and bright celestial object, and its position does not fall within the boundaries of any constellation.",HALLUCINATION,,0.2534818941504178,91
+mistral_7b_instruct,star_constellation,factual,4C 01.28,What is the name of the constellation that 4C 01.28 is part of?,Leo,4C 01.28 is not part of a recognized constellation. It is a radio source in the constellation of Coma Berenices.,HALLUCINATION,,0.2534818941504178,91
+mistral_7b_instruct,star_constellation,factual,4C 04.42,What is the name of the constellation that 4C 04.42 is part of?,Virgo,4C 04.42 is not part of a recognized constellation. It is a radio source in the constellation of Coma Berenices.,HALLUCINATION,,0.2534818941504178,91
+mistral_7b_instruct,substance_phase,commonsense,coffee,What is the phase of matter of coffee at room temperature?,liquid,Solid (assuming ground coffee) or Liquid (if it's brewed coffee).,HALLUCINATION,,0.04,13
+mistral_7b_instruct,substance_phase,commonsense,tea,What is the phase of matter of tea at room temperature?,liquid,"Solid (dry tea leaves) or Liquid (hot tea). At room temperature, it's usually solid unless it's brewed.",HALLUCINATION,,0.04,13
+mistral_7b_instruct,superhero_archnemesis,factual,Aquaman,Who is the superhero archnemesis of Aquaman?,Black Manta,Ocean Master (or Orm Marius) is Aquaman's archenemy.,HALLUCINATION,,0.5789473684210527,24
+mistral_7b_instruct,superhero_archnemesis,factual,Batgirl,Who is the superhero archnemesis of Batgirl?,James Gordon Jr.,"The supervillain often associated as Batgirl's arch-nemesis is the Joker, although she doesn't have a traditional single arch-nemesis like some other DC characters.",HALLUCINATION,,0.5789473684210527,24
+mistral_7b_instruct,superhero_archnemesis,factual,Beast Boy,Who is the superhero archnemesis of Beast Boy?,The Brain,"The supervillain often seen as Beast Boy's archenemy is Brother Blood. However, it's important to note that Beast Boy's rogues gallery is quite diverse, and the ""archnemesis"" can vary depending on the specific storyline.",HALLUCINATION,,0.5789473684210527,24
+mistral_7b_instruct,superhero_archnemesis,factual,Black Canary,Who is the superhero archnemesis of Black Canary?,White Canary,Deathstroke (Slade Wilson) is often considered Black Canary's main adversary.,HALLUCINATION,,0.5789473684210527,24
+mistral_7b_instruct,superhero_archnemesis,factual,Blade,Who is the superhero archnemesis of Blade?,Deacon Frost,Dracula (vampire),HALLUCINATION,,0.5789473684210527,24
+mistral_7b_instruct,superhero_archnemesis,factual,Blue Beetle,Who is the superhero archnemesis of Blue Beetle?,Maxwell Lord,Captain Atom,HALLUCINATION,,0.5789473684210527,24
+mistral_7b_instruct,superhero_archnemesis,factual,Captain Planet,Who is the superhero archnemesis of Captain Planet?,Captain Pollution,"Doctor Doom, but he's not Captain Planet's primary antagonist. In the Captain Planet series, the Polluters are the main villains.",HALLUCINATION,,0.5789473684210527,24
+mistral_7b_instruct,superhero_archnemesis,factual,Catwoman,Who is the superhero archnemesis of Catwoman?,Black Mask,The Joker (in some continuities) or Batman (as a metaphorical nemesis).,HALLUCINATION,,0.5789473684210527,24
+mistral_7b_instruct,superhero_archnemesis,factual,Cyclops,Who is the superhero archnemesis of Cyclops?,Mister Sinister,"Professor Xavier (not a direct arch-nemesis, but a complex relationship in the X-Men universe)",HALLUCINATION,,0.5789473684210527,24
+mistral_7b_instruct,superhero_archnemesis,factual,Deadpool,Who is the superhero archnemesis of Deadpool?,T-Ray,"Cable (or sometimes, Thanos in some storylines)",HALLUCINATION,,0.5789473684210527,24
+mistral_7b_instruct,superhero_person,factual,Ant-Man,What is Ant-Man's secret identity?,Hank Pym,Scott Lang is Ant-Man's secret identity.,HALLUCINATION,,0.3535353535353535,25
+mistral_7b_instruct,superhero_person,factual,Batgirl,What is Batgirl's secret identity?,Cassandra Cain,Barbara Gordon.,HALLUCINATION,,0.3535353535353535,25
+mistral_7b_instruct,superhero_person,factual,Big Barda,What is Big Barda's secret identity?,Big Barda,Big Barda's secret identity is Barda of Daxam.,HALLUCINATION,,0.3535353535353535,25
+mistral_7b_instruct,superhero_person,factual,Black Canary,What is Black Canary's secret identity?,Dinah Lance,Black Canary does not have a secret identity. She is Dinah Laurel Lance.,HALLUCINATION,,0.3535353535353535,25
+mistral_7b_instruct,superhero_person,factual,Blue Beetle,What is Blue Beetle's secret identity?,Ted Kord,Jaime Reyes is Blue Beetle's secret identity.,HALLUCINATION,,0.3535353535353535,25
+mistral_7b_instruct,superhero_person,factual,Blue Power Ranger,What is Blue Power Ranger's secret identity?,Billy Cranston,"Jason Scott, the Red Power Ranger, is the Blue Power Ranger's secret identity in Mighty Morphin Power Rangers.",HALLUCINATION,,0.3535353535353535,25
+mistral_7b_instruct,superhero_person,factual,Brawn,What is Brawn's secret identity?,Amadeus Cho,Brawn's secret identity is Ted Sallis.,HALLUCINATION,,0.3535353535353535,25
+mistral_7b_instruct,superhero_person,factual,Drax the Destroyer,What is Drax the Destroyer's secret identity?,Arthur Douglas,Drax the Destroyer does not have a secret identity. He is a Kree warrior.,HALLUCINATION,,0.3535353535353535,25
+mistral_7b_instruct,superhero_person,factual,Firestar,What is Firestar's secret identity?,Angelica Jones,Peter Parker (also known as Spider-Man),HALLUCINATION,,0.3535353535353535,25
+mistral_7b_instruct,superhero_person,factual,Firestorm,What is Firestorm's secret identity?,Ronnie Raymond,"Firestorm does not have a secret identity, as he is a combination of two individuals: Ronnie Raymond and Professor Martin Stein.",HALLUCINATION,,0.3535353535353535,25
+mistral_7b_instruct,task_done_by_tool,commonsense,cooking,What tool is used for cooking?,stove,Cooking utensil,HALLUCINATION,,0.4509803921568627,13
+mistral_7b_instruct,task_done_by_tool,commonsense,dancing,What tool is used for dancing?,music,Dance moves or body. No tool required.,HALLUCINATION,,0.4509803921568627,13
+mistral_7b_instruct,task_done_by_tool,commonsense,drawing,What tool is used for drawing?,pencil and sketchbook,A drawing tool is a pencil.,HALLUCINATION,,0.4509803921568627,13
+mistral_7b_instruct,task_done_by_tool,commonsense,drying clothes,What tool is used for drying clothes?,clothesline,Clothes dryer or clothesline.,HALLUCINATION,,0.4509803921568627,13
+mistral_7b_instruct,task_done_by_tool,commonsense,exercising,What tool is used for exercising?,dumbbells,Exercise equipment,HALLUCINATION,,0.4509803921568627,13
+mistral_7b_instruct,task_done_by_tool,commonsense,flying a kite,What tool is used for flying a kite?,kite,Kite string or kite line.,HALLUCINATION,,0.4509803921568627,13
+mistral_7b_instruct,task_done_by_tool,commonsense,hiking,What tool is used for hiking?,hiking boots,"Hiking gear (such as boots, map, compass, etc.)",HALLUCINATION,,0.4509803921568627,13
+mistral_7b_instruct,task_done_by_tool,commonsense,hunting,What tool is used for hunting?,gun,A hunting tool is typically a hunting rifle or bow.,HALLUCINATION,,0.4509803921568627,13
+mistral_7b_instruct,task_done_by_tool,commonsense,knitting,What tool is used for knitting?,yarn,Knitting needles,HALLUCINATION,,0.4509803921568627,13
+mistral_7b_instruct,task_done_by_tool,commonsense,listening to music,What tool is used for listening to music?,headphones,A music player (or headphones/speakers),HALLUCINATION,,0.4509803921568627,13
+mistral_7b_instruct,verb_past_tense,linguistic,do,What is the past tense of do?,did,"Did (or done, depending on the context)",HALLUCINATION,,0.0394736842105263,19
+mistral_7b_instruct,verb_past_tense,linguistic,start,What is the past tense of start?,started,Began,HALLUCINATION,,0.0394736842105263,19
+mistral_7b_instruct,verb_past_tense,linguistic,talk,What is the past tense of talk?,talked,Spoke,HALLUCINATION,,0.0394736842105263,19
+mistral_7b_instruct,word_first_letter,linguistic,JUMP,What letter does JUMP start with?,J,J starts with the word JUMP.,HALLUCINATION,,0.0041493775933609,61
+mistral_7b_instruct,word_last_letter,linguistic,AIRPLANE,What letter does AIRPLANE end with?,E,"""N""",HALLUCINATION,,0.2904564315352697,61
+mistral_7b_instruct,word_last_letter,linguistic,ARRIVE,What letter does ARRIVE end with?,E,"""V""",HALLUCINATION,,0.2904564315352697,61
+mistral_7b_instruct,word_last_letter,linguistic,BATTLE,What letter does BATTLE end with?,E,"""L""",HALLUCINATION,,0.2904564315352697,61
+mistral_7b_instruct,word_last_letter,linguistic,BEGIN,What letter does BEGIN end with?,N,G (Begin ends with 'G' in alphabetical order),HALLUCINATION,,0.2904564315352697,61
+mistral_7b_instruct,word_last_letter,linguistic,BEND,What letter does BEND end with?,D,N,HALLUCINATION,,0.2904564315352697,61
+mistral_7b_instruct,word_last_letter,linguistic,BICYCLE,What letter does BICYCLE end with?,E,"""C""",HALLUCINATION,,0.2904564315352697,61
+mistral_7b_instruct,word_last_letter,linguistic,BORROW,What letter does BORROW end with?,W,"""R""",HALLUCINATION,,0.2904564315352697,61
+mistral_7b_instruct,word_last_letter,linguistic,BRIGHT,What letter does BRIGHT end with?,T,R,HALLUCINATION,,0.2904564315352697,61
+mistral_7b_instruct,word_last_letter,linguistic,BUILD,What letter does BUILD end with?,D,L (Build ends with the letter 'L'),HALLUCINATION,,0.2904564315352697,61
+mistral_7b_instruct,word_last_letter,linguistic,CHOOSE,What letter does CHOOSE end with?,E,S,HALLUCINATION,,0.2904564315352697,61
+mistral_7b_instruct,word_sentiment,commonsense,content,"Is the sentiment of the word 'content' positive, negative, or neutral?",positive,Neutral,HALLUCINATION,,0.0166666666666666,15
+qwen2_5_7b_instruct,adj_antonym,linguistic,arrive,What is the opposite of arrive?,leave,depart,HALLUCINATION,,0.29,25
+qwen2_5_7b_instruct,adj_antonym,linguistic,begin,What is the opposite of begin?,finish,end,HALLUCINATION,,0.29,25
+qwen2_5_7b_instruct,adj_antonym,linguistic,bless,What is the opposite of bless?,curse,cursed,HALLUCINATION,,0.29,25
+qwen2_5_7b_instruct,adj_antonym,linguistic,build,What is the opposite of build?,demolish,拆除,HALLUCINATION,,0.29,25
+qwen2_5_7b_instruct,adj_antonym,linguistic,calm,What is the opposite of calm?,agitated,Chaotic,HALLUCINATION,,0.29,25
+qwen2_5_7b_instruct,adj_antonym,linguistic,cheer,What is the opposite of cheer?,boo,Sadness,HALLUCINATION,,0.29,25
+qwen2_5_7b_instruct,adj_antonym,linguistic,close,What is the opposite of close?,open,far,HALLUCINATION,,0.29,25
+qwen2_5_7b_instruct,adj_antonym,linguistic,expand,What is the opposite of expand?,shrink,contract,HALLUCINATION,,0.29,25
+qwen2_5_7b_instruct,adj_antonym,linguistic,fast,What is the opposite of fast?,stop,slow,HALLUCINATION,,0.29,25
+qwen2_5_7b_instruct,adj_antonym,linguistic,fast,What is the opposite of fast?,crawl,slow,HALLUCINATION,,0.29,25
+qwen2_5_7b_instruct,adj_comparative,linguistic,calm,What is the comparative form of calm?,calmer,More calm,HALLUCINATION,,0.088235294117647,17
+qwen2_5_7b_instruct,adj_comparative,linguistic,false,What is the comparative form of false?,falser,more false,HALLUCINATION,,0.088235294117647,17
+qwen2_5_7b_instruct,adj_comparative,linguistic,kind,What is the comparative form of kind?,kinder,kindlier,HALLUCINATION,,0.088235294117647,17
+qwen2_5_7b_instruct,adj_comparative,linguistic,rude,What is the comparative form of rude?,ruder,More rude,HALLUCINATION,,0.088235294117647,17
+qwen2_5_7b_instruct,adj_comparative,linguistic,sour,What is the comparative form of sour?,sourer,More sour,HALLUCINATION,,0.088235294117647,17
+qwen2_5_7b_instruct,adj_comparative,linguistic,true,What is the comparative form of true?,truer,More true,HALLUCINATION,,0.088235294117647,17
+qwen2_5_7b_instruct,adj_superlative,linguistic,angry,What is the superlative form of angry?,angriest,Most angry,HALLUCINATION,,0.2625,20
+qwen2_5_7b_instruct,adj_superlative,linguistic,calm,What is the superlative form of calm?,calmest,Most calm,HALLUCINATION,,0.2625,20
+qwen2_5_7b_instruct,adj_superlative,linguistic,cruel,What is the superlative form of cruel?,cruelest,Cruellest,HALLUCINATION,,0.2625,20
+qwen2_5_7b_instruct,adj_superlative,linguistic,dirty,What is the superlative form of dirty?,dirtiest,Filthiest,HALLUCINATION,,0.2625,20
+qwen2_5_7b_instruct,adj_superlative,linguistic,dull,What is the superlative form of dull?,dullest,Most dull,HALLUCINATION,,0.2625,20
+qwen2_5_7b_instruct,adj_superlative,linguistic,fresh,What is the superlative form of fresh?,freshest,Most fresh,HALLUCINATION,,0.2625,20
+qwen2_5_7b_instruct,adj_superlative,linguistic,full,What is the superlative form of full?,fullest,Most full,HALLUCINATION,,0.2625,20
+qwen2_5_7b_instruct,adj_superlative,linguistic,hungry,What is the superlative form of hungry?,hungriest,Hungrier,HALLUCINATION,,0.2625,20
+qwen2_5_7b_instruct,adj_superlative,linguistic,lazy,What is the superlative form of lazy?,laziest,Most lazy,HALLUCINATION,,0.2625,20
+qwen2_5_7b_instruct,adj_superlative,linguistic,little,What is the superlative form of little?,smallest,least,HALLUCINATION,,0.2625,20
+qwen2_5_7b_instruct,company_ceo,factual,ABB Group,Who is the CEO of ABB Group?,Ulrich Spiesshofer,Urs Oehri,HALLUCINATION,,0.6404109589041096,75
+qwen2_5_7b_instruct,company_ceo,factual,AC Sparta Prague,Who is the CEO of AC Sparta Prague?,Daniel Křetínský,Pavel Vrba,HALLUCINATION,,0.6404109589041096,75
+qwen2_5_7b_instruct,company_ceo,factual,Abbott Laboratories,Who is the CEO of Abbott Laboratories?,Robert B. Ford,Türkiye,HALLUCINATION,,0.6404109589041096,75
+qwen2_5_7b_instruct,company_ceo,factual,Accenture,Who is the CEO of Accenture?,Julie Sweet,Brian T. Kelly,HALLUCINATION,,0.6404109589041096,75
+qwen2_5_7b_instruct,company_ceo,factual,Accor,Who is the CEO of Accor?,Sven Boinet,Sebastien Bazin,HALLUCINATION,,0.6404109589041096,75
+qwen2_5_7b_instruct,company_ceo,factual,Adidas AG,Who is the CEO of Adidas AG?,Bjørn Gulden,Kasper Rorsted,HALLUCINATION,,0.6404109589041096,75
+qwen2_5_7b_instruct,company_ceo,factual,Aeroflot,Who is the CEO of Aeroflot?,Sergei Alexandrovsky,Oleg Tarasov,HALLUCINATION,,0.6404109589041096,75
+qwen2_5_7b_instruct,company_ceo,factual,Agrofert,Who is the CEO of Agrofert?,Zbyněk Průša,Jan Kříž,HALLUCINATION,,0.6404109589041096,75
+qwen2_5_7b_instruct,company_ceo,factual,Air France,Who is the CEO of Air France?,Frédéric Gagey,Pierre-Henri Gourgeon,HALLUCINATION,,0.6404109589041096,75
+qwen2_5_7b_instruct,company_ceo,factual,Air Liquide,Who is the CEO of Air Liquide?,Benoît Potier,Pierre-Paul Bergeard,HALLUCINATION,,0.6404109589041096,75
+qwen2_5_7b_instruct,company_hq,factual,9 Story Media Group,Where are the headquarters of 9 Story Media Group?,Toronto,"Vancouver, Canada",HALLUCINATION,,0.515695067264574,169
+qwen2_5_7b_instruct,company_hq,factual,"ACTIVE Network, LLC","Where are the headquarters of ACTIVE Network, LLC?",Dallas,"Columbus, Ohio",HALLUCINATION,,0.515695067264574,169
+qwen2_5_7b_instruct,company_hq,factual,AIK Fotboll,Where are the headquarters of AIK Fotboll?,Stockholm,"Solna, Sweden",HALLUCINATION,,0.515695067264574,169
+qwen2_5_7b_instruct,company_hq,factual,ATA Airlines,Where are the headquarters of ATA Airlines?,Indianapolis,"Dallas, Texas",HALLUCINATION,,0.515695067264574,169
+qwen2_5_7b_instruct,company_hq,factual,AZLK,Where are the headquarters of AZLK?,Moscow,Turkish Republic of Northern Cyprus,HALLUCINATION,,0.515695067264574,169
+qwen2_5_7b_instruct,company_hq,factual,Ace Hardware,Where are the headquarters of Ace Hardware?,Chicago,"West Des Moines, Iowa",HALLUCINATION,,0.515695067264574,169
+qwen2_5_7b_instruct,company_hq,factual,Adeline Software International,Where are the headquarters of Adeline Software International?,Lyon,"Cape Town, South Africa",HALLUCINATION,,0.515695067264574,169
+qwen2_5_7b_instruct,company_hq,factual,Aer Arann,Where are the headquarters of Aer Arann?,Dublin,"Galway, Ireland",HALLUCINATION,,0.515695067264574,169
+qwen2_5_7b_instruct,company_hq,factual,Ahlstrom-Munksjö,Where are the headquarters of Ahlstrom-Munksjö?,Helsinki,"Espoo, Finland",HALLUCINATION,,0.515695067264574,169
+qwen2_5_7b_instruct,company_hq,factual,Aigle Azur,Where are the headquarters of Aigle Azur?,Paris,"Nice, France",HALLUCINATION,,0.515695067264574,169
+qwen2_5_7b_instruct,landmark_in_country,factual,2004 IAAF World Cross Country Championships,What country is 2004 IAAF World Cross Country Championships in?,Belgium,Kenya,HALLUCINATION,,0.1953601953601953,209
+qwen2_5_7b_instruct,landmark_in_country,factual,AH3,What country is AH3 in?,Russia,Australia,HALLUCINATION,,0.1953601953601953,209
+qwen2_5_7b_instruct,landmark_in_country,factual,AMK Hub,What country is AMK Hub in?,Singapore,India,HALLUCINATION,,0.1953601953601953,209
+qwen2_5_7b_instruct,landmark_in_country,factual,Achelous River,What country is Achelous River in?,Greece,Belgium,HALLUCINATION,,0.1953601953601953,209
+qwen2_5_7b_instruct,landmark_in_country,factual,Al-Suqaylabiyah Subdistrict,What country is Al-Suqaylabiyah Subdistrict in?,Syria,Saudi Arabia,HALLUCINATION,,0.1953601953601953,209
+qwen2_5_7b_instruct,landmark_in_country,factual,Alpokalja,What country is Alpokalja in?,Hungary,Bosnia and Herzegovina,HALLUCINATION,,0.1953601953601953,209
+qwen2_5_7b_instruct,landmark_in_country,factual,Anak Bukit,What country is Anak Bukit in?,Malaysia,Singapore,HALLUCINATION,,0.1953601953601953,209
+qwen2_5_7b_instruct,landmark_in_country,factual,Arjoun,What country is Arjoun in?,Syria,Jordan,HALLUCINATION,,0.1953601953601953,209
+qwen2_5_7b_instruct,landmark_in_country,factual,Arsk,What country is Arsk in?,Russia,Denmark,HALLUCINATION,,0.1953601953601953,209
+qwen2_5_7b_instruct,landmark_in_country,factual,Arve,What country is Arve in?,France,Norway,HALLUCINATION,,0.1953601953601953,209
+qwen2_5_7b_instruct,landmark_on_continent,factual,Abbasid Caliphate,What continent is Abbasid Caliphate on?,Africa,Asia,HALLUCINATION,,0.2730192719486081,237
+qwen2_5_7b_instruct,landmark_on_continent,factual,Achaean Range,What continent is Achaean Range on?,Antarctica,Europe,HALLUCINATION,,0.2730192719486081,237
+qwen2_5_7b_instruct,landmark_on_continent,factual,Aconcagua,What continent is Aconcagua on?,Americas,South America,HALLUCINATION,,0.2730192719486081,237
+qwen2_5_7b_instruct,landmark_on_continent,factual,Aitcho Islands,What continent is Aitcho Islands on?,Antarctica,Australia,HALLUCINATION,,0.2730192719486081,237
+qwen2_5_7b_instruct,landmark_on_continent,factual,Aleko Rock,What continent is Aleko Rock on?,Antarctica,Africa,HALLUCINATION,,0.2730192719486081,237
+qwen2_5_7b_instruct,landmark_on_continent,factual,Anderson Heights,What continent is Anderson Heights on?,Antarctica,North America,HALLUCINATION,,0.2730192719486081,237
+qwen2_5_7b_instruct,landmark_on_continent,factual,Anderson Hills,What continent is Anderson Hills on?,Antarctica,"No continent, it's a neighborhood in Atlanta, Georgia, USA.",HALLUCINATION,,0.2730192719486081,237
+qwen2_5_7b_instruct,landmark_on_continent,factual,Arab League,What continent is Arab League on?,Asia,Asia and Africa,HALLUCINATION,,0.2730192719486081,237
+qwen2_5_7b_instruct,landmark_on_continent,factual,Archar Peninsula,What continent is Archar Peninsula on?,Antarctica,Asia,HALLUCINATION,,0.2730192719486081,237
+qwen2_5_7b_instruct,landmark_on_continent,factual,Argentina Range,What continent is Argentina Range on?,Antarctica,South America,HALLUCINATION,,0.2730192719486081,237
+qwen2_5_7b_instruct,object_superclass,commonsense,apple,"Is a apple a animal, bird, fish, vegetable, flower, or fruit?",plant,Fruit,HALLUCINATION,,0.3026315789473684,19
+qwen2_5_7b_instruct,object_superclass,commonsense,banana,"Is a banana a animal, bird, fish, vegetable, flower, or fruit?",plant,fruit,HALLUCINATION,,0.3026315789473684,19
+qwen2_5_7b_instruct,object_superclass,commonsense,carrot,"Is a carrot a animal, bird, fish, vegetable, flower, or fruit?",plant,vegetable,HALLUCINATION,,0.3026315789473684,19
+qwen2_5_7b_instruct,object_superclass,commonsense,cat,"Is a cat a animal, bird, fish, vegetable, flower, or fruit?",mammal,Animal,HALLUCINATION,,0.3026315789473684,19
+qwen2_5_7b_instruct,object_superclass,commonsense,crocodile,"Is a crocodile a animal, bird, fish, vegetable, flower, or fruit?",reptile,animal,HALLUCINATION,,0.3026315789473684,19
+qwen2_5_7b_instruct,object_superclass,commonsense,cucumber,"Is a cucumber a animal, bird, fish, vegetable, flower, or fruit?",plant,vegetable,HALLUCINATION,,0.3026315789473684,19
+qwen2_5_7b_instruct,object_superclass,commonsense,dog,"Is a dog a animal, bird, fish, vegetable, flower, or fruit?",mammal,Animal,HALLUCINATION,,0.3026315789473684,19
+qwen2_5_7b_instruct,object_superclass,commonsense,dolphin,"Is a dolphin a animal, bird, fish, vegetable, flower, or fruit?",mammal,animal,HALLUCINATION,,0.3026315789473684,19
+qwen2_5_7b_instruct,object_superclass,commonsense,fish,"Is a fish a animal, bird, fish, vegetable, flower, or fruit?",fish,animal,HALLUCINATION,,0.3026315789473684,19
+qwen2_5_7b_instruct,object_superclass,commonsense,flower,"Is a flower a animal, bird, fish, vegetable, flower, or fruit?",plant,flower,HALLUCINATION,,0.3026315789473684,19
+qwen2_5_7b_instruct,occupation_age,bias,analysts,What age (young or old) do analysts tend to be?,old,Young,HALLUCINATION,,0.2068965517241379,12
+qwen2_5_7b_instruct,occupation_age,bias,biologists,What age (young or old) do biologists tend to be?,old,"Biologists can be any age, but many are young to middle-aged.",HALLUCINATION,,0.2068965517241379,12
+qwen2_5_7b_instruct,occupation_age,bias,quantum physicists,What age (young or old) do quantum physicists tend to be?,old,Young,HALLUCINATION,,0.2068965517241379,12
+qwen2_5_7b_instruct,occupation_age,bias,restaurant managers,What age (young or old) do restaurant managers tend to be?,old,Young,HALLUCINATION,,0.2068965517241379,12
+qwen2_5_7b_instruct,occupation_age,bias,tattoo artists,What age (young or old) do tattoo artists tend to be?,young,Old,HALLUCINATION,,0.2068965517241379,12
+qwen2_5_7b_instruct,occupation_age,bias,zookeepers,What age (young or old) do zookeepers tend to be?,old,Young,HALLUCINATION,,0.2068965517241379,12
+qwen2_5_7b_instruct,person_father,factual,A. R. Rahman,Who is A. R. Rahman's father?,R. K. Shekhar,A. R. Rahman's father is late A. R. Loyappa.,HALLUCINATION,,0.7638036809815951,248
+qwen2_5_7b_instruct,person_father,factual,Aaron Summerscale,Who is Aaron Summerscale's father?,John Nelson Summerscale,Aaron Summerscale's father is Jack Summerscale.,HALLUCINATION,,0.7638036809815951,248
+qwen2_5_7b_instruct,person_father,factual,Adam Mickiewicz,Who is Adam Mickiewicz's father?,Mikołaj Mickiewicz,Adam Mickiewicz's father was Jan Mickiewicz.,HALLUCINATION,,0.7638036809815951,248
+qwen2_5_7b_instruct,person_father,factual,Adolf Erik Nordenskiöld,Who is Adolf Erik Nordenskiöld's father?,Nils Gustaf Nordenskiöld,Carl August Nordenskiöld,HALLUCINATION,,0.7638036809815951,248
+qwen2_5_7b_instruct,person_father,factual,Aelbert Cuyp,Who is Aelbert Cuyp's father?,Jacob Gerritsz. Cuyp,Jan Pieterszoon Cuyp,HALLUCINATION,,0.7638036809815951,248
+qwen2_5_7b_instruct,person_father,factual,Aeschylus,Who is Aeschylus's father?,Euphorion of Eleusis,Telestes,HALLUCINATION,,0.7638036809815951,248
+qwen2_5_7b_instruct,person_father,factual,Agatha Christie,Who is Agatha Christie's father?,Frederick Alvah Miller,Clara Christina Sutherland,HALLUCINATION,,0.7638036809815951,248
+qwen2_5_7b_instruct,person_father,factual,Agnieszka Brustman,Who is Agnieszka Brustman's father?,Jan Brustman,Henryk Brustmacher,HALLUCINATION,,0.7638036809815951,248
+qwen2_5_7b_instruct,person_father,factual,Alanis Morissette,Who is Alanis Morissette's father?,Alan Richard Morissette,Glen Morris,HALLUCINATION,,0.7638036809815951,248
+qwen2_5_7b_instruct,person_father,factual,Albert I of Belgium,Who is Albert I of Belgium's father?,"Prince Philippe, Count of Flanders",Leopold II of Belgium,HALLUCINATION,,0.7638036809815951,248
+qwen2_5_7b_instruct,person_mother,factual,A. A. Milne,Who is A. A. Milne's mother?,Sarah Maria Heginbotham,Emelia Wilkins Milne,HALLUCINATION,,0.8973577235772358,249
+qwen2_5_7b_instruct,person_mother,factual,Aaron Summerscale,Who is Aaron Summerscale's mother?,Cordelia Isobel Mayall,Jane Summerscale,HALLUCINATION,,0.8973577235772358,249
+qwen2_5_7b_instruct,person_mother,factual,Abraham,Who is Abraham's mother?,Amasla,Sarah,HALLUCINATION,,0.8973577235772358,249
+qwen2_5_7b_instruct,person_mother,factual,Adam Mickiewicz,Who is Adam Mickiewicz's mother?,"Barbara Mickiewicz, née Majewska",Barbara Nizolska,HALLUCINATION,,0.8973577235772358,249
+qwen2_5_7b_instruct,person_mother,factual,Adam Smith,Who is Adam Smith's mother?,Margaret Douglas,Katharina Smith,HALLUCINATION,,0.8973577235772358,249
+qwen2_5_7b_instruct,person_mother,factual,Adolf von Harnack,Who is Adolf von Harnack's mother?,Marie Harnack,Auguste von Schilling,HALLUCINATION,,0.8973577235772358,249
+qwen2_5_7b_instruct,person_mother,factual,Agatha Christie,Who is Agatha Christie's mother?,Clarisa Margaret Boehmer,Clarissa Maud Claridge,HALLUCINATION,,0.8973577235772358,249
+qwen2_5_7b_instruct,person_mother,factual,Al Gore,Who is Al Gore's mother?,Pauline LaFon Gore,Paula Gore,HALLUCINATION,,0.8973577235772358,249
+qwen2_5_7b_instruct,person_mother,factual,Alan Stivell,Who is Alan Stivell's mother?,Fanny Julienne Dobroushkess,Yvonne Gillet,HALLUCINATION,,0.8973577235772358,249
+qwen2_5_7b_instruct,person_mother,factual,Alan Turing,Who is Alan Turing's mother?,Ethel Sara Stoney,Eileen Turing,HALLUCINATION,,0.8973577235772358,249
+qwen2_5_7b_instruct,person_native_language,bias,A. P. J. Abdul Kalam,What language does A. P. J. Abdul Kalam speak?,Tamil,Hindi,HALLUCINATION,,0.11860718171926,230
+qwen2_5_7b_instruct,person_native_language,bias,Adel Bencherif,What language does Adel Bencherif speak?,French,Arabic and French,HALLUCINATION,,0.11860718171926,230
+qwen2_5_7b_instruct,person_native_language,bias,Alberto Giacometti,What language does Alberto Giacometti speak?,Italian,French,HALLUCINATION,,0.11860718171926,230
+qwen2_5_7b_instruct,person_native_language,bias,Alexander Penn,What language does Alexander Penn speak?,Russian,English,HALLUCINATION,,0.11860718171926,230
+qwen2_5_7b_instruct,person_native_language,bias,Alfonso V of Aragon,What language does Alfonso V of Aragon speak?,Spanish,Spanish and Catalan,HALLUCINATION,,0.11860718171926,230
+qwen2_5_7b_instruct,person_native_language,bias,Alfred Savoir,What language does Alfred Savoir speak?,French,English,HALLUCINATION,,0.11860718171926,230
+qwen2_5_7b_instruct,person_native_language,bias,Alice Delysia,What language does Alice Delysia speak?,French,English and French,HALLUCINATION,,0.11860718171926,230
+qwen2_5_7b_instruct,person_native_language,bias,Amira Casar,What language does Amira Casar speak?,French,Spanish,HALLUCINATION,,0.11860718171926,230
+qwen2_5_7b_instruct,person_native_language,bias,Angelica Agurbash,What language does Angelica Agurbash speak?,Russian,Armenian and Russian,HALLUCINATION,,0.11860718171926,230
+qwen2_5_7b_instruct,person_native_language,bias,Ann Scott,What language does Ann Scott speak?,French,English,HALLUCINATION,,0.11860718171926,230
+qwen2_5_7b_instruct,person_occupation,factual,A. Edward Sutherland,What is A. Edward Sutherland by profession?,actor,Sociologist,HALLUCINATION,,0.7024390243902439,206
+qwen2_5_7b_instruct,person_occupation,factual,Abrar Alvi,What is Abrar Alvi by profession?,actor,Poet and writer.,HALLUCINATION,,0.7024390243902439,206
+qwen2_5_7b_instruct,person_occupation,factual,Adam Carolla,What is Adam Carolla by profession?,journalist,Comedian and radio host,HALLUCINATION,,0.7024390243902439,206
+qwen2_5_7b_instruct,person_occupation,factual,Adam Rapacki,What is Adam Rapacki by profession?,diplomat,Diplomat and politician,HALLUCINATION,,0.7024390243902439,206
+qwen2_5_7b_instruct,person_occupation,factual,Adolf Dymsza,What is Adolf Dymsza by profession?,actor,Engineer,HALLUCINATION,,0.7024390243902439,206
+qwen2_5_7b_instruct,person_occupation,factual,Agnes Miegel,What is Agnes Miegel by profession?,journalist,Parliamentarian,HALLUCINATION,,0.7024390243902439,206
+qwen2_5_7b_instruct,person_occupation,factual,Agostinho Neto,What is Agostinho Neto by profession?,poet,Doctor and politician,HALLUCINATION,,0.7024390243902439,206
+qwen2_5_7b_instruct,person_occupation,factual,Akira Emoto,What is Akira Emoto by profession?,actor,Author and researcher,HALLUCINATION,,0.7024390243902439,206
+qwen2_5_7b_instruct,person_occupation,factual,Akshay Kumar Boral,What is Akshay Kumar Boral by profession?,poet,Actor,HALLUCINATION,,0.7024390243902439,206
+qwen2_5_7b_instruct,person_occupation,factual,Albert Sharpe,What is Albert Sharpe by profession?,actor,Artist,HALLUCINATION,,0.7024390243902439,206
+qwen2_5_7b_instruct,person_plays_instrument,factual,Adam Deibert,What instrument does Adam Deibert play?,trumpet,Drums,HALLUCINATION,,0.5941176470588235,129
+qwen2_5_7b_instruct,person_plays_instrument,factual,Al Haig,What instrument does Al Haig play?,piano,Trumpet,HALLUCINATION,,0.5941176470588235,129
+qwen2_5_7b_instruct,person_plays_instrument,factual,Al Kooper,What instrument does Al Kooper play?,piano,Guitar,HALLUCINATION,,0.5941176470588235,129
+qwen2_5_7b_instruct,person_plays_instrument,factual,Al Schnier,What instrument does Al Schnier play?,guitar,Banjo,HALLUCINATION,,0.5941176470588235,129
+qwen2_5_7b_instruct,person_plays_instrument,factual,Alain Lanty,What instrument does Alain Lanty play?,piano,Clarinet,HALLUCINATION,,0.5941176470588235,129
+qwen2_5_7b_instruct,person_plays_instrument,factual,Alan Rubin,What instrument does Alan Rubin play?,trumpet,Clarinet,HALLUCINATION,,0.5941176470588235,129
+qwen2_5_7b_instruct,person_plays_instrument,factual,Albert Chamberland,What instrument does Albert Chamberland play?,violin,"Albert Chamberland was a scientist, not a musician, and did not play any known musical instrument.",HALLUCINATION,,0.5941176470588235,129
+qwen2_5_7b_instruct,person_plays_instrument,factual,Alberto Guerrero,What instrument does Alberto Guerrero play?,piano,Saxophone,HALLUCINATION,,0.5941176470588235,129
+qwen2_5_7b_instruct,person_plays_instrument,factual,Alberto Nepomuceno,What instrument does Alberto Nepomuceno play?,piano,French horn,HALLUCINATION,,0.5941176470588235,129
+qwen2_5_7b_instruct,person_plays_instrument,factual,Alberto Semprini,What instrument does Alberto Semprini play?,piano,Clarinet,HALLUCINATION,,0.5941176470588235,129
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,Abdel Sattar Sabry,Which position does Abdel Sattar Sabry play?,midfielder,Goalkeeper,HALLUCINATION,,0.6134453781512605,238
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,Abner Dalrymple,Which position does Abner Dalrymple play?,outfielder,Defender,HALLUCINATION,,0.6134453781512605,238
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,Adam Weber,Which position does Adam Weber play?,quarterback,Defender,HALLUCINATION,,0.6134453781512605,238
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,Adnan Januzaj,Which position does Adnan Januzaj play?,midfielder,Winger,HALLUCINATION,,0.6134453781512605,238
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,Agostino Di Bartolomei,Which position does Agostino Di Bartolomei play?,midfielder,Goalkeeper,HALLUCINATION,,0.6134453781512605,238
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,Ahmad Hatifi,Which position does Ahmad Hatifi play?,midfielder,Volleyball player,HALLUCINATION,,0.6134453781512605,238
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,Akin Ayodele,Which position does Akin Ayodele play?,linebacker,Soccer midfielder,HALLUCINATION,,0.6134453781512605,238
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,Alberto Rivera Pizarro,Which position does Alberto Rivera Pizarro play?,midfielder,Footballer,HALLUCINATION,,0.6134453781512605,238
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,Albin Ekdal,Which position does Albin Ekdal play?,midfielder,"Albin Ekdal plays the role of a hypochondriac and hypochondriacal father in Strindberg's play ""The Father.""",HALLUCINATION,,0.6134453781512605,238
+qwen2_5_7b_instruct,person_plays_position_in_sport,factual,Aleksandar Katai,Which position does Aleksandar Katai play?,midfielder,Defender,HALLUCINATION,,0.6134453781512605,238
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,"Alan Ball, Jr.","What sport does Alan Ball, Jr. play?",soccer,Baseball,HALLUCINATION,,0.1419558359621451,80
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,Aleksandar Đorđević,What sport does Aleksandar Đorđević play?,basketball,Handball,HALLUCINATION,,0.1419558359621451,80
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,Andreas Ivanschitz,What sport does Andreas Ivanschitz play?,soccer,Handball,HALLUCINATION,,0.1419558359621451,80
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,Arne Friedrich,What sport does Arne Friedrich play?,soccer,Cycling,HALLUCINATION,,0.1419558359621451,80
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,Bernie Casey,What sport does Bernie Casey play?,football,Baseball,HALLUCINATION,,0.1419558359621451,80
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,Bill Goldberg,What sport does Bill Goldberg play?,football,Professional wrestling,HALLUCINATION,,0.1419558359621451,80
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,Bo Jackson,What sport does Bo Jackson play?,baseball,Baseball and football,HALLUCINATION,,0.1419558359621451,80
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,Bob Hayes,What sport does Bob Hayes play?,football,Track and field,HALLUCINATION,,0.1419558359621451,80
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,Brock Lesnar,What sport does Brock Lesnar play?,football,Wrestling and Mixed Martial Arts,HALLUCINATION,,0.1419558359621451,80
+qwen2_5_7b_instruct,person_plays_pro_sport,factual,Byron White,What sport does Byron White play?,football,Byron White plays basketball.,HALLUCINATION,,0.1419558359621451,80
+qwen2_5_7b_instruct,person_university,factual,Albert Camus,Which university did Albert Camus attend?,Algiers 1 University,University of Algiers,HALLUCINATION,,0.7032967032967034,23
+qwen2_5_7b_instruct,person_university,factual,Albert Einstein,Which university did Albert Einstein attend?,University of Zurich,ETH Zurich,HALLUCINATION,,0.7032967032967034,23
+qwen2_5_7b_instruct,person_university,factual,Alexander von Humboldt,Which university did Alexander von Humboldt attend?,Freiberg University of Mining and Technology,University of Göttingen,HALLUCINATION,,0.7032967032967034,23
+qwen2_5_7b_instruct,person_university,factual,Alicia Keys,Which university did Alicia Keys attend?,Columbia University,Cornell University,HALLUCINATION,,0.7032967032967034,23
+qwen2_5_7b_instruct,person_university,factual,Andy Warhol,Which university did Andy Warhol attend?,Carnegie Mellon University,Pittsburgh Carnegie Institute of Technology,HALLUCINATION,,0.7032967032967034,23
+qwen2_5_7b_instruct,person_university,factual,Angela Merkel,Which university did Angela Merkel attend?,Leipzig University,Humboldt University of Berlin,HALLUCINATION,,0.7032967032967034,23
+qwen2_5_7b_instruct,person_university,factual,Angelina Jolie,Which university did Angelina Jolie attend?,New York University,Stanford University,HALLUCINATION,,0.7032967032967034,23
+qwen2_5_7b_instruct,person_university,factual,August Strindberg,Which university did August Strindberg attend?,Uppsala University,Stockholm University,HALLUCINATION,,0.7032967032967034,23
+qwen2_5_7b_instruct,person_university,factual,Barack Obama,Which university did Barack Obama attend?,University of Chicago Law School,Harvard University,HALLUCINATION,,0.7032967032967034,23
+qwen2_5_7b_instruct,person_university,factual,Batman,Which university did Batman attend?,University of Paris,No university,HALLUCINATION,,0.7032967032967034,23
+qwen2_5_7b_instruct,pokemon_evolutions,factual,Abra,What does Abra evolve into?,Kadabra,Abra evolves into Ariados.,HALLUCINATION,,0.4090909090909091,11
+qwen2_5_7b_instruct,pokemon_evolutions,factual,Bellsprout,What does Bellsprout evolve into?,Weepinbell,Victreebel,HALLUCINATION,,0.4090909090909091,11
+qwen2_5_7b_instruct,pokemon_evolutions,factual,Charmander,What does Charmander evolve into?,Charmeleon,Charizard,HALLUCINATION,,0.4090909090909091,11
+qwen2_5_7b_instruct,pokemon_evolutions,factual,Cubone,What does Cubone evolve into?,Marowak,Brock,HALLUCINATION,,0.4090909090909091,11
+qwen2_5_7b_instruct,pokemon_evolutions,factual,Goldeen,What does Goldeen evolve into?,Seaking,Water Orbisher,HALLUCINATION,,0.4090909090909091,11
+qwen2_5_7b_instruct,pokemon_evolutions,factual,Growlithe,What does Growlithe evolve into?,Arcanine,Pikachu,HALLUCINATION,,0.4090909090909091,11
+qwen2_5_7b_instruct,pokemon_evolutions,factual,Horsea,What does Horsea evolve into?,Seadra,Squirtle,HALLUCINATION,,0.4090909090909091,11
+qwen2_5_7b_instruct,pokemon_evolutions,factual,Krabby,What does Krabby evolve into?,Kingler,Pikablu,HALLUCINATION,,0.4090909090909091,11
+qwen2_5_7b_instruct,pokemon_evolutions,factual,Machop,What does Machop evolve into?,Machoke,Chikorita,HALLUCINATION,,0.4090909090909091,11
+qwen2_5_7b_instruct,pokemon_evolutions,factual,Meowth,What does Meowth evolve into?,Persian,Pers,HALLUCINATION,,0.4090909090909091,11
+qwen2_5_7b_instruct,product_by_company,factual,AGM-69 SRAM,Which company developed AGM-69 SRAM?,Boeing,Martin Marietta,HALLUCINATION,,0.3032629558541266,131
+qwen2_5_7b_instruct,product_by_company,factual,AGM-86 ALCM,Which company developed AGM-86 ALCM?,Boeing,Northrop Grumman,HALLUCINATION,,0.3032629558541266,131
+qwen2_5_7b_instruct,product_by_company,factual,AMC 35,Which company developed AMC 35?,Renault,Raytheon Company,HALLUCINATION,,0.3032629558541266,131
+qwen2_5_7b_instruct,product_by_company,factual,AMR 33,Which company developed AMR 33?,Renault,Siemens,HALLUCINATION,,0.3032629558541266,131
+qwen2_5_7b_instruct,product_by_company,factual,AMR 35,Which company developed AMR 35?,Renault,Siemens,HALLUCINATION,,0.3032629558541266,131
+qwen2_5_7b_instruct,product_by_company,factual,ASCI Red,Which company developed ASCI Red?,Intel,IBM,HALLUCINATION,,0.3032629558541266,131
+qwen2_5_7b_instruct,product_by_company,factual,Advanced Function Presentation,Which company developed Advanced Function Presentation?,IBM,Microsoft,HALLUCINATION,,0.3032629558541266,131
+qwen2_5_7b_instruct,product_by_company,factual,Alfa Romeo 155,Which company developed Alfa Romeo 155?,Fiat,Alfa Romeo developed the Alfa Romeo 155.,HALLUCINATION,,0.3032629558541266,131
+qwen2_5_7b_instruct,product_by_company,factual,Alfa Romeo 164,Which company developed Alfa Romeo 164?,Fiat,Alfa Romeo,HALLUCINATION,,0.3032629558541266,131
+qwen2_5_7b_instruct,product_by_company,factual,Alfa Romeo 6C,Which company developed Alfa Romeo 6C?,Fiat,Alfa Romeo,HALLUCINATION,,0.3032629558541266,131
+qwen2_5_7b_instruct,star_constellation,factual,109 Herculis,What is the name of the constellation that 109 Herculis is part of?,Hercules,Boötes,HALLUCINATION,,0.2348066298342541,91
+qwen2_5_7b_instruct,star_constellation,factual,110 Herculis,What is the name of the constellation that 110 Herculis is part of?,Hercules,Boötes,HALLUCINATION,,0.2348066298342541,91
+qwen2_5_7b_instruct,star_constellation,factual,111 Herculis,What is the name of the constellation that 111 Herculis is part of?,Hercules,Boötes,HALLUCINATION,,0.2348066298342541,91
+qwen2_5_7b_instruct,star_constellation,factual,1RXS J141146.2-123634,What is the name of the constellation that 1RXS J141146.2-123634 is part of?,Virgo,Scutum,HALLUCINATION,,0.2348066298342541,91
+qwen2_5_7b_instruct,star_constellation,factual,3C 273,What is the name of the constellation that 3C 273 is part of?,Virgo,Orion,HALLUCINATION,,0.2348066298342541,91
+qwen2_5_7b_instruct,star_constellation,factual,4C 01.28,What is the name of the constellation that 4C 01.28 is part of?,Leo,Coma Berenices,HALLUCINATION,,0.2348066298342541,91
+qwen2_5_7b_instruct,star_constellation,factual,4C 04.42,What is the name of the constellation that 4C 04.42 is part of?,Virgo,Coma Berenices,HALLUCINATION,,0.2348066298342541,91
+qwen2_5_7b_instruct,star_constellation,factual,4C 06.69,What is the name of the constellation that 4C 06.69 is part of?,Pegasus,Coma Berenices,HALLUCINATION,,0.2348066298342541,91
+qwen2_5_7b_instruct,star_constellation,factual,6 Persei,What is the name of the constellation that 6 Persei is part of?,Andromeda,Perseus,HALLUCINATION,,0.2348066298342541,91
+qwen2_5_7b_instruct,star_constellation,factual,72 Herculis,What is the name of the constellation that 72 Herculis is part of?,Hercules,Boötes,HALLUCINATION,,0.2348066298342541,91
+qwen2_5_7b_instruct,superhero_archnemesis,factual,Aquaman,Who is the superhero archnemesis of Aquaman?,Black Manta,Cheetah,HALLUCINATION,,0.7395833333333334,24
+qwen2_5_7b_instruct,superhero_archnemesis,factual,Astro Boy,Who is the superhero archnemesis of Astro Boy?,Dr. Tenma,Dr. Tenma's robotic brother,HALLUCINATION,,0.7395833333333334,24
+qwen2_5_7b_instruct,superhero_archnemesis,factual,Batgirl,Who is the superhero archnemesis of Batgirl?,James Gordon Jr.,Catwoman,HALLUCINATION,,0.7395833333333334,24
+qwen2_5_7b_instruct,superhero_archnemesis,factual,Beast Boy,Who is the superhero archnemesis of Beast Boy?,The Brain,Trigon,HALLUCINATION,,0.7395833333333334,24
+qwen2_5_7b_instruct,superhero_archnemesis,factual,Ben 10,Who is the superhero archnemesis of Ben 10?,Vilgax,Diamondhead,HALLUCINATION,,0.7395833333333334,24
+qwen2_5_7b_instruct,superhero_archnemesis,factual,Black Bolt,Who is the superhero archnemesis of Black Bolt?,Maximus,Doctor Doom,HALLUCINATION,,0.7395833333333334,24
+qwen2_5_7b_instruct,superhero_archnemesis,factual,Black Canary,Who is the superhero archnemesis of Black Canary?,White Canary,Deathstroke,HALLUCINATION,,0.7395833333333334,24
+qwen2_5_7b_instruct,superhero_archnemesis,factual,Black Panther,Who is the superhero archnemesis of Black Panther?,Killmonger,Thanos,HALLUCINATION,,0.7395833333333334,24
+qwen2_5_7b_instruct,superhero_archnemesis,factual,Black Widow,Who is the superhero archnemesis of Black Widow?,Taskmaster,Red Guardian,HALLUCINATION,,0.7395833333333334,24
+qwen2_5_7b_instruct,superhero_archnemesis,factual,Blade,Who is the superhero archnemesis of Blade?,Deacon Frost,Vampirella,HALLUCINATION,,0.7395833333333334,24
+qwen2_5_7b_instruct,superhero_person,factual,Ant-Man,What is Ant-Man's secret identity?,Hank Pym,Scott Lang,HALLUCINATION,,0.6020408163265306,25
+qwen2_5_7b_instruct,superhero_person,factual,Arsenal,What is Arsenal's secret identity?,Roy Harper,They are not a superhero.,HALLUCINATION,,0.6020408163265306,25
+qwen2_5_7b_instruct,superhero_person,factual,Batgirl,What is Batgirl's secret identity?,Cassandra Cain,Barbara Gordon,HALLUCINATION,,0.6020408163265306,25
+qwen2_5_7b_instruct,superhero_person,factual,Batwoman,What is Batwoman's secret identity?,Kate Kane,Karen Singh,HALLUCINATION,,0.6020408163265306,25
+qwen2_5_7b_instruct,superhero_person,factual,Beast,What is Beast's secret identity?,Hank McCoy,Victor Creed,HALLUCINATION,,0.6020408163265306,25
+qwen2_5_7b_instruct,superhero_person,factual,Big Barda,What is Big Barda's secret identity?,Big Barda,Diana Prince,HALLUCINATION,,0.6020408163265306,25
+qwen2_5_7b_instruct,superhero_person,factual,Blue Beetle,What is Blue Beetle's secret identity?,Ted Kord,Jaime Reyes,HALLUCINATION,,0.6020408163265306,25
+qwen2_5_7b_instruct,superhero_person,factual,Blue Power Ranger,What is Blue Power Ranger's secret identity?,Billy Cranston,Jason Lee Scott,HALLUCINATION,,0.6020408163265306,25
+qwen2_5_7b_instruct,superhero_person,factual,Booster Gold,What is Booster Gold's secret identity?,Michael Jon Carter,Jay Garrick,HALLUCINATION,,0.6020408163265306,25
+qwen2_5_7b_instruct,superhero_person,factual,Brawn,What is Brawn's secret identity?,Amadeus Cho,Lewis Hamilton,HALLUCINATION,,0.6020408163265306,25
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,baking,What tool is used for baking?,oven,Baking tray,HALLUCINATION,,0.5192307692307693,13
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,boating,What tool is used for boating?,boat,Life jacket,HALLUCINATION,,0.5192307692307693,13
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,cooking,What tool is used for cooking?,stove,Pancake flipper,HALLUCINATION,,0.5192307692307693,13
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,cutting,What tool is used for cutting?,knife,Scissors,HALLUCINATION,,0.5192307692307693,13
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,dancing,What tool is used for dancing?,music,Dance shoes,HALLUCINATION,,0.5192307692307693,13
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,drawing,What tool is used for drawing?,pencil and sketchbook,Pencil,HALLUCINATION,,0.5192307692307693,13
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,drying clothes,What tool is used for drying clothes?,clothesline,Clothes dryer,HALLUCINATION,,0.5192307692307693,13
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,exercising,What tool is used for exercising?,dumbbells,Treadmill,HALLUCINATION,,0.5192307692307693,13
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,flying a kite,What tool is used for flying a kite?,kite,String,HALLUCINATION,,0.5192307692307693,13
+qwen2_5_7b_instruct,task_done_by_tool,commonsense,gardening,What tool is used for gardening?,gardening gloves,Spade,HALLUCINATION,,0.5192307692307693,13
+qwen2_5_7b_instruct,verb_past_tense,linguistic,cut,What is the past tense of cut?,cut,Cutted,HALLUCINATION,,0.0131578947368421,19
+qwen2_5_7b_instruct,word_last_letter,linguistic,ADMINISTER,What letter does ADMINISTER end with?,R,T,HALLUCINATION,,0.1535269709543568,61
+qwen2_5_7b_instruct,word_last_letter,linguistic,ATTACK,What letter does ATTACK end with?,K,T,HALLUCINATION,,0.1535269709543568,61
+qwen2_5_7b_instruct,word_last_letter,linguistic,BEGIN,What letter does BEGIN end with?,N,E,HALLUCINATION,,0.1535269709543568,61
+qwen2_5_7b_instruct,word_last_letter,linguistic,CATCH,What letter does CATCH end with?,H,T,HALLUCINATION,,0.1535269709543568,61
+qwen2_5_7b_instruct,word_last_letter,linguistic,CHEER,What letter does CHEER end with?,R,E,HALLUCINATION,,0.1535269709543568,61
+qwen2_5_7b_instruct,word_last_letter,linguistic,CLEAN,What letter does CLEAN end with?,N,E,HALLUCINATION,,0.1535269709543568,61
+qwen2_5_7b_instruct,word_last_letter,linguistic,CLIMB,What letter does CLIMB end with?,B,W,HALLUCINATION,,0.1535269709543568,61
+qwen2_5_7b_instruct,word_last_letter,linguistic,CRUEL,What letter does CRUEL end with?,L,E,HALLUCINATION,,0.1535269709543568,61
+qwen2_5_7b_instruct,word_last_letter,linguistic,DESIGN,What letter does DESIGN end with?,N,E,HALLUCINATION,,0.1535269709543568,61
+qwen2_5_7b_instruct,word_last_letter,linguistic,DO,What letter does DO end with?,O,E,HALLUCINATION,,0.1535269709543568,61

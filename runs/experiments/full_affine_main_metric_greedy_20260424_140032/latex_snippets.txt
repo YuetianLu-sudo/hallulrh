@@ -1,0 +1,11 @@
+% Synthetic 15-relation affine metric correlations
+gemma_7b_it & 0.706 & $3.29e-03$ & 0.539 & $3.80e-02$ \\
+llama3_1_8b_instruct & 0.284 & $3.06e-01$ & 0.534 & $4.03e-02$ \\
+mistral_7b_instruct & 0.844 & $7.71e-05$ & 0.836 & $1.04e-04$ \\
+qwen2_5_7b_instruct & 0.486 & $6.65e-02$ & 0.577 & $2.43e-02$ \\
+
+% Natural answered-case accuracy affine correlations
+gemma_7b_it & 0.641 & $1.75e-03$ & 0.639 & $1.82e-03$ \\
+llama3_1_8b_instruct & 0.576 & $6.26e-03$ & 0.590 & $4.91e-03$ \\
+mistral_7b_instruct & 0.629 & $2.23e-03$ & 0.616 & $2.96e-03$ \\
+qwen2_5_7b_instruct & 0.541 & $1.14e-02$ & 0.766 & $5.20e-05$ \\
